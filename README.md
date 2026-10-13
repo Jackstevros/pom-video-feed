@@ -1,6 +1,6 @@
 # POM approved videos
 
-Revision 4, published 2026-10-13, valid until 2026-10-20. These are the only videos the app can link to. The signed file the app reads is `approved-action-feed.signed.json`.
+Revision 5, published 2026-10-13, valid until 2026-10-20. These are the only videos the app can link to. The signed file the app reads is `approved-action-feed.signed.json`.
 
 ## Runner flexibility (8)
 
@@ -33,17 +33,23 @@ Revision 4, published 2026-10-13, valid until 2026-10-20. These are the only vid
 | [Relaxing yin yoga, no props](https://www.youtube.com/watch?v=QO8j6H6DrMA) | Yoga with Kassandra | 19 | 2025-12-22 | 2026-12-22 |
 | [Relaxing morning stretch](https://www.youtube.com/watch?v=hJ0Ol0mYLDI) | Yoga with Kassandra | 16 | 2025-12-15 | 2026-12-15 |
 
-## Beginner strength (8)
+## Beginner strength (14)
 
 | Video | Creator | Minutes | Published | Ages out |
 |---|---|---|---|---|
 | [Full-body strength with core](https://www.youtube.com/watch?v=OKDi2L-3sNQ) | FitnessBlender | 21 | 2026-05-22 | 2027-05-22 |
+| [No-equipment HIIT for cardio and core strength](https://www.youtube.com/watch?v=vgTsHr5O8jI) | FitnessBlender | 25 | 2026-04-15 | 2027-04-15 |
+| [Bodyweight lower-body strength with HIIT finisher](https://www.youtube.com/watch?v=fEy9RZ5YHQA) | FitnessBlender | 22 | 2026-02-15 | 2027-02-15 |
 | [Full-body dumbbell training](https://www.youtube.com/watch?v=F3JIldnVca8) | HASfit | 29 | 2026-08-17 | 2027-08-17 |
 | [Beginner full-body dumbbell workout](https://www.youtube.com/watch?v=7vP4xWe6r4U) | HASfit | 32 | 2026-03-02 | 2027-03-02 |
 | [Full-body dumbbell workout](https://www.youtube.com/watch?v=-l0VnAMp2B0) | HASfit | 32 | 2026-01-19 | 2027-01-19 |
+| [20-minute full-body dumbbell strength](https://www.youtube.com/watch?v=A2iooNhyKD4) | HASfit | 27 | 2026-08-31 | 2027-08-31 |
 | [Full-body strength, no equipment](https://www.youtube.com/watch?v=5kOvFjM6128) | Juice & Toya | 33 | 2026-09-02 | 2027-09-02 |
 | [Full-body dumbbell strength](https://www.youtube.com/watch?v=lWVnz3DU3q0) | Juice & Toya | 34 | 2025-11-04 | 2026-11-04 |
 | [Dumbbell leg strength](https://www.youtube.com/watch?v=4inrUeRQMlg) | Juice & Toya | 30 | 2026-05-18 | 2027-05-18 |
+| [25-minute full-body Tabata-style HIIT](https://www.youtube.com/watch?v=6-KzqR4IMSc) | Juice & Toya | 28 | 2026-02-19 | 2027-02-19 |
+| [30-minute full-body dumbbell HIIT](https://www.youtube.com/watch?v=czow6GlY_PA) | Juice & Toya | 34 | 2026-02-13 | 2027-02-13 |
+| [20 moves in 20 minutes bodyweight HIIT](https://www.youtube.com/watch?v=g1aBZBV9ebM) | The Body Coach TV by Joe Wicks | 22 | 2026-04-12 | 2027-04-12 |
 | [Yoga Pilates full-body strength](https://www.youtube.com/watch?v=2_Z8usjTflU) | Yoga with Kassandra | 32 | 2026-05-11 | 2027-05-11 |
 
 ## Approved but not shown (15)
