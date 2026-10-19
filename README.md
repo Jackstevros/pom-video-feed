@@ -1,21 +1,27 @@
 # POM approved videos
 
-Revision 6, published 2026-10-15, valid until 2026-10-22. These are the only videos the app can link to. The signed file the app reads is `approved-action-feed.signed.json`.
+Revision 7, published 2026-10-19, valid until 2026-10-26. These are the only videos the app can link to. The signed file the app reads is `approved-action-feed.signed.json`.
 
-## Runner flexibility (8)
+## Runner flexibility (14)
 
 | Video | Creator | Minutes | Published | Ages out |
 |---|---|---|---|---|
 | [Slower-paced full-body mobility](https://www.youtube.com/watch?v=9MAW69d-s3Y) | FitnessBlender | 15 | 2026-01-18 | 2027-01-18 |
 | [Hip mobility and stability flow](https://www.youtube.com/watch?v=tjI0rZlGkCo) | FitnessBlender | 16 | 2026-02-11 | 2027-02-11 |
 | [Mat-based hip and low-back mobility](https://www.youtube.com/watch?v=UoSsSBJpsl8) | FitnessBlender | 15 | 2026-09-09 | 2027-09-09 |
+| [Thoracic spine mobility series](https://www.youtube.com/watch?v=V76ouvP7k6Q) | FitnessBlender | 11 | 2026-06-19 | 2027-06-19 |
+| [Express floor-based full-body mobility](https://www.youtube.com/watch?v=3mWkNTLjIG4) | FitnessBlender | 11 | 2026-09-02 | 2027-09-02 |
 | [Full-body stretch for beginners, longer version](https://www.youtube.com/watch?v=2UTmRljAVLM) | HASfit | 15 | 2026-01-14 | 2027-01-14 |
 | [Full-body stretch and mobility](https://www.youtube.com/watch?v=1tLFG1t8MJo) | Juice & Toya | 11 | 2026-05-14 | 2027-05-14 |
 | [Daily mobility for runners](https://www.youtube.com/watch?v=TiG2I3UoDRw) | mobility by julia reppel | 12 | 2026-03-26 | 2027-03-26 |
 | [Daily hip mobility, no talking](https://www.youtube.com/watch?v=kbC14BoqYAY) | mobility by julia reppel | 7 | 2026-09-03 | 2027-09-03 |
+| [Spine mobility flow, follow-along](https://www.youtube.com/watch?v=kwsmxwlr-PA) | mobility by julia reppel | 12 | 2026-03-19 | 2027-03-19 |
 | [Hip stretch follow-along](https://www.youtube.com/watch?v=_dt1-khBoSs) | Tom Merrick | 11 | 2026-08-23 | 2027-08-23 |
+| [Squat mobility follow-along](https://www.youtube.com/watch?v=AGymH_bI-WI) | Tom Merrick | 18 | 2026-02-15 | 2027-02-15 |
+| [Gentle yoga for tight hips](https://www.youtube.com/watch?v=nrqH_qyBMLk) | Yoga With Adriene | 12 | 2026-05-05 | 2027-05-05 |
+| [Morning yoga flow for spine mobility](https://www.youtube.com/watch?v=dyTpgGgVcwg) | Yoga with Kassandra | 12 | 2026-03-02 | 2027-03-02 |
 
-## Guided recovery (13)
+## Guided recovery (16)
 
 | Video | Creator | Minutes | Published | Ages out |
 |---|---|---|---|---|
@@ -25,6 +31,9 @@ Revision 6, published 2026-10-15, valid until 2026-10-22. These are the only vid
 | [Guided body scan to relax](https://www.youtube.com/watch?v=kq2TuzbVR6U) | Headspace | 10 | 2025-12-26 | 2026-12-26 |
 | [Five-minute wind-down meditation](https://www.youtube.com/watch?v=MZOp8jlkshQ) | Headspace | 5 | 2026-03-05 | 2027-03-05 |
 | [Meditation for deep calm](https://www.youtube.com/watch?v=3YiBqNBbg3Q) | Headspace | 8 | 2026-05-15 | 2027-05-15 |
+| [Body scan meditation for sleep](https://www.youtube.com/watch?v=a_oq9RdPSeY) | Headspace | 10 | 2026-02-11 | 2027-02-11 |
+| [Yoga nidra for sleep](https://www.youtube.com/watch?v=eSenFdrHN14) | Headspace | 9 | 2026-02-26 | 2027-02-26 |
+| [Calming one-breath meditation](https://www.youtube.com/watch?v=HNMeJEoTll8) | Headspace | 12 | 2026-10-02 | 2027-10-02 |
 | [Gentle wind-down before sleep](https://www.youtube.com/watch?v=gXGB5iAVaUA) | mobility by julia reppel | 13 | 2026-08-13 | 2027-08-13 |
 | [Grounding body scan meditation](https://www.youtube.com/watch?v=3X-_qx9Txto) | Yoga With Adriene | 14 | 2025-12-09 | 2026-12-09 |
 | [Gentle bedtime yoga flow](https://www.youtube.com/watch?v=3OsBElyha7Y) | Yoga With Adriene | 11 | 2026-06-23 | 2027-06-23 |
@@ -33,23 +42,29 @@ Revision 6, published 2026-10-15, valid until 2026-10-22. These are the only vid
 | [Relaxing yin yoga, no props](https://www.youtube.com/watch?v=QO8j6H6DrMA) | Yoga with Kassandra | 19 | 2025-12-22 | 2026-12-22 |
 | [Relaxing morning stretch](https://www.youtube.com/watch?v=hJ0Ol0mYLDI) | Yoga with Kassandra | 16 | 2025-12-15 | 2026-12-15 |
 
-## Beginner strength (14)
+## Beginner strength (20)
 
 | Video | Creator | Minutes | Published | Ages out |
 |---|---|---|---|---|
 | [Full-body strength with core](https://www.youtube.com/watch?v=OKDi2L-3sNQ) | FitnessBlender | 21 | 2026-05-22 | 2027-05-22 |
 | [No-equipment HIIT for cardio and core strength](https://www.youtube.com/watch?v=vgTsHr5O8jI) | FitnessBlender | 25 | 2026-04-15 | 2027-04-15 |
 | [Bodyweight lower-body strength with HIIT finisher](https://www.youtube.com/watch?v=fEy9RZ5YHQA) | FitnessBlender | 22 | 2026-02-15 | 2027-02-15 |
+| [Upper-body push strength with HIIT](https://www.youtube.com/watch?v=1VS-uAG35Tc) | FitnessBlender | 20 | 2026-01-11 | 2027-01-11 |
+| [Weighted HIIT strength and power circuits](https://www.youtube.com/watch?v=M2OGxmME6_8) | FitnessBlender | 21 | 2026-09-23 | 2027-09-23 |
 | [Full-body dumbbell training](https://www.youtube.com/watch?v=F3JIldnVca8) | HASfit | 29 | 2026-08-17 | 2027-08-17 |
 | [Beginner full-body dumbbell workout](https://www.youtube.com/watch?v=7vP4xWe6r4U) | HASfit | 32 | 2026-03-02 | 2027-03-02 |
 | [Full-body dumbbell workout](https://www.youtube.com/watch?v=-l0VnAMp2B0) | HASfit | 32 | 2026-01-19 | 2027-01-19 |
 | [20-minute full-body dumbbell strength](https://www.youtube.com/watch?v=A2iooNhyKD4) | HASfit | 27 | 2026-08-31 | 2027-08-31 |
+| [Low-impact dumbbell HIIT, no jumping](https://www.youtube.com/watch?v=BQYDOcEhTSY) | HASfit | 31 | 2026-06-29 | 2027-06-29 |
 | [Full-body strength, no equipment](https://www.youtube.com/watch?v=5kOvFjM6128) | Juice & Toya | 33 | 2026-09-02 | 2027-09-02 |
 | [Full-body dumbbell strength](https://www.youtube.com/watch?v=lWVnz3DU3q0) | Juice & Toya | 34 | 2025-11-04 | 2026-11-04 |
 | [Dumbbell leg strength](https://www.youtube.com/watch?v=4inrUeRQMlg) | Juice & Toya | 30 | 2026-05-18 | 2027-05-18 |
 | [25-minute full-body Tabata-style HIIT](https://www.youtube.com/watch?v=6-KzqR4IMSc) | Juice & Toya | 28 | 2026-02-19 | 2027-02-19 |
 | [30-minute full-body dumbbell HIIT](https://www.youtube.com/watch?v=czow6GlY_PA) | Juice & Toya | 34 | 2026-02-13 | 2027-02-13 |
+| [30-minute standing plyometric HIIT](https://www.youtube.com/watch?v=f1XbDmc-6l8) | Juice & Toya | 32 | 2026-06-02 | 2027-06-02 |
+| [Strength and mobility, no talking](https://www.youtube.com/watch?v=_3yuHHrl080) | mobility by julia reppel | 33 | 2025-11-10 | 2026-11-10 |
 | [20 moves in 20 minutes bodyweight HIIT](https://www.youtube.com/watch?v=g1aBZBV9ebM) | The Body Coach TV by Joe Wicks | 22 | 2026-04-12 | 2027-04-12 |
+| [20-minute dumbbell strength](https://www.youtube.com/watch?v=1ovnDbmORsM) | The Body Coach TV by Joe Wicks | 21 | 2026-06-28 | 2027-06-28 |
 | [Yoga Pilates full-body strength](https://www.youtube.com/watch?v=2_Z8usjTflU) | Yoga with Kassandra | 32 | 2026-05-11 | 2027-05-11 |
 
 ## Approved but not shown (15)
