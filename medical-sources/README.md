@@ -242,6 +242,37 @@ _Not medical advice. Discuss any result with your clinician._
 - **Rule:** `general.trend`
 - **Why:** Advises using the same lab when looking at trends, because results from different labs can't be directly compared. — [MedlinePlus, U.S. National Library of Medicine. How to Understand Your Lab Results.](https://medlineplus.gov/lab-tests/how-to-understand-your-lab-results/)
 
+## Before a blood test
+
+Shown once you set a blood test date. The fasting item appears only if you say you were asked to fast.
+
+- **Keep training easy for the 3 days before, and skip heavy or new strength work in the week before.** Hard exercise before a test can affect results; one hour of weightlifting kept AST and ALT raised for at least 7 days in healthy men. — [Pettersson J, Hindorf U, Persson P, et al. Muscular exercise can cause highly pathological liver function tests in healthy men. Br J Clin Pharmacol. 2008;65(2):253-259. doi:10.1111/j.1365-2125.2007.03001.x](https://doi.org/10.1111/j.1365-2125.2007.03001.x); [MedlinePlus, U.S. National Library of Medicine. How to Understand Your Lab Results.](https://medlineplus.gov/lab-tests/how-to-understand-your-lab-results/)
+- **You were asked to fast: nothing but water for at least 8 hours before the draw.** Fasting glucose thresholds apply after at least 8 hours without calories. — [American Diabetes Association Professional Practice Committee. 2. Diagnosis and Classification of Diabetes: Standards of Care in Diabetes—2026. Diabetes Care. 2026;49(Suppl 1):S27. doi:10.2337/dc26-S002](https://doi.org/10.2337/dc26-s002)
+- **Ask your doctor or lab whether any medicine or supplement should be paused before the test.** Medicines and supplements are among the things that can affect results. — [MedlinePlus, U.S. National Library of Medicine. How to Understand Your Lab Results.](https://medlineplus.gov/lab-tests/how-to-understand-your-lab-results/)
+- **During the draw, keep your hand relaxed: don't pump or clench your fist.** Fist clenching, a long tourniquet or a delayed sample can falsely raise potassium. — [Acute Care Testing (Radiometer). Pseudohyperkalemia (review, citing Don BR et al., N Engl J Med 1990;322:1290-1292).](https://acutecaretesting.org/en/articles/pseudohyperkalemia)
+- **If you can, use the same lab as last time so your trends compare fairly.** Results from different labs can't be directly compared when looking at trends. — [MedlinePlus, U.S. National Library of Medicine. How to Understand Your Lab Results.](https://medlineplus.gov/lab-tests/how-to-understand-your-lab-results/)
+
+## Scores POM calculates
+
+Shown with the formula, every input and the source; context for your clinician, not a diagnosis, and not clinician-reviewed.
+
+### FIB-4 score
+
+- **Shown when:** A liver result (AST or ALT) is flagged and AST, ALT and platelets come from the same blood draw.
+- **Formula:** FIB-4 = (age × AST) ÷ (platelets × √ALT)
+- **Reading:** Below 1.3 is described as low risk of advanced fibrosis (AASLD 2023).
+- **Source:** Defines FIB-4 as (age × AST) / (platelets × √ALT), with age in years, AST and ALT in U/L and platelets in 10⁹/L. — [Sterling RK, Lissen E, Clumeck N, et al. Development of a simple noninvasive index to predict significant fibrosis in patients with HIV/HCV coinfection. Hepatology. 2006;43(6):1317-1325. doi:10.1002/hep.21178](https://doi.org/10.1002/hep.21178)
+- **Source:** Recommends a first risk assessment with FIB-4; FIB-4 below 1.3 indicates low risk of advanced fibrosis. — [Rinella ME, Neuschwander-Tetri BA, Siddiqui MS, et al. AASLD Practice Guidance on the clinical assessment and management of nonalcoholic fatty liver disease. Hepatology. 2023. doi:10.1097/HEP.0000000000000323](https://doi.org/10.1097/HEP.0000000000000323)
+
+### 10-year cardiovascular risk (PREVENT)
+
+- **Shown when:** A cholesterol result is flagged and age 30–79, sex, total cholesterol, HDL, eGFR, systolic blood pressure (Apple Health or entered) and the yes/no questions are all known.
+- **Formula:** PREVENT base 10-year equations for total CVD and ASCVD (Khan 2024), coefficients from preventr
+- **Reading:** Shown against the 2026 ACC/AHA PREVENT-ASCVD categories: <3%, 3% to <5% borderline, 5% to <10% intermediate, ≥10%.
+- **Source:** PREVENT estimates 10-year cardiovascular risk for adults aged 30–79 from age, sex, cholesterol, HDL, blood pressure, diabetes, smoking, kidney function and blood pressure and statin treatment. — [Khan SS, Matsushita K, Sang Y, et al. Development and validation of the American Heart Association's PREVENT equations. Circulation. 2024;149:430-449. doi:10.1161/CIRCULATIONAHA.123.067626](https://doi.org/10.1161/CIRCULATIONAHA.123.067626)
+- **Source:** Uses 10-year PREVENT-ASCVD risk categories: borderline 3% to <5%, intermediate 5% to <10%. — [Blumenthal RS, Morris PB, Gaudino M, et al. 2026 ACC/AHA Guideline on the Management of Dyslipidemia. Circulation. 2026. doi:10.1161/CIR.0000000000001423](https://doi.org/10.1161/CIR.0000000000001423)
+- **Source:** Open-source implementation POM's coefficients and variable transformations were taken from and tested against. — [Mayer MG. preventr: An implementation of the PREVENT and Pooled Cohort Equations (R package, CRAN).](https://cran.r-project.org/web/packages/preventr/)
+
 ## All sources
 
 | Source | Type | Last reviewed |
