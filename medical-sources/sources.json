@@ -1,0 +1,642 @@
+{
+  "version": "2026.10.20.4",
+  "sourceMaxAgeDays": 365,
+  "sources": [
+    {
+      "id": "acc_aha_2026",
+      "kind": "guideline",
+      "citation": "Blumenthal RS, Morris PB, Gaudino M, et al. 2026 ACC/AHA/AACVPR/ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/PCNA Guideline on the Management of Dyslipidemia. Circulation. 2026. doi:10.1161/CIR.0000000000001423",
+      "url": "https://doi.org/10.1161/CIR.0000000000001423",
+      "claim": "",
+      "lastReviewed": "2026-10-20"
+    },
+    {
+      "id": "eas_lpa_2022",
+      "kind": "consensus",
+      "citation": "Kronenberg F, Mora S, Stroes ESG, et al. Lipoprotein(a) in atherosclerotic cardiovascular disease and aortic stenosis: a European Atherosclerosis Society consensus statement. Eur Heart J. 2022. doi:10.1093/eurheartj/ehac361",
+      "url": "https://doi.org/10.1093/eurheartj/ehac361",
+      "claim": "Recommends that every adult has Lp(a) measured at least once.",
+      "lastReviewed": "2026-10-20"
+    },
+    {
+      "id": "sniderman_apob_2019",
+      "kind": "study",
+      "citation": "Sniderman AD, Thanassoulis G, Glavinovic T, et al. Apolipoprotein B particles and cardiovascular disease: a narrative review. JAMA Cardiol. 2019;4(12):1287-1295. doi:10.1001/jamacardio.2019.3780",
+      "url": "https://doi.org/10.1001/jamacardio.2019.3780",
+      "claim": "Reviews evidence that ApoB, a count of atherogenic particles, can capture risk that LDL-C alone misses.",
+      "lastReviewed": "2026-10-20"
+    },
+    {
+      "id": "mesa_cac_2018",
+      "kind": "study",
+      "citation": "Budoff MJ, Young R, Burke G, et al. Ten-year association of coronary artery calcium with atherosclerotic cardiovascular disease (ASCVD) events: the Multi-Ethnic Study of Atherosclerosis (MESA). Eur Heart J. 2018;39(25):2401-2408. doi:10.1093/eurheartj/ehy217",
+      "url": "https://doi.org/10.1093/eurheartj/ehy217",
+      "claim": "In MESA, CAC was strongly and gradedly associated with 10-year ASCVD events, independent of standard risk factors.",
+      "lastReviewed": "2026-10-20"
+    },
+    {
+      "id": "prevent_2024",
+      "kind": "study",
+      "citation": "Khan SS, Matsushita K, Sang Y, et al. Development and validation of the American Heart Association's PREVENT equations. Circulation. 2024;149:430-449. doi:10.1161/CIRCULATIONAHA.123.067626",
+      "url": "https://doi.org/10.1161/CIRCULATIONAHA.123.067626",
+      "claim": "PREVENT estimates 10-year cardiovascular risk from factors including cholesterol, HDL cholesterol, blood pressure, diabetes, smoking and kidney function.",
+      "lastReviewed": "2026-10-20"
+    },
+    {
+      "id": "medlineplus_results",
+      "kind": "reference",
+      "citation": "MedlinePlus, U.S. National Library of Medicine. How to Understand Your Lab Results.",
+      "url": "https://medlineplus.gov/lab-tests/how-to-understand-your-lab-results/",
+      "claim": "",
+      "lastReviewed": "2026-10-20"
+    },
+    {
+      "id": "ozarda_ri_2016",
+      "kind": "study",
+      "citation": "Ozarda Y. Reference intervals: current status, recent developments and future considerations. Biochem Med (Zagreb). 2016;26(1):5-11. doi:10.11613/BM.2016.001",
+      "url": "https://doi.org/10.11613/BM.2016.001",
+      "claim": "Reference intervals cover the central 95% of healthy people, so about 5% of healthy results fall outside them and are flagged.",
+      "lastReviewed": "2026-10-20"
+    },
+    {
+      "id": "ada_2026",
+      "kind": "guideline",
+      "citation": "American Diabetes Association Professional Practice Committee. 2. Diagnosis and Classification of Diabetes: Standards of Care in Diabetes—2026. Diabetes Care. 2026;49(Suppl 1):S27. doi:10.2337/dc26-S002",
+      "url": "https://doi.org/10.2337/dc26-s002",
+      "claim": "",
+      "lastReviewed": "2026-10-20"
+    },
+    {
+      "id": "uspstf_diabetes_2021",
+      "kind": "guideline",
+      "citation": "US Preventive Services Task Force. Screening for Prediabetes and Type 2 Diabetes: US Preventive Services Task Force Recommendation Statement. JAMA. 2021. doi:10.1001/jama.2021.12531",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/screening-for-prediabetes-and-type-2-diabetes",
+      "claim": "",
+      "lastReviewed": "2026-10-20"
+    },
+    {
+      "id": "dpp_2002",
+      "kind": "study",
+      "citation": "Diabetes Prevention Program Research Group. Reduction in the incidence of type 2 diabetes with lifestyle intervention or metformin. N Engl J Med. 2002;346(6):393-403. doi:10.1056/NEJMoa012512",
+      "url": "https://doi.org/10.1056/NEJMoa012512",
+      "claim": "In adults at high risk, a structured lifestyle program reduced new cases of type 2 diabetes by 58% compared with placebo.",
+      "lastReviewed": "2026-10-20"
+    },
+    {
+      "id": "kdigo_ckd_2024",
+      "kind": "guideline",
+      "citation": "Kidney Disease: Improving Global Outcomes (KDIGO) CKD Work Group. KDIGO 2024 Clinical Practice Guideline for the Evaluation and Management of Chronic Kidney Disease. Kidney Int. 2024;105(4S):S117-S314.",
+      "url": "https://kdigo.org/wp-content/uploads/2026/05/KDIGO-2024-CKD-Guideline-Summary-Recommendations-and-Practice-Points.pdf",
+      "claim": "",
+      "lastReviewed": "2026-10-20"
+    },
+    {
+      "id": "kwo_acg_liver",
+      "kind": "guideline",
+      "citation": "Kwo PY, Cohen SM, Lim JK. ACG Clinical Guideline: Evaluation of Abnormal Liver Chemistries. Am J Gastroenterol. 2017. doi:10.1038/ajg.2016.517",
+      "url": "https://doi.org/10.1038/ajg.2016.517",
+      "claim": "",
+      "lastReviewed": "2026-10-20"
+    },
+    {
+      "id": "pettersson_exercise_2008",
+      "kind": "study",
+      "citation": "Pettersson J, Hindorf U, Persson P, et al. Muscular exercise can cause highly pathological liver function tests in healthy men. Br J Clin Pharmacol. 2008;65(2):253-259. doi:10.1111/j.1365-2125.2007.03001.x",
+      "url": "https://doi.org/10.1111/j.1365-2125.2007.03001.x",
+      "claim": "After one hour of weightlifting, AST and ALT rose significantly in healthy men and stayed raised for at least 7 days.",
+      "lastReviewed": "2026-10-20"
+    },
+    {
+      "id": "aasld_masld_2023",
+      "kind": "guideline",
+      "citation": "Rinella ME, Neuschwander-Tetri BA, Siddiqui MS, et al. AASLD Practice Guidance on the clinical assessment and management of nonalcoholic fatty liver disease. Hepatology. 2023. doi:10.1097/HEP.0000000000000323",
+      "url": "https://doi.org/10.1097/HEP.0000000000000323",
+      "claim": "",
+      "lastReviewed": "2026-10-20"
+    },
+    {
+      "id": "mairbaurl_rbc_2013",
+      "kind": "study",
+      "citation": "Mairbäurl H. Red blood cells in sports: effects of exercise and training on oxygen supply by red blood cells. Front Physiol. 2013;4:332. doi:10.3389/fphys.2013.00332",
+      "url": "https://doi.org/10.3389/fphys.2013.00332",
+      "claim": "Endurance-trained athletes often have a slightly lower hematocrit (\"sports anemia\") because training expands plasma volume, while their total red-cell mass is higher.",
+      "lastReviewed": "2026-10-20"
+    },
+    {
+      "id": "aga_ida_2020",
+      "kind": "guideline",
+      "citation": "Ko CW, Siddique SM, Patel A, et al. AGA Clinical Practice Guidelines on the Gastrointestinal Evaluation of Iron Deficiency Anemia. Gastroenterology. 2020. doi:10.1053/j.gastro.2020.06.046",
+      "url": "https://doi.org/10.1053/j.gastro.2020.06.046",
+      "claim": "Recommends defining iron deficiency by a ferritin below 45 ng/mL (rather than 15 ng/mL) in people with anemia.",
+      "lastReviewed": "2026-10-20"
+    },
+    {
+      "id": "eah_consensus_2015",
+      "kind": "consensus",
+      "citation": "Hew-Butler T, Rosner MH, Fowkes-Godek S, et al. Statement of the 3rd International Exercise-Associated Hyponatremia Consensus Development Conference, Carlsbad, California, 2015. Br J Sports Med. 2015;49(22):1432.",
+      "url": "https://bjsm.bmj.com/content/49/22/1432",
+      "claim": "Defines exercise-associated hyponatremia as low sodium during or up to 24 hours after activity, mainly from drinking more fluid than is lost.",
+      "lastReviewed": "2026-10-20"
+    },
+    {
+      "id": "pseudohyperkalemia_review",
+      "kind": "reference",
+      "citation": "Acute Care Testing (Radiometer). Pseudohyperkalemia (review, citing Don BR et al., N Engl J Med 1990;322:1290-1292).",
+      "url": "https://acutecaretesting.org/en/articles/pseudohyperkalemia",
+      "claim": "Explains that blood-draw factors such as hemolysis, fist clenching, a prolonged tourniquet, delayed processing or very high platelet or white cell counts can falsely raise potassium.",
+      "lastReviewed": "2026-10-20"
+    },
+    {
+      "id": "racgp_sch_2022",
+      "kind": "guideline",
+      "citation": "Royal Australian College of General Practitioners. Management of subclinical hypothyroidism (First Do No Harm), revised 2022, citing NICE NG145 (2019).",
+      "url": "https://www.racgp.org.au/clinical-resources/clinical-guidelines/first-do-no-harm/gp-resources/management-of-subclinical-hypothyroidism",
+      "claim": "Advises re-testing a mildly raised TSH (4–10 mIU/L) with normal free T4 after 2–3 months, with thyroid antibodies, and delaying testing during an acute illness (citing NICE NG145).",
+      "lastReviewed": "2026-10-20"
+    },
+    {
+      "id": "endo_vitd_2024",
+      "kind": "guideline",
+      "citation": "Demay MB, Pittas AG, Bikle DD, et al. Vitamin D for the Prevention of Disease: An Endocrine Society Clinical Practice Guideline. J Clin Endocrinol Metab. 2024. doi:10.1210/clinem/dgae290",
+      "url": "https://doi.org/10.1210/clinem/dgae290",
+      "claim": "Suggests against routine vitamin D (25(OH)D) testing in healthy adults, and notes that levels giving specific health benefits have not been established in trials.",
+      "lastReviewed": "2026-10-20"
+    }
+  ],
+  "rules": [
+    {
+      "id": "lipids.ldl.190",
+      "scope": "MARKER",
+      "group": "Cholesterol",
+      "when": "LDL-C is 190 mg/dL or higher.",
+      "question": "My LDL-C was [your result], at or above 190 mg/dL. Should we check for secondary causes or familial hypercholesterolemia, and does this need a specialist?",
+      "sources": [
+        {
+          "id": "acc_aha_2026",
+          "claim": "Treats LDL-C of 190 mg/dL or higher as severe hypercholesterolemia, with evaluation for secondary causes and familial hypercholesterolemia."
+        }
+      ]
+    },
+    {
+      "id": "lipids.ldl.160.persistent",
+      "scope": "MARKER",
+      "group": "Cholesterol",
+      "when": "LDL-C is 160–189 mg/dL.",
+      "question": "My LDL-C was [your result]. Is it persistently 160 mg/dL or higher, and should we recheck it to confirm?",
+      "sources": [
+        {
+          "id": "acc_aha_2026",
+          "claim": "Lists persistently elevated LDL-C of 160 mg/dL or higher as a risk-enhancing factor; one result does not show persistence."
+        }
+      ]
+    },
+    {
+      "id": "lipids.non_hdl.goal",
+      "scope": "MARKER",
+      "group": "Cholesterol",
+      "when": "Non-HDL cholesterol is flagged by the lab.",
+      "question": "My non-HDL cholesterol was [your result]. Should non-HDL be one of the goals we track alongside LDL?",
+      "sources": [
+        {
+          "id": "acc_aha_2026",
+          "claim": "Sets treatment goals for both LDL-C and non-HDL-C, with lower goals for higher-risk groups."
+        }
+      ]
+    },
+    {
+      "id": "lipids.tg.500",
+      "scope": "MARKER",
+      "group": "Cholesterol",
+      "when": "Triglycerides are 500 mg/dL or higher.",
+      "question": "My triglycerides were [your result], at or above 500 mg/dL. Does this need prompt follow-up, and was it a fasting sample?",
+      "sources": [
+        {
+          "id": "acc_aha_2026",
+          "claim": "Treats fasting triglycerides of 500 mg/dL or higher as a marked elevation that needs evaluation."
+        }
+      ]
+    },
+    {
+      "id": "lipids.tg.fasting",
+      "scope": "MARKER",
+      "group": "Cholesterol",
+      "when": "Triglycerides are 150–499 mg/dL.",
+      "question": "My triglycerides were [your result]. Was this a fasting sample, and should it be repeated fasting to confirm?",
+      "sources": [
+        {
+          "id": "acc_aha_2026",
+          "claim": "Lists persistently elevated fasting triglycerides of 150 mg/dL or higher as a risk-enhancing factor; non-fasting results are interpreted differently."
+        }
+      ]
+    },
+    {
+      "id": "lipids.panel.risk_estimate",
+      "scope": "PANEL",
+      "group": "Cholesterol",
+      "when": "Any cholesterol result is flagged (asked once per panel).",
+      "question": "Can we estimate my 10-year cardiovascular risk (for example with the PREVENT calculator) using my cholesterol, HDL, blood pressure and other factors, and what does it mean for next steps?",
+      "sources": [
+        {
+          "id": "acc_aha_2026",
+          "claim": "Uses estimated 10-year risk (PREVENT) to place adults in risk groups such as borderline or intermediate, which guide next steps."
+        },
+        {
+          "id": "prevent_2024",
+          "claim": "PREVENT estimates 10-year cardiovascular risk from factors including cholesterol, HDL cholesterol, blood pressure, diabetes, smoking and kidney function."
+        }
+      ]
+    },
+    {
+      "id": "lipids.lpa.once",
+      "scope": "PANEL",
+      "group": "Cholesterol",
+      "when": "Any cholesterol result is flagged and no Lp(a) result is on record.",
+      "question": "I have no Lp(a) result on record. Should I have Lp(a) measured once?",
+      "sources": [
+        {
+          "id": "acc_aha_2026",
+          "claim": "Recommends measuring Lp(a) at least once in adulthood (Class 1)."
+        },
+        {
+          "id": "eas_lpa_2022",
+          "claim": "Recommends that every adult has Lp(a) measured at least once."
+        }
+      ]
+    },
+    {
+      "id": "lipids.apob",
+      "scope": "PANEL",
+      "group": "Cholesterol",
+      "when": "Any cholesterol result is flagged and no ApoB result is on record.",
+      "question": "Would an ApoB test add useful information alongside my cholesterol results?",
+      "sources": [
+        {
+          "id": "acc_aha_2026",
+          "claim": "Supports selective ApoB measurement to assess residual risk, for example with high triglycerides, metabolic syndrome or diabetes."
+        },
+        {
+          "id": "sniderman_apob_2019",
+          "claim": "Reviews evidence that ApoB, a count of atherogenic particles, can capture risk that LDL-C alone misses."
+        }
+      ]
+    },
+    {
+      "id": "lipids.cac",
+      "scope": "PANEL",
+      "group": "Cholesterol",
+      "when": "Any cholesterol result is flagged, age 40–75 at the test, and no previous calcium scan.",
+      "question": "If my 10-year cardiovascular risk is borderline or intermediate, would a coronary artery calcium (CAC) scan help us decide next steps?",
+      "sources": [
+        {
+          "id": "acc_aha_2026",
+          "claim": "Supports considering CAC scoring to reclassify risk in adults at borderline or intermediate risk when the decision is uncertain."
+        },
+        {
+          "id": "mesa_cac_2018",
+          "claim": "In MESA, CAC was strongly and gradedly associated with 10-year ASCVD events, independent of standard risk factors."
+        }
+      ]
+    },
+    {
+      "id": "glucose.a1c.diabetes",
+      "scope": "MARKER",
+      "group": "Blood sugar",
+      "when": "A1c is 6.5% or higher.",
+      "question": "My A1c was [your result], in the range the ADA uses for diabetes. Should it be confirmed with a repeat test?",
+      "sources": [
+        {
+          "id": "ada_2026",
+          "claim": "Treats an A1C of 6.5% or higher as meeting a diabetes criterion; without clear symptoms it usually needs confirming with a second test."
+        }
+      ]
+    },
+    {
+      "id": "glucose.a1c.prediabetes",
+      "scope": "MARKER",
+      "group": "Blood sugar",
+      "when": "A1c is 5.7–6.4%.",
+      "question": "My A1c was [your result], in the range the ADA calls prediabetes. Should we recheck it, and how often should I be tested?",
+      "sources": [
+        {
+          "id": "ada_2026",
+          "claim": "Treats an A1C of 5.7–6.4% as the prediabetes range; one result is not a diagnosis."
+        },
+        {
+          "id": "uspstf_diabetes_2021",
+          "claim": "Recommends screening adults 35 to 70 with overweight or obesity, and suggests every 3 years may be reasonable when results are normal."
+        }
+      ]
+    },
+    {
+      "id": "glucose.fasting.diabetes",
+      "scope": "MARKER",
+      "group": "Blood sugar",
+      "when": "Glucose is 126 mg/dL or higher and the sample is documented as fasting.",
+      "question": "My fasting glucose was [your result], in the range the ADA uses for diabetes. Should it be confirmed with a repeat test?",
+      "sources": [
+        {
+          "id": "ada_2026",
+          "claim": "Uses fasting plasma glucose of 126 mg/dL or higher, after at least 8 hours without calories, as a diabetes criterion that usually needs confirming."
+        }
+      ]
+    },
+    {
+      "id": "glucose.fasting.prediabetes",
+      "scope": "MARKER",
+      "group": "Blood sugar",
+      "when": "Glucose is 100–125 mg/dL and the sample is documented as fasting.",
+      "question": "My fasting glucose was [your result], in the range the ADA calls prediabetes. Should we recheck it?",
+      "sources": [
+        {
+          "id": "ada_2026",
+          "claim": "Uses fasting plasma glucose of 100–125 mg/dL, after at least 8 hours without calories, as the prediabetes range."
+        }
+      ]
+    },
+    {
+      "id": "glucose.fasting.unknown",
+      "scope": "MARKER",
+      "group": "Blood sugar",
+      "when": "Glucose is flagged and fasting is not documented.",
+      "question": "My glucose was [your result]. Was this a fasting sample? If not, should it be repeated fasting, or checked with an A1c?",
+      "sources": [
+        {
+          "id": "ada_2026",
+          "claim": "Applies its fasting glucose thresholds only after at least 8 hours without calories; other glucose tests are interpreted differently."
+        }
+      ]
+    },
+    {
+      "id": "glucose.panel.prevention",
+      "scope": "PANEL",
+      "group": "Blood sugar",
+      "when": "A1c or fasting glucose is in the prediabetes range (asked once).",
+      "question": "Would a structured lifestyle program, such as a Diabetes Prevention Program, be right for me?",
+      "sources": [
+        {
+          "id": "uspstf_diabetes_2021",
+          "claim": "Says people with prediabetes should be offered or referred to effective preventive interventions, such as lifestyle programs focused on diet and physical activity."
+        },
+        {
+          "id": "dpp_2002",
+          "claim": "In adults at high risk, a structured lifestyle program reduced new cases of type 2 diabetes by 58% compared with placebo."
+        }
+      ]
+    },
+    {
+      "id": "glucose.panel.a1c_accuracy",
+      "scope": "PANEL",
+      "group": "Blood sugar",
+      "when": "A1c is flagged (asked once).",
+      "question": "Could anything make my A1c less accurate for me, such as anemia, recent blood loss or a hemoglobin variant?",
+      "sources": [
+        {
+          "id": "ada_2026",
+          "claim": "Notes that A1C may be unreliable with some hemoglobin variants, altered red-cell turnover (for example anemia or blood loss) or certain therapies."
+        }
+      ]
+    },
+    {
+      "id": "kidney.panel.confirm",
+      "scope": "PANEL",
+      "group": "Kidney",
+      "when": "Any kidney result is flagged (asked once; names an eGFR below 60).",
+      "question": "Should my kidney tests be repeated to see whether this lasts 3 months or more, rather than reading one result?",
+      "sources": [
+        {
+          "id": "kdigo_ckd_2024",
+          "claim": "Advises repeating tests after an unexpected abnormal result and not assuming kidney disease from a single eGFR or albumin value; chronic kidney disease needs at least 3 months, and an eGFR below 60 is flagged as low."
+        }
+      ]
+    },
+    {
+      "id": "kidney.panel.uacr",
+      "scope": "PANEL",
+      "group": "Kidney",
+      "when": "Any kidney result is flagged and no urine albumin (uACR) is on record.",
+      "question": "Should I have a urine albumin-to-creatinine ratio (uACR) test along with my eGFR?",
+      "sources": [
+        {
+          "id": "kdigo_ckd_2024",
+          "claim": "Recommends testing both urine albumin and estimated GFR in people at risk for, or with, chronic kidney disease."
+        }
+      ]
+    },
+    {
+      "id": "kidney.panel.cystatin",
+      "scope": "PANEL",
+      "group": "Kidney",
+      "when": "Creatinine or eGFR is flagged and no cystatin C is on record.",
+      "question": "Could my muscle mass, diet or recent hard training have affected my creatinine-based eGFR, and would a cystatin C test give a more accurate estimate?",
+      "sources": [
+        {
+          "id": "kdigo_ckd_2024",
+          "claim": "Notes creatinine is affected by muscle mass, exercise and diet, and recommends adding cystatin C (eGFRcr-cys) when the creatinine estimate is less accurate and the result matters for decisions."
+        }
+      ]
+    },
+    {
+      "id": "liver.panel.repeat",
+      "scope": "PANEL",
+      "group": "Liver",
+      "when": "ALT, AST or alkaline phosphatase is flagged (asked once).",
+      "question": "Should my liver tests be repeated to confirm, and if they stay raised, what evaluation makes sense?",
+      "sources": [
+        {
+          "id": "kwo_acg_liver",
+          "claim": "Recommends repeating the liver panel or doing a clarifying test to confirm an abnormal result before further evaluation."
+        }
+      ]
+    },
+    {
+      "id": "liver.panel.exercise",
+      "scope": "PANEL",
+      "group": "Liver",
+      "when": "ALT or AST is flagged (asked once).",
+      "question": "I train regularly. Could hard exercise in the days before the test have raised my AST or ALT, and should we repeat after a few lighter days or check creatine kinase (CK)?",
+      "sources": [
+        {
+          "id": "pettersson_exercise_2008",
+          "claim": "After one hour of weightlifting, AST and ALT rose significantly in healthy men and stayed raised for at least 7 days."
+        },
+        {
+          "id": "kwo_acg_liver",
+          "claim": "Lists strenuous exercise and muscle injury as non-liver causes of raised AST/ALT, with creatine kinase as the first check for a muscle source."
+        }
+      ]
+    },
+    {
+      "id": "liver.panel.fib4",
+      "scope": "PANEL",
+      "group": "Liver",
+      "when": "ALT or AST is flagged (asked once).",
+      "question": "Should a FIB-4 score be calculated to check my risk of liver scarring, for example from fatty liver?",
+      "sources": [
+        {
+          "id": "aasld_masld_2023",
+          "claim": "Recommends a first risk assessment with the FIB-4 score for people with suspected fatty liver or metabolic risk factors; FIB-4 below 1.3 indicates low risk."
+        }
+      ]
+    },
+    {
+      "id": "liver.alp.ggt",
+      "scope": "MARKER",
+      "group": "Liver",
+      "when": "Alkaline phosphatase is high and no GGT is on record.",
+      "question": "My alkaline phosphatase was [your result]. Should a GGT test check whether it comes from the liver or from bone?",
+      "sources": [
+        {
+          "id": "kwo_acg_liver",
+          "claim": "Recommends confirming a raised alkaline phosphatase with GGT (or ALP fractionation) to show whether it comes from the liver."
+        }
+      ]
+    },
+    {
+      "id": "liver.bilirubin.fractionate",
+      "scope": "MARKER",
+      "group": "Liver",
+      "when": "Bilirubin is high.",
+      "question": "My bilirubin was [your result]. Should it be split into direct and indirect bilirubin? If only indirect is mildly raised and my other liver tests are normal, could it be Gilbert syndrome?",
+      "sources": [
+        {
+          "id": "kwo_acg_liver",
+          "claim": "Recommends fractionating raised total bilirubin, and says mild unconjugated bilirubin with normal liver enzymes in a healthy person usually suggests Gilbert syndrome."
+        }
+      ]
+    },
+    {
+      "id": "cbc.panel.training",
+      "scope": "PANEL",
+      "group": "Blood count and iron",
+      "when": "Hemoglobin or hematocrit is low (asked once).",
+      "question": "I do endurance training. Could extra plasma volume from training (\"sports anemia\") explain part of my lower hemoglobin or hematocrit, and what would rule out a real anemia?",
+      "sources": [
+        {
+          "id": "mairbaurl_rbc_2013",
+          "claim": "Endurance-trained athletes often have a slightly lower hematocrit (\"sports anemia\") because training expands plasma volume, while their total red-cell mass is higher."
+        }
+      ]
+    },
+    {
+      "id": "cbc.panel.iron_studies",
+      "scope": "PANEL",
+      "group": "Blood count and iron",
+      "when": "Hemoglobin or hematocrit is low and no ferritin is on record.",
+      "question": "Should iron studies, including ferritin, be checked?",
+      "sources": [
+        {
+          "id": "aga_ida_2020",
+          "claim": "Recommends defining iron deficiency by a ferritin below 45 ng/mL (rather than 15 ng/mL) in people with anemia."
+        }
+      ]
+    },
+    {
+      "id": "iron.ferritin.low",
+      "scope": "MARKER",
+      "group": "Blood count and iron",
+      "when": "Ferritin is low or below 45 ng/mL.",
+      "question": "My ferritin was [your result]. Does this suggest low iron stores, and should we look for a cause?",
+      "sources": [
+        {
+          "id": "aga_ida_2020",
+          "claim": "Recommends defining iron deficiency by a ferritin below 45 ng/mL (rather than 15 ng/mL) in people with anemia."
+        }
+      ]
+    },
+    {
+      "id": "lytes.potassium.high",
+      "scope": "MARKER",
+      "group": "Electrolytes",
+      "when": "Potassium is high.",
+      "question": "My potassium was [your result]. Could the blood draw itself (fist clenching, a tight tourniquet or a delayed sample) have raised it, and should it be repeated?",
+      "sources": [
+        {
+          "id": "pseudohyperkalemia_review",
+          "claim": "Explains that blood-draw factors such as hemolysis, fist clenching, a prolonged tourniquet, delayed processing or very high platelet or white cell counts can falsely raise potassium."
+        }
+      ]
+    },
+    {
+      "id": "lytes.sodium.low",
+      "scope": "MARKER",
+      "group": "Electrolytes",
+      "when": "Sodium is low.",
+      "question": "My sodium was [your result]. Could drinking more fluid than I lost around long training sessions have lowered it, and should it be rechecked?",
+      "sources": [
+        {
+          "id": "eah_consensus_2015",
+          "claim": "Defines exercise-associated hyponatremia as low sodium during or up to 24 hours after activity, mainly from drinking more fluid than is lost."
+        }
+      ]
+    },
+    {
+      "id": "thyroid.tsh.high",
+      "scope": "MARKER",
+      "group": "Thyroid",
+      "when": "TSH is high.",
+      "question": "My TSH was [your result]. Should it be repeated in 2–3 months with a free T4, and not during an illness, to see whether it persists?",
+      "sources": [
+        {
+          "id": "racgp_sch_2022",
+          "claim": "Advises re-testing a mildly raised TSH (4–10 mIU/L) with normal free T4 after 2–3 months, with thyroid antibodies, and delaying testing during an acute illness (citing NICE NG145)."
+        }
+      ]
+    },
+    {
+      "id": "vitd.followup",
+      "scope": "MARKER",
+      "group": "Vitamin D",
+      "when": "Vitamin D is flagged.",
+      "question": "My vitamin D was [your result]. Does this result need follow-up or retesting for me, given that routine testing isn't advised for most healthy adults?",
+      "sources": [
+        {
+          "id": "endo_vitd_2024",
+          "claim": "Suggests against routine vitamin D (25(OH)D) testing in healthy adults, and notes that levels giving specific health benefits have not been established in trials."
+        }
+      ]
+    },
+    {
+      "id": "general.explain",
+      "scope": "GENERAL",
+      "group": "Any flagged result",
+      "when": "Any flagged result with no reviewed specific questions.",
+      "question": "Could something temporary explain my [test name] result of [your result], such as what I ate or drank, a medicine or supplement, or hard exercise before the test?",
+      "sources": [
+        {
+          "id": "medlineplus_results",
+          "claim": "Lists foods and drinks, medicines or supplements, and hard exercise before a test among the things that can affect results."
+        }
+      ]
+    },
+    {
+      "id": "general.repeat",
+      "scope": "GENERAL",
+      "group": "Any flagged result",
+      "when": "Any flagged result with no reviewed specific questions.",
+      "question": "Should this test be repeated to confirm the result, and if so when?",
+      "sources": [
+        {
+          "id": "medlineplus_results",
+          "claim": "Says a result that may be inaccurate or is uncertain is often tested again."
+        },
+        {
+          "id": "ozarda_ri_2016",
+          "claim": "Reference intervals cover the central 95% of healthy people, so about 5% of healthy results fall outside them and are flagged."
+        }
+      ]
+    },
+    {
+      "id": "general.trend",
+      "scope": "GENERAL",
+      "group": "Any flagged result",
+      "when": "Any flagged result with no reviewed specific questions and an earlier result on record.",
+      "question": "My previous [test name] was [your result] on [earlier date]. Is the change meaningful, and were both tests from the same lab?",
+      "sources": [
+        {
+          "id": "medlineplus_results",
+          "claim": "Advises using the same lab when looking at trends, because results from different labs can't be directly compared."
+        }
+      ]
+    }
+  ]
+}
