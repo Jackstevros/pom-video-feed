@@ -8,7 +8,7 @@ study or reference behind it, with the exact claim POM takes from each source.
 - A source not re-reviewed within 365 days is withheld in the app until it is.
 - New publications are checked monthly; changes are made only after review.
 
-Rules version **2026.10.20.4** · 34 questions · 20 sources · machine-readable: [sources.json](sources.json)
+Rules version **2026.10.21.1** · 34 questions · 29 sources · machine-readable: [sources.json](sources.json)
 
 _Not medical advice. Discuss any result with your clinician._
 
@@ -273,6 +273,64 @@ Shown with the formula, every input and the source; context for your clinician, 
 - **Source:** Uses 10-year PREVENT-ASCVD risk categories: borderline 3% to <5%, intermediate 5% to <10%. — [Blumenthal RS, Morris PB, Gaudino M, et al. 2026 ACC/AHA Guideline on the Management of Dyslipidemia. Circulation. 2026. doi:10.1161/CIR.0000000000001423](https://doi.org/10.1161/CIR.0000000000001423)
 - **Source:** Open-source implementation POM's coefficients and variable transformations were taken from and tested against. — [Mayer MG. preventr: An implementation of the PREVENT and Pooled Cohort Equations (R package, CRAN).](https://cran.r-project.org/web/packages/preventr/)
 
+## Health summary flags
+
+Shown at the top of an appointment's questions. POM compares the last 2 weeks of wearable data with the previous 26 weeks and flags only these rules.
+
+### Training load spike
+
+- **Flagged when:** Training load in the last 7 days is more than 1.5 times the average of the 21 days before (acute:chronic ratio)
+- **Rule:** `summary.training_load`
+- **Why:** Reviews evidence that injury risk rises sharply when the acute:chronic workload ratio goes above about 1.5. — [Gabbett TJ. The training-injury prevention paradox: should athletes be training smarter and harder? Br J Sports Med. 2016;50(5):273-280. doi:10.1136/bjsports-2015-095788](https://doi.org/10.1136/bjsports-2015-095788)
+
+### Short sleep
+
+- **Flagged when:** Average sleep in the last 2 weeks is under 7 hours
+- **Rule:** `summary.sleep_short`
+- **Why:** Adults should sleep 7 or more hours a night on a regular basis for optimal health. — [Watson NF, Badr MS, Belenky G, et al. Recommended amount of sleep for a healthy adult: a joint consensus statement of the American Academy of Sleep Medicine and Sleep Research Society. Sleep. 2015;38(6):843-844. doi:10.5665/sleep.4716](https://doi.org/10.5665/sleep.4716)
+
+### Low exercise volume
+
+- **Flagged when:** Exercise minutes in the last 2 weeks average under 150 a week
+- **Rule:** `summary.activity_low`
+- **Why:** Adults should do at least 150–300 minutes of moderate, or 75–150 minutes of vigorous, aerobic activity a week. — [Bull FC, Al-Ansari SS, Biddle S, et al. World Health Organization 2020 guidelines on physical activity and sedentary behaviour. Br J Sports Med. 2020;54(24):1451-1462. doi:10.1136/bjsports-2020-102955](https://doi.org/10.1136/bjsports-2020-102955)
+
+### Blood pressure at or above 130/80
+
+- **Flagged when:** The average of 2 or more blood pressure readings in the last 90 days is 130/80 mmHg or higher
+- **Rule:** `summary.bp_high`
+- **Why:** Defines high blood pressure as 130/80 mmHg or higher, based on the average of 2 or more readings on 2 or more occasions. — [2025 AHA/ACC/AANP/AAPA/ABC/ACCP/ACPM/AGS/AMA/ASPC/NMA/PCNA/SGIM Guideline for the Prevention, Detection, Evaluation and Management of High Blood Pressure in Adults. Hypertension. 2025;82(10):e212-e316. doi:10.1161/HYP.0000000000000249](https://doi.org/10.1161/HYP.0000000000000249)
+
+### Irregular rhythm alert
+
+- **Flagged when:** An irregular rhythm notification or an ECG classified as atrial fibrillation in the last 28 weeks
+- **Rule:** `summary.irregular_rhythm`
+- **Why:** In the Apple Heart Study, 34% of people notified of an irregular pulse who returned an ECG patch had atrial fibrillation. — [Perez MV, Mahaffey KW, Hedlin H, et al. Large-scale assessment of a smartwatch to identify atrial fibrillation. N Engl J Med. 2019;381(20):1909-1917. doi:10.1056/NEJMoa1901183](https://doi.org/10.1056/NEJMoa1901183)
+
+### HRV outside your usual range
+
+- **Flagged when:** Average HRV in the last 2 weeks is more than 2 SD from the previous 26 weeks
+- **Rule:** `summary.hrv_shift`
+- **Why:** In endurance athletes, sustained changes in HRV against their own baseline tracked fatigue and how well they adapted to training. — [Plews DJ, Laursen PB, Stanley J, Kilding AE, Buchheit M. Training adaptation and heart rate variability in elite endurance athletes: opening the door to effective monitoring. Sports Med. 2013;43(9):773-781. doi:10.1007/s40279-013-0071-8](https://doi.org/10.1007/s40279-013-0071-8)
+
+### Resting heart rate outside your usual range
+
+- **Flagged when:** Average resting heart rate in the last 2 weeks is more than 2 SD from the previous 26 weeks
+- **Rule:** `summary.rhr_shift`
+- **Why:** Resting heart rate above a person's usual level, measured by wearables, tracked influenza-like illness. — [Radin JM, Wineinger NE, Topol EJ, Steinhubl SR. Harnessing wearable device data to improve state-level real-time surveillance of influenza-like illness in the USA: a population-based study. Lancet Digit Health. 2020;2(2):e85-e93. doi:10.1016/S2589-7500(19)30222-5](https://doi.org/10.1016/S2589-7500(19)30222-5)
+
+### Respiratory rate outside your usual range
+
+- **Flagged when:** Average respiratory rate in the last 2 weeks is more than 2 SD from the previous 26 weeks
+- **Rule:** `summary.rr_shift`
+- **Why:** Night-time respiratory rate rose above personal baseline in people with COVID-19, often before symptoms began. — [Miller DJ, Capodilupo JV, Lastella M, et al. Analyzing changes in respiratory rate to predict the risk of COVID-19 infection. PLoS One. 2020;15(12):e0243693. doi:10.1371/journal.pone.0243693](https://doi.org/10.1371/journal.pone.0243693)
+
+### Wrist temperature outside your usual range
+
+- **Flagged when:** Average wrist temperature in the last 2 weeks is more than 2 SD from the previous 26 weeks
+- **Rule:** `summary.temp_shift`
+- **Why:** Rises in wearable-measured temperature above personal baseline helped detect the onset of COVID-19. — [Mason AE, Hecht FM, Davis SK, et al. Detection of COVID-19 using multimodal data from a wearable device: results from the first TemPredict Study. Sci Rep. 2022;12:3463. doi:10.1038/s41598-022-07314-0](https://doi.org/10.1038/s41598-022-07314-0)
+
 ## All sources
 
 | Source | Type | Last reviewed |
@@ -297,3 +355,12 @@ Shown with the formula, every input and the source; context for your clinician, 
 | [Acute Care Testing (Radiometer). Pseudohyperkalemia (review, citing Don BR et al., N Engl J Med 1990;322:1290-1292).](https://acutecaretesting.org/en/articles/pseudohyperkalemia) | reference | 2026-10-20 |
 | [Royal Australian College of General Practitioners. Management of subclinical hypothyroidism (First Do No Harm), revised 2022, citing NICE NG145 (2019).](https://www.racgp.org.au/clinical-resources/clinical-guidelines/first-do-no-harm/gp-resources/management-of-subclinical-hypothyroidism) | guideline | 2026-10-20 |
 | [Demay MB, Pittas AG, Bikle DD, et al. Vitamin D for the Prevention of Disease: An Endocrine Society Clinical Practice Guideline. J Clin Endocrinol Metab. 2024. doi:10.1210/clinem/dgae290](https://doi.org/10.1210/clinem/dgae290) | guideline | 2026-10-20 |
+| [Gabbett TJ. The training-injury prevention paradox: should athletes be training smarter and harder? Br J Sports Med. 2016;50(5):273-280. doi:10.1136/bjsports-2015-095788](https://doi.org/10.1136/bjsports-2015-095788) | study | 2026-10-21 |
+| [Watson NF, Badr MS, Belenky G, et al. Recommended amount of sleep for a healthy adult: a joint consensus statement of the American Academy of Sleep Medicine and Sleep Research Society. Sleep. 2015;38(6):843-844. doi:10.5665/sleep.4716](https://doi.org/10.5665/sleep.4716) | consensus | 2026-10-21 |
+| [Bull FC, Al-Ansari SS, Biddle S, et al. World Health Organization 2020 guidelines on physical activity and sedentary behaviour. Br J Sports Med. 2020;54(24):1451-1462. doi:10.1136/bjsports-2020-102955](https://doi.org/10.1136/bjsports-2020-102955) | guideline | 2026-10-21 |
+| [2025 AHA/ACC/AANP/AAPA/ABC/ACCP/ACPM/AGS/AMA/ASPC/NMA/PCNA/SGIM Guideline for the Prevention, Detection, Evaluation and Management of High Blood Pressure in Adults. Hypertension. 2025;82(10):e212-e316. doi:10.1161/HYP.0000000000000249](https://doi.org/10.1161/HYP.0000000000000249) | guideline | 2026-10-21 |
+| [Plews DJ, Laursen PB, Stanley J, Kilding AE, Buchheit M. Training adaptation and heart rate variability in elite endurance athletes: opening the door to effective monitoring. Sports Med. 2013;43(9):773-781. doi:10.1007/s40279-013-0071-8](https://doi.org/10.1007/s40279-013-0071-8) | study | 2026-10-21 |
+| [Radin JM, Wineinger NE, Topol EJ, Steinhubl SR. Harnessing wearable device data to improve state-level real-time surveillance of influenza-like illness in the USA: a population-based study. Lancet Digit Health. 2020;2(2):e85-e93. doi:10.1016/S2589-7500(19)30222-5](https://doi.org/10.1016/S2589-7500(19)30222-5) | study | 2026-10-21 |
+| [Miller DJ, Capodilupo JV, Lastella M, et al. Analyzing changes in respiratory rate to predict the risk of COVID-19 infection. PLoS One. 2020;15(12):e0243693. doi:10.1371/journal.pone.0243693](https://doi.org/10.1371/journal.pone.0243693) | study | 2026-10-21 |
+| [Mason AE, Hecht FM, Davis SK, et al. Detection of COVID-19 using multimodal data from a wearable device: results from the first TemPredict Study. Sci Rep. 2022;12:3463. doi:10.1038/s41598-022-07314-0](https://doi.org/10.1038/s41598-022-07314-0) | study | 2026-10-21 |
+| [Perez MV, Mahaffey KW, Hedlin H, et al. Large-scale assessment of a smartwatch to identify atrial fibrillation. N Engl J Med. 2019;381(20):1909-1917. doi:10.1056/NEJMoa1901183](https://doi.org/10.1056/NEJMoa1901183) | study | 2026-10-21 |

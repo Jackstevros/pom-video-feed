@@ -1,5 +1,5 @@
 {
-  "version": "2026.10.20.4",
+  "version": "2026.10.21.1",
   "sourceMaxAgeDays": 365,
   "sources": [
     {
@@ -161,6 +161,78 @@
       "url": "https://doi.org/10.1210/clinem/dgae290",
       "claim": "Suggests against routine vitamin D (25(OH)D) testing in healthy adults, and notes that levels giving specific health benefits have not been established in trials.",
       "lastReviewed": "2026-10-20"
+    },
+    {
+      "id": "gabbett_acwr_2016",
+      "kind": "study",
+      "citation": "Gabbett TJ. The training-injury prevention paradox: should athletes be training smarter and harder? Br J Sports Med. 2016;50(5):273-280. doi:10.1136/bjsports-2015-095788",
+      "url": "https://doi.org/10.1136/bjsports-2015-095788",
+      "claim": "",
+      "lastReviewed": "2026-10-21"
+    },
+    {
+      "id": "aasm_srs_sleep_2015",
+      "kind": "consensus",
+      "citation": "Watson NF, Badr MS, Belenky G, et al. Recommended amount of sleep for a healthy adult: a joint consensus statement of the American Academy of Sleep Medicine and Sleep Research Society. Sleep. 2015;38(6):843-844. doi:10.5665/sleep.4716",
+      "url": "https://doi.org/10.5665/sleep.4716",
+      "claim": "",
+      "lastReviewed": "2026-10-21"
+    },
+    {
+      "id": "who_activity_2020",
+      "kind": "guideline",
+      "citation": "Bull FC, Al-Ansari SS, Biddle S, et al. World Health Organization 2020 guidelines on physical activity and sedentary behaviour. Br J Sports Med. 2020;54(24):1451-1462. doi:10.1136/bjsports-2020-102955",
+      "url": "https://doi.org/10.1136/bjsports-2020-102955",
+      "claim": "",
+      "lastReviewed": "2026-10-21"
+    },
+    {
+      "id": "aha_acc_bp_2025",
+      "kind": "guideline",
+      "citation": "2025 AHA/ACC/AANP/AAPA/ABC/ACCP/ACPM/AGS/AMA/ASPC/NMA/PCNA/SGIM Guideline for the Prevention, Detection, Evaluation and Management of High Blood Pressure in Adults. Hypertension. 2025;82(10):e212-e316. doi:10.1161/HYP.0000000000000249",
+      "url": "https://doi.org/10.1161/HYP.0000000000000249",
+      "claim": "",
+      "lastReviewed": "2026-10-21"
+    },
+    {
+      "id": "plews_hrv_2013",
+      "kind": "study",
+      "citation": "Plews DJ, Laursen PB, Stanley J, Kilding AE, Buchheit M. Training adaptation and heart rate variability in elite endurance athletes: opening the door to effective monitoring. Sports Med. 2013;43(9):773-781. doi:10.1007/s40279-013-0071-8",
+      "url": "https://doi.org/10.1007/s40279-013-0071-8",
+      "claim": "",
+      "lastReviewed": "2026-10-21"
+    },
+    {
+      "id": "radin_wearables_2020",
+      "kind": "study",
+      "citation": "Radin JM, Wineinger NE, Topol EJ, Steinhubl SR. Harnessing wearable device data to improve state-level real-time surveillance of influenza-like illness in the USA: a population-based study. Lancet Digit Health. 2020;2(2):e85-e93. doi:10.1016/S2589-7500(19)30222-5",
+      "url": "https://doi.org/10.1016/S2589-7500(19)30222-5",
+      "claim": "",
+      "lastReviewed": "2026-10-21"
+    },
+    {
+      "id": "miller_resp_rate_2020",
+      "kind": "study",
+      "citation": "Miller DJ, Capodilupo JV, Lastella M, et al. Analyzing changes in respiratory rate to predict the risk of COVID-19 infection. PLoS One. 2020;15(12):e0243693. doi:10.1371/journal.pone.0243693",
+      "url": "https://doi.org/10.1371/journal.pone.0243693",
+      "claim": "",
+      "lastReviewed": "2026-10-21"
+    },
+    {
+      "id": "mason_tempredict_2022",
+      "kind": "study",
+      "citation": "Mason AE, Hecht FM, Davis SK, et al. Detection of COVID-19 using multimodal data from a wearable device: results from the first TemPredict Study. Sci Rep. 2022;12:3463. doi:10.1038/s41598-022-07314-0",
+      "url": "https://doi.org/10.1038/s41598-022-07314-0",
+      "claim": "",
+      "lastReviewed": "2026-10-21"
+    },
+    {
+      "id": "perez_apple_heart_2019",
+      "kind": "study",
+      "citation": "Perez MV, Mahaffey KW, Hedlin H, et al. Large-scale assessment of a smartwatch to identify atrial fibrillation. N Engl J Med. 2019;381(20):1909-1917. doi:10.1056/NEJMoa1901183",
+      "url": "https://doi.org/10.1056/NEJMoa1901183",
+      "claim": "",
+      "lastReviewed": "2026-10-21"
     }
   ],
   "rules": [
@@ -723,6 +795,116 @@
           "citation": "Mayer MG. preventr: An implementation of the PREVENT and Pooled Cohort Equations (R package, CRAN).",
           "url": "https://cran.r-project.org/web/packages/preventr/",
           "claim": "Open-source implementation POM's coefficients and variable transformations were taken from and tested against."
+        }
+      ]
+    }
+  ],
+  "healthSummaryFlags": [
+    {
+      "id": "summary.training_load",
+      "title": "Training load spike",
+      "kind": "CLINICAL",
+      "when": "Training load in the last 7 days is more than 1.5 times the average of the 21 days before (acute:chronic ratio)",
+      "sources": [
+        {
+          "id": "gabbett_acwr_2016",
+          "claim": "Reviews evidence that injury risk rises sharply when the acute:chronic workload ratio goes above about 1.5."
+        }
+      ]
+    },
+    {
+      "id": "summary.sleep_short",
+      "title": "Short sleep",
+      "kind": "CLINICAL",
+      "when": "Average sleep in the last 2 weeks is under 7 hours",
+      "sources": [
+        {
+          "id": "aasm_srs_sleep_2015",
+          "claim": "Adults should sleep 7 or more hours a night on a regular basis for optimal health."
+        }
+      ]
+    },
+    {
+      "id": "summary.activity_low",
+      "title": "Low exercise volume",
+      "kind": "CLINICAL",
+      "when": "Exercise minutes in the last 2 weeks average under 150 a week",
+      "sources": [
+        {
+          "id": "who_activity_2020",
+          "claim": "Adults should do at least 150–300 minutes of moderate, or 75–150 minutes of vigorous, aerobic activity a week."
+        }
+      ]
+    },
+    {
+      "id": "summary.bp_high",
+      "title": "Blood pressure at or above 130/80",
+      "kind": "CLINICAL",
+      "when": "The average of 2 or more blood pressure readings in the last 90 days is 130/80 mmHg or higher",
+      "sources": [
+        {
+          "id": "aha_acc_bp_2025",
+          "claim": "Defines high blood pressure as 130/80 mmHg or higher, based on the average of 2 or more readings on 2 or more occasions."
+        }
+      ]
+    },
+    {
+      "id": "summary.irregular_rhythm",
+      "title": "Irregular rhythm alert",
+      "kind": "CLINICAL",
+      "when": "An irregular rhythm notification or an ECG classified as atrial fibrillation in the last 28 weeks",
+      "sources": [
+        {
+          "id": "perez_apple_heart_2019",
+          "claim": "In the Apple Heart Study, 34% of people notified of an irregular pulse who returned an ECG patch had atrial fibrillation."
+        }
+      ]
+    },
+    {
+      "id": "summary.hrv_shift",
+      "title": "HRV outside your usual range",
+      "kind": "PERSONAL",
+      "when": "Average HRV in the last 2 weeks is more than 2 SD from the previous 26 weeks",
+      "sources": [
+        {
+          "id": "plews_hrv_2013",
+          "claim": "In endurance athletes, sustained changes in HRV against their own baseline tracked fatigue and how well they adapted to training."
+        }
+      ]
+    },
+    {
+      "id": "summary.rhr_shift",
+      "title": "Resting heart rate outside your usual range",
+      "kind": "PERSONAL",
+      "when": "Average resting heart rate in the last 2 weeks is more than 2 SD from the previous 26 weeks",
+      "sources": [
+        {
+          "id": "radin_wearables_2020",
+          "claim": "Resting heart rate above a person's usual level, measured by wearables, tracked influenza-like illness."
+        }
+      ]
+    },
+    {
+      "id": "summary.rr_shift",
+      "title": "Respiratory rate outside your usual range",
+      "kind": "PERSONAL",
+      "when": "Average respiratory rate in the last 2 weeks is more than 2 SD from the previous 26 weeks",
+      "sources": [
+        {
+          "id": "miller_resp_rate_2020",
+          "claim": "Night-time respiratory rate rose above personal baseline in people with COVID-19, often before symptoms began."
+        }
+      ]
+    },
+    {
+      "id": "summary.temp_shift",
+      "title": "Wrist temperature outside your usual range",
+      "kind": "PERSONAL",
+      "when": "Average wrist temperature in the last 2 weeks is more than 2 SD from the previous 26 weeks",
+      "sources": [
+        {
+          "id": "mason_tempredict_2022",
+          "claim": "Rises in wearable-measured temperature above personal baseline helped detect the onset of COVID-19."
         }
       ]
     }
