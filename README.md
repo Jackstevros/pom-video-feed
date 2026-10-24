@@ -1,6 +1,6 @@
 # POM approved videos
 
-Revision 11, published 2026-10-24, valid until 2026-10-31. These are the only videos the app can link to. The signed file the app reads is `approved-action-feed.signed.json`.
+Revision 12, published 2026-10-24, valid until 2026-10-31. These are the only videos the app can link to. The signed file the app reads is `approved-action-feed.signed.json`.
 
 ## Runner flexibility (25)
 
@@ -31,6 +31,11 @@ Revision 11, published 2026-10-24, valid until 2026-10-31. These are the only vi
 | [Gentle yoga for hip flexibility](https://www.youtube.com/watch?v=-trGf8O3ue4) | Yoga with Kassandra | 17 | 2025-04-28 | 2027-04-28 |
 | [Morning yoga flow for spine mobility](https://www.youtube.com/watch?v=dyTpgGgVcwg) | Yoga with Kassandra | 12 | 2026-03-02 | 2028-03-02 |
 | [15-minute full-body flexibility stretch](https://www.youtube.com/watch?v=V5DjVzCCijI) | Yoga with Kassandra | 19 | 2026-08-03 | 2028-08-03 |
+
+## Planned long mobility sessions (0)
+
+| Video | Creator | Minutes | Published | Ages out |
+|---|---|---|---|---|
 
 ## Guided recovery (22)
 
@@ -142,6 +147,21 @@ Revision 11, published 2026-10-24, valid until 2026-10-31. These are the only vi
 | [20-minute full-body mat Pilates with weights](https://www.youtube.com/watch?v=nfmcXtwGYsk) | Yoga with Kassandra | 19 | 2026-02-02 | 2028-02-02 |
 | [15-minute full-body mat Pilates](https://www.youtube.com/watch?v=v5mOBrVzh8E) | Yoga with Kassandra | 18 | 2026-07-06 | 2028-07-06 |
 | [15-minute Pilates sculpt: core and glutes](https://www.youtube.com/watch?v=neL52b6VQoI) | Yoga with Kassandra | 18 | 2025-12-29 | 2027-12-29 |
+
+## Cook-along recipes (0)
+
+| Video | Creator | Minutes | Published | Ages out |
+|---|---|---|---|---|
+
+## Running warm-ups (0)
+
+| Video | Creator | Minutes | Published | Ages out |
+|---|---|---|---|---|
+
+## Sleep guidance (0)
+
+| Video | Creator | Minutes | Published | Ages out |
+|---|---|---|---|---|
 
 ## Approved but not shown (7)
 
