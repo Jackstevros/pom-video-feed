@@ -1,6 +1,6 @@
 # POM approved videos
 
-Revision 26, published 2026-10-26, valid until 2026-11-02. These are the only videos the app can link to. The signed file the app reads is `approved-action-feed.signed.json`.
+Revision 27, published 2026-10-26, valid until 2026-11-02. These are the only videos the app can link to. The signed file the app reads is `approved-action-feed.signed.json`.
 
 ## Runner flexibility (25)
 
@@ -140,7 +140,7 @@ Revision 26, published 2026-10-26, valid until 2026-11-02. These are the only vi
 | [20-minute all-levels vinyasa flow](https://www.youtube.com/watch?v=A83spinhZGs) | Yoga with Kassandra | 24 | 2026-07-20 | 2028-07-20 |
 | [40-minute active vinyasa and yin stretch](https://www.youtube.com/watch?v=KeCj9Ni07FQ) | Yoga with Kassandra | 39 | 2026-04-13 | 2028-04-13 |
 
-## Pilates (12)
+## Pilates (14)
 
 | Video | Creator | Minutes | Published | Ages out |
 |---|---|---|---|---|
@@ -153,20 +153,25 @@ Revision 26, published 2026-10-26, valid until 2026-11-02. These are the only vi
 | [10-minute express mat Pilates](https://www.youtube.com/watch?v=136ZLuy40TE) | Move With Nicole | 13 | 2026-02-20 | 2028-02-20 |
 | [35-minute intermediate mat Pilates](https://www.youtube.com/watch?v=M4dyK28GrE0) | Move With Nicole | 39 | 2026-01-23 | 2028-01-23 |
 | [25-minute express mat Pilates](https://www.youtube.com/watch?v=6Iuh2_kk1d8) | Move With Nicole | 27 | 2025-12-10 | 2027-12-10 |
+| [Advanced classical Pilates flow on the mat](https://www.youtube.com/watch?v=xoovsO80fdk) | Pilates by Zola | 30 | 2026-05-21 | 2028-05-21 |
+| [Intermediate full-body Pilates on the mat](https://www.youtube.com/watch?v=5F2QkUPzO2E) | The Girl With The Pilates Mat | 14 | 2026-04-03 | 2028-04-03 |
 | [20-minute full-body mat Pilates with weights](https://www.youtube.com/watch?v=nfmcXtwGYsk) | Yoga with Kassandra | 19 | 2026-02-02 | 2028-02-02 |
 | [15-minute full-body mat Pilates](https://www.youtube.com/watch?v=v5mOBrVzh8E) | Yoga with Kassandra | 18 | 2026-07-06 | 2028-07-06 |
 | [15-minute Pilates sculpt: core and glutes](https://www.youtube.com/watch?v=neL52b6VQoI) | Yoga with Kassandra | 18 | 2025-12-29 | 2027-12-29 |
 
-## Cook-along recipes (1)
+## Cook-along recipes (2)
 
 | Video | Creator | Minutes | Published | Ages out |
 |---|---|---|---|---|
 | [Lemon tahini chicken & grains — Jamie Oliver](https://www.youtube.com/watch?v=pKtweGSC2FU) | Jamie Oliver | 124 | 2026-06-24 | 2029-06-24 |
+| [Spring soup with ricotta toast - Jamie Oliver](https://www.youtube.com/watch?v=RER45NkD3dE) | Jamie Oliver | 19 | 2026-06-08 | 2029-06-08 |
 
-## Running warm-ups (0)
+## Running warm-ups (2)
 
 | Video | Creator | Minutes | Published | Ages out |
 |---|---|---|---|---|
+| [Standing dynamic pre-run warm-up with drill alternative](https://www.youtube.com/watch?v=0CfnEwagJYA) | mobility by julia reppel | 5 | 2025-05-15 | 2027-05-15 |
+| [Standing pre-run mobility warm-up with balance support](https://www.youtube.com/watch?v=SfCguQSYiwk) | Yoga With Tim | 6 | 2026-03-01 | 2028-03-01 |
 
 ## Sleep guidance (0)
 
