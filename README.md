@@ -1,6 +1,6 @@
 # POM approved videos
 
-Revision 13, published 2026-10-24, valid until 2026-10-31. These are the only videos the app can link to. The signed file the app reads is `approved-action-feed.signed.json`.
+Revision 14, published 2026-10-26, valid until 2026-11-02. These are the only videos the app can link to. The signed file the app reads is `approved-action-feed.signed.json`.
 
 ## Runner flexibility (25)
 
@@ -96,7 +96,7 @@ Revision 13, published 2026-10-24, valid until 2026-10-31. These are the only vi
 | [20-minute dumbbell strength](https://www.youtube.com/watch?v=1ovnDbmORsM) | The Body Coach TV by Joe Wicks | 21 | 2026-06-28 | 2028-06-28 |
 | [Yoga Pilates full-body strength](https://www.youtube.com/watch?v=2_Z8usjTflU) | Yoga with Kassandra | 32 | 2026-05-11 | 2028-05-11 |
 
-## Strength plan sessions (17)
+## Strength plan sessions (16)
 
 | Video | Creator | Minutes | Published | Ages out |
 |---|---|---|---|---|
@@ -112,7 +112,6 @@ Revision 13, published 2026-10-24, valid until 2026-10-31. These are the only vi
 | [30-minute dumbbell legs and abs](https://www.youtube.com/watch?v=epwH9RSQV6M) | Juice & Toya | 32 | 2026-03-16 | 2028-03-16 |
 | [30-minute arms and abs strength](https://www.youtube.com/watch?v=ErEB-lGb1X8) | Juice & Toya | 33 | 2026-03-04 | 2028-03-04 |
 | [30-minute heavy full-body dumbbell strength](https://www.youtube.com/watch?v=ls4Vqk1t_lc) | Juice & Toya | 35 | 2026-05-06 | 2028-05-06 |
-| [20-minute kettlebell strength and mobility](https://www.youtube.com/watch?v=7wNrGs3EO70) | mobility by julia reppel | 24 | 2026-04-13 | 2028-04-13 |
 | [30-minute legs and core with dumbbells](https://www.youtube.com/watch?v=YAcGU6lFRQw) | mobility by julia reppel | 32 | 2025-12-18 | 2027-12-18 |
 | [15-minute kettlebells and abs](https://www.youtube.com/watch?v=6oOKlAZSHd0) | The Body Coach TV by Joe Wicks | 16 | 2026-08-02 | 2028-08-02 |
 | [20-minute legs and core](https://www.youtube.com/watch?v=9fL6LhJtcL0) | The Body Coach TV by Joe Wicks | 21 | 2026-08-09 | 2028-08-09 |
