@@ -1,6 +1,6 @@
 # POM approved videos
 
-Revision 15, published 2026-10-26, valid until 2026-11-02. These are the only videos the app can link to. The signed file the app reads is `approved-action-feed.signed.json`.
+Revision 16, published 2026-10-26, valid until 2026-11-02. These are the only videos the app can link to. The signed file the app reads is `approved-action-feed.signed.json`.
 
 ## Runner flexibility (25)
 
@@ -33,6 +33,11 @@ Revision 15, published 2026-10-26, valid until 2026-11-02. These are the only vi
 | [15-minute full-body flexibility stretch](https://www.youtube.com/watch?v=V5DjVzCCijI) | Yoga with Kassandra | 19 | 2026-08-03 | 2028-08-03 |
 
 ## Planned long mobility sessions (0)
+
+| Video | Creator | Minutes | Published | Ages out |
+|---|---|---|---|---|
+
+## Weighted mobility (kettlebells) (0)
 
 | Video | Creator | Minutes | Published | Ages out |
 |---|---|---|---|---|
