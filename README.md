@@ -1,6 +1,6 @@
 # POM approved videos
 
-Revision 25, published 2026-10-26, valid until 2026-11-02. These are the only videos the app can link to. The signed file the app reads is `approved-action-feed.signed.json`.
+Revision 26, published 2026-10-26, valid until 2026-11-02. These are the only videos the app can link to. The signed file the app reads is `approved-action-feed.signed.json`.
 
 ## Runner flexibility (25)
 
@@ -32,15 +32,19 @@ Revision 25, published 2026-10-26, valid until 2026-11-02. These are the only vi
 | [Morning yoga flow for spine mobility](https://www.youtube.com/watch?v=dyTpgGgVcwg) | Yoga with Kassandra | 12 | 2026-03-02 | 2028-03-02 |
 | [15-minute full-body flexibility stretch](https://www.youtube.com/watch?v=V5DjVzCCijI) | Yoga with Kassandra | 19 | 2026-08-03 | 2028-08-03 |
 
-## Planned long mobility sessions (0)
+## Planned long mobility sessions (3)
 
 | Video | Creator | Minutes | Published | Ages out |
 |---|---|---|---|---|
+| [20-minute all-level mobility with modifications — EDR Fitness](https://www.youtube.com/watch?v=0JLYUgAEO8A) | EDR Fitness | 21 | 2026-10-12 | 2028-10-12 |
+| [Feel Brand New After This 30 Min. Gentle Stretch Session (Back + Legs)](https://www.youtube.com/watch?v=1vXlJsLRpZw) | mobility by julia reppel | 31 | 2025-12-08 | 2027-12-08 |
+| [20 Min. Morning Mobility Playground | Fun & Flowy](https://www.youtube.com/watch?v=6L2t-gPEq5U) | mobility by julia reppel | 22 | 2025-12-22 | 2027-12-22 |
 
-## Weighted mobility (kettlebells) (0)
+## Weighted mobility (kettlebells) (1)
 
 | Video | Creator | Minutes | Published | Ages out |
 |---|---|---|---|---|
+| [20-minute intermediate kettlebell mobility + strength](https://www.youtube.com/watch?v=7wNrGs3EO70) | mobility by julia reppel | 24 | 2026-04-13 | 2028-04-13 |
 
 ## Guided recovery (22)
 
@@ -69,7 +73,7 @@ Revision 25, published 2026-10-26, valid until 2026-11-02. These are the only vi
 | [Relaxing yin yoga, no props](https://www.youtube.com/watch?v=QO8j6H6DrMA) | Yoga with Kassandra | 19 | 2025-12-22 | 2028-12-22 |
 | [Relaxing morning stretch](https://www.youtube.com/watch?v=hJ0Ol0mYLDI) | Yoga with Kassandra | 16 | 2025-12-15 | 2028-12-15 |
 
-## Beginner strength (27)
+## Beginner strength (28)
 
 | Video | Creator | Minutes | Published | Ages out |
 |---|---|---|---|---|
@@ -99,6 +103,7 @@ Revision 25, published 2026-10-26, valid until 2026-11-02. These are the only vi
 | [Strength and mobility, no talking](https://www.youtube.com/watch?v=_3yuHHrl080) | mobility by julia reppel | 33 | 2025-11-10 | 2027-11-10 |
 | [20 moves in 20 minutes bodyweight HIIT](https://www.youtube.com/watch?v=g1aBZBV9ebM) | The Body Coach TV by Joe Wicks | 22 | 2026-04-12 | 2028-04-12 |
 | [20-minute dumbbell strength](https://www.youtube.com/watch?v=1ovnDbmORsM) | The Body Coach TV by Joe Wicks | 21 | 2026-06-28 | 2028-06-28 |
+| [20-minute bodyweight full-body workout — Joe Wicks](https://www.youtube.com/watch?v=39mLYllIfuU) | The Body Coach TV by Joe Wicks | 21 | 2025-07-20 | 2027-07-20 |
 | [Yoga Pilates full-body strength](https://www.youtube.com/watch?v=2_Z8usjTflU) | Yoga with Kassandra | 32 | 2026-05-11 | 2028-05-11 |
 
 ## Strength plan sessions (16)
@@ -152,10 +157,11 @@ Revision 25, published 2026-10-26, valid until 2026-11-02. These are the only vi
 | [15-minute full-body mat Pilates](https://www.youtube.com/watch?v=v5mOBrVzh8E) | Yoga with Kassandra | 18 | 2026-07-06 | 2028-07-06 |
 | [15-minute Pilates sculpt: core and glutes](https://www.youtube.com/watch?v=neL52b6VQoI) | Yoga with Kassandra | 18 | 2025-12-29 | 2027-12-29 |
 
-## Cook-along recipes (0)
+## Cook-along recipes (1)
 
 | Video | Creator | Minutes | Published | Ages out |
 |---|---|---|---|---|
+| [Lemon tahini chicken & grains — Jamie Oliver](https://www.youtube.com/watch?v=pKtweGSC2FU) | Jamie Oliver | 124 | 2026-06-24 | 2029-06-24 |
 
 ## Running warm-ups (0)
 
