@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
   "algorithm": "Ed25519",
-  "payload": "{\"schemaVersion\":1,\"kind\":\"kord-feature-flags\",\"revision\":1,\"issuedAt\":\"2026-10-27T00:35:35.882Z\",\"expiresAt\":\"2026-11-17T00:35:35.882Z\",\"flags\":{}}",
-  "signature": "CL59Uaqjcr1WPSewPQIxyuycxqmfShi4kF4jZPf/Gek18x2AhOLfNhrzeK9a9eWH3NJibWHjJd+LMfOXabvfDA=="
+  "payload": "{\"schemaVersion\":1,\"kind\":\"kord-feature-flags\",\"revision\":1,\"issuedAt\":\"2026-10-27T15:28:47.830Z\",\"expiresAt\":\"2026-11-17T15:28:47.830Z\",\"flags\":{}}",
+  "signature": "b4HI2h+CdlImh2aa3TrYe2QGCoKww03CxFFqhPQaYpXXySuTeKrmYjeG5awYND8QP6u0szknsqbo9bVGhr7QDg=="
 }

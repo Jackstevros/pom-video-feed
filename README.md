@@ -1,6 +1,6 @@
 # POM approved videos
 
-Revision 28, published 2026-10-27, valid until 2026-11-03. These are the only videos the app can link to. The signed file the app reads is `approved-action-feed.signed.json`.
+Revision 29, published 2026-10-27, valid until 2026-11-03. These are the only videos the app can link to. The signed file the app reads is `approved-action-feed.signed.json`.
 
 ## Runner flexibility (25)
 
@@ -174,6 +174,11 @@ Revision 28, published 2026-10-27, valid until 2026-11-03. These are the only vi
 | [Standing pre-run mobility warm-up with balance support](https://www.youtube.com/watch?v=SfCguQSYiwk) | Yoga With Tim | 6 | 2026-03-01 | 2028-03-01 |
 
 ## Sleep guidance (0)
+
+| Video | Creator | Minutes | Published | Ages out |
+|---|---|---|---|---|
+
+## Something hurts (self-care by body area) (0)
 
 | Video | Creator | Minutes | Published | Ages out |
 |---|---|---|---|---|
