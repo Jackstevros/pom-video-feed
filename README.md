@@ -1,6 +1,6 @@
 # POM approved videos
 
-Revision 29, published 2026-10-27, valid until 2026-11-03. These are the only videos the app can link to. The signed file the app reads is `approved-action-feed.signed.json`.
+Revision 30, published 2026-10-27, valid until 2026-11-03. These are the only videos the app can link to. The signed file the app reads is `approved-action-feed.signed.json`.
 
 ## Runner flexibility (25)
 
@@ -178,12 +178,14 @@ Revision 29, published 2026-10-27, valid until 2026-11-03. These are the only vi
 | Video | Creator | Minutes | Published | Ages out |
 |---|---|---|---|---|
 
-## Something hurts (self-care by body area) (0)
+## Something hurts (self-care by body area) (2)
 
 | Video | Creator | Minutes | Published | Ages out |
 |---|---|---|---|---|
+| [Gentle Achilles and calf exercises](https://www.youtube.com/watch?v=t68yZmxV7Dg) | Jeffrey Peng MD | 8 | 2025-02-01 | 2027-02-01 |
+| [Achilles strengthening exercises](https://www.youtube.com/watch?v=sScaA3DSnUA) | Tone and Tighten | 10 | 2026-05-28 | 2028-05-28 |
 
-## Approved but not shown (7)
+## Approved but not shown (8)
 
 - tom-merrick-runners-flexibility-19: Published 2019-08-11, older than 2 years (exercise)
 - yoga-with-adriene-runners-7: Published 2017-02-15, older than 2 years (exercise)
@@ -192,3 +194,4 @@ Revision 29, published 2026-10-27, valid until 2026-11-03. These are the only vi
 - hasfit-beginner-bodyweight-20: Published 2014-08-26, older than 2 years (exercise)
 - yoga-with-adriene-abdominal-strength: Published 2024-04-01, older than 2 years (exercise)
 - gmb-integral-strength-bodyweight: Published 2023-07-01, older than 2 years (exercise)
+- rehab-science-achilles-tendon-strengthening-8: Published 2022-05-15, older than 2 years (exercise)
