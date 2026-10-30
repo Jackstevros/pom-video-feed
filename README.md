@@ -1,6 +1,6 @@
 # POM approved videos
 
-Revision 38, published 2026-10-30, valid until 2026-11-06. These are the only videos the app can link to. The signed file the app reads is `approved-action-feed.signed.json`.
+Revision 39, published 2026-10-30, valid until 2026-11-06. These are the only videos the app can link to. The signed file the app reads is `approved-action-feed.signed.json`.
 
 ## Runner flexibility (25)
 
