@@ -1,0 +1,20 @@
+{
+  "generatedAt": "2026-10-30T14:43:10.431Z",
+  "channel": "DANIELPT FITNESS",
+  "approvedDistinct": 37,
+  "ready": 36,
+  "held": 1,
+  "exceptions": [
+    {
+      "url": "https://www.youtube.com/watch?v=VFiYOSRt7Hc",
+      "videoId": "VFiYOSRt7Hc",
+      "reviewRefs": [
+        "DPT-11",
+        "DPT-20"
+      ],
+      "reason": "Multi-equipment workout needs accurate equipment routing",
+      "ownerDecision": "APPROVE",
+      "action": "TECHNICAL_OR_ROUTING_CORRECTION_NOT_NEW_OWNER_APPROVAL"
+    }
+  ]
+}

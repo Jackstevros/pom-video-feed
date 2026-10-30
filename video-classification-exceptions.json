@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T14:12:18.246Z",
+  "generatedAt": "2026-10-30T14:43:10.006Z",
   "sourceCommit": "6e6f17e4ed094454cf1f2355cd2f873b8c225704",
   "ownerApprovalComplete": true,
   "allApprovedCount": 1737,
@@ -27381,5 +27381,7 @@
       "answerNotes": "",
       "recipeDetailsJson": ""
     }
-  ]
+  ],
+  "curatedReadyCount": 36,
+  "curatedHoldCount": 1
 }

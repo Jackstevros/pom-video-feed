@@ -1,6 +1,6 @@
 # POM approved videos
 
-Revision 41, published 2026-10-30, valid until 2026-11-06. These are the only videos the app can link to. The signed file the app reads is `approved-action-feed.signed.json`.
+Revision 42, published 2026-10-30, valid until 2026-11-06. These are the only videos the app can link to. The signed file the app reads is `approved-action-feed.signed.json`.
 
 ## Runner flexibility (34)
 
@@ -371,7 +371,7 @@ Revision 41, published 2026-10-30, valid until 2026-11-06. These are the only vi
 | [25-minute 25 MIN FULL BODY HIIT for Beginners - No Equipment, No Jumping - Home Workout](https://www.youtube.com/watch?v=-C6wZe8Lblg) | TRAIN WITH GAINSBYBRAINS | 26 | 2026-02-12 | 2028-02-12 |
 | [Yoga Pilates full-body strength](https://www.youtube.com/watch?v=2_Z8usjTflU) | Yoga with Kassandra | 32 | 2026-05-11 | 2028-05-11 |
 
-## Strength plan sessions (418)
+## Strength plan sessions (454)
 
 | Video | Creator | Minutes | Published | Ages out |
 |---|---|---|---|---|
@@ -407,6 +407,42 @@ Revision 41, published 2026-10-30, valid until 2026-11-06. These are the only vi
 | [10-minute 10 Min Intense Abs Workout - No Equipment No Repeats](https://www.youtube.com/watch?v=XkPTWfH5h70) | Chloe Ting | 11 | 2025-01-02 | 2027-01-02 |
 | [15-minute 15 MIN HIIT WORKOUT | Fat Burn + Core Sculpt | No Equipment](https://www.youtube.com/watch?v=Dkf31xOJ1Uw) | Daniela Suarez | 15 | 2025-10-18 | 2027-10-18 |
 | [10-minute 10 Minute Abs Workout at Home: Lose Belly Fat & Get a Flat Stomach FAST! (No Equipment Needed)](https://www.youtube.com/watch?v=FLj97P-OKno) | Daniela Suarez | 11 | 2024-11-22 | 2026-11-22 |
+| [30-Min Full Body Dumbbell Workout | 9 Giant Sets + AMRAP Finisher](https://www.youtube.com/watch?v=GStF808Keo0) | DANIELPT FITNESS | 34 | 2026-10-22 | 2028-10-22 |
+| [30-Min Full Body Dumbbell Workout | Giant Sets + Supersets — No Repeat](https://www.youtube.com/watch?v=8TG8ENN3OFA) | DANIELPT FITNESS | 26 | 2026-09-10 | 2028-09-10 |
+| [30 MIN COMPACT Upper Body Dumbbell VOLUME Workout | Chest, Back, Delts, Arms & Core](https://www.youtube.com/watch?v=bHIUvg3Yeds) | DANIELPT FITNESS | 32 | 2026-07-30 | 2028-07-30 |
+| [40-Min Upper Body Dumbbell Workout | 20 Supersets + Core Finisher](https://www.youtube.com/watch?v=JgiQkznY1TQ) | DANIELPT FITNESS | 44 | 2026-09-24 | 2028-09-24 |
+| [30 Min Full Body Dumbbell Workout | Strength & Conditioning (No Repeat)](https://www.youtube.com/watch?v=xRQ4MIKdmTc) | DANIELPT FITNESS | 32 | 2026-06-11 | 2028-06-11 |
+| [30 Min Kettlebell Workout  Full Body Strength → Power → 3 Min AMRAP Complexes](https://www.youtube.com/watch?v=f4V5uebSHb8) | DANIELPT FITNESS | 32 | 2026-09-03 | 2028-09-03 |
+| [34 Min One Kettlebell + 20 Bodyweight Exercises | Full Body Workout](https://www.youtube.com/watch?v=lrs1N8X_sAo) | DANIELPT FITNESS | 35 | 2026-08-20 | 2028-08-20 |
+| [30 Min Kettlebell Lower Body + Core Workout | Strength, Control & Muscular Endurance | FORGED Ep.1](https://www.youtube.com/watch?v=nnm0BwFk1FU) | DANIELPT FITNESS | 33 | 2026-04-16 | 2028-04-16 |
+| [40-Min Full Body Kettlebell Workout | Strength, Mobility & Control (Follow-Along)](https://www.youtube.com/watch?v=fr9IiN8cOFw) | DANIELPT FITNESS | 39 | 2026-03-26 | 2028-03-26 |
+| [35 Min Full Body Kettlebell Workout | Compact Strength & Conditioning | FORGED Ep. 6](https://www.youtube.com/watch?v=jaGlWe8570c) | DANIELPT FITNESS | 38 | 2026-05-21 | 2028-05-21 |
+| [32-Min Kettlebell Power HIIT Workout | Full Body Strength & Conditioning](https://www.youtube.com/watch?v=7U9iwpIIHWM) | DANIELPT FITNESS | 34 | 2026-10-01 | 2028-10-01 |
+| [30 MIN Progressive Bodyweight HIIT Workout | No Equipment](https://www.youtube.com/watch?v=pRLh-z6x77I) | DANIELPT FITNESS | 33 | 2026-07-23 | 2028-07-23 |
+| [30-Min Kettlebell Complex Workout | Full Body Strength Under Fatigue](https://www.youtube.com/watch?v=DtoAOpr1aLw) | DANIELPT FITNESS | 33 | 2026-04-09 | 2028-04-09 |
+| [20 Min Kettlebell Tabata Workout  5 Tabatas → 20 Minutes of Full Body HIIT](https://www.youtube.com/watch?v=36fNMuwBSeo) | DANIELPT FITNESS | 23 | 2026-09-17 | 2028-09-17 |
+| [30 MIN 40-30-20 HIIT Workout | No Repeat | Bodyweight & Dumbbells](https://www.youtube.com/watch?v=xEoRRDy8fmY) | DANIELPT FITNESS | 32 | 2026-08-13 | 2028-08-13 |
+| [20 MIN Kettlebell Combination Workout | Full Body No Repeat](https://www.youtube.com/watch?v=I2HnklmZ3kY) | DANIELPT FITNESS | 24 | 2026-08-06 | 2028-08-06 |
+| [37 Min Double & Single Kettlebell Workout | Full Body Strength & Conditioning](https://www.youtube.com/watch?v=w5p79oYZL4g) | DANIELPT FITNESS | 38 | 2026-07-16 | 2028-07-16 |
+| [30 Min Full Body HIIT Workout | Kettlebell + Bodyweight (No Repeat)](https://www.youtube.com/watch?v=FYmkdJCYaWU) | DANIELPT FITNESS | 32 | 2026-07-02 | 2028-07-02 |
+| [30 Min Full Body Dumbbell Workout | Strength + Tabata Finishers (Follow Along)](https://www.youtube.com/watch?v=fo8CGEY-tOE) | DANIELPT FITNESS | 33 | 2026-06-25 | 2028-06-25 |
+| [30 Min No Repeat Full Body Kettlebell Workout | Strength + Explosive Conditioning](https://www.youtube.com/watch?v=71pZKKRhiVs) | DANIELPT FITNESS | 35 | 2026-06-18 | 2028-06-18 |
+| [30 Min No Repeat Bodyweight HIIT Workout | 40 Exercises, Cardio & Core](https://www.youtube.com/watch?v=cTe86Evvv7s) | DANIELPT FITNESS | 32 | 2026-06-04 | 2028-06-04 |
+| [30 Min Full Body Kettlebell Workout | Compound Combos, Conditioning & Core | FORGED Ep  5](https://www.youtube.com/watch?v=x9p7uAiWYio) | DANIELPT FITNESS | 33 | 2026-05-14 | 2028-05-14 |
+| [30 Min Kettlebell Full Body Workout | Lower Body, Upper Body & Combo Finisher | FORGED Ep.4](https://www.youtube.com/watch?v=bQhhBaScwKQ) | DANIELPT FITNESS | 33 | 2026-05-07 | 2028-05-07 |
+| [30 Min Kettlebell Full Body Conditioning Workout | Strength, Core & Endurance | FORGED Ep.3](https://www.youtube.com/watch?v=m2RJUlFZtfE) | DANIELPT FITNESS | 31 | 2026-04-30 | 2028-04-30 |
+| [30 Min Upper Body Kettlebell Workout + Core | Intense Push & Pull Strength | FORGED Ep.2](https://www.youtube.com/watch?v=oNnQjab42nw) | DANIELPT FITNESS | 36 | 2026-04-23 | 2028-04-23 |
+| [30-Min Full Body Dumbbell Workout | Controlled Strength → Unilateral Work → Explosive Finish](https://www.youtube.com/watch?v=P22r3y4BrJQ) | DANIELPT FITNESS | 34 | 2026-04-02 | 2028-04-02 |
+| [30-Min Full Body Kettlebell Workout | Single & Double KB Strength, Power & Core](https://www.youtube.com/watch?v=mVTpaC5ZZOo) | DANIELPT FITNESS | 32 | 2026-03-19 | 2028-03-19 |
+| [30-Min Explosive Dumbbell Workout | CrossX Full Body Conditioning](https://www.youtube.com/watch?v=zayMWRO9GfA) | DANIELPT FITNESS | 33 | 2026-03-12 | 2028-03-12 |
+| [35-Min Bodyweight Workout | 6 Controlled Bundles → 4 Explosive Finish](https://www.youtube.com/watch?v=ZyTDFuchbaM) | DANIELPT FITNESS | 36 | 2026-03-05 | 2028-03-05 |
+| [30 Min Full Body Kettlebell | 10m Basic Strength | 10m Unilateral | 10m Explosive](https://www.youtube.com/watch?v=tELwqDl3BQo) | DANIELPT FITNESS | 32 | 2026-02-26 | 2028-02-26 |
+| [30 Min Bodyweight HIIT Workout | No Repeat, No Equipment, INTENSE!](https://www.youtube.com/watch?v=8u6BMqAqJkE) | DANIELPT FITNESS | 33 | 2025-05-01 | 2027-05-01 |
+| [30 Min Intense Bodyweight HIIT Workout | Weight loss exercises at home](https://www.youtube.com/watch?v=3_FWsTDlOcc) | DANIELPT FITNESS | 35 | 2025-05-29 | 2027-05-29 |
+| [35-minute Full Body Resistance Band Workout | No Attaching | No Repeat](https://www.youtube.com/watch?v=2_egnNlrDj0) | DANIELPT FITNESS | 37 | 2025-01-16 | 2027-01-16 |
+| [40-Min Dumbbell Upper Body Workout | Chest, Back, Arms & Core (Follow Along)](https://www.youtube.com/watch?v=blNI9c1iYfk) | DANIELPT FITNESS | 43 | 2026-02-19 | 2028-02-19 |
+| [Explosive 30-Minute Kettlebell Conditioning | Not for Beginners, No Repeats](https://www.youtube.com/watch?v=PDuFAtZCavw) | DANIELPT FITNESS | 32 | 2026-01-22 | 2028-01-22 |
+| [ONE Kettlebell, NO Repeats | 30-Minute Full Body Follow-Along Workout](https://www.youtube.com/watch?v=96KuI0EuRDg) | DANIELPT FITNESS | 32 | 2026-01-08 | 2028-01-08 |
 | [30-minute Intermediate Kettlebell Circuit | 30 Minute Strength & Mobility | No Talking](https://www.youtube.com/watch?v=DQt_0sdlZTw) | EDR Fitness | 36 | 2026-06-18 | 2028-06-18 |
 | [30-minute 30 Min BOOTY BUILDING WORKOUT + Weights |  Grow your Glutes | No Jumping, Warm Up + Cool Down](https://www.youtube.com/watch?v=avyhBrDwqGE) | Eleni Fit | 34 | 2025-12-29 | 2027-12-29 |
 | [Do This Every Day To Lose Weight & Tone Your Body🔥| 5000 Steps, optional: Small Weights, No Jumping](https://www.youtube.com/watch?v=eagtxYCXZMU) | Eleni Fit | 34 | 2026-04-06 | 2028-04-06 |
