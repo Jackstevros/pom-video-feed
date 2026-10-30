@@ -1,12 +1,13 @@
 # POM approved videos
 
-Revision 45, published 2026-10-30, valid until 2026-11-06. These are the only videos the app can link to. The signed file the app reads is `approved-action-feed.signed.json`.
+Revision 46, published 2026-10-30, valid until 2026-11-06. These are the only videos the app can link to. The signed file the app reads is `approved-action-feed.signed.json`.
 
-## Runner flexibility (231)
+## Runner flexibility (239)
 
 | Video | Creator | Minutes | Published | Ages out |
 |---|---|---|---|---|
 | [15-minute 15 MINUTE FULL BODY MOBILITY ROUTINE (NO EQUIPMENT) DAY 6](https://www.youtube.com/watch?v=BMELYo3oelI) | BullyJuice | 15 | 2026-10-06 | 2028-10-06 |
+| [15-minute 15 MINUTE RUNNING HIIT CARDIO WORKOUT (NO EQUIPMENT) DAY 12](https://www.youtube.com/watch?v=RqaHr76BMdU) | BullyJuice | 16 | 2026-10-10 | 2028-10-10 |
 | [5-minute ✅️ 5 MIN STANDING COOL DOWN | Gentle Post Workout Recovery | Lower Body Stretch ✅️](https://www.youtube.com/watch?v=l6FfN8tH1z4) | BurpeeGirl | 6 | 2026-07-17 | 2028-07-17 |
 | [5-minute ✅️ 5 MIN STANDING WARM UP | Full Body Activation & Joint Mobility | Perfect Before Any Workout ✅️](https://www.youtube.com/watch?v=Mrc3rYErriE) | BurpeeGirl | 6 | 2026-07-17 | 2028-07-17 |
 | [10-minute 10 Min Yoga Full Body Stretch | Post Workout For Rest & Recovery](https://www.youtube.com/watch?v=7BEhZLHfL2Q) | Charlie Follows | 12 | 2026-03-22 | 2028-03-22 |
@@ -17,16 +18,20 @@ Revision 45, published 2026-10-30, valid until 2026-11-06. These are the only vi
 | [15-minute Everyday Stretch & Mobility Routine - 15 Min](https://www.youtube.com/watch?v=oQpUN1bjXaU) | Chloe Ting | 16 | 2025-07-01 | 2027-07-01 |
 | [GET FLEXIBLE FAST with this Morning Stretch on The Beach for Beginners](https://www.youtube.com/watch?v=3J6eTq3x-Ys) | Daniela Suarez | 12 | 2025-10-12 | 2027-10-12 |
 | [7-minute 7 MIN UPPER BODY AND POSTURE STRETCH | OCEAN RELAXATION TO RESET YOUR BODY | Take a Break From Work](https://www.youtube.com/watch?v=7Wip-QVpwyE) | Daniela Suarez | 8 | 2026-08-25 | 2028-08-25 |
+| [HAMSTRING STRETCHES to Loose Your Tight Hamstrings | Stretches for The Inflexible | Resistance Band](https://www.youtube.com/watch?v=8aiGnpe1HbI) | Daniela Suarez | 15 | 2024-11-08 | 2026-11-08 |
 | [The Best Stretch Routine for DESK WORKERS to Fix Posture, Relieve Pain & Improve Flexibility](https://www.youtube.com/watch?v=8Ajt84jeWmE) | Daniela Suarez | 11 | 2025-02-26 | 2027-02-26 |
 | [FULL BODY COZY STRETCH AT HOME | Everyday Relaxing Stretching Routine](https://www.youtube.com/watch?v=A5jERtgDGP0) | Daniela Suarez | 16 | 2025-12-05 | 2027-12-05 |
 | [10-minute 10 MIN FULL BODY STRETCH | STRESS RELIEF MEDITATION STRETCH | Reset Your Nervous System](https://www.youtube.com/watch?v=BBLfPlm7XBw) | Daniela Suarez | 11 | 2026-07-13 | 2028-07-13 |
 | [SPLIT STRETCH ROUTINE TO GET FLEXIBLE LEGS | Do This Everyday to Get Your SPLITS!](https://www.youtube.com/watch?v=bFxgYjeH-PU) | Daniela Suarez | 16 | 2025-08-17 | 2027-08-17 |
 | [Easy Family Stretching Routine That Will Make You Feel Amazing!](https://www.youtube.com/watch?v=BRYnlq5VFPA) | Daniela Suarez | 17 | 2024-12-25 | 2026-12-25 |
+| [10-minute 10 MIN GENTLE MORNING STRETCH MEDITATION | RELAXING STRETCHES with Blocks & Band | Beginner Friendly](https://www.youtube.com/watch?v=carj76kk-so) | Daniela Suarez | 13 | 2026-05-05 | 2028-05-05 |
+| [QUICK FULL BODY WORKOUT AT HOME | Mobility, Toning and Strength with Bands & Blocks](https://www.youtube.com/watch?v=eDA7WPa4QiA) | Daniela Suarez | 15 | 2026-05-18 | 2028-05-18 |
 | [6-minute STRETCH AWAY Sore Muscles FAST with This 6 Min Everyday Stretching Routine](https://www.youtube.com/watch?v=ejTW0pZGjEY) | Daniela Suarez | 7 | 2025-02-14 | 2027-02-14 |
 | [8-minute 8 MIN STRETCH to Feel Calm and Relaxed (Immersive Nature Meditation Practice)](https://www.youtube.com/watch?v=j0BpK48iO98) | Daniela Suarez | 9 | 2025-10-22 | 2027-10-22 |
 | [15-minute 15 MIN FLEXIBILITY STRETCH TO FEEL GOOD | After Workouts, Before Bed, Waking Up (Beginner Friendly)](https://www.youtube.com/watch?v=KglSDZKAKQw) | Daniela Suarez | 17 | 2025-11-04 | 2027-11-04 |
 | [10-minute 14 SPLIT STRETCHING EXERCISES to Get Your Splits (Middle & Front) | 10 MIN ROUTINE](https://www.youtube.com/watch?v=LWmjrFXEy5Q) | Daniela Suarez | 13 | 2026-04-10 | 2028-04-10 |
 | [Perfect Stretch for Busy Desk Workers Under Blooming Cherry Blossoms](https://www.youtube.com/watch?v=U9kV8t29oew) | Daniela Suarez | 8 | 2024-12-08 | 2026-12-08 |
+| [FULL BODY STRETCHING ROUTINE TO GET DEEPER FLEXIBILITY | Blocks & Band](https://www.youtube.com/watch?v=UWn0c17akLA) | Daniela Suarez | 17 | 2026-01-05 | 2028-01-05 |
 | [DAILY RELAXING STRETCHING ROUTINE for stress relief in Greece](https://www.youtube.com/watch?v=YN7oeSzAWL4) | Daniela Suarez | 11 | 2025-09-15 | 2027-09-15 |
 | [10-minute 10 Minute Intense Mobility Flow | Advanced | No Talking](https://www.youtube.com/watch?v=2NFw7P33Bws) | EDR Fitness | 11 | 2026-07-02 | 2028-07-02 |
 | [15-minute 15 Minute Hand and Wrist Mobility Workout | Joint Care Series | With Coaching](https://www.youtube.com/watch?v=3UMjbsalrw0) | EDR Fitness | 16 | 2026-04-02 | 2028-04-02 |
@@ -178,12 +183,15 @@ Revision 45, published 2026-10-30, valid until 2026-11-06. These are the only vi
 | [Stuck at Your Desk? Try This 15-Minute Stretch (FOLLOW ALONG)](https://www.youtube.com/watch?v=QJeW83kIn4A) | Tom Merrick | 15 | 2025-06-01 | 2027-06-01 |
 | [Can You Pass These 3 Flexibility Tests?](https://www.youtube.com/watch?v=WnUIDCoChP4) | Tom Merrick | 8 | 2026-07-19 | 2028-07-19 |
 | [17-minute 17 Minute Beginner Stretch Routine V6! (FOLLOW ALONG)](https://www.youtube.com/watch?v=XTZT56uav84) | Tom Merrick | 19 | 2025-10-22 | 2027-10-22 |
+| [5-minute 5 Min UPPER BODY RESISTANCE BAND STRETCH | Post Workout](https://www.youtube.com/watch?v=F1LB7dHL4KQ) | Tom Peto Training | 6 | 2026-04-20 | 2028-04-20 |
 | [15-minute 15 Minute Animal Movement Workout | Strength & Mobility Flow](https://www.youtube.com/watch?v=ietk995kKBw) | Tom Peto Training | 16 | 2026-01-26 | 2028-01-26 |
 | [15-minute 15 Min Standing Stretch Routine | Hamstring & Hips Focus](https://www.youtube.com/watch?v=l6t7I-axNjU) | Tom Peto Training | 16 | 2026-07-20 | 2028-07-20 |
 | [15-minute 15 Min Banded Full Body Stretch Routine | No Anchor](https://www.youtube.com/watch?v=naw8bnMvHKs) | Tom Peto Training | 16 | 2026-08-31 | 2028-08-31 |
+| [5-minute 5 Min LOWER BODY COOL DOWN STRETCH with Resistance Band](https://www.youtube.com/watch?v=PEu2LwpWvyQ) | Tom Peto Training | 6 | 2026-05-18 | 2028-05-18 |
 | [10-minute Release Upper Back Tension at Your Desk | 10 Min Mobility Routine](https://www.youtube.com/watch?v=qw5X5jMqnPs) | Tom Peto Training | 12 | 2026-06-08 | 2028-06-08 |
 | [15-minute 15 Min MOBILITY ROUTINE for CLIMBERS | Follow Along](https://www.youtube.com/watch?v=SI3EFOTDeAc) | Tom Peto Training | 16 | 2026-06-29 | 2028-06-29 |
 | [10-minute 10 Min Mobility for Calisthenics | All Levels | No Equipment](https://www.youtube.com/watch?v=Yk_8b--l7U0) | Tom Peto Training | 11 | 2026-02-02 | 2028-02-02 |
+| [Neck Pain From Sleeping Wrong? Here's How to Fix It [From A Physical Therapist]](https://www.youtube.com/watch?v=vVvgIF_9hEA) | Tone and Tighten | 11 | 2026-04-30 | 2028-04-30 |
 | [Tight Hips Causing Lower Back Pain? 8-Minute Fix (Follow Along)](https://www.youtube.com/watch?v=1xOpTPHjVhI) | Tone and Tighten | 10 | 2026-05-07 | 2028-05-07 |
 | [Knee Pain? Stretching Isn't The Fix [Do This Instead]](https://www.youtube.com/watch?v=A4fNEtJxM1E) | Tone and Tighten | 10 | 2026-09-10 | 2028-09-10 |
 | [Full Body Stretch For Tight Muscles, Recovery, and Mobility](https://www.youtube.com/watch?v=avgWyexgGFc) | Tone and Tighten | 11 | 2026-07-02 | 2028-07-02 |
@@ -238,18 +246,21 @@ Revision 45, published 2026-10-30, valid until 2026-11-06. These are the only vi
 | [10-minute 10 Min Yoga Full Body Stretch for Stiff Bodies | Daily Reset (All Levels)](https://www.youtube.com/watch?v=zCp-x7TCHFY) | Yoga With Tim | 13 | 2026-04-12 | 2028-04-12 |
 | [10-minute 10 Min Morning Yoga Mobility Routine (Do This Every Day)](https://www.youtube.com/watch?v=ZIS6TE93rAg) | Yoga With Tim | 10 | 2026-06-22 | 2028-06-22 |
 
-## Planned long mobility sessions (58)
+## Planned long mobility sessions (63)
 
 | Video | Creator | Minutes | Published | Ages out |
 |---|---|---|---|---|
 | [20-minute 🔥20 MIN Fat Burning Full Body Workout for Total Beginners | All Standing - No Jumping | No Repeat🔥](https://www.youtube.com/watch?v=bhoqAldxlwM) | BurpeeGirl | 25 | 2026-06-30 | 2028-06-30 |
 | [20-minute all-level mobility with modifications — EDR Fitness](https://www.youtube.com/watch?v=0JLYUgAEO8A) | EDR Fitness | 21 | 2026-10-12 | 2028-10-12 |
 | [30-minute 30 Minute Beginner Mobility Workout | Follow Along | Start From Any Level! (With Coaching)](https://www.youtube.com/watch?v=daT8_M2BdN4) | EDR Fitness | 32 | 2026-04-30 | 2028-04-30 |
+| [30-minute Unlock Your Joints: 30 Minute Weighted Mobility Workout (No Talking)](https://www.youtube.com/watch?v=dgW278twv4M) | EDR Fitness | 31 | 2026-08-17 | 2028-08-17 |
 | [20-minute 20 Minute T-Spine Mobility Workout | Joint Care Series | With Coaching](https://www.youtube.com/watch?v=flcle2QJ2p8) | EDR Fitness | 22 | 2026-02-26 | 2028-02-26 |
+| [20-minute 20 Minute Hip Mobility Workout | Joint Care Series | No Talking](https://www.youtube.com/watch?v=FSYARen_6ew) | EDR Fitness | 21 | 2026-02-19 | 2028-02-19 |
 | [30-minute 30 Minute Weighted Mobility Workout | Intermediate+ | No Talking](https://www.youtube.com/watch?v=HA2VeQD1RZI) | EDR Fitness | 32 | 2026-05-07 | 2028-05-07 |
 | [20-minute 20 Minute Shoulder Mobility Workout | Joint Care Series | No Talking](https://www.youtube.com/watch?v=kRHMabLweZ0) | EDR Fitness | 21 | 2026-03-05 | 2028-03-05 |
 | [20-minute 20 Minute Shoulder Mobility Workout | Joint Care Series | With Coaching](https://www.youtube.com/watch?v=NYh9PFNZ4lU) | EDR Fitness | 22 | 2026-03-05 | 2028-03-05 |
 | [20-minute 20 Minute Hip Mobility Workout | Joint Care Series | With Coaching](https://www.youtube.com/watch?v=qY6ugSwoAgg) | EDR Fitness | 22 | 2026-02-19 | 2028-02-19 |
+| [30-minute Unlock Your Joints: 30 Minute Weighted Mobility Workout (With Coaching)](https://www.youtube.com/watch?v=TzJApqbIz6Y) | EDR Fitness | 32 | 2026-08-17 | 2028-08-17 |
 | [20-minute 20 Minute T-Spine Mobility Workout | Joint Care Series | No Talking](https://www.youtube.com/watch?v=Z2cKHlB0jj8) | EDR Fitness | 21 | 2026-02-26 | 2028-02-26 |
 | [20-minute 20 Minute Lower Back Strength & Mobility Workout | Joint Care Series | No Talking](https://www.youtube.com/watch?v=6HMjwasJtKs) | EDR Fitness | 21 | 2026-03-12 | 2028-03-12 |
 | [30-minute 30 Minute Full Body Mobility: Move Better, Feel Better (No Talking)](https://www.youtube.com/watch?v=aIDWanFnZa4) | EDR Fitness | 31 | 2026-06-29 | 2028-06-29 |
@@ -269,7 +280,9 @@ Revision 45, published 2026-10-30, valid until 2026-11-06. These are the only vi
 | [30-minute 30 Minute Total Body Mobility | Intermediate+ | No Talking](https://www.youtube.com/watch?v=l1ZvT-bZBfw) | EDR Fitness | 31 | 2026-09-07 | 2028-09-07 |
 | [20-minute 20 Minute Upper Body Mobility Flow to Fix Stiff Shoulders & Back](https://www.youtube.com/watch?v=P52YlsXwelU) | EDR Fitness | 21 | 2026-10-05 | 2028-10-05 |
 | [20-minute 20 MIN FEEL GOOD FLOW | MOVE, BREATHE & RECONNECT | MOBILITY ACTIVATION | LIFT YOUR ENERGY](https://www.youtube.com/watch?v=-tiS9nZsUG0) | fitness__kaykay | 25 | 2026-09-25 | 2028-09-25 |
+| [Express Upper Body Active Recovery: Low-Intensity Cardio, Mobility & Stretching](https://www.youtube.com/watch?v=WRIOtDa2tG0) | FitnessBlender | 23 | 2026-10-21 | 2028-10-21 |
 | [20-minute DAY 8 | 20MIN FULL BODY STRETCHING | flexibility & mobility](https://www.youtube.com/watch?v=08pcqP9Ghis) | Lidia Mera | 21 | 2026-08-30 | 2028-08-30 |
+| [35-minute 35 Min. Weighted Mobility Workout for Longevity: Build Strength in Every Range of Motion](https://www.youtube.com/watch?v=yc1HaJOF6jM) | Marie Steffen | 36 | 2026-05-21 | 2028-05-21 |
 | [30-minute 30 Min. Full Body Pilates x Mobility Workout | No Repeats](https://www.youtube.com/watch?v=-XAJ25OufpE) | Marie Steffen | 32 | 2025-11-01 | 2027-11-01 |
 | [25-minute 25 Min. Full Body Mobility Workout x @julia.reppel | The Longevity Plan Day 5](https://www.youtube.com/watch?v=4E8JdtzyowE) | Marie Steffen | 28 | 2026-01-15 | 2028-01-15 |
 | [30-minute 30 Min. Full Body Mobility Workout x @julia.reppel | The Longevity Plan Day 5](https://www.youtube.com/watch?v=5F15GPCuqsg) | Marie Steffen | 33 | 2026-01-21 | 2028-01-21 |
@@ -307,7 +320,7 @@ Revision 45, published 2026-10-30, valid until 2026-11-06. These are the only vi
 |---|---|---|---|---|
 | [20-minute intermediate kettlebell mobility + strength](https://www.youtube.com/watch?v=7wNrGs3EO70) | mobility by julia reppel | 24 | 2026-04-13 | 2028-04-13 |
 
-## Guided recovery (41)
+## Guided recovery (42)
 
 | Video | Creator | Minutes | Published | Ages out |
 |---|---|---|---|---|
@@ -334,6 +347,7 @@ Revision 45, published 2026-10-30, valid until 2026-11-06. These are the only vi
 | [10-minute A Simple Way to Feel More Appreciative Today: 10 Minute Guided Meditation with Andy](https://www.youtube.com/watch?v=izePiDJJ6Ek) | Headspace | 11 | 2026-07-15 | 2029-07-15 |
 | [12-minute Reconnect With Your Joy: 12 Minute Guided Meditation for Difficult Days](https://www.youtube.com/watch?v=Kc3FNhi3Kwc) | Headspace | 12 | 2026-07-28 | 2029-07-28 |
 | [15-minute When Your Brain Won’t Clock Off: 15 Minute Meditation to Move From Stress to Sleep](https://www.youtube.com/watch?v=pqSGnJBoGGE) | Headspace | 16 | 2026-08-24 | 2029-08-24 |
+| [11-minute Life Is Always Changing — Here’s How to Feel Okay with That: 11 Minute Guided Meditation](https://www.youtube.com/watch?v=rgTWI1uiQfQ) | Headspace | 12 | 2026-05-04 | 2029-05-04 |
 | [12-minute Make Peace with Your Mind: 12 Minute Guided Meditation for Self-Compassion](https://www.youtube.com/watch?v=rJhlp1CD-30) | Headspace | 13 | 2026-08-13 | 2029-08-13 |
 | [10-minute The First Step to Getting Unstuck: 10 Minute Body Scan Meditation to Overcome Fear & Doubt](https://www.youtube.com/watch?v=XHpkDj50yO4) | Headspace | 11 | 2026-06-17 | 2029-06-17 |
 | [Relax and Recover After Your Workout: 10-Minute Guided Recovery Meditation](https://www.youtube.com/watch?v=z5W4R9e_l84) | Headspace | 11 | 2026-03-19 | 2029-03-19 |
@@ -353,12 +367,13 @@ Revision 45, published 2026-10-30, valid until 2026-11-06. These are the only vi
 | [Relaxing yin yoga, no props](https://www.youtube.com/watch?v=QO8j6H6DrMA) | Yoga with Kassandra | 19 | 2025-12-22 | 2028-12-22 |
 | [Relaxing morning stretch](https://www.youtube.com/watch?v=hJ0Ol0mYLDI) | Yoga with Kassandra | 16 | 2025-12-15 | 2028-12-15 |
 
-## Beginner strength (377)
+## Beginner strength (387)
 
 | Video | Creator | Minutes | Published | Ages out |
 |---|---|---|---|---|
 | [20-minute 20 MINUTE FULL BODY MOBILITY ROUTINE (NO EQUIPMENT) DAY 14](https://www.youtube.com/watch?v=aSwN0hogDu8) | BullyJuice | 22 | 2026-10-12 | 2028-10-12 |
 | [25-minute 🔥25 Min Dumbbell Workout🔥Full Body Strength Workout🔥ALL STANDING🔥NO JUMPING🔥NO REPEAT🔥](https://www.youtube.com/watch?v=aFl_2AgMRz0) | BurpeeGirl | 31 | 2026-05-05 | 2028-05-05 |
+| [20-minute 🔥20 Min FULL BODY KETTLEBELL WORKOUT at Home🔥Beginner Workout🔥ALL STANDING🔥NO JUMPING🔥](https://www.youtube.com/watch?v=50U2e5ChlE4) | BurpeeGirl | 27 | 2026-09-15 | 2028-09-15 |
 | [20-minute 🔥20 MIN LAZY GIRL FULL BODY WORKOUT - No Jumping, Knee Friendly, All Standing🔥](https://www.youtube.com/watch?v=GPzHGfK01n8) | BurpeeGirl | 24 | 2026-10-20 | 2028-10-20 |
 | [25-minute 🔥25 Min Standing Cardio HIIT🔥Full Body Fat Burn (No Jumping, No Equipment)🔥](https://www.youtube.com/watch?v=3zolS3k9DO0) | BurpeeGirl | 32 | 2026-05-18 | 2028-05-18 |
 | [20-minute 🔥20 Min Full Body Fat-Burning Cardio (No Jumping, No Squats, No Lunges)🔥Diet Workout🔥](https://www.youtube.com/watch?v=L3Q0e02_Bcc) | BurpeeGirl | 25 | 2026-05-25 | 2028-05-25 |
@@ -467,6 +482,7 @@ Revision 45, published 2026-10-30, valid until 2026-11-06. These are the only vi
 | [20-minute 20 Min Full Body Dumbbell Workout at Home Strength Training - Weight Training for Women & Men](https://www.youtube.com/watch?v=YtzhMk7SOBg) | HASfit | 27 | 2025-05-26 | 2027-05-26 |
 | [20-minute 20 Min Full Body Beginner Workout at Home with Dumbbells - Strength Training for Women & Men Over 50](https://www.youtube.com/watch?v=ZbRAk6NPfPg) | HASfit | 26 | 2026-06-08 | 2028-06-08 |
 | [15-minute 15 Min Beginner Workout at Home with Dumbbells - Full Body Dumbbell Workout for Women & Men Over 50](https://www.youtube.com/watch?v=zzuvOnZ2HgE) | HASfit | 23 | 2026-04-13 | 2028-04-13 |
+| [20-minute 20 Min Full Body Resistance Band Workout for Beginners / INT - Elastic Exercise Band for Women & Men](https://www.youtube.com/watch?v=NtgpX9twRmg) | HASfit | 30 | 2025-06-23 | 2027-06-23 |
 | [15-minute 15 Min Chair Exercises for Seniors Workout at Home - Strength Training for Seniors Seated Exercise](https://www.youtube.com/watch?v=VatRLpDLrOc) | HASfit | 22 | 2026-08-10 | 2028-08-10 |
 | [20-minute 20 Min HIIT Workout at Home with Weights for Fat Loss - No Jumping - No Repeats - with Dumbbells](https://www.youtube.com/watch?v=4Uu-5oFT2DQ) | HASfit | 27 | 2026-02-16 | 2028-02-16 |
 | [20-minute 20 Min HIIT Workout for Beginners for Fat Loss - Standing No Jumping No Repeat Easy Low Impact](https://www.youtube.com/watch?v=bkhgiktiloQ) | HASfit | 25 | 2025-06-02 | 2027-06-02 |
@@ -477,6 +493,7 @@ Revision 45, published 2026-10-30, valid until 2026-11-06. These are the only vi
 | [15-minute 15 Min Full Body Dumbbell HIIT Workout at Home with Weights No Jumping - No Repeat for Fat Loss](https://www.youtube.com/watch?v=laXV3VSZeBQ) | HASfit | 22 | 2025-04-09 | 2027-04-09 |
 | [20-minute 20 Minute HIIT Workout for Fat Loss with Weights at Home - No Jumping Tabata - Full Body Dumbbells](https://www.youtube.com/watch?v=lzDFCJ_tbu4) | HASfit | 22 | 2025-09-01 | 2027-09-01 |
 | [20-minute 20 Min Beginner HIIT Workout for Women & Men for Fat Loss - Dumbbell Standing No Jumping No Repeat](https://www.youtube.com/watch?v=QCAdiVue4qA) | HASfit | 27 | 2025-08-04 | 2027-08-04 |
+| [25-minute 25 Min Full Body Kettlebell Workout - No Repeat HIIT Kettlebell Workout for Women & Men Fat Loss](https://www.youtube.com/watch?v=uK-O-pVIYW8) | HASfit | 30 | 2026-07-13 | 2028-07-13 |
 | [30-minute 30 Min Tabata HIIT Workout for Fat Loss with Weights - Full Body Workout with Dumbbells at Home](https://www.youtube.com/watch?v=V8xsifFmEqs) | HASfit | 32 | 2025-06-09 | 2027-06-09 |
 | [30-minute 30MIN No Repeats FULL BODY Workout with Dumbbells](https://www.youtube.com/watch?v=ef2dgRoTKzI) | Heather Robertson | 29 | 2025-07-14 | 2027-07-14 |
 | [25-minute 25MIN Full Body Calisthenic / Body-Weight Workout](https://www.youtube.com/watch?v=t1uZG3OhH4c) | Heather Robertson | 31 | 2025-06-15 | 2027-06-15 |
@@ -532,6 +549,7 @@ Revision 45, published 2026-10-30, valid until 2026-11-06. These are the only vi
 | [30-minute 30 Min Standing Cardio HIIT🔥 Full Body Fat Burn (No Jumping, No Equipment)](https://www.youtube.com/watch?v=bMv-9oeYJVY) | MIZI | 32 | 2026-02-25 | 2028-02-25 |
 | [Strength and mobility, no talking](https://www.youtube.com/watch?v=_3yuHHrl080) | mobility by julia reppel | 33 | 2025-11-10 | 2027-11-10 |
 | [30-minute Runner’s Strength Routine That Actually Works (30 Min. with Dumbbells)](https://www.youtube.com/watch?v=xinMdnDr7Zo) | mobility by julia reppel | 32 | 2026-03-12 | 2028-03-12 |
+| [30-minute 30 Min. Strength AND Mobility Workout That Changes How You Move (With Kettlebells)](https://www.youtube.com/watch?v=JBFLFk6OjNA) | mobility by julia reppel | 31 | 2026-08-03 | 2028-08-03 |
 | [25-minute 25 Min. Gentle Dynamic Stretch for Full Body | No Equipment](https://www.youtube.com/watch?v=N2u93CJWxL4) | mobility by julia reppel | 28 | 2026-03-02 | 2028-03-02 |
 | [20-minute 20 minute Abs, Arms, Back & Chest BODYWEIGHT Workout for Upper Body Strength 💪🏽](https://www.youtube.com/watch?v=2JFng2hkJcg) | MrandMrsMuscle | 23 | 2026-04-27 | 2028-04-27 |
 | [20-minute 20 minute Full Body ALL STANDING Dumbbell Workout to Build Muscle & Strength](https://www.youtube.com/watch?v=2v7fKkZAM1k) | MrandMrsMuscle | 23 | 2025-03-17 | 2027-03-17 |
@@ -671,6 +689,7 @@ Revision 45, published 2026-10-30, valid until 2026-11-06. These are the only vi
 | [20-Minute Morning Strength and Stretch](https://www.youtube.com/watch?v=bqjTMSW1B5o) | PS Fit | 22 | 2026-08-17 | 2028-08-17 |
 | [30-minute 30 Min Full Body Dumbbell Strength Training Workout | Rowan Row](https://www.youtube.com/watch?v=bJM3lmd528s) | Rowan Row | 30 | 2025-11-09 | 2027-11-09 |
 | [20-minute 20 Min Full Body Workout on a Yacht (No Equipment Needed) | Rowan Row](https://www.youtube.com/watch?v=G1CatH0hLRY) | Rowan Row | 25 | 2026-06-09 | 2028-06-09 |
+| [30-minute 30 Min Full Body RESISTANCE BAND Workout | Rowan Row](https://www.youtube.com/watch?v=P9yGinoGiTY) | Rowan Row | 35 | 2026-10-18 | 2028-10-18 |
 | [30-minute The Ultimate 30 Min FULL BODY WORKOUT | Rowan Row](https://www.youtube.com/watch?v=x2vk3aP975Q) | Rowan Row | 34 | 2025-08-11 | 2027-08-11 |
 | [20-minute 20 Min Full Body Workout (20 20 20 Workout Structure) on Virgin Voyages](https://www.youtube.com/watch?v=x2Zcp2FoDVQ) | Rowan Row | 23 | 2025-10-25 | 2027-10-25 |
 | [30-minute 30 Min FAT BURN BEGINNER WORKOUT | Full Body | No Equipment | Rowan Row](https://www.youtube.com/watch?v=J0ydhPtZAVc) | Rowan Row | 34 | 2026-07-11 | 2028-07-11 |
@@ -690,10 +709,12 @@ Revision 45, published 2026-10-30, valid until 2026-11-06. These are the only vi
 | [Full Body Flex Workout | SUMMERTIME FINE 2026 FINALE!](https://www.youtube.com/watch?v=KA15mQWDoy4) | Sydney Cummings Houdyshell | 35 | 2026-08-01 | 2028-08-01 |
 | [30-minute 30 Minute Leg Workout - Build Muscle & Strength in Your Quads!](https://www.youtube.com/watch?v=Lq0710bv-cU) | Sydney Cummings Houdyshell | 33 | 2026-09-21 | 2028-09-21 |
 | [30-minute 30 Min Intense Upper Body Workout | Build Strength & Muscle](https://www.youtube.com/watch?v=Pc9GVfBEDCs) | Sydney Cummings Houdyshell | 33 | 2026-09-22 | 2028-09-22 |
+| [30-minute 30 Minute Resistance Band Butt and Abs Workout](https://www.youtube.com/watch?v=tcrWN5Niky0) | Sydney Cummings Houdyshell | 35 | 2026-06-26 | 2028-06-26 |
 | [30-minute 30 Minute Full Body Strength & Conditioning Workout!](https://www.youtube.com/watch?v=vTwV2qdAJWU) | Sydney Cummings Houdyshell | 34 | 2026-06-29 | 2028-06-29 |
 | [30-minute 30 Minute Full Body AMRAP BURNOUT WORKOUT!](https://www.youtube.com/watch?v=wWg8mBvyeEk) | Sydney Cummings Houdyshell | 33 | 2026-05-22 | 2028-05-22 |
 | [30-minute Full Body Strength and Conditioning | 30 Minutes Level 4 Workout](https://www.youtube.com/watch?v=Wx7D9UhK6v4) | Sydney Cummings Houdyshell | 33 | 2026-07-20 | 2028-07-20 |
 | [Full Body Strength Workout with Cardio Finisher!](https://www.youtube.com/watch?v=4XffCAIImtw) | Sydney Cummings Houdyshell | 33 | 2026-07-25 | 2028-07-25 |
+| [30-minute Full Body Cardio and Abs | 30 Minute Bench Workout with Bands!!!](https://www.youtube.com/watch?v=ikGoUUc0IYo) | Sydney Cummings Houdyshell | 34 | 2026-07-03 | 2028-07-03 |
 | [30-minute 30 Minute Full Body and Jump Rope Sweat Workout!](https://www.youtube.com/watch?v=U4notfq3POI) | Sydney Cummings Houdyshell | 33 | 2026-07-11 | 2028-07-11 |
 | [30-minute 30 Minute Full Body Dumbbell HIIT Workout!](https://www.youtube.com/watch?v=uM5eJJk28JI) | Sydney Cummings Houdyshell | 33 | 2026-08-17 | 2028-08-17 |
 | [20 moves in 20 minutes bodyweight HIIT](https://www.youtube.com/watch?v=g1aBZBV9ebM) | The Body Coach TV by Joe Wicks | 22 | 2026-04-12 | 2028-04-12 |
@@ -722,6 +743,9 @@ Revision 45, published 2026-10-30, valid until 2026-11-06. These are the only vi
 | [20-minute 20 Min FULL BODY CALISTHENICS WORKOUT | Alex Crockford x Tom Peto](https://www.youtube.com/watch?v=36gncH0KAN0) | Tom Peto Training | 21 | 2026-03-09 | 2028-03-09 |
 | [20-minute 20 Min FULL BODY PRIMAL STRENGTH | Follow Along](https://www.youtube.com/watch?v=ClgtuBNDsDY) | Tom Peto Training | 22 | 2026-02-16 | 2028-02-16 |
 | [Foam Roll & Prehab Strength Routine for Runners | Follow Along](https://www.youtube.com/watch?v=dMdVrV_OS3k) | Tom Peto Training | 26 | 2025-10-23 | 2027-10-23 |
+| [30-minute 30 Min Resistance Band Full Body Workout | Day 1](https://www.youtube.com/watch?v=g-dGnwrXRv4) | Tom Peto Training | 32 | 2026-09-07 | 2028-09-07 |
+| [20-minute 20 Min Calisthenics & Band Workout | Full Body | Follow Along](https://www.youtube.com/watch?v=GgWbUU-xEh0) | Tom Peto Training | 23 | 2025-10-20 | 2027-10-20 |
+| [20-minute 20 Min FULL BODY RESISTANCE BAND WORKOUT | No Repeat | Strength at Home](https://www.youtube.com/watch?v=II6EEUPp__w) | Tom Peto Training | 21 | 2026-04-13 | 2028-04-13 |
 | [30-minute 30 Min Full Body Landmine Workout | No Repeat](https://www.youtube.com/watch?v=K8HxR18X7-k) | Tom Peto Training | 30 | 2026-07-27 | 2028-07-27 |
 | [20-minute 20 Min Pull Up Bar Workout | Full Body Follow Along](https://www.youtube.com/watch?v=u7nSBY9yJKE) | Tom Peto Training | 22 | 2026-05-25 | 2028-05-25 |
 | [30-minute 30 Min FULL BODY CALISTHENICS WORKOUT | Day 1 | Cali 3.0](https://www.youtube.com/watch?v=UfrbHSQyvOI) | Tom Peto Training | 31 | 2026-04-06 | 2028-04-06 |
@@ -735,7 +759,7 @@ Revision 45, published 2026-10-30, valid until 2026-11-06. These are the only vi
 | [30-minute 30 Min Full Body Deep Stretch | Release Stress & Tension](https://www.youtube.com/watch?v=rXymddIGGew) | Travis Eliot | 33 | 2026-09-12 | 2028-09-12 |
 | [Yoga Pilates full-body strength](https://www.youtube.com/watch?v=2_Z8usjTflU) | Yoga with Kassandra | 32 | 2026-05-11 | 2028-05-11 |
 
-## Strength plan sessions (703)
+## Strength plan sessions (704)
 
 | Video | Creator | Minutes | Published | Ages out |
 |---|---|---|---|---|
@@ -1379,6 +1403,7 @@ Revision 45, published 2026-10-30, valid until 2026-11-06. These are the only vi
 | [20-minute 20 Min DUMBBELL TRICEP WORKOUT to Build Muscle | 7 Day Split](https://www.youtube.com/watch?v=wa7QYlMJaIw) | Tom Peto Training | 22 | 2025-11-29 | 2027-11-29 |
 | [20-minute 20 Min DUMBBELL CHEST WORKOUT | 7 Day Split](https://www.youtube.com/watch?v=wQz8m-j34UY) | Tom Peto Training | 22 | 2025-11-24 | 2027-11-24 |
 | [30-minute 30 Min UPPER BODY Dumbbell Workout | No Bench](https://www.youtube.com/watch?v=z6SETXuSLnI) | Tom Peto Training | 32 | 2026-10-05 | 2028-10-05 |
+| [30-minute 30 Min FULL BODY KETTLEBELL WORKOUT for Strength & Power | Follow Along](https://www.youtube.com/watch?v=UmHAgSbc_Ts) | Tom Peto Training | 31 | 2026-03-17 | 2028-03-17 |
 | [30-minute 30 Min BEGINNER RINGS WORKOUT | Upper & Core](https://www.youtube.com/watch?v=GS4iHGTRaH8) | Tom Peto Training | 30 | 2026-08-10 | 2028-08-10 |
 | [20-minute 20 Min Beginner Friendly Kettlebell Workout | Follow Along at Home](https://www.youtube.com/watch?v=lUDESX3Gi6E) | Tom Peto Training | 23 | 2025-11-17 | 2027-11-17 |
 | [20-minute 20 Min KETTLEBELL & CORE WORKOUT | Follow Along](https://www.youtube.com/watch?v=vP3k8ZtKupI) | Tom Peto Training | 21 | 2026-04-27 | 2028-04-27 |
@@ -1443,7 +1468,7 @@ Revision 45, published 2026-10-30, valid until 2026-11-06. These are the only vi
 | [10-minute 10 MIN DAILY ABS](https://www.youtube.com/watch?v=Y9a99mkdYag) | TRAIN WITH GAINSBYBRAINS | 11 | 2026-04-06 | 2028-04-06 |
 | [Squat Workout For Bigger Butt and Stronger Legs!!!](https://www.youtube.com/watch?v=FOjEVQpnqH0) | Women's Workout Channel | 16 | 2025-01-29 | 2027-01-29 |
 
-## Yoga (143)
+## Yoga (147)
 
 | Video | Creator | Minutes | Published | Ages out |
 |---|---|---|---|---|
@@ -1492,8 +1517,11 @@ Revision 45, published 2026-10-30, valid until 2026-11-06. These are the only vi
 | [30-minute 30 MIN DAILY YOGA FLOW || Full Body Flow To Feel Good](https://www.youtube.com/watch?v=5TzqqPJFHeQ) | Move With Nicole | 35 | 2025-04-17 | 2027-04-17 |
 | [15-minute 15 MIN MORNING YOGA FLOW || Feel Good Yoga Flow](https://www.youtube.com/watch?v=8URMcK7_PjY) | Move With Nicole | 19 | 2024-11-03 | 2026-11-03 |
 | [15-minute 15 MIN MORNING YOGA FLOW || Wake Up & Feel Energised](https://www.youtube.com/watch?v=9KrMFsQBOJs) | Move With Nicole | 18 | 2025-08-05 | 2027-08-05 |
+| [20-Minute Yoga Sculpt at Home | Full Body, Light Weights](https://www.youtube.com/watch?v=JTM3HsnQDmo) | nourishmovelove | 25 | 2026-10-05 | 2028-10-05 |
+| [10-minute 10 min Yoga Nidra for Beginners | Easy Non-Sleep Deep Rest (NSDR)](https://www.youtube.com/watch?v=EXXnEJ87z1Q) | SarahBethYoga | 11 | 2026-10-12 | 2028-10-12 |
 | [30-minute 30 Min Morning Yoga Flow | Full Body Flexibility](https://www.youtube.com/watch?v=cRC8jo4Q1Do) | Travis Eliot | 32 | 2026-08-22 | 2028-08-22 |
 | [20-minute 20 Min Yin Yoga for Hips | Deep Fascia Stretch](https://www.youtube.com/watch?v=DR5kEgLUuPw) | Travis Eliot | 22 | 2026-09-26 | 2028-09-26 |
+| [20-minute 20 Min Power Yoga Cardio | Full Body Workout](https://www.youtube.com/watch?v=f_nS_-KoNe8) | Travis Eliot | 22 | 2026-09-05 | 2028-09-05 |
 | [20-minute 20 Min Power Yoga Flexibility | Full Body Stretch Routine](https://www.youtube.com/watch?v=h444EvejO8g) | Travis Eliot | 22 | 2026-10-03 | 2028-10-03 |
 | [Power to Live Yoga Program l Live Conversation with Travis & Lauren](https://www.youtube.com/watch?v=mExBYfLo-0g) | Travis Eliot | 54 | 2026-09-02 | 2028-09-02 |
 | [30-minute 30 Min Power Yoga EDGE | Strength Workout](https://www.youtube.com/watch?v=NKhpx883OgM) | Travis Eliot | 32 | 2026-08-08 | 2028-08-08 |
@@ -1536,6 +1564,7 @@ Revision 45, published 2026-10-30, valid until 2026-11-06. These are the only vi
 | [20-minute 20 min Yoga for Flexibility & Relaxation - Gentle Evening Stretch](https://www.youtube.com/watch?v=4Lq5Sf9FDpY) | Yoga with Kassandra | 21 | 2026-03-16 | 2028-03-16 |
 | [30-minute 30 min Stress Melting Yoga - Gentle Practice for Anxiety & Tension](https://www.youtube.com/watch?v=4pR1rzpU1_s) | Yoga with Kassandra | 30 | 2026-05-25 | 2028-05-25 |
 | [25-minute 25 min Feel Good Flow (All Levels) MINIMAL CUES VINYASA](https://www.youtube.com/watch?v=9JeSB2jkKjI) | Yoga with Kassandra | 26 | 2025-10-06 | 2027-10-06 |
+| [30-minute 30 min Power Yoga with Weights - Dumbbells Yoga Workout](https://www.youtube.com/watch?v=9Ltx9AHPHDY) | Yoga with Kassandra | 31 | 2026-04-06 | 2028-04-06 |
 | [20-minute 20 min Morning Summer Solstice Yoga - SUN SALUTATIONS](https://www.youtube.com/watch?v=9n5EMxd1eco) | Yoga with Kassandra | 22 | 2026-06-15 | 2028-06-15 |
 | [10-minute 10 Min Morning Yoga Flow - Wake Up & Get Strong](https://www.youtube.com/watch?v=B4pWE-mPmOk) | Yoga with Kassandra | 14 | 2026-01-05 | 2028-01-05 |
 | [30-minute 30 min Deep Stretch Yoga - FLEXIBILITY YOGA FLOW](https://www.youtube.com/watch?v=bgUUZVdPTdk) | Yoga with Kassandra | 30 | 2026-06-22 | 2028-06-22 |
@@ -1591,11 +1620,13 @@ Revision 45, published 2026-10-30, valid until 2026-11-06. These are the only vi
 | [15-minute Day 7 15 Min Gentle Somatic Yoga | Daily Yoga Practice for All Levels](https://www.youtube.com/watch?v=yUtBGJqe45Q) | Yoga With Tim | 15 | 2026-01-06 | 2028-01-06 |
 | [20-minute 20 Min Daily Yoga Flow | Every Day Full Body Yoga All Levels](https://www.youtube.com/watch?v=ZxM0BTZ8RkU) | Yoga With Tim | 25 | 2026-06-15 | 2028-06-15 |
 
-## Pilates (156)
+## Pilates (212)
 
 | Video | Creator | Minutes | Published | Ages out |
 |---|---|---|---|---|
 | [20-minute Morning Pilates Full Body Workout - 20 Min Low Impact Workout](https://www.youtube.com/watch?v=caGO1JROJqw) | Chloe Ting | 27 | 2025-06-24 | 2027-06-24 |
+| [20-minute 20 Min Pilates HIIT - Full Body Beginner Workout](https://www.youtube.com/watch?v=D4Lob1d4ztM) | Chloe Ting | 26 | 2026-06-22 | 2028-06-22 |
+| [30-minute 30 Min Core & Cardio Pilates Workout - Full Body Tone - No Equipment](https://www.youtube.com/watch?v=gYnUofo4ZOo) | Chloe Ting | 37 | 2025-06-26 | 2027-06-26 |
 | [20-minute 20 Min Abs & Booty Workout - At Home Pilates (No Equipment)](https://www.youtube.com/watch?v=jb2hJzfghkE) | Chloe Ting | 26 | 2026-06-17 | 2028-06-17 |
 | [30-minute 30 Min Full Body Workout - At Home Pilates - Warm Up & Stretch Included](https://www.youtube.com/watch?v=lwcE6qcMt90) | Chloe Ting | 31 | 2026-06-24 | 2028-06-24 |
 | [15-minute 15 Min Full Body Pilates Workout - Beginner Pilates (No Equipment)](https://www.youtube.com/watch?v=QBV7yvSkg18) | Chloe Ting | 20 | 2026-06-15 | 2028-06-15 |
@@ -1605,6 +1636,7 @@ Revision 45, published 2026-10-30, valid until 2026-11-06. These are the only vi
 | [11-minute Tone Your Abs and Booty in Just 11 Minutes a Day | Pilates Workout](https://www.youtube.com/watch?v=0fo2zj8RLj8) | Daniela Suarez | 11 | 2024-12-02 | 2026-12-02 |
 | [15-minute 15 MIN FULL BODY PILATES WORKOUT for Toning and Strength | Low Impact](https://www.youtube.com/watch?v=gsAf0bmgkLk) | Daniela Suarez | 15 | 2025-11-26 | 2027-11-26 |
 | [15-minute 15 MIN PILATES ABS | Can You Finish This Intense Core Workout?](https://www.youtube.com/watch?v=Gt5yStT4vt8) | Daniela Suarez | 17 | 2025-11-17 | 2027-11-17 |
+| [15-minute THE BEST AT HOME BOOTY WORKOUT (Pilates x Weights, 15 MIN)](https://www.youtube.com/watch?v=HWIOP-UGENA) | Daniela Suarez | 16 | 2025-10-04 | 2027-10-04 |
 | [SNOW PILATES Workout That Will Make Your Booty & Core BURN!](https://www.youtube.com/watch?v=oEgRzs3zx_w) | Daniela Suarez | 13 | 2025-03-04 | 2027-03-04 |
 | [FULL BODY PILATES TONE | Glutes, Upper Body & Core | Resistance Band](https://www.youtube.com/watch?v=pInAaAQDyUk) | Daniela Suarez | 17 | 2026-02-12 | 2028-02-12 |
 | [Winter Pilates Workout That Will Make Your Core BURN!](https://www.youtube.com/watch?v=WN93S9NheGM) | Daniela Suarez | 11 | 2025-03-12 | 2027-03-12 |
@@ -1613,18 +1645,30 @@ Revision 45, published 2026-10-30, valid until 2026-11-06. These are the only vi
 | [30-minute 30 MIN FULL BODY SWEATY PILATES X BALLET Workout | Fat Burning | No Repeat | Warm Up + Cool Down](https://www.youtube.com/watch?v=0tYM4PtIFGU) | Eleni Fit | 33 | 2025-12-22 | 2027-12-22 |
 | [30-minute 30 MIN FULL BODY PILATES WORKOUT TO BUILD MUSCLE & BURN FAT | At Home | No Repeat | Sweaty](https://www.youtube.com/watch?v=3w0SvmKh2WU) | Eleni Fit | 34 | 2026-07-27 | 2028-07-27 |
 | [30-minute 30 MIN FULL BODY PILATES WORKOUT | At-Home, No Equipment | Fat Burning + Muscle Toning | No Repeat](https://www.youtube.com/watch?v=7syChYkN5BU) | Eleni Fit | 34 | 2026-01-19 | 2028-01-19 |
+| [30-minute 30 MIN Full Body Dumbbell X Pilates Workout | Build Lean Muscle + Burn Calories, Warm Up & Cool Down](https://www.youtube.com/watch?v=c0d8LxcIRbI) | Eleni Fit | 34 | 2026-05-11 | 2028-05-11 |
 | [20-minute 20 MIN FULL BODY PILATES WORKOUT | Beginner Friendly | At-Home, No Equipment, Fat Burning, No Repeat](https://www.youtube.com/watch?v=C8y5mccCKG4) | Eleni Fit | 24 | 2026-02-16 | 2028-02-16 |
 | [30-minute 30 MIN STANDING PILATES Workout | Full Body Fat Burning & Toning, No Repeat, Warm Up + Cool Down](https://www.youtube.com/watch?v=e2cJHRo-6R0) | Eleni Fit | 34 | 2026-06-29 | 2028-06-29 |
 | [30-minute 30 MIN Reformer-Style Pilates Workout  at Home (No Machine) | Lose Weight & Tone Your Body, Sweaty 💦](https://www.youtube.com/watch?v=EPcEJNKvf1A) | Eleni Fit | 34 | 2026-04-13 | 2028-04-13 |
+| [30-minute 30 Min WALKING PILATES To Lose Weight & Tone Your Body🔥 optional: Small Weights, No Jumping](https://www.youtube.com/watch?v=OnU-gmZUreA) | Eleni Fit | 34 | 2026-10-19 | 2028-10-19 |
 | [20-minute 20 MIN FULL BODY MORNING PILATES | Wake Up + Feel Energised | Warm Up + Cool Down | All Levels](https://www.youtube.com/watch?v=ParIZiXAC78) | Eleni Fit | 22 | 2026-04-27 | 2028-04-27 |
+| [30-minute 30 MIN STANDING XMAS FULL BODY PILATES X HIIT Workout | Fat Burning | No Repeat | Super Sweaty](https://www.youtube.com/watch?v=PihehJutQP4) | Eleni Fit | 34 | 2025-12-08 | 2027-12-08 |
+| [30-minute 30 MIN FULL BODY SWEATY PILATES HIIT Workout | Fat Burning | No Repeat | Warm Up + Cool Down](https://www.youtube.com/watch?v=po7WxPoB7UA) | Eleni Fit | 34 | 2025-11-17 | 2027-11-17 |
+| [30-minute THIS 30 MIN HOT PILATES HIIT Workout will make you SWEAT | Full Body Sculpt, No Jumping, Fat Burning](https://www.youtube.com/watch?v=PyP7XqRLpec) | Eleni Fit | 34 | 2026-06-01 | 2028-06-01 |
 | [20-minute 20 Min STANDING MORNING PILATES | Wake Up + Feel Energised | Stretch + Sweat, Full Body Toning](https://www.youtube.com/watch?v=sWUWf7oWAEM) | Eleni Fit | 25 | 2026-09-14 | 2028-09-14 |
 | [30-minute 30 Min PILATES LEGS + ABS | Round Booty / Toned Thighs + Defined Abs, No Jumping, No Repeat](https://www.youtube.com/watch?v=u7uCo7yw19k) | Eleni Fit | 34 | 2026-03-09 | 2028-03-09 |
+| [30-minute 30 MIN FULL BODY FAT BURNING PILATES HIIT | Tone Lean Muscles | No Repeat, No Jumping](https://www.youtube.com/watch?v=YE3PpKTCkj8) | Eleni Fit | 34 | 2025-09-08 | 2027-09-08 |
+| [30-minute 30 min FULL BODY MAT WORKOUT | Light Dumbbells | Pilates + Barre Inspired | Modifications Provided](https://www.youtube.com/watch?v=_CgpKILjS70) | fitbymik | 37 | 2025-12-11 | 2027-12-11 |
+| [30-minute 30 min FULL BODY HYBRID WORKOUT | True  Strength x Pilates | Multiple Sets of Dumbbells](https://www.youtube.com/watch?v=64-fiBYGbq4) | fitbymik | 37 | 2026-10-02 | 2028-10-02 |
 | [15-minute 15 min BOOTY AND THIGHS MAT WORKOUT | No Equipment | Pilates Style Routine](https://www.youtube.com/watch?v=J7MHTFfGNMo) | fitbymik | 17 | 2026-01-13 | 2028-01-13 |
+| [30-minute 30 min LOWER BODY SCULPT WORKOUT | One Dumbbell | Pilates Inspired Movements | Glutes and Thighs](https://www.youtube.com/watch?v=vdy2tyv0_W8) | fitbymik | 36 | 2026-10-06 | 2028-10-06 |
+| [30-minute 30 min DUMBBELL STRENGTH x PILATES WORKOUT | Full Body | Warm Up and Cool Down Included](https://www.youtube.com/watch?v=xqLi-GEm9Y4) | fitbymik | 35 | 2026-08-18 | 2028-08-18 |
 | [No-standing total-body Pilates](https://www.youtube.com/watch?v=TtaQmr5fK6g) | FitnessBlender | 21 | 2026-06-10 | 2028-06-10 |
 | [10-minute Pilates for beginners](https://www.youtube.com/watch?v=ebq5vPWvvOc) | Jessica Valant | 12 | 2025-11-17 | 2027-11-17 |
 | [15-minute Pilates with dumbbells](https://www.youtube.com/watch?v=P4-8Qf4HW8s) | Jessica Valant | 15 | 2025-12-22 | 2027-12-22 |
 | [30-minute Pilates and dumbbells strength](https://www.youtube.com/watch?v=rcA7Z43CLq4) | Jessica Valant | 37 | 2026-02-23 | 2028-02-23 |
+| [Full Body Pilates and Dumbbell Workout - At Home!](https://www.youtube.com/watch?v=tJef79jFjF4) | Jessica Valant | 19 | 2026-08-25 | 2028-08-25 |
 | [10-minute 10min Pilates Full Body Workout - Pilates at Home](https://www.youtube.com/watch?v=tk66IZa1mtY) | Jessica Valant | 13 | 2026-09-14 | 2028-09-14 |
+| [10-minute 10Min PILATES WORKOUT WITH WEIGHTS - Full Body Workout at Home](https://www.youtube.com/watch?v=UcN1Ts_3ajU) | Jessica Valant | 14 | 2026-03-02 | 2028-03-02 |
 | [10-minute 10 Minute PILATES CORE WORKOUT - Beginner Friendly!](https://www.youtube.com/watch?v=YQfPxu1GWmw) | Jessica Valant | 13 | 2026-04-21 | 2028-04-21 |
 | [10-minute DAY 2 | 10MIN EVERYDAY PILATES ABS WORKOUT](https://www.youtube.com/watch?v=_xBE2bRodLw) | Lidia Mera | 12 | 2026-08-05 | 2028-08-05 |
 | [20-minute 20MIN ABS & BOOTY PILATES WORKOUT | no equipment](https://www.youtube.com/watch?v=4r0tvpCgEf4) | Lidia Mera | 23 | 2026-07-26 | 2028-07-26 |
@@ -1655,8 +1699,30 @@ Revision 45, published 2026-10-30, valid until 2026-11-06. These are the only vi
 | [10-minute 10 Min Daily Pilates Abs Workout at Home | The Best Core Routine for Women with Lilly Sabri](https://www.youtube.com/watch?v=pQIlKUhUcXo) | Lilly Sabri | 12 | 2026-10-21 | 2028-10-21 |
 | [12-minute 12 MINUTE STANDING PILATES WORKOUT | Full Body  | ABS & Core |  No Equipment - Lucy Wyndham-Read](https://www.youtube.com/watch?v=r2iBfZdj1lo) | Lucy Wyndham-Read | 14 | 2026-07-02 | 2028-07-02 |
 | [40-minute 40 Minute Full Body Workout Pilates Strength | All Standing](https://www.youtube.com/watch?v=0VNAbTZxAJQ) | Marie Steffen | 40 | 2025-12-28 | 2027-12-28 |
+| [40-minute 40 Min Full Body Pilates Sculpt Workout with Weights l Pilates x Strength](https://www.youtube.com/watch?v=1UT2RsbNkn8) | Marie Steffen | 43 | 2026-06-15 | 2028-06-15 |
+| [35-minute 35 Min. Full Body Pilates Sculpt Workout with Weights l Pilates x Strength](https://www.youtube.com/watch?v=5ICynNeQmnk) | Marie Steffen | 38 | 2026-06-22 | 2028-06-22 |
+| [45-minute 45 Min. Full Body Pilates Workout with Weights l Pilates x Strength](https://www.youtube.com/watch?v=7GA9HGPfvpk) | Marie Steffen | 50 | 2026-05-25 | 2028-05-25 |
+| [40-minute 40 Min. Dumbbells Plus Pilates Workout | Full Body Strength At Home](https://www.youtube.com/watch?v=9zqHCnWB74I) | Marie Steffen | 42 | 2026-04-13 | 2028-04-13 |
+| [35-minute Day 3 - 35 Min. Power Pilates Workout with Weights | Strong & Balanced Vol. 2 Plan](https://www.youtube.com/watch?v=AM8Y_dIvFw8) | Marie Steffen | 39 | 2025-10-06 | 2027-10-06 |
+| [30-minute 30 Min. Full Body Dumbbell Workout | Intermediate | Pilates with Weights At Home](https://www.youtube.com/watch?v=cZS_HXS4dRk) | Marie Steffen | 34 | 2026-02-12 | 2028-02-12 |
+| [45-minute 45 Min. Mat Pilates Workout with Ankle Weights](https://www.youtube.com/watch?v=H42rif_mztA) | Marie Steffen | 46 | 2026-03-19 | 2028-03-19 |
+| [45-minute 45 Min. Dumbbells Plus Pilates Workout | Full Body Strength At Home](https://www.youtube.com/watch?v=iahN7mnP_HE) | Marie Steffen | 50 | 2026-02-16 | 2028-02-16 |
+| [35-minute 35 Min. Dumbbells Plus Pilates Workout | Full Body Strength At Home](https://www.youtube.com/watch?v=IgxJ3o4nPww) | Marie Steffen | 36 | 2026-02-02 | 2028-02-02 |
+| [35-minute 35 Min Full Body Pilates Sculpt Workout with Weights l Pilates x Strength](https://www.youtube.com/watch?v=itJGXeXELKU) | Marie Steffen | 39 | 2026-06-01 | 2028-06-01 |
 | [45-minute Day 10 - 45 Min. Power Pilates Workout to Build Strength & Flexibility | Upper Body & Deep Core](https://www.youtube.com/watch?v=JAJbmilAyWw) | Marie Steffen | 46 | 2025-10-22 | 2027-10-22 |
+| [45-minute 45 Min. Mat Pilates Workout with Dumbbells & Ankle Weights](https://www.youtube.com/watch?v=mRKu129lP6Y) | Marie Steffen | 49 | 2026-03-27 | 2028-03-27 |
+| [45-minute 45 Min. Full Body Strength Workout | Pilates Sculpt | with Weights | Week 4](https://www.youtube.com/watch?v=O-EltsgLH1s) | Marie Steffen | 45 | 2026-07-27 | 2028-07-27 |
+| [40-minute 40 Min. Full Body Strength Workout | Pilates Sculpt | with Weights | Week 2](https://www.youtube.com/watch?v=Ok3YCVX2GLI) | Marie Steffen | 43 | 2026-07-13 | 2028-07-13 |
+| [40-minute Day 4 - 40 Min. Power Pilates Workout with Weights | Strong & Balanced Vol. 2 Plan](https://www.youtube.com/watch?v=Oy3IcaiidSQ) | Marie Steffen | 40 | 2025-10-08 | 2027-10-08 |
+| [30-minute 30 Min. Full Body Strength Workout | Pilates Sculpt | with Weights | Week 1](https://www.youtube.com/watch?v=oZclaacdK2U) | Marie Steffen | 35 | 2026-07-06 | 2028-07-06 |
 | [40-minute 40 Min. Full Body Pilates x Strength Workout | The Longevity Plan Vol. 2 - Day 6](https://www.youtube.com/watch?v=pllFWeCDiX4) | Marie Steffen | 44 | 2026-01-17 | 2028-01-17 |
+| [40-minute 40 Min  Full Body Pilates Sculpt Workout with Weights l Pilates x Strength](https://www.youtube.com/watch?v=qwxirSLZ0Tc) | Marie Steffen | 41 | 2026-05-11 | 2028-05-11 |
+| [30-minute 30 Min. Full Body Workout | Dumbbells + Pilates with Weights](https://www.youtube.com/watch?v=TVgjOV-h3k4) | Marie Steffen | 32 | 2026-04-06 | 2028-04-06 |
+| [40-minute Day 6 - 40 Min. Power Pilates Workout with Weights | Strong & Balanced Vol. 2 Plan](https://www.youtube.com/watch?v=u091ty0WXQ4) | Marie Steffen | 40 | 2025-10-13 | 2027-10-13 |
+| [25-minute 25 Min  Full Body Workout | At Home Pilates Workout with Ankle Weights | No Repeats](https://www.youtube.com/watch?v=Upl5XfLMpNg) | Marie Steffen | 28 | 2026-03-05 | 2028-03-05 |
+| [30-minute 30 Min. Mat Pilates Workout with Ankle Weights](https://www.youtube.com/watch?v=V9zgqyDFmR0) | Marie Steffen | 33 | 2026-03-12 | 2028-03-12 |
+| [40-minute 40 Min Full Body Pilates Sculpt Workout with Weights l Pilates x Strength](https://www.youtube.com/watch?v=w9hiPjQI6h8) | Marie Steffen | 44 | 2026-06-08 | 2028-06-08 |
+| [45-minute 45 Min. Full Body Strength Workout | Pilates Sculpt | with Weights | Week 3](https://www.youtube.com/watch?v=yE634KUlyLE) | Marie Steffen | 46 | 2026-07-20 | 2028-07-20 |
 | [40-minute Day 7 - 40 Min. Power Pilates Workout to Build Strength & Flexibility | Upper Body & Deep Core](https://www.youtube.com/watch?v=Yo3_658AXMw) | Marie Steffen | 40 | 2025-10-15 | 2027-10-15 |
 | [30-minute 30 MIN Standing Pilates 🔥 Burn Fat Fast & Slim Full Body (No Equipment)](https://www.youtube.com/watch?v=2qMSuv7V0cU) | MIZI | 31 | 2026-04-01 | 2028-04-01 |
 | [20-minute 20 MIN STANDING PILATES 🔥 BURN FAT FAST & SLIM BODY (No Equipment)](https://www.youtube.com/watch?v=J4b4JhHiR80) | MIZI | 24 | 2026-09-02 | 2028-09-02 |
@@ -1668,17 +1734,21 @@ Revision 45, published 2026-10-30, valid until 2026-11-06. These are the only vi
 | [25-minute express mat Pilates](https://www.youtube.com/watch?v=6Iuh2_kk1d8) | Move With Nicole | 27 | 2025-12-10 | 2027-12-10 |
 | [30-minute 30 MIN PILATES WORKOUT || Intermediate Mat Pilates (No Equipment)](https://www.youtube.com/watch?v=1TXj_U23bPs) | Move With Nicole | 33 | 2025-01-16 | 2027-01-16 |
 | [20-minute 20 MIN EXPRESS PILATES WORKOUT || Moderate to Intermediate Pilates (No Equipment)](https://www.youtube.com/watch?v=4GnLUIVwPCo) | Move With Nicole | 25 | 2025-03-27 | 2027-03-27 |
+| [30-minute 30 MIN PILATES WORKOUT || Mat Pilates With Weights (Intermediate)](https://www.youtube.com/watch?v=beoa3-Al870) | Move With Nicole | 36 | 2024-12-12 | 2026-12-12 |
 | [20-minute 20 MIN PILATES CORE & ABS WORKOUT || At-Home Pilates For All Levels](https://www.youtube.com/watch?v=dF2dXejdKHM) | Move With Nicole | 24 | 2025-02-01 | 2027-02-01 |
 | [25-minute 25 MIN EXPRESS PILATES WORKOUT || Dynamic Intermediate Pilates (No Equipment)](https://www.youtube.com/watch?v=dmjyyH_UMPY) | Move With Nicole | 28 | 2025-06-22 | 2027-06-22 |
 | [15-minute 15 MIN PILATES CORE & ABS WORKOUT || Intermediate Pilates (No Equipment)](https://www.youtube.com/watch?v=dYcNLMwwlMA) | Move With Nicole | 19 | 2025-11-06 | 2027-11-06 |
 | [30-minute 30 MIN PILATES WORKOUT || Intermediate Pilates (No Equipment)](https://www.youtube.com/watch?v=E9zLvdffGfk) | Move With Nicole | 32 | 2026-10-01 | 2028-10-01 |
+| [20-minute 20 MIN PILATES HIIT || Low Impact & No Repeat Workout (Stretch Included)](https://www.youtube.com/watch?v=huSKtEzN0EA) | Move With Nicole | 25 | 2026-02-04 | 2028-02-04 |
 | [30-minute 30 MIN PILATES WORKOUT || Intermediate Mat Pilates (No Equipment)](https://www.youtube.com/watch?v=N2MRML-Dk2I) | Move With Nicole | 33 | 2026-10-22 | 2028-10-22 |
 | [30-minute 30 MIN FULL BODY WORKOUT || At-Home Pilates Ring Workout (Intermediate)](https://www.youtube.com/watch?v=ngMFpsqjPEA) | Move With Nicole | 32 | 2025-04-03 | 2027-04-03 |
 | [45-minute 45 MIN FULL BODY WORKOUT || At-Home Intermediate Pilates (No Equipment)](https://www.youtube.com/watch?v=NXtxjMjMs0Y) | Move With Nicole | 49 | 2026-06-22 | 2028-06-22 |
 | [25-minute 25 MIN PILATES CORE & ABS WORKOUT || Moderate to Intermediate Pilates (No Equipment)](https://www.youtube.com/watch?v=OJxXA4EwTf0) | Move With Nicole | 27 | 2025-05-07 | 2027-05-07 |
 | [20-minute 20 MIN PILATES WORKOUT || Upper Body & Core (Moderate/Intermediate)](https://www.youtube.com/watch?v=ta_k5QZLkfk) | Move With Nicole | 22 | 2025-08-29 | 2027-08-29 |
+| [35-minute 35 MIN PILATES WORKOUT || Power Pilates With Weights (Intermediate)](https://www.youtube.com/watch?v=VUoMwEkmMMk) | Move With Nicole | 37 | 2025-03-05 | 2027-03-05 |
 | [30-minute 30 MIN PILATES WORKOUT || Beginner to Moderate Pilates (No Equipment)](https://www.youtube.com/watch?v=wtVyZmHnlxM) | Move With Nicole | 31 | 2025-08-22 | 2027-08-22 |
 | [25-minute 25 MIN PILATES WORKOUT || Intermediate Mat Pilates (No Equipment)](https://www.youtube.com/watch?v=xNCj6JnQq4Q) | Move With Nicole | 27 | 2025-10-15 | 2027-10-15 |
+| [25-minute 25 MIN PILATES WORKOUT || Express Pilates With Weights (Intermediate)](https://www.youtube.com/watch?v=yRIUy-st9Vc) | Move With Nicole | 27 | 2026-09-08 | 2028-09-08 |
 | [12-minute 12 MIN PRETTY ABS + ARMS I floor only, creative exercises, Pilates inspired I No Equipment](https://www.youtube.com/watch?v=9ENNbbYNXxw) | Pamela Reif | 13 | 2025-05-21 | 2027-05-21 |
 | [20-minute 20 MIN PILATES WORKOUT - Slow Full Body Toning I Floor only, Low Impact](https://www.youtube.com/watch?v=UpUEktyiSpE) | Pamela Reif | 21 | 2025-09-17 | 2027-09-17 |
 | [Advanced classical Pilates flow on the mat](https://www.youtube.com/watch?v=xoovsO80fdk) | Pilates by Zola | 30 | 2026-05-21 | 2028-05-21 |
@@ -1698,13 +1768,19 @@ Revision 45, published 2026-10-30, valid until 2026-11-06. These are the only vi
 | [12-minute Reformer Pilates Outer Thigh Burn🔥 | 12 Mins | Sculpt and Tone](https://www.youtube.com/watch?v=lJ1AsuP1I7w) | Pilates by Zola | 12 | 2026-07-23 | 2028-07-23 |
 | [30-minute Full Body Pilates Reformer Workout | Intermediate | 30 Mins](https://www.youtube.com/watch?v=McvWjMqpFI0) | Pilates by Zola | 33 | 2026-09-03 | 2028-09-03 |
 | [45-minute Classical Pilates Reformer | Intermediate Order | 45 Mins ](https://www.youtube.com/watch?v=NhgJIxF-hto) | Pilates by Zola | 45 | 2026-08-27 | 2028-08-27 |
+| [25-minute Reformer Jumpboard | 25 Mins | Pilates and Cardio](https://www.youtube.com/watch?v=OEIa6SzWE3s) | Pilates by Zola | 26 | 2026-07-30 | 2028-07-30 |
 | [20-minute Full Body Pilates Reformer Workout | Intermediate | 20 Mins](https://www.youtube.com/watch?v=P4lHuhZLa7I) | Pilates by Zola | 20 | 2026-07-02 | 2028-07-02 |
 | [Classical Pilates Reformer Beginner Order | Reformer Pilates for Beginners](https://www.youtube.com/watch?v=PnCVuBYIkZA) | Pilates by Zola | 28 | 2026-08-13 | 2028-08-13 |
 | [20-minute  Build a Stronger Core in 20 Mins - Magic Circle Pilates ](https://www.youtube.com/watch?v=wu0AQ4cSWSQ) | Pilates by Zola | 20 | 2026-05-14 | 2028-05-14 |
 | [26-minute Magic Circle Pilates | Intermediate Pilates Mat Workout | 26 mins](https://www.youtube.com/watch?v=Z0Z8wPwKjn4) | Pilates by Zola | 27 | 2026-02-05 | 2028-02-05 |
+| [38-minute Intermediate Reformer Pilates | 38 Mins | Pilates Ball](https://www.youtube.com/watch?v=zmxXNXQCpzc) | Pilates by Zola | 39 | 2026-10-23 | 2028-10-23 |
 | [10-Minute Beginner Pilates Flow](https://www.youtube.com/watch?v=0m5V4EAP6gs) | PS Fit | 12 | 2026-05-11 | 2028-05-11 |
+| [30-Minute Cardio Pilates Workout with Natalie White](https://www.youtube.com/watch?v=jdKJomBtwew) | PS Fit | 35 | 2026-03-09 | 2028-03-09 |
 | [10-Minute Mat Pilates Workout For Digestion](https://www.youtube.com/watch?v=oo6AW9ve1og) | PS Fit | 12 | 2025-09-29 | 2027-09-29 |
 | [Intermediate full-body Pilates on the mat](https://www.youtube.com/watch?v=5F2QkUPzO2E) | The Girl With The Pilates Mat | 14 | 2026-04-03 | 2028-04-03 |
+| [40-minute 40 MINUTE FULL BODY WORKOUT | PILATES WITH WEIGHTS ( Intermediate Pilates)](https://www.youtube.com/watch?v=3hdUvjJbxBA) | The Girl With The Pilates Mat | 39 | 2026-06-26 | 2028-06-26 |
+| [30-minute 30 Minute Pilates Deep Stretch and Strengthen Routine | Intermediate Power Pilates Workout](https://www.youtube.com/watch?v=RboB4lVGpq4) | The Girl With The Pilates Mat | 32 | 2024-12-06 | 2026-12-06 |
+| [25-minute Standing Pilates Full Body Workout with Weights to Strengthen Legs, Back & Core | 25 Min](https://www.youtube.com/watch?v=_maIsDbXatQ) | The Girl With The Pilates Mat | 27 | 2026-09-28 | 2028-09-28 |
 | [20-minute 20 MIn Summer Pilates Routine | Slow Flow for Hot Weather](https://www.youtube.com/watch?v=_YVK-uSeduw) | The Girl With The Pilates Mat | 42 | 2026-08-07 | 2028-08-07 |
 | [30-minute Elevate Your Posture: Dancer Inspired Pilates | Beginner Friendly 30 Min Morning Pilates](https://www.youtube.com/watch?v=-br1RvxLZbI) | The Girl With The Pilates Mat | 31 | 2026-02-16 | 2028-02-16 |
 | [35-minute Menopause Relief Through Pilates |  35 Min Full Body Flow for Menopause Support](https://www.youtube.com/watch?v=0yXorGvPMAw) | The Girl With The Pilates Mat | 39 | 2026-04-27 | 2028-04-27 |
@@ -1715,6 +1791,8 @@ Revision 45, published 2026-10-30, valid until 2026-11-06. These are the only vi
 | [20-minute 20 Minute Standing and Mat Pilates Dancer Workout | No Equipment](https://www.youtube.com/watch?v=AtqKSYp5pRk) | The Girl With The Pilates Mat | 21 | 2026-05-10 | 2028-05-10 |
 | [30-minute Standing Pilates Full Body Barre Workout | 30 min No Equipment Workout](https://www.youtube.com/watch?v=bknLb6ahghg) | The Girl With The Pilates Mat | 31 | 2026-09-21 | 2028-09-21 |
 | [35-minute Full Body Intermediate Pilates Mat Workout - 35 minute at home class](https://www.youtube.com/watch?v=bvF52_stHoA) | The Girl With The Pilates Mat | 46 | 2026-09-11 | 2028-09-11 |
+| [20-minute Standing Pilates Full Body Workout with Resistance Band for Beginners | 20 Mins](https://www.youtube.com/watch?v=CoouH7YSrgE) | The Girl With The Pilates Mat | 20 | 2026-08-24 | 2028-08-24 |
+| [25-minute Standing Pilates Full Body Workout With Optional Weights | Beginner Friendly | 25 mins](https://www.youtube.com/watch?v=dnreMLgq6MU) | The Girl With The Pilates Mat | 27 | 2026-06-22 | 2028-06-22 |
 | [10-minute Standing Pilates Full Body Workout 10 Min](https://www.youtube.com/watch?v=DS42Dji0tY4) | The Girl With The Pilates Mat | 12 | 2026-05-01 | 2028-05-01 |
 | [30-minute Mat Pilates Workout with Foam Roller | 30 Min Intermediate Pilates Flow](https://www.youtube.com/watch?v=EFKLk__s5lg) | The Girl With The Pilates Mat | 33 | 2026-10-02 | 2028-10-02 |
 | [10-minute Standing Pilates for Seniors for Full Body Strength - includes 10 Min of Knee Strength Exercises](https://www.youtube.com/watch?v=Ej6ZF43xq3A) | The Girl With The Pilates Mat | 32 | 2026-02-09 | 2028-02-09 |
@@ -1723,6 +1801,8 @@ Revision 45, published 2026-10-30, valid until 2026-11-06. These are the only vi
 | [20-minute Standing Pilates Workout for Full Body Strength ( No Equipment) 20 MIN](https://www.youtube.com/watch?v=HQgn6q_-liU) | The Girl With The Pilates Mat | 21 | 2026-05-18 | 2028-05-18 |
 | [15-minute 15 Minute Intermediate Pilates Core Strength](https://www.youtube.com/watch?v=IFb6H8VAZoI) | The Girl With The Pilates Mat | 19 | 2026-08-28 | 2028-08-28 |
 | [30-minute Mat Pilates Mini Ball Workout for Pelvic Floor Health 30 Min](https://www.youtube.com/watch?v=j_V_9KR9jS4) | The Girl With The Pilates Mat | 33 | 2026-09-28 | 2028-09-28 |
+| [25-minute Standing Pilates with Weights | Strengthen Legs, Back & Core (Safe for Osteoporosis) | 25 Min](https://www.youtube.com/watch?v=J0aYI3k40Zo) | The Girl With The Pilates Mat | 27 | 2026-06-15 | 2028-06-15 |
+| [40-minute Standing Pilates with Weights | Intermediate Pilates Full Body Sculpt | 40 Min](https://www.youtube.com/watch?v=J54kOCvlsYI) | The Girl With The Pilates Mat | 42 | 2026-10-05 | 2028-10-05 |
 | [15-minute Just Glutes Pilates Workout for Lower Back & Hip Health 15 Min ( No Equipment )](https://www.youtube.com/watch?v=jPaEtJj2eA4) | The Girl With The Pilates Mat | 43 | 2026-07-17 | 2028-07-17 |
 | [30-minute Pilates for Tight Neck, Shoulder and Back Muscles | 30 Min Pilates to Release & Restore](https://www.youtube.com/watch?v=Jy7ClHlWna4) | The Girl With The Pilates Mat | 32 | 2026-04-13 | 2028-04-13 |
 | [Sculpt Legs & Core with Zero Equipment Pilates](https://www.youtube.com/watch?v=K5nKhTH8Gug) | The Girl With The Pilates Mat | 49 | 2026-02-27 | 2028-02-27 |
@@ -1730,6 +1810,7 @@ Revision 45, published 2026-10-30, valid until 2026-11-06. These are the only vi
 | [20-minute Pilates for Chronic Back Pain | 20 Min Pilates to Ease Back Pain and Strengthen Your Core](https://www.youtube.com/watch?v=nD22Zrz2zSo) | The Girl With The Pilates Mat | 42 | 2026-06-12 | 2028-06-12 |
 | [20-minute Wall Pilates Workout for Beginners and Seniors | 20 minute Standing Workout for Full Body Strength](https://www.youtube.com/watch?v=nxJycGQgglE) | The Girl With The Pilates Mat | 22 | 2026-09-14 | 2028-09-14 |
 | [20-minute Pilates Basics for Beginners and Improvers | 20 Min Everyday Pilates Practice](https://www.youtube.com/watch?v=OLch0JQ32Wg) | The Girl With The Pilates Mat | 47 | 2026-07-24 | 2028-07-24 |
+| [30-minute 30 minute Menopause Strength and Mobility Workout | Standing Weights to Pilates Mat Flow](https://www.youtube.com/watch?v=OP59gCPICx0) | The Girl With The Pilates Mat | 32 | 2026-10-19 | 2028-10-19 |
 | [20-minute Morning Pilates Flow for Creative Minds | 20 Min Classical Pilates](https://www.youtube.com/watch?v=OwoaWHR5FMc) | The Girl With The Pilates Mat | 21 | 2026-07-06 | 2028-07-06 |
 | [20-minute Summer Stretch: 20 Minute Pilates & Stretch for Midlife Women](https://www.youtube.com/watch?v=Pg2opl-jcBs) | The Girl With The Pilates Mat | 47 | 2026-08-14 | 2028-08-14 |
 | [40-minute Standing Pilates: Boost Your Mood & Energy Full Body Workout | 40 Min](https://www.youtube.com/watch?v=PPRBt4kJXv0) | The Girl With The Pilates Mat | 42 | 2026-05-25 | 2028-05-25 |
@@ -1739,14 +1820,18 @@ Revision 45, published 2026-10-30, valid until 2026-11-06. These are the only vi
 | [15-minute 15 Minute Hotel Room Pilates Workout- Apartment & Small Space Friendly (No Equipment )](https://www.youtube.com/watch?v=R0EaqsslrmU) | The Girl With The Pilates Mat | 17 | 2026-08-17 | 2028-08-17 |
 | [30-minute Pilates for a Strong Core and Back | 30 Min At Home Pilates](https://www.youtube.com/watch?v=R4uEw1zGLx0) | The Girl With The Pilates Mat | 34 | 2026-03-09 | 2028-03-09 |
 | [20-minute Pilates for Gardeners | 20 Minute Gentle Pilates for Back Pain](https://www.youtube.com/watch?v=RgtPWtyxjEo) | The Girl With The Pilates Mat | 24 | 2026-10-26 | 2028-10-26 |
+| [Standing Pilates Full Body Workout with Weights to Strengthen Legs, Back & Core | Osteoporosis Safe](https://www.youtube.com/watch?v=s_E5aZT9tuI) | The Girl With The Pilates Mat | 31 | 2026-04-20 | 2028-04-20 |
+| [15-minute Standing Pilates with Weights | 15 Min Full Body Reformer Style Workout](https://www.youtube.com/watch?v=S2t_B80Y96I) | The Girl With The Pilates Mat | 18 | 2026-07-20 | 2028-07-20 |
 | [15-minute Standing Pilates for Balance, Strength & Coordination | 15 Minute Full Body Practice](https://www.youtube.com/watch?v=SvmyjpSlPyk) | The Girl With The Pilates Mat | 50 | 2026-06-29 | 2028-06-29 |
 | [10-minute 10 Minute Good Morning Core Workout | Pilates Core Workout](https://www.youtube.com/watch?v=uQYycYW2Wkg) | The Girl With The Pilates Mat | 15 | 2024-11-29 | 2026-11-29 |
 | [15-minute 15 Minute Deep Core & Abdominal Workout | Intermediate Pilates for Real Strength](https://www.youtube.com/watch?v=UtG1OY7R-lQ) | The Girl With The Pilates Mat | 50 | 2026-07-03 | 2028-07-03 |
 | [20-minute Strong Core, Calm Mind | Gentle Mat Pilates for Women | 20 Min Neck Friendly Pilates](https://www.youtube.com/watch?v=uX9p32rTRtA) | The Girl With The Pilates Mat | 48 | 2026-03-20 | 2028-03-20 |
 | [40-minute 40 MIN FULL BODY PILATES WORKOUT | Intermediate Pilates Class](https://www.youtube.com/watch?v=V12jScvVaHM) | The Girl With The Pilates Mat | 44 | 2026-06-19 | 2028-06-19 |
 | [30-minute 30 Min Deep Stretch & Strengthen Pilates Workout | Intermediate Pilates](https://www.youtube.com/watch?v=w022Ij28fcs) | The Girl With The Pilates Mat | 34 | 2024-12-27 | 2026-12-27 |
+| [20-minute Pilates Flow for Beginners with Resistance Band | 20 min Resistance Band Pilates](https://www.youtube.com/watch?v=wuVQDwUL9fs) | The Girl With The Pilates Mat | 24 | 2026-02-23 | 2028-02-23 |
 | [15-minute HEATWAVE PILATES | 15 Min Slow Flow Pilates](https://www.youtube.com/watch?v=XaVpGkokSOE) | The Girl With The Pilates Mat | 29 | 2026-07-10 | 2028-07-10 |
 | [25-minute Pilates Flow 25 Min Full Body Alignment, Strength and Posture Workout | Day 5 Live Check In](https://www.youtube.com/watch?v=XTwy_orgbYw) | The Girl With The Pilates Mat | 49 | 2026-05-08 | 2028-05-08 |
+| [20-minute Standing Pilates with Weights | Osteo Friendly Standing Workout | 20 Min](https://www.youtube.com/watch?v=YvdIp5zngts) | The Girl With The Pilates Mat | 23 | 2026-03-16 | 2028-03-16 |
 | [Standing Pilates Ring Workout to Tone Arms, Back and Shoulders After 40](https://www.youtube.com/watch?v=ZxLJ8jbnURc) | The Girl With The Pilates Mat | 15 | 2026-06-08 | 2028-06-08 |
 | [20-minute full-body mat Pilates with weights](https://www.youtube.com/watch?v=nfmcXtwGYsk) | Yoga with Kassandra | 19 | 2026-02-02 | 2028-02-02 |
 | [15-minute full-body mat Pilates](https://www.youtube.com/watch?v=v5mOBrVzh8E) | Yoga with Kassandra | 18 | 2026-07-06 | 2028-07-06 |

@@ -2,23 +2,23 @@
 
 **All 1737 videos are already owner-approved. No video reapproval is requested.**
 
-- Ready for automatic daily recommendations, subject to publication checks: **1546**
-- Videos with specific unresolved facts or routing conflicts: **191**
+- Ready for automatic daily recommendations, subject to publication checks: **1631**
+- Videos with specific unresolved facts or routing conflicts: **106**
 - Metadata mode: LIVE_OFFICIAL_API
 
 Download [the editable exception CSV](video-classification-exceptions.csv). Start with QUICK_FACT_FIX rows: each needs just one equipment or level answer. Fill the answer columns and a short factual note. Leave unknown facts blank. You can also reply with the review numbers and answers. TECHNICAL_CHECK rows need automated availability/identity work rather than another owner approval. Equipment choices: NONE, MAT, BODYWEIGHT, DUMBBELLS, KETTLEBELLS, BANDS. Record multiple required items in notes; current single-equipment routing cannot safely collapse them into one.
 
 | Category | Approved | Ready | Exceptions |
 |---|---:|---:|---:|
-| BEGINNER_STRENGTH | 405 | 349 | 24 |
-| STRENGTH_TRAINING | 696 | 636 | 46 |
-| PILATES | 204 | 142 | 61 |
+| BEGINNER_STRENGTH | 405 | 359 | 13 |
+| STRENGTH_TRAINING | 696 | 637 | 46 |
+| PILATES | 204 | 198 | 5 |
 | COOK_ALONG_RECIPE | 20 | 0 | 20 |
-| EXTENDED_MOBILITY | 16 | 55 | 6 |
-| GUIDED_RECOVERY | 28 | 19 | 8 |
-| RUNNER_FLEXIBILITY | 226 | 206 | 23 |
+| EXTENDED_MOBILITY | 16 | 60 | 1 |
+| GUIDED_RECOVERY | 28 | 20 | 1 |
+| RUNNER_FLEXIBILITY | 226 | 214 | 20 |
 | RUNNING_WARMUP | 4 | 4 | 0 |
-| YOGA | 138 | 135 | 3 |
+| YOGA | 138 | 139 | 0 |
 
 ## Questions to resolve
 
@@ -63,68 +63,6 @@ Download [the editable exception CSV](video-classification-exceptions.csv). Star
 [Open this exact video](https://www.youtube.com/watch?v=yy1tjuQttEg) · STRENGTH_TRAINING · Already approved
 
 - **EQUIPMENT_CONFLICT**: The listed equipment conflicts with the creator description, or several items are required. Record all required equipment; do not choose a single item if several are necessary.
-
-### 253. 🔥20 Min FULL BODY KETTLEBELL WORKOUT at Home🔥Beginner Workout🔥ALL STANDING🔥NO JUMPING🔥
-
-[Open this exact video](https://www.youtube.com/watch?v=50U2e5ChlE4) · BEGINNER_STRENGTH · Already approved
-
-- **EQUIPMENT_CONFLICT**: The listed equipment conflicts with the creator description, or several items are required. Record all required equipment; do not choose a single item if several are necessary.
-- **EQUIPMENT**: What equipment is required: NONE, MAT, BODYWEIGHT, DUMBBELLS, KETTLEBELLS or BANDS? If multiple items or other equipment are required, record them in notes and keep held.
-
-### 262. 20 Min Full Body Resistance Band Workout for Beginners / INT - Elastic Exercise Band for Women & Men
-
-[Open this exact video](https://www.youtube.com/watch?v=NtgpX9twRmg) · BEGINNER_STRENGTH · Already approved
-
-- **EQUIPMENT**: What equipment is required: NONE, MAT, BODYWEIGHT, DUMBBELLS, KETTLEBELLS or BANDS? If multiple items or other equipment are required, record them in notes and keep held.
-
-### 279. 30 Min Full Body RESISTANCE BAND Workout | Rowan Row
-
-[Open this exact video](https://www.youtube.com/watch?v=P9yGinoGiTY) · BEGINNER_STRENGTH · Already approved
-
-- **EQUIPMENT_CONFLICT**: The listed equipment conflicts with the creator description, or several items are required. Record all required equipment; do not choose a single item if several are necessary.
-- **EQUIPMENT**: What equipment is required: NONE, MAT, BODYWEIGHT, DUMBBELLS, KETTLEBELLS or BANDS? If multiple items or other equipment are required, record them in notes and keep held.
-
-### 289. 30 Minute Resistance Band Butt and Abs Workout
-
-[Open this exact video](https://www.youtube.com/watch?v=tcrWN5Niky0) · BEGINNER_STRENGTH · Already approved
-
-- **EQUIPMENT**: What equipment is required: NONE, MAT, BODYWEIGHT, DUMBBELLS, KETTLEBELLS or BANDS? If multiple items or other equipment are required, record them in notes and keep held.
-
-### 299. 30 Min Resistance Band Full Body Workout | Day 1
-
-[Open this exact video](https://www.youtube.com/watch?v=g-dGnwrXRv4) · BEGINNER_STRENGTH · Already approved
-
-- **EQUIPMENT**: What equipment is required: NONE, MAT, BODYWEIGHT, DUMBBELLS, KETTLEBELLS or BANDS? If multiple items or other equipment are required, record them in notes and keep held.
-
-### 300. 20 Min Calisthenics & Band Workout | Full Body | Follow Along
-
-[Open this exact video](https://www.youtube.com/watch?v=GgWbUU-xEh0) · BEGINNER_STRENGTH · Already approved
-
-- **EQUIPMENT**: What equipment is required: NONE, MAT, BODYWEIGHT, DUMBBELLS, KETTLEBELLS or BANDS? If multiple items or other equipment are required, record them in notes and keep held.
-
-### 301. 20 Min FULL BODY RESISTANCE BAND WORKOUT | No Repeat | Strength at Home
-
-[Open this exact video](https://www.youtube.com/watch?v=II6EEUPp__w) · BEGINNER_STRENGTH · Already approved
-
-- **EQUIPMENT**: What equipment is required: NONE, MAT, BODYWEIGHT, DUMBBELLS, KETTLEBELLS or BANDS? If multiple items or other equipment are required, record them in notes and keep held.
-
-### 305. 30 Min FULL BODY KETTLEBELL WORKOUT for Strength & Power | Follow Along
-
-[Open this exact video](https://www.youtube.com/watch?v=UmHAgSbc_Ts) · BEGINNER_STRENGTH · Already approved
-
-- **EQUIPMENT**: What equipment is required: NONE, MAT, BODYWEIGHT, DUMBBELLS, KETTLEBELLS or BANDS? If multiple items or other equipment are required, record them in notes and keep held.
-
-### 354. 40 MINUTE FULL BODY WORKOUT | PILATES WITH WEIGHTS ( Intermediate Pilates)
-
-[Open this exact video](https://www.youtube.com/watch?v=3hdUvjJbxBA) · PILATES · Already approved
-
-- **EQUIPMENT_ROUTING**: This equipment is not supported for the listed category. Confirm the category/equipment; retain the hold if this combination needs new app support.
-
-### 355. 30 Minute Pilates Deep Stretch and Strengthen Routine | Intermediate Power Pilates Workout
-
-[Open this exact video](https://www.youtube.com/watch?v=RboB4lVGpq4) · PILATES · Already approved
-
-- **EQUIPMENT_ROUTING**: This equipment is not supported for the listed category. Confirm the category/equipment; retain the hold if this combination needs new app support.
 
 ### 356. No-Bake Peanut Butter Protein Balls Recipe | Vegan
 
@@ -247,71 +185,35 @@ Download [the editable exception CSV](video-classification-exceptions.csv). Star
 
 - **RECIPE_DETAILS**: Record the specific balanced recipe: name, preparation minutes, ingredients/amounts, method steps, protein + starch + fruit/veg, timestamps and any verified dietary tags. A snack or entertainment video may not fit this meal action.
 
-### 377. Unlock Your Joints: 30 Minute Weighted Mobility Workout (No Talking)
-
-[Open this exact video](https://www.youtube.com/watch?v=dgW278twv4M) · EXTENDED_MOBILITY · Already approved
-
-- **EQUIPMENT_ROUTING**: This equipment is not supported for the listed category. Confirm the category/equipment; retain the hold if this combination needs new app support.
-
-### 379. 20 Minute Hip Mobility Workout | Joint Care Series | No Talking
-
-[Open this exact video](https://www.youtube.com/watch?v=FSYARen_6ew) · EXTENDED_MOBILITY · Already approved
-
-- **EQUIPMENT_ROUTING**: This equipment is not supported for the listed category. Confirm the category/equipment; retain the hold if this combination needs new app support.
-
-### 384. Unlock Your Joints: 30 Minute Weighted Mobility Workout (With Coaching)
-
-[Open this exact video](https://www.youtube.com/watch?v=TzJApqbIz6Y) · EXTENDED_MOBILITY · Already approved
-
-- **EQUIPMENT_ROUTING**: This equipment is not supported for the listed category. Confirm the category/equipment; retain the hold if this combination needs new app support.
-
-### 386. 35 Min. Weighted Mobility Workout for Longevity: Build Strength in Every Range of Motion
-
-[Open this exact video](https://www.youtube.com/watch?v=yc1HaJOF6jM) · EXTENDED_MOBILITY · Already approved
-
-- **EQUIPMENT_ROUTING**: This equipment is not supported for the listed category. Confirm the category/equipment; retain the hold if this combination needs new app support.
-
 ### 393. Cooldown & Stretch Routine - Recovery & Relaxation
 
-[Open this exact video](https://www.youtube.com/watch?v=cSLU3msDWxQ) · GUIDED_RECOVERY · Already approved
+[Open this exact video](https://www.youtube.com/watch?v=cSLU3msDWxQ) · RUNNER_FLEXIBILITY · Already approved
 
-- **RECOVERY_CATEGORY**: This appears to teach stretching/movement. Confirm yoga or mobility versus mindful recovery, so the correct daily action and evidence are used.
+- **TECHNICAL_AVAILABILITY**: Published 2024-05-28, older than 2 years (exercise); technical recheck required, no content reapproval.
 
 ### 394. AFTER RUN STRETCH | Full Body Stretching Exercises for Mobility, Flexibility, Recovery & Relaxation
 
 [Open this exact video](https://www.youtube.com/watch?v=DkDMaqT3nwY) · RUNNER_FLEXIBILITY · Already approved
 
-- **LEVEL**: What movement-skill level is this session: BEGINNER, INTERMEDIATE or ADVANCED?
+- **TECHNICAL_AVAILABILITY**: Published 2024-08-31, older than 2 years (exercise); technical recheck required, no content reapproval.
 
 ### 395. 7 MIN UPPER BODY & NECK STRETCHING ROUTINE | Do This After Your Upper Body Workouts | Relax & Reset
 
-[Open this exact video](https://www.youtube.com/watch?v=vhLKsetbz2Q) · GUIDED_RECOVERY · Already approved
+[Open this exact video](https://www.youtube.com/watch?v=vhLKsetbz2Q) · RUNNER_FLEXIBILITY · Already approved
 
-- **RECOVERY_CATEGORY**: This appears to teach stretching/movement. Confirm yoga or mobility versus mindful recovery, so the correct daily action and evidence are used.
+- **TECHNICAL_AVAILABILITY**: Published 2024-10-10, older than 2 years (exercise); technical recheck required, no content reapproval.
 
 ### 397. 15 min DAILY STRETCH ROUTINE | Flexibility, Relaxation and Muscle Recovery
 
-[Open this exact video](https://www.youtube.com/watch?v=ztvpND0LLY0) · GUIDED_RECOVERY · Already approved
+[Open this exact video](https://www.youtube.com/watch?v=ztvpND0LLY0) · RUNNER_FLEXIBILITY · Already approved
 
-- **RECOVERY_CATEGORY**: This appears to teach stretching/movement. Confirm yoga or mobility versus mindful recovery, so the correct daily action and evidence are used.
-
-### 406. Life Is Always Changing — Here’s How to Feel Okay with That: 11 Minute Guided Meditation
-
-[Open this exact video](https://www.youtube.com/watch?v=rgTWI1uiQfQ) · GUIDED_RECOVERY · Already approved
-
-- **FOLLOW_ALONG**: Confirm whether this is a general follow-along session or an educational reference. If follow-along, set generalFollowAlong=true with a short note.
-
-### 415. 10 min Yoga Nidra for Beginners | Easy Non-Sleep Deep Rest (NSDR)
-
-[Open this exact video](https://www.youtube.com/watch?v=EXXnEJ87z1Q) · GUIDED_RECOVERY · Already approved
-
-- **RECOVERY_CATEGORY**: This appears to teach stretching/movement. Confirm yoga or mobility versus mindful recovery, so the correct daily action and evidence are used.
+- **TECHNICAL_AVAILABILITY**: Published 2024-09-13, older than 2 years (exercise); technical recheck required, no content reapproval.
 
 ### 416. 15 Minute Relaxed Stretching Routine! (FOLLOW ALONG)
 
-[Open this exact video](https://www.youtube.com/watch?v=1u30bEkE2dE) · GUIDED_RECOVERY · Already approved
+[Open this exact video](https://www.youtube.com/watch?v=1u30bEkE2dE) · RUNNER_FLEXIBILITY · Already approved
 
-- **RECOVERY_CATEGORY**: This appears to teach stretching/movement. Confirm yoga or mobility versus mindful recovery, so the correct daily action and evidence are used.
+- **TECHNICAL_AVAILABILITY**: Published 2024-04-07, older than 2 years (exercise); technical recheck required, no content reapproval.
 
 ### 417. Can't Sleep From Sciatica Pain? Here's The Fix [8-Min Routine]
 
@@ -319,10 +221,107 @@ Download [the editable exception CSV](video-classification-exceptions.csv). Star
 
 - **SPECIAL_AUDIENCE**: Is this intended for a specific condition or population? It needs matching audience support before automatic general recommendations.
 
-### 418. Neck Pain From Sleeping Wrong? Here's How to Fix It [From A Physical Therapist]
+### 450. 30 MIN FULL BODY FAT BURNING PILATES HIIT + Tone Lean Muscles | With Weights, No Repeat, No Jumping
 
-[Open this exact video](https://www.youtube.com/watch?v=vVvgIF_9hEA) · GUIDED_RECOVERY · Already approved
+[Open this exact video](https://www.youtube.com/watch?v=sLT2JQNOZRg) · PILATES · Already approved
+
+- **CATEGORY_CONFLICT**: This describes HIIT/cardio. Confirm the actual category; it cannot serve as gentle mobility, yoga, Pilates or recovery.
+
+### 455. 30 min DUMBBELL STRENGTH x PILATES WORKOUT | Full Body | Back to Back Intervals | Pregnancy Friendly
+
+[Open this exact video](https://www.youtube.com/watch?v=4y_vdm9-NC4) · PILATES · Already approved
+
+- **SPECIAL_AUDIENCE**: Is this intended for a specific condition or population? It needs matching audience support before automatic general recommendations.
+- **EQUIPMENT**: What equipment is required: NONE, MAT, BODYWEIGHT, DUMBBELLS, KETTLEBELLS or BANDS? If multiple items or other equipment are required, record them in notes and keep held.
+
+### 505. Day 12 - 45 Min. Power Pilates Workout with Weights + HIIT | Strong & Balanced Vol. 2 Plan
+
+[Open this exact video](https://www.youtube.com/watch?v=JsnaVsFK0pc) · PILATES · Already approved
+
+- **CATEGORY_CONFLICT**: This describes HIIT/cardio. Confirm the actual category; it cannot serve as gentle mobility, yoga, Pilates or recovery.
+
+### 518. Day 9 - 45 Min. Power Pilates Workout with Weights + HIIT | Strong & Balanced Vol. 2 Plan
+
+[Open this exact video](https://www.youtube.com/watch?v=XQMB55LB7lY) · PILATES · Already approved
+
+- **CATEGORY_CONFLICT**: This describes HIIT/cardio. Confirm the actual category; it cannot serve as gentle mobility, yoga, Pilates or recovery.
+
+### 527. 30 MIN PILATES WORKOUT || Pregnancy Friendly Pilates (Moderate)
+
+[Open this exact video](https://www.youtube.com/watch?v=D2d7zi6ya58) · PILATES · Already approved
+
+- **SPECIAL_AUDIENCE**: Is this intended for a specific condition or population? It needs matching audience support before automatic general recommendations.
+
+### 646. PERIOD AND PMS Pain Relief Stretches to Stop Cramps Fast! 2 WEEKS
+
+[Open this exact video](https://www.youtube.com/watch?v=S6SNgM30X2E) · RUNNER_FLEXIBILITY · Already approved
+
+- **SPECIAL_AUDIENCE**: Is this intended for a specific condition or population? It needs matching audience support before automatic general recommendations.
+
+### 689. 10 Min Lower Back Pain Relief Exercises & Stretches - Stretching for Low Back Pain
+
+[Open this exact video](https://www.youtube.com/watch?v=r5HvNULtvbE) · RUNNER_FLEXIBILITY · Already approved
+
+- **SPECIAL_AUDIENCE**: Is this intended for a specific condition or population? It needs matching audience support before automatic general recommendations.
+
+### 702. LOWER BACK PAIN RELIEF STRETCHㅣ10 Min Fix Tight Back
+
+[Open this exact video](https://www.youtube.com/watch?v=35Z6hZgL2r0) · RUNNER_FLEXIBILITY · Already approved
+
+- **SPECIAL_AUDIENCE**: Is this intended for a specific condition or population? It needs matching audience support before automatic general recommendations.
+
+### 762. Costochondritis Rehab Exercises: Physical Therapy Stretches & Mobility for Chest Pain Relief
+
+[Open this exact video](https://www.youtube.com/watch?v=cUI53tysUeA) · RUNNER_FLEXIBILITY · Already approved
+
+- **SPECIAL_AUDIENCE**: Is this intended for a specific condition or population? It needs matching audience support before automatic general recommendations.
+
+### 764. Best Exercises for Hip Arthritis (Backed by Research)
+
+[Open this exact video](https://www.youtube.com/watch?v=JEOwn6a1QFE) · RUNNER_FLEXIBILITY · Already approved
+
+- **SPECIAL_AUDIENCE**: Is this intended for a specific condition or population? It needs matching audience support before automatic general recommendations.
+
+### 770. Why Your Glute Exercises Aren’t Improving Your Walking or Running
+
+[Open this exact video](https://www.youtube.com/watch?v=ttZ7G40Pe9M) · RUNNER_FLEXIBILITY · Already approved
 
 - **FOLLOW_ALONG**: Confirm whether this is a general follow-along session or an educational reference. If follow-along, set generalFollowAlong=true with a short note.
+
+### 780. How to Instantly Improve Your Flexibility!
+
+[Open this exact video](https://www.youtube.com/watch?v=BlE9pJqMbMk) · RUNNER_FLEXIBILITY · Already approved
+
+- **FOLLOW_ALONG**: Confirm whether this is a general follow-along session or an educational reference. If follow-along, set generalFollowAlong=true with a short note.
+
+### 793. Neck Pain Relief Stretches [7-Minute Daily Follow-Along]
+
+[Open this exact video](https://www.youtube.com/watch?v=1HX7fkScdXo) · RUNNER_FLEXIBILITY · Already approved
+
+- **SPECIAL_AUDIENCE**: Is this intended for a specific condition or population? It needs matching audience support before automatic general recommendations.
+
+### 795. Fix Your Ankle Pain! [Ankle Pain Relief Exercises At Home]
+
+[Open this exact video](https://www.youtube.com/watch?v=2WldQ-ULwHs) · RUNNER_FLEXIBILITY · Already approved
+
+- **SPECIAL_AUDIENCE**: Is this intended for a specific condition or population? It needs matching audience support before automatic general recommendations.
+
+### 796. 10 Min Mobility For FAST Lower Back Pain Relief! [PT GUIDED]
+
+[Open this exact video](https://www.youtube.com/watch?v=5cRbDPWavhI) · RUNNER_FLEXIBILITY · Already approved
+
+- **SPECIAL_AUDIENCE**: Is this intended for a specific condition or population? It needs matching audience support before automatic general recommendations.
+
+### 800. Sciatica Stretching Is WRONG | Here’s What Actually Works!
+
+[Open this exact video](https://www.youtube.com/watch?v=EHcZf0alLhc) · RUNNER_FLEXIBILITY · Already approved
+
+- **SPECIAL_AUDIENCE**: Is this intended for a specific condition or population? It needs matching audience support before automatic general recommendations.
+
+### 801. Back Pain Relief Stretches [7-Minute Daily Morning Routine]
+
+[Open this exact video](https://www.youtube.com/watch?v=jbwg8Ya5q1o) · RUNNER_FLEXIBILITY · Already approved
+
+- **SPECIAL_AUDIENCE**: Is this intended for a specific condition or population? It needs matching audience support before automatic general recommendations.
 
 The CSV and JSON contain every exception; this page previews the first 50.
