@@ -2,16 +2,16 @@
 
 **All 1737 videos are already owner-approved. No video reapproval is requested.**
 
-- Ready for automatic daily recommendations, subject to publication checks: **713**
-- Videos with specific unresolved facts or routing conflicts: **1024**
+- Ready for automatic daily recommendations, subject to publication checks: **726**
+- Videos with specific unresolved facts or routing conflicts: **1011**
 - Metadata mode: LIVE_OFFICIAL_API
 
 Download [the editable exception CSV](video-classification-exceptions.csv). Start with QUICK_FACT_FIX rows: each needs just one equipment or level answer. Fill the answer columns and a short factual note. Leave unknown facts blank. You can also reply with the review numbers and answers. TECHNICAL_CHECK rows need automated availability/identity work rather than another owner approval. Equipment choices: NONE, MAT, BODYWEIGHT, DUMBBELLS, KETTLEBELLS, BANDS. Record multiple required items in notes; current single-equipment routing cannot safely collapse them into one.
 
 | Category | Approved | Ready | Exceptions |
 |---|---:|---:|---:|
-| BEGINNER_STRENGTH | 405 | 256 | 149 |
-| STRENGTH_TRAINING | 696 | 402 | 294 |
+| BEGINNER_STRENGTH | 405 | 260 | 144 |
+| STRENGTH_TRAINING | 696 | 411 | 286 |
 | PILATES | 204 | 44 | 160 |
 | COOK_ALONG_RECIPE | 20 | 0 | 20 |
 | EXTENDED_MOBILITY | 16 | 0 | 16 |

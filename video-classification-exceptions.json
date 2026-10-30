@@ -1,22 +1,22 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T14:43:10.006Z",
+  "generatedAt": "2026-10-30T15:02:17.012Z",
   "sourceCommit": "6e6f17e4ed094454cf1f2355cd2f873b8c225704",
   "ownerApprovalComplete": true,
   "allApprovedCount": 1737,
   "metadataMode": "LIVE_OFFICIAL_API",
-  "readyCount": 713,
-  "exceptionCount": 1024,
+  "readyCount": 726,
+  "exceptionCount": 1011,
   "byCategory": {
     "BEGINNER_STRENGTH": {
       "approved": 405,
-      "ready": 256,
-      "exceptions": 149
+      "ready": 260,
+      "exceptions": 144
     },
     "STRENGTH_TRAINING": {
       "approved": 696,
-      "ready": 402,
-      "exceptions": 294
+      "ready": 411,
+      "exceptions": 286
     },
     "PILATES": {
       "approved": 204,
@@ -1445,58 +1445,6 @@
       "recipeDetailsJson": ""
     },
     {
-      "reviewNumber": 294,
-      "priority": "QUICK_FACT_FIX",
-      "videoId": "DP_jajCJokk",
-      "url": "https://www.youtube.com/watch?v=DP_jajCJokk",
-      "title": "20 Minute Full Body Kettlebell Workout | Joe Wicks Workouts",
-      "category": "BEGINNER_STRENGTH",
-      "ownerApproval": "ALREADY_APPROVED",
-      "listedEquipment": null,
-      "resolvedEquipment": null,
-      "level": "INTERMEDIATE",
-      "minutes": 22,
-      "blockers": [
-        {
-          "code": "EQUIPMENT",
-          "question": "What equipment is required: NONE, MAT, BODYWEIGHT, DUMBBELLS, KETTLEBELLS or BANDS? If multiple items or other equipment are required, record them in notes and keep held."
-        }
-      ],
-      "equipmentEvidence": [],
-      "answerEquipment": "",
-      "answerCategory": "",
-      "answerLevel": "",
-      "answerGeneralFollowAlong": "",
-      "answerNotes": "",
-      "recipeDetailsJson": ""
-    },
-    {
-      "reviewNumber": 295,
-      "priority": "QUICK_FACT_FIX",
-      "videoId": "EeCfJuaMpYo",
-      "url": "https://www.youtube.com/watch?v=EeCfJuaMpYo",
-      "title": "Strength in Menopause | Joe Wicks Workouts",
-      "category": "BEGINNER_STRENGTH",
-      "ownerApproval": "ALREADY_APPROVED",
-      "listedEquipment": null,
-      "resolvedEquipment": null,
-      "level": "INTERMEDIATE",
-      "minutes": 22,
-      "blockers": [
-        {
-          "code": "EQUIPMENT",
-          "question": "What equipment is required: NONE, MAT, BODYWEIGHT, DUMBBELLS, KETTLEBELLS or BANDS? If multiple items or other equipment are required, record them in notes and keep held."
-        }
-      ],
-      "equipmentEvidence": [],
-      "answerEquipment": "",
-      "answerCategory": "",
-      "answerLevel": "",
-      "answerGeneralFollowAlong": "",
-      "answerNotes": "",
-      "recipeDetailsJson": ""
-    },
-    {
       "reviewNumber": 296,
       "priority": "QUICK_FACT_FIX",
       "videoId": "36gncH0KAN0",
@@ -2559,32 +2507,6 @@
       "resolvedEquipment": null,
       "level": "INTERMEDIATE",
       "minutes": 33,
-      "blockers": [
-        {
-          "code": "EQUIPMENT",
-          "question": "What equipment is required: NONE, MAT, BODYWEIGHT, DUMBBELLS, KETTLEBELLS or BANDS? If multiple items or other equipment are required, record them in notes and keep held."
-        }
-      ],
-      "equipmentEvidence": [],
-      "answerEquipment": "",
-      "answerCategory": "",
-      "answerLevel": "",
-      "answerGeneralFollowAlong": "",
-      "answerNotes": "",
-      "recipeDetailsJson": ""
-    },
-    {
-      "reviewNumber": 341,
-      "priority": "QUICK_FACT_FIX",
-      "videoId": "UjPEC2GCJzQ",
-      "url": "https://www.youtube.com/watch?v=UjPEC2GCJzQ",
-      "title": "20 Minutes ARMS & ABS | Joe Wicks Workouts",
-      "category": "STRENGTH_TRAINING",
-      "ownerApproval": "ALREADY_APPROVED",
-      "listedEquipment": null,
-      "resolvedEquipment": null,
-      "level": "INTERMEDIATE",
-      "minutes": 22,
       "blockers": [
         {
           "code": "EQUIPMENT",
@@ -18300,84 +18222,6 @@
       "recipeDetailsJson": ""
     },
     {
-      "reviewNumber": 993,
-      "priority": "QUICK_FACT_FIX",
-      "videoId": "gJglVvymNNM",
-      "url": "https://www.youtube.com/watch?v=gJglVvymNNM",
-      "title": "25 Minute STRENGTH & SWEAT Workout | Joe Wicks Workouts",
-      "category": "BEGINNER_STRENGTH",
-      "ownerApproval": "ALREADY_APPROVED",
-      "listedEquipment": null,
-      "resolvedEquipment": null,
-      "level": "INTERMEDIATE",
-      "minutes": 25,
-      "blockers": [
-        {
-          "code": "EQUIPMENT",
-          "question": "What equipment is required: NONE, MAT, BODYWEIGHT, DUMBBELLS, KETTLEBELLS or BANDS? If multiple items or other equipment are required, record them in notes and keep held."
-        }
-      ],
-      "equipmentEvidence": [],
-      "answerEquipment": "",
-      "answerCategory": "",
-      "answerLevel": "",
-      "answerGeneralFollowAlong": "",
-      "answerNotes": "",
-      "recipeDetailsJson": ""
-    },
-    {
-      "reviewNumber": 994,
-      "priority": "QUICK_FACT_FIX",
-      "videoId": "hWGKj8jbzmg",
-      "url": "https://www.youtube.com/watch?v=hWGKj8jbzmg",
-      "title": "20 Minute Strength & Cardio | Joe Wicks Workouts",
-      "category": "BEGINNER_STRENGTH",
-      "ownerApproval": "ALREADY_APPROVED",
-      "listedEquipment": null,
-      "resolvedEquipment": null,
-      "level": "INTERMEDIATE",
-      "minutes": 22,
-      "blockers": [
-        {
-          "code": "EQUIPMENT",
-          "question": "What equipment is required: NONE, MAT, BODYWEIGHT, DUMBBELLS, KETTLEBELLS or BANDS? If multiple items or other equipment are required, record them in notes and keep held."
-        }
-      ],
-      "equipmentEvidence": [],
-      "answerEquipment": "",
-      "answerCategory": "",
-      "answerLevel": "",
-      "answerGeneralFollowAlong": "",
-      "answerNotes": "",
-      "recipeDetailsJson": ""
-    },
-    {
-      "reviewNumber": 995,
-      "priority": "QUICK_FACT_FIX",
-      "videoId": "EloAUTUKRek",
-      "url": "https://www.youtube.com/watch?v=EloAUTUKRek",
-      "title": "20 Minute STRENGTH, CARDIO & ABS | Joe Wicks Workouts",
-      "category": "STRENGTH_TRAINING",
-      "ownerApproval": "ALREADY_APPROVED",
-      "listedEquipment": null,
-      "resolvedEquipment": null,
-      "level": "INTERMEDIATE",
-      "minutes": 20,
-      "blockers": [
-        {
-          "code": "EQUIPMENT",
-          "question": "What equipment is required: NONE, MAT, BODYWEIGHT, DUMBBELLS, KETTLEBELLS or BANDS? If multiple items or other equipment are required, record them in notes and keep held."
-        }
-      ],
-      "equipmentEvidence": [],
-      "answerEquipment": "",
-      "answerCategory": "",
-      "answerLevel": "",
-      "answerGeneralFollowAlong": "",
-      "answerNotes": "",
-      "recipeDetailsJson": ""
-    },
-    {
       "reviewNumber": 998,
       "priority": "QUICK_FACT_FIX",
       "videoId": "L3Q0e02_Bcc",
@@ -19471,32 +19315,6 @@
       "resolvedEquipment": null,
       "level": "INTERMEDIATE",
       "minutes": 33,
-      "blockers": [
-        {
-          "code": "EQUIPMENT",
-          "question": "What equipment is required: NONE, MAT, BODYWEIGHT, DUMBBELLS, KETTLEBELLS or BANDS? If multiple items or other equipment are required, record them in notes and keep held."
-        }
-      ],
-      "equipmentEvidence": [],
-      "answerEquipment": "",
-      "answerCategory": "",
-      "answerLevel": "",
-      "answerGeneralFollowAlong": "",
-      "answerNotes": "",
-      "recipeDetailsJson": ""
-    },
-    {
-      "reviewNumber": 1133,
-      "priority": "QUICK_FACT_FIX",
-      "videoId": "jG1EpMLceao",
-      "url": "https://www.youtube.com/watch?v=jG1EpMLceao",
-      "title": "20 Minute FAT BURNING HIIT | Joe Wicks Workouts",
-      "category": "BEGINNER_STRENGTH",
-      "ownerApproval": "ALREADY_APPROVED",
-      "listedEquipment": null,
-      "resolvedEquipment": null,
-      "level": "INTERMEDIATE",
-      "minutes": 22,
       "blockers": [
         {
           "code": "EQUIPMENT",
@@ -26131,162 +25949,6 @@
       "resolvedEquipment": null,
       "level": "INTERMEDIATE",
       "minutes": 43,
-      "blockers": [
-        {
-          "code": "EQUIPMENT",
-          "question": "What equipment is required: NONE, MAT, BODYWEIGHT, DUMBBELLS, KETTLEBELLS or BANDS? If multiple items or other equipment are required, record them in notes and keep held."
-        }
-      ],
-      "equipmentEvidence": [],
-      "answerEquipment": "",
-      "answerCategory": "",
-      "answerLevel": "",
-      "answerGeneralFollowAlong": "",
-      "answerNotes": "",
-      "recipeDetailsJson": ""
-    },
-    {
-      "reviewNumber": 1650,
-      "priority": "QUICK_FACT_FIX",
-      "videoId": "FBbX6lYPIAI",
-      "url": "https://www.youtube.com/watch?v=FBbX6lYPIAI",
-      "title": "Lower Body Strength Workout | Joe Wicks Workouts",
-      "category": "STRENGTH_TRAINING",
-      "ownerApproval": "ALREADY_APPROVED",
-      "listedEquipment": null,
-      "resolvedEquipment": null,
-      "level": "INTERMEDIATE",
-      "minutes": 11,
-      "blockers": [
-        {
-          "code": "EQUIPMENT",
-          "question": "What equipment is required: NONE, MAT, BODYWEIGHT, DUMBBELLS, KETTLEBELLS or BANDS? If multiple items or other equipment are required, record them in notes and keep held."
-        }
-      ],
-      "equipmentEvidence": [],
-      "answerEquipment": "",
-      "answerCategory": "",
-      "answerLevel": "",
-      "answerGeneralFollowAlong": "",
-      "answerNotes": "",
-      "recipeDetailsJson": ""
-    },
-    {
-      "reviewNumber": 1651,
-      "priority": "QUICK_FACT_FIX",
-      "videoId": "FBvZRkRz7dQ",
-      "url": "https://www.youtube.com/watch?v=FBvZRkRz7dQ",
-      "title": "10 Minute ABS Workout | Joe Wicks Workouts",
-      "category": "STRENGTH_TRAINING",
-      "ownerApproval": "ALREADY_APPROVED",
-      "listedEquipment": null,
-      "resolvedEquipment": null,
-      "level": "INTERMEDIATE",
-      "minutes": 12,
-      "blockers": [
-        {
-          "code": "EQUIPMENT",
-          "question": "What equipment is required: NONE, MAT, BODYWEIGHT, DUMBBELLS, KETTLEBELLS or BANDS? If multiple items or other equipment are required, record them in notes and keep held."
-        }
-      ],
-      "equipmentEvidence": [],
-      "answerEquipment": "",
-      "answerCategory": "",
-      "answerLevel": "",
-      "answerGeneralFollowAlong": "",
-      "answerNotes": "",
-      "recipeDetailsJson": ""
-    },
-    {
-      "reviewNumber": 1653,
-      "priority": "QUICK_FACT_FIX",
-      "videoId": "jV2JDCFisoA",
-      "url": "https://www.youtube.com/watch?v=jV2JDCFisoA",
-      "title": "15 Minute LEGS, BUMS & TUMS Workout | Joe Wicks Workouts",
-      "category": "STRENGTH_TRAINING",
-      "ownerApproval": "ALREADY_APPROVED",
-      "listedEquipment": null,
-      "resolvedEquipment": null,
-      "level": "INTERMEDIATE",
-      "minutes": 17,
-      "blockers": [
-        {
-          "code": "EQUIPMENT",
-          "question": "What equipment is required: NONE, MAT, BODYWEIGHT, DUMBBELLS, KETTLEBELLS or BANDS? If multiple items or other equipment are required, record them in notes and keep held."
-        }
-      ],
-      "equipmentEvidence": [],
-      "answerEquipment": "",
-      "answerCategory": "",
-      "answerLevel": "",
-      "answerGeneralFollowAlong": "",
-      "answerNotes": "",
-      "recipeDetailsJson": ""
-    },
-    {
-      "reviewNumber": 1654,
-      "priority": "QUICK_FACT_FIX",
-      "videoId": "ldlH8t87drI",
-      "url": "https://www.youtube.com/watch?v=ldlH8t87drI",
-      "title": "ARMS & SHOULDERS | Joe Wicks Workouts",
-      "category": "STRENGTH_TRAINING",
-      "ownerApproval": "ALREADY_APPROVED",
-      "listedEquipment": null,
-      "resolvedEquipment": null,
-      "level": "INTERMEDIATE",
-      "minutes": 20,
-      "blockers": [
-        {
-          "code": "EQUIPMENT",
-          "question": "What equipment is required: NONE, MAT, BODYWEIGHT, DUMBBELLS, KETTLEBELLS or BANDS? If multiple items or other equipment are required, record them in notes and keep held."
-        }
-      ],
-      "equipmentEvidence": [],
-      "answerEquipment": "",
-      "answerCategory": "",
-      "answerLevel": "",
-      "answerGeneralFollowAlong": "",
-      "answerNotes": "",
-      "recipeDetailsJson": ""
-    },
-    {
-      "reviewNumber": 1656,
-      "priority": "QUICK_FACT_FIX",
-      "videoId": "SNeJDXDjaIA",
-      "url": "https://www.youtube.com/watch?v=SNeJDXDjaIA",
-      "title": "15 Minute ABS | Joe Wicks Workouts",
-      "category": "STRENGTH_TRAINING",
-      "ownerApproval": "ALREADY_APPROVED",
-      "listedEquipment": null,
-      "resolvedEquipment": null,
-      "level": "INTERMEDIATE",
-      "minutes": 17,
-      "blockers": [
-        {
-          "code": "EQUIPMENT",
-          "question": "What equipment is required: NONE, MAT, BODYWEIGHT, DUMBBELLS, KETTLEBELLS or BANDS? If multiple items or other equipment are required, record them in notes and keep held."
-        }
-      ],
-      "equipmentEvidence": [],
-      "answerEquipment": "",
-      "answerCategory": "",
-      "answerLevel": "",
-      "answerGeneralFollowAlong": "",
-      "answerNotes": "",
-      "recipeDetailsJson": ""
-    },
-    {
-      "reviewNumber": 1657,
-      "priority": "QUICK_FACT_FIX",
-      "videoId": "TaWZPTMo5yw",
-      "url": "https://www.youtube.com/watch?v=TaWZPTMo5yw",
-      "title": "10 Minute ABS | Joe Wicks Workouts",
-      "category": "STRENGTH_TRAINING",
-      "ownerApproval": "ALREADY_APPROVED",
-      "listedEquipment": null,
-      "resolvedEquipment": null,
-      "level": "INTERMEDIATE",
-      "minutes": 12,
       "blockers": [
         {
           "code": "EQUIPMENT",

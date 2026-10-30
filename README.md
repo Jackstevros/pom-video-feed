@@ -1,6 +1,6 @@
 # POM approved videos
 
-Revision 42, published 2026-10-30, valid until 2026-11-06. These are the only videos the app can link to. The signed file the app reads is `approved-action-feed.signed.json`.
+Revision 43, published 2026-10-30, valid until 2026-11-06. These are the only videos the app can link to. The signed file the app reads is `approved-action-feed.signed.json`.
 
 ## Runner flexibility (34)
 
@@ -82,7 +82,7 @@ Revision 42, published 2026-10-30, valid until 2026-11-06. These are the only vi
 | [Relaxing yin yoga, no props](https://www.youtube.com/watch?v=QO8j6H6DrMA) | Yoga with Kassandra | 19 | 2025-12-22 | 2028-12-22 |
 | [Relaxing morning stretch](https://www.youtube.com/watch?v=hJ0Ol0mYLDI) | Yoga with Kassandra | 16 | 2025-12-15 | 2028-12-15 |
 
-## Beginner strength (284)
+## Beginner strength (288)
 
 | Video | Creator | Minutes | Published | Ages out |
 |---|---|---|---|---|
@@ -352,6 +352,10 @@ Revision 42, published 2026-10-30, valid until 2026-11-06. These are the only vi
 | [30-minute 30 Minute Dumbbell Strength Workout | Joe Wicks Workouts](https://www.youtube.com/watch?v=hZcIaS8ljb0) | The Body Coach TV by Joe Wicks | 30 | 2025-05-04 | 2027-05-04 |
 | [20-minute 20 Minute Dumbbell Strength Workout | Joe Wicks Workouts](https://www.youtube.com/watch?v=SY-m_P6xS1k) | The Body Coach TV by Joe Wicks | 22 | 2025-07-05 | 2027-07-05 |
 | [30-minute NEW!! 30 Minute Dumbbell STRENGTH Workout | Joe Wicks Workouts](https://www.youtube.com/watch?v=vHpsWrKrJiA) | The Body Coach TV by Joe Wicks | 30 | 2025-03-23 | 2027-03-23 |
+| [Strength in Menopause | Joe Wicks Workouts](https://www.youtube.com/watch?v=EeCfJuaMpYo) | The Body Coach TV by Joe Wicks | 22 | 2026-10-03 | 2028-10-03 |
+| [25-minute 25 Minute STRENGTH & SWEAT Workout | Joe Wicks Workouts](https://www.youtube.com/watch?v=gJglVvymNNM) | The Body Coach TV by Joe Wicks | 25 | 2026-10-18 | 2028-10-18 |
+| [20-minute 20 Minute Strength & Cardio | Joe Wicks Workouts](https://www.youtube.com/watch?v=hWGKj8jbzmg) | The Body Coach TV by Joe Wicks | 22 | 2026-07-26 | 2028-07-26 |
+| [20-minute 20 Minute FAT BURNING HIIT | Joe Wicks Workouts](https://www.youtube.com/watch?v=jG1EpMLceao) | The Body Coach TV by Joe Wicks | 22 | 2026-07-05 | 2028-07-05 |
 | [20-minute 20 Minute Full Body Dumbbell Workout (Supersets)](https://www.youtube.com/watch?v=cV-G5nB9j_s) | TIFF x DAN | 24 | 2026-07-06 | 2028-07-06 |
 | [30-minute 30 Min Full Body Strength Training at Home with Dumbbells](https://www.youtube.com/watch?v=gsPbQYLP9_4) | TIFF x DAN | 34 | 2025-12-26 | 2027-12-26 |
 | [30-minute 30 Min Full Body Strength & Abs – Dumbbell Workout at Home | 4x5 Method](https://www.youtube.com/watch?v=tTY5QlwqtQc) | TIFF x DAN | 35 | 2025-10-06 | 2027-10-06 |
@@ -371,7 +375,7 @@ Revision 42, published 2026-10-30, valid until 2026-11-06. These are the only vi
 | [25-minute 25 MIN FULL BODY HIIT for Beginners - No Equipment, No Jumping - Home Workout](https://www.youtube.com/watch?v=-C6wZe8Lblg) | TRAIN WITH GAINSBYBRAINS | 26 | 2026-02-12 | 2028-02-12 |
 | [Yoga Pilates full-body strength](https://www.youtube.com/watch?v=2_Z8usjTflU) | Yoga with Kassandra | 32 | 2026-05-11 | 2028-05-11 |
 
-## Strength plan sessions (454)
+## Strength plan sessions (463)
 
 | Video | Creator | Minutes | Published | Ages out |
 |---|---|---|---|---|
@@ -756,10 +760,19 @@ Revision 42, published 2026-10-30, valid until 2026-11-06. These are the only vi
 | [20-minute legs and core](https://www.youtube.com/watch?v=9fL6LhJtcL0) | The Body Coach TV by Joe Wicks | 21 | 2026-08-09 | 2028-08-09 |
 | [25-minute dumbbell strength workout](https://www.youtube.com/watch?v=AvnCnS1Hbrs) | The Body Coach TV by Joe Wicks | 25 | 2026-02-15 | 2028-02-15 |
 | [20-Minute Dumbbell Workout | Joe Wicks Workouts](https://www.youtube.com/watch?v=dieiP7KVEvw) | The Body Coach TV by Joe Wicks | 23 | 2026-03-22 | 2028-03-22 |
+| [20-minute 20 Minute Full Body Kettlebell Workout | Joe Wicks Workouts](https://www.youtube.com/watch?v=DP_jajCJokk) | The Body Coach TV by Joe Wicks | 22 | 2026-04-19 | 2028-04-19 |
 | [20-minute 20 Minute Kettlebell Workout | Joe Wicks Workouts](https://www.youtube.com/watch?v=mVT5iIcXPXY) | The Body Coach TV by Joe Wicks | 23 | 2026-03-29 | 2028-03-29 |
+| [20-minute 20 Minutes ARMS & ABS | Joe Wicks Workouts](https://www.youtube.com/watch?v=UjPEC2GCJzQ) | The Body Coach TV by Joe Wicks | 22 | 2026-04-05 | 2028-04-05 |
+| [20-minute 20 Minute STRENGTH, CARDIO & ABS | Joe Wicks Workouts](https://www.youtube.com/watch?v=EloAUTUKRek) | The Body Coach TV by Joe Wicks | 20 | 2026-03-01 | 2028-03-01 |
 | [15-minute 15 Minute Dumbbell Strength | Joe Wicks Workouts](https://www.youtube.com/watch?v=bPZ1RvhD2ys) | The Body Coach TV by Joe Wicks | 17 | 2026-10-11 | 2028-10-11 |
+| [Lower Body Strength Workout | Joe Wicks Workouts](https://www.youtube.com/watch?v=FBbX6lYPIAI) | The Body Coach TV by Joe Wicks | 11 | 2026-09-27 | 2028-09-27 |
+| [10-minute 10 Minute ABS Workout | Joe Wicks Workouts](https://www.youtube.com/watch?v=FBvZRkRz7dQ) | The Body Coach TV by Joe Wicks | 12 | 2026-05-10 | 2028-05-10 |
 | [15-minute 15 Minute Dumbbell STRENGTH Workout | Joe Wicks Workouts](https://www.youtube.com/watch?v=il9P4Qcv--o) | The Body Coach TV by Joe Wicks | 17 | 2026-05-17 | 2028-05-17 |
+| [15-minute 15 Minute LEGS, BUMS & TUMS Workout | Joe Wicks Workouts](https://www.youtube.com/watch?v=jV2JDCFisoA) | The Body Coach TV by Joe Wicks | 17 | 2026-07-12 | 2028-07-12 |
+| [ARMS & SHOULDERS | Joe Wicks Workouts](https://www.youtube.com/watch?v=ldlH8t87drI) | The Body Coach TV by Joe Wicks | 20 | 2026-08-23 | 2028-08-23 |
 | [15-minute Home Strength Workout | 15 Minute Dumbbells | Joe Wicks Workouts](https://www.youtube.com/watch?v=p-R2QhrhdzU) | The Body Coach TV by Joe Wicks | 17 | 2026-09-13 | 2028-09-13 |
+| [15-minute 15 Minute ABS | Joe Wicks Workouts](https://www.youtube.com/watch?v=SNeJDXDjaIA) | The Body Coach TV by Joe Wicks | 17 | 2026-08-30 | 2028-08-30 |
+| [10-minute 10 Minute ABS | Joe Wicks Workouts](https://www.youtube.com/watch?v=TaWZPTMo5yw) | The Body Coach TV by Joe Wicks | 12 | 2026-08-16 | 2028-08-16 |
 | [Dumbbell Strength for Beginners | Joe Wicks Workouts](https://www.youtube.com/watch?v=Vkg5yGP4Usw) | The Body Coach TV by Joe Wicks | 15 | 2026-10-25 | 2028-10-25 |
 | [20-minute 20 Min Back & Biceps Workout for Toned Arms with Dumbbells](https://www.youtube.com/watch?v=MYd3YxUeN2A) | TIFF x DAN | 24 | 2026-03-15 | 2028-03-15 |
 | [40-minute 40 MIN CARDIO HIIT WORKOUT - Full Body, No Equipment, No Repeats](https://www.youtube.com/watch?v=5gzQEW-Ip_Y) | TIFF x DAN | 42 | 2026-04-13 | 2028-04-13 |
