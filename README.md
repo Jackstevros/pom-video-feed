@@ -1,6 +1,6 @@
 # POM approved videos
 
-Revision 43, published 2026-10-30, valid until 2026-11-06. These are the only videos the app can link to. The signed file the app reads is `approved-action-feed.signed.json`.
+Revision 44, published 2026-10-30, valid until 2026-11-06. These are the only videos the app can link to. The signed file the app reads is `approved-action-feed.signed.json`.
 
 ## Runner flexibility (34)
 
@@ -375,7 +375,7 @@ Revision 43, published 2026-10-30, valid until 2026-11-06. These are the only vi
 | [25-minute 25 MIN FULL BODY HIIT for Beginners - No Equipment, No Jumping - Home Workout](https://www.youtube.com/watch?v=-C6wZe8Lblg) | TRAIN WITH GAINSBYBRAINS | 26 | 2026-02-12 | 2028-02-12 |
 | [Yoga Pilates full-body strength](https://www.youtube.com/watch?v=2_Z8usjTflU) | Yoga with Kassandra | 32 | 2026-05-11 | 2028-05-11 |
 
-## Strength plan sessions (463)
+## Strength plan sessions (478)
 
 | Video | Creator | Minutes | Published | Ages out |
 |---|---|---|---|---|
@@ -447,6 +447,17 @@ Revision 43, published 2026-10-30, valid until 2026-11-06. These are the only vi
 | [40-Min Dumbbell Upper Body Workout | Chest, Back, Arms & Core (Follow Along)](https://www.youtube.com/watch?v=blNI9c1iYfk) | DANIELPT FITNESS | 43 | 2026-02-19 | 2028-02-19 |
 | [Explosive 30-Minute Kettlebell Conditioning | Not for Beginners, No Repeats](https://www.youtube.com/watch?v=PDuFAtZCavw) | DANIELPT FITNESS | 32 | 2026-01-22 | 2028-01-22 |
 | [ONE Kettlebell, NO Repeats | 30-Minute Full Body Follow-Along Workout](https://www.youtube.com/watch?v=96KuI0EuRDg) | DANIELPT FITNESS | 32 | 2026-01-08 | 2028-01-08 |
+| [25 Min Upper Body Kettlebell Workout | 20 Min Upper Body + 5 Min Core Finisher](https://www.youtube.com/watch?v=l12oFBgpP1g) | DANIELPT FITNESS | 28 | 2026-10-15 | 2028-10-15 |
+| [25 Min No-Repeat Kettlebell Workout | Push–Pull Strength & Power](https://www.youtube.com/watch?v=gyJfhySX8tc) | DANIELPT FITNESS | 29 | 2026-02-12 | 2028-02-12 |
+| [20-Min EXPLOSIVE Dumbbell Power (Better Than Cardio)](https://www.youtube.com/watch?v=qbMAxO_NIbc) | DANIELPT FITNESS | 21 | 2026-02-05 | 2028-02-05 |
+| [INTENSE 20-Min Kettlebell Tabata | Functional Power & Resilience](https://www.youtube.com/watch?v=GPVdPV_mW8Y) | DANIELPT FITNESS | 23 | 2026-01-29 | 2028-01-29 |
+| [30 Min FULL Dumbbell Controlled Workout | No Repeat & No Jump](https://www.youtube.com/watch?v=TSUUwJB5ycI) | DANIELPT FITNESS | 36 | 2026-01-15 | 2028-01-15 |
+| [47 Min Full Body Dumbbell Strength Workout (No Jumping, No Repeats)](https://www.youtube.com/watch?v=f_ypzne9PFs) | DANIELPT FITNESS | 49 | 2026-01-02 | 2028-01-02 |
+| [40 Minute Full Body Kettlebell Workout | Guided Follow-Along Strength, Control & Power](https://www.youtube.com/watch?v=4tZs7nLKpS8) | DANIELPT FITNESS | 45 | 2025-12-18 | 2027-12-18 |
+| [30 Minute Full Body Kettlebell HIIT Workout (No Repeats | Explosive, Dynamic + Advanced)](https://www.youtube.com/watch?v=tSWJpCmArSU) | DANIELPT FITNESS | 31 | 2025-12-11 | 2027-12-11 |
+| [35 MIN FULL BODY DUMBBELL WORKOUT • AMRAP Strength & Conditioning (Build Muscle + Burn Fat)](https://www.youtube.com/watch?v=RlLkN_2eQHo) | DANIELPT FITNESS | 39 | 2025-12-04 | 2027-12-04 |
+| [40 Minute Dumbbell LEG & ABS Workout | Controlled Execution | Commentary Follow-Along](https://www.youtube.com/watch?v=FN0E0zKHjlc) | DANIELPT FITNESS | 43 | 2025-11-27 | 2027-11-27 |
+| [35-Min DEMANDING Kettlebell Workout | Strength, Explosive Power & Core | No Repeat Follow Along](https://www.youtube.com/watch?v=TXHKumZ8_6Q) | DANIELPT FITNESS | 39 | 2025-11-20 | 2027-11-20 |
 | [30-minute Intermediate Kettlebell Circuit | 30 Minute Strength & Mobility | No Talking](https://www.youtube.com/watch?v=DQt_0sdlZTw) | EDR Fitness | 36 | 2026-06-18 | 2028-06-18 |
 | [30-minute 30 Min BOOTY BUILDING WORKOUT + Weights |  Grow your Glutes | No Jumping, Warm Up + Cool Down](https://www.youtube.com/watch?v=avyhBrDwqGE) | Eleni Fit | 34 | 2025-12-29 | 2027-12-29 |
 | [Do This Every Day To Lose Weight & Tone Your Body🔥| 5000 Steps, optional: Small Weights, No Jumping](https://www.youtube.com/watch?v=eagtxYCXZMU) | Eleni Fit | 34 | 2026-04-06 | 2028-04-06 |
@@ -774,6 +785,10 @@ Revision 43, published 2026-10-30, valid until 2026-11-06. These are the only vi
 | [15-minute 15 Minute ABS | Joe Wicks Workouts](https://www.youtube.com/watch?v=SNeJDXDjaIA) | The Body Coach TV by Joe Wicks | 17 | 2026-08-30 | 2028-08-30 |
 | [10-minute 10 Minute ABS | Joe Wicks Workouts](https://www.youtube.com/watch?v=TaWZPTMo5yw) | The Body Coach TV by Joe Wicks | 12 | 2026-08-16 | 2028-08-16 |
 | [Dumbbell Strength for Beginners | Joe Wicks Workouts](https://www.youtube.com/watch?v=Vkg5yGP4Usw) | The Body Coach TV by Joe Wicks | 15 | 2026-10-25 | 2028-10-25 |
+| [15 Minute Bodyweight HIIT | Joe Wicks Workouts](https://www.youtube.com/watch?v=7HqGfx_C_po) | The Body Coach TV by Joe Wicks | 17 | 2026-09-20 | 2028-09-20 |
+| [Joe Wicks’ MOVEMENT HOUR 2026: 20-Minute Bodyweight Workout](https://www.youtube.com/watch?v=gDdrJtTUEBw) | The Body Coach TV by Joe Wicks | 22 | 2026-03-18 | 2028-03-18 |
+| [SHORT & SNAPPY 10 Minute Bodyweight HIIT | Joe Wicks Workouts](https://www.youtube.com/watch?v=ixXVC5V8ScE) | The Body Coach TV by Joe Wicks | 12 | 2026-03-08 | 2028-03-08 |
+| [15 Minute Bodyweight HIIT | Joe Wicks Workouts](https://www.youtube.com/watch?v=mGoiP-L0azk) | The Body Coach TV by Joe Wicks | 17 | 2026-01-25 | 2028-01-25 |
 | [20-minute 20 Min Back & Biceps Workout for Toned Arms with Dumbbells](https://www.youtube.com/watch?v=MYd3YxUeN2A) | TIFF x DAN | 24 | 2026-03-15 | 2028-03-15 |
 | [40-minute 40 MIN CARDIO HIIT WORKOUT - Full Body, No Equipment, No Repeats](https://www.youtube.com/watch?v=5gzQEW-Ip_Y) | TIFF x DAN | 42 | 2026-04-13 | 2028-04-13 |
 | [35-minute 35 Min Full Body METCON | Dumbbell Strength + Fat Burning HIIT Workout](https://www.youtube.com/watch?v=h26EtsmPSO8) | TIFF x DAN | 39 | 2026-02-09 | 2028-02-09 |
