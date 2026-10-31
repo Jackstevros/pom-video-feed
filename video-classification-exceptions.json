@@ -1,47 +1,47 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T15:32:55.647Z",
+  "generatedAt": "2026-10-31T12:47:39.894Z",
   "sourceCommit": "6e6f17e4ed094454cf1f2355cd2f873b8c225704",
   "ownerApprovalComplete": true,
   "allApprovedCount": 1737,
   "metadataMode": "LIVE_OFFICIAL_API",
-  "readyCount": 1631,
-  "exceptionCount": 106,
+  "readyCount": 1663,
+  "exceptionCount": 74,
   "byCategory": {
     "BEGINNER_STRENGTH": {
       "approved": 405,
-      "ready": 359,
-      "exceptions": 13
+      "ready": 357,
+      "exceptions": 10
     },
     "STRENGTH_TRAINING": {
       "approved": 696,
       "ready": 637,
-      "exceptions": 46
+      "exceptions": 29
     },
     "PILATES": {
       "approved": 204,
       "ready": 198,
-      "exceptions": 5
+      "exceptions": 3
     },
     "COOK_ALONG_RECIPE": {
       "approved": 20,
-      "ready": 0,
-      "exceptions": 20
+      "ready": 4,
+      "exceptions": 16
     },
     "EXTENDED_MOBILITY": {
       "approved": 16,
       "ready": 60,
-      "exceptions": 1
+      "exceptions": 0
     },
     "GUIDED_RECOVERY": {
       "approved": 28,
       "ready": 20,
-      "exceptions": 1
+      "exceptions": 0
     },
     "RUNNER_FLEXIBILITY": {
       "approved": 226,
       "ready": 214,
-      "exceptions": 20
+      "exceptions": 15
     },
     "RUNNING_WARMUP": {
       "approved": 4,
@@ -52,6 +52,16 @@
       "approved": 138,
       "ready": 139,
       "exceptions": 0
+    },
+    "INJURY_CARE": {
+      "approved": 0,
+      "ready": 6,
+      "exceptions": 0
+    },
+    "PREGNANCY_EXERCISE": {
+      "approved": 0,
+      "ready": 24,
+      "exceptions": 1
     }
   },
   "exceptions": [
@@ -287,6 +297,36 @@
       "recipeDetailsJson": ""
     },
     {
+      "reviewNumber": 303,
+      "priority": "ROUTING_REVIEW",
+      "videoId": "u7nSBY9yJKE",
+      "url": "https://www.youtube.com/watch?v=u7nSBY9yJKE",
+      "title": "20 Min Pull Up Bar Workout | Full Body Follow Along",
+      "category": "BEGINNER_STRENGTH",
+      "ownerApproval": "ALREADY_APPROVED",
+      "listedEquipment": null,
+      "resolvedEquipment": null,
+      "level": "INTERMEDIATE",
+      "minutes": 22,
+      "blockers": [
+        {
+          "code": "UNSUPPORTED_EQUIPMENT",
+          "question": "This workout requires a pull-up bar, which is not a selectable equipment option. Hold it from recommendations; do not classify as no equipment."
+        },
+        {
+          "code": "EQUIPMENT",
+          "question": "What equipment is required: NONE, MAT, BODYWEIGHT, DUMBBELLS, KETTLEBELLS or BANDS? If multiple items or other equipment are required, record them in notes and keep held."
+        }
+      ],
+      "equipmentEvidence": [],
+      "answerEquipment": "",
+      "answerCategory": "",
+      "answerLevel": "",
+      "answerGeneralFollowAlong": "",
+      "answerNotes": "",
+      "recipeDetailsJson": ""
+    },
+    {
       "reviewNumber": 356,
       "priority": "RECIPE_DETAILS",
       "videoId": "vnjfXLp6l20",
@@ -365,32 +405,6 @@
       "recipeDetailsJson": ""
     },
     {
-      "reviewNumber": 359,
-      "priority": "RECIPE_DETAILS",
-      "videoId": "cyr4C8xPsxA",
-      "url": "https://www.youtube.com/watch?v=cyr4C8xPsxA",
-      "title": "Jamie's Easy Prawn Curry! Perfect For Any Night Of The Week",
-      "category": "COOK_ALONG_RECIPE",
-      "ownerApproval": "ALREADY_APPROVED",
-      "listedEquipment": null,
-      "resolvedEquipment": "NONE",
-      "level": "BEGINNER",
-      "minutes": 9,
-      "blockers": [
-        {
-          "code": "RECIPE_DETAILS",
-          "question": "Record the specific balanced recipe: name, preparation minutes, ingredients/amounts, method steps, protein + starch + fruit/veg, timestamps and any verified dietary tags. A snack or entertainment video may not fit this meal action."
-        }
-      ],
-      "equipmentEvidence": [],
-      "answerEquipment": "",
-      "answerCategory": "",
-      "answerLevel": "",
-      "answerGeneralFollowAlong": "",
-      "answerNotes": "",
-      "recipeDetailsJson": ""
-    },
-    {
       "reviewNumber": 360,
       "priority": "RECIPE_DETAILS",
       "videoId": "hs71weg1FJk",
@@ -443,58 +457,6 @@
       "recipeDetailsJson": ""
     },
     {
-      "reviewNumber": 362,
-      "priority": "RECIPE_DETAILS",
-      "videoId": "lkBf5CpMJPw",
-      "url": "https://www.youtube.com/watch?v=lkBf5CpMJPw",
-      "title": "Epic Surf & Turf Gumbo Perfect Weekend Recipe | Jamie Oliver",
-      "category": "COOK_ALONG_RECIPE",
-      "ownerApproval": "ALREADY_APPROVED",
-      "listedEquipment": null,
-      "resolvedEquipment": "NONE",
-      "level": "INTERMEDIATE",
-      "minutes": 6,
-      "blockers": [
-        {
-          "code": "RECIPE_DETAILS",
-          "question": "Record the specific balanced recipe: name, preparation minutes, ingredients/amounts, method steps, protein + starch + fruit/veg, timestamps and any verified dietary tags. A snack or entertainment video may not fit this meal action."
-        }
-      ],
-      "equipmentEvidence": [],
-      "answerEquipment": "",
-      "answerCategory": "",
-      "answerLevel": "",
-      "answerGeneralFollowAlong": "",
-      "answerNotes": "",
-      "recipeDetailsJson": ""
-    },
-    {
-      "reviewNumber": 363,
-      "priority": "RECIPE_DETAILS",
-      "videoId": "LWokaHQPCUc",
-      "url": "https://www.youtube.com/watch?v=LWokaHQPCUc",
-      "title": "Jamie Oliver's Crispy Potato Rosti & Smoked Alaskan Sockeye Salmon",
-      "category": "COOK_ALONG_RECIPE",
-      "ownerApproval": "ALREADY_APPROVED",
-      "listedEquipment": null,
-      "resolvedEquipment": "NONE",
-      "level": "INTERMEDIATE",
-      "minutes": 7,
-      "blockers": [
-        {
-          "code": "RECIPE_DETAILS",
-          "question": "Record the specific balanced recipe: name, preparation minutes, ingredients/amounts, method steps, protein + starch + fruit/veg, timestamps and any verified dietary tags. A snack or entertainment video may not fit this meal action."
-        }
-      ],
-      "equipmentEvidence": [],
-      "answerEquipment": "",
-      "answerCategory": "",
-      "answerLevel": "",
-      "answerGeneralFollowAlong": "",
-      "answerNotes": "",
-      "recipeDetailsJson": ""
-    },
-    {
       "reviewNumber": 364,
       "priority": "RECIPE_DETAILS",
       "videoId": "mEd_21pQIeM",
@@ -511,32 +473,6 @@
           "code": "FOLLOW_ALONG",
           "question": "Confirm whether this is a general follow-along session or an educational reference. If follow-along, set generalFollowAlong=true with a short note."
         },
-        {
-          "code": "RECIPE_DETAILS",
-          "question": "Record the specific balanced recipe: name, preparation minutes, ingredients/amounts, method steps, protein + starch + fruit/veg, timestamps and any verified dietary tags. A snack or entertainment video may not fit this meal action."
-        }
-      ],
-      "equipmentEvidence": [],
-      "answerEquipment": "",
-      "answerCategory": "",
-      "answerLevel": "",
-      "answerGeneralFollowAlong": "",
-      "answerNotes": "",
-      "recipeDetailsJson": ""
-    },
-    {
-      "reviewNumber": 365,
-      "priority": "RECIPE_DETAILS",
-      "videoId": "nyYVQoooxD4",
-      "url": "https://www.youtube.com/watch?v=nyYVQoooxD4",
-      "title": "Comforting Korean Style Chicken Hotpot | Jamie Oliver",
-      "category": "COOK_ALONG_RECIPE",
-      "ownerApproval": "ALREADY_APPROVED",
-      "listedEquipment": null,
-      "resolvedEquipment": "NONE",
-      "level": "INTERMEDIATE",
-      "minutes": 6,
-      "blockers": [
         {
           "code": "RECIPE_DETAILS",
           "question": "Record the specific balanced recipe: name, preparation minutes, ingredients/amounts, method steps, protein + starch + fruit/veg, timestamps and any verified dietary tags. A snack or entertainment video may not fit this meal action."
@@ -941,32 +877,6 @@
       "recipeDetailsJson": ""
     },
     {
-      "reviewNumber": 417,
-      "priority": "ROUTING_REVIEW",
-      "videoId": "mKgsmOVkIAg",
-      "url": "https://www.youtube.com/watch?v=mKgsmOVkIAg",
-      "title": "Can't Sleep From Sciatica Pain? Here's The Fix [8-Min Routine]",
-      "category": "GUIDED_RECOVERY",
-      "ownerApproval": "ALREADY_APPROVED",
-      "listedEquipment": null,
-      "resolvedEquipment": "NONE",
-      "level": null,
-      "minutes": 9,
-      "blockers": [
-        {
-          "code": "SPECIAL_AUDIENCE",
-          "question": "Is this intended for a specific condition or population? It needs matching audience support before automatic general recommendations."
-        }
-      ],
-      "equipmentEvidence": [],
-      "answerEquipment": "",
-      "answerCategory": "",
-      "answerLevel": "",
-      "answerGeneralFollowAlong": "",
-      "answerNotes": "",
-      "recipeDetailsJson": ""
-    },
-    {
       "reviewNumber": 450,
       "priority": "ROUTING_REVIEW",
       "videoId": "sLT2JQNOZRg",
@@ -982,36 +892,6 @@
         {
           "code": "CATEGORY_CONFLICT",
           "question": "This describes HIIT/cardio. Confirm the actual category; it cannot serve as gentle mobility, yoga, Pilates or recovery."
-        }
-      ],
-      "equipmentEvidence": [],
-      "answerEquipment": "",
-      "answerCategory": "",
-      "answerLevel": "",
-      "answerGeneralFollowAlong": "",
-      "answerNotes": "",
-      "recipeDetailsJson": ""
-    },
-    {
-      "reviewNumber": 455,
-      "priority": "ROUTING_REVIEW",
-      "videoId": "4y_vdm9-NC4",
-      "url": "https://www.youtube.com/watch?v=4y_vdm9-NC4",
-      "title": "30 min DUMBBELL STRENGTH x PILATES WORKOUT | Full Body | Back to Back Intervals | Pregnancy Friendly",
-      "category": "PILATES",
-      "ownerApproval": "ALREADY_APPROVED",
-      "listedEquipment": null,
-      "resolvedEquipment": null,
-      "level": "INTERMEDIATE",
-      "minutes": 36,
-      "blockers": [
-        {
-          "code": "SPECIAL_AUDIENCE",
-          "question": "Is this intended for a specific condition or population? It needs matching audience support before automatic general recommendations."
-        },
-        {
-          "code": "EQUIPMENT",
-          "question": "What equipment is required: NONE, MAT, BODYWEIGHT, DUMBBELLS, KETTLEBELLS or BANDS? If multiple items or other equipment are required, record them in notes and keep held."
         }
       ],
       "equipmentEvidence": [],
@@ -1075,89 +955,11 @@
       "recipeDetailsJson": ""
     },
     {
-      "reviewNumber": 527,
-      "priority": "ROUTING_REVIEW",
-      "videoId": "D2d7zi6ya58",
-      "url": "https://www.youtube.com/watch?v=D2d7zi6ya58",
-      "title": "30 MIN PILATES WORKOUT || Pregnancy Friendly Pilates (Moderate)",
-      "category": "PILATES",
-      "ownerApproval": "ALREADY_APPROVED",
-      "listedEquipment": null,
-      "resolvedEquipment": "NONE",
-      "level": "INTERMEDIATE",
-      "minutes": 32,
-      "blockers": [
-        {
-          "code": "SPECIAL_AUDIENCE",
-          "question": "Is this intended for a specific condition or population? It needs matching audience support before automatic general recommendations."
-        }
-      ],
-      "equipmentEvidence": [],
-      "answerEquipment": "",
-      "answerCategory": "",
-      "answerLevel": "",
-      "answerGeneralFollowAlong": "",
-      "answerNotes": "",
-      "recipeDetailsJson": ""
-    },
-    {
       "reviewNumber": 646,
       "priority": "ROUTING_REVIEW",
       "videoId": "S6SNgM30X2E",
       "url": "https://www.youtube.com/watch?v=S6SNgM30X2E",
       "title": "PERIOD AND PMS Pain Relief Stretches to Stop Cramps Fast! 2 WEEKS",
-      "category": "RUNNER_FLEXIBILITY",
-      "ownerApproval": "ALREADY_APPROVED",
-      "listedEquipment": null,
-      "resolvedEquipment": "NONE",
-      "level": "INTERMEDIATE",
-      "minutes": 13,
-      "blockers": [
-        {
-          "code": "SPECIAL_AUDIENCE",
-          "question": "Is this intended for a specific condition or population? It needs matching audience support before automatic general recommendations."
-        }
-      ],
-      "equipmentEvidence": [],
-      "answerEquipment": "",
-      "answerCategory": "",
-      "answerLevel": "",
-      "answerGeneralFollowAlong": "",
-      "answerNotes": "",
-      "recipeDetailsJson": ""
-    },
-    {
-      "reviewNumber": 689,
-      "priority": "ROUTING_REVIEW",
-      "videoId": "r5HvNULtvbE",
-      "url": "https://www.youtube.com/watch?v=r5HvNULtvbE",
-      "title": "10 Min Lower Back Pain Relief Exercises & Stretches - Stretching for Low Back Pain",
-      "category": "RUNNER_FLEXIBILITY",
-      "ownerApproval": "ALREADY_APPROVED",
-      "listedEquipment": null,
-      "resolvedEquipment": "NONE",
-      "level": "INTERMEDIATE",
-      "minutes": 12,
-      "blockers": [
-        {
-          "code": "SPECIAL_AUDIENCE",
-          "question": "Is this intended for a specific condition or population? It needs matching audience support before automatic general recommendations."
-        }
-      ],
-      "equipmentEvidence": [],
-      "answerEquipment": "",
-      "answerCategory": "",
-      "answerLevel": "",
-      "answerGeneralFollowAlong": "",
-      "answerNotes": "",
-      "recipeDetailsJson": ""
-    },
-    {
-      "reviewNumber": 702,
-      "priority": "ROUTING_REVIEW",
-      "videoId": "35Z6hZgL2r0",
-      "url": "https://www.youtube.com/watch?v=35Z6hZgL2r0",
-      "title": "LOWER BACK PAIN RELIEF STRETCHㅣ10 Min Fix Tight Back",
       "category": "RUNNER_FLEXIBILITY",
       "ownerApproval": "ALREADY_APPROVED",
       "listedEquipment": null,
@@ -1283,32 +1085,6 @@
       "recipeDetailsJson": ""
     },
     {
-      "reviewNumber": 793,
-      "priority": "ROUTING_REVIEW",
-      "videoId": "1HX7fkScdXo",
-      "url": "https://www.youtube.com/watch?v=1HX7fkScdXo",
-      "title": "Neck Pain Relief Stretches [7-Minute Daily Follow-Along]",
-      "category": "RUNNER_FLEXIBILITY",
-      "ownerApproval": "ALREADY_APPROVED",
-      "listedEquipment": null,
-      "resolvedEquipment": "NONE",
-      "level": "INTERMEDIATE",
-      "minutes": 8,
-      "blockers": [
-        {
-          "code": "SPECIAL_AUDIENCE",
-          "question": "Is this intended for a specific condition or population? It needs matching audience support before automatic general recommendations."
-        }
-      ],
-      "equipmentEvidence": [],
-      "answerEquipment": "",
-      "answerCategory": "",
-      "answerLevel": "",
-      "answerGeneralFollowAlong": "",
-      "answerNotes": "",
-      "recipeDetailsJson": ""
-    },
-    {
       "reviewNumber": 795,
       "priority": "ROUTING_REVIEW",
       "videoId": "2WldQ-ULwHs",
@@ -1335,32 +1111,6 @@
       "recipeDetailsJson": ""
     },
     {
-      "reviewNumber": 796,
-      "priority": "ROUTING_REVIEW",
-      "videoId": "5cRbDPWavhI",
-      "url": "https://www.youtube.com/watch?v=5cRbDPWavhI",
-      "title": "10 Min Mobility For FAST Lower Back Pain Relief! [PT GUIDED]",
-      "category": "RUNNER_FLEXIBILITY",
-      "ownerApproval": "ALREADY_APPROVED",
-      "listedEquipment": null,
-      "resolvedEquipment": "NONE",
-      "level": "INTERMEDIATE",
-      "minutes": 11,
-      "blockers": [
-        {
-          "code": "SPECIAL_AUDIENCE",
-          "question": "Is this intended for a specific condition or population? It needs matching audience support before automatic general recommendations."
-        }
-      ],
-      "equipmentEvidence": [],
-      "answerEquipment": "",
-      "answerCategory": "",
-      "answerLevel": "",
-      "answerGeneralFollowAlong": "",
-      "answerNotes": "",
-      "recipeDetailsJson": ""
-    },
-    {
       "reviewNumber": 800,
       "priority": "ROUTING_REVIEW",
       "videoId": "EHcZf0alLhc",
@@ -1372,32 +1122,6 @@
       "resolvedEquipment": "NONE",
       "level": "INTERMEDIATE",
       "minutes": 12,
-      "blockers": [
-        {
-          "code": "SPECIAL_AUDIENCE",
-          "question": "Is this intended for a specific condition or population? It needs matching audience support before automatic general recommendations."
-        }
-      ],
-      "equipmentEvidence": [],
-      "answerEquipment": "",
-      "answerCategory": "",
-      "answerLevel": "",
-      "answerGeneralFollowAlong": "",
-      "answerNotes": "",
-      "recipeDetailsJson": ""
-    },
-    {
-      "reviewNumber": 801,
-      "priority": "ROUTING_REVIEW",
-      "videoId": "jbwg8Ya5q1o",
-      "url": "https://www.youtube.com/watch?v=jbwg8Ya5q1o",
-      "title": "Back Pain Relief Stretches [7-Minute Daily Morning Routine]",
-      "category": "RUNNER_FLEXIBILITY",
-      "ownerApproval": "ALREADY_APPROVED",
-      "listedEquipment": null,
-      "resolvedEquipment": "NONE",
-      "level": "INTERMEDIATE",
-      "minutes": 8,
       "blockers": [
         {
           "code": "SPECIAL_AUDIENCE",
@@ -1484,6 +1208,32 @@
         {
           "code": "SPECIAL_AUDIENCE",
           "question": "Is this intended for a specific condition or population? It needs matching audience support before automatic general recommendations."
+        }
+      ],
+      "equipmentEvidence": [],
+      "answerEquipment": "",
+      "answerCategory": "",
+      "answerLevel": "",
+      "answerGeneralFollowAlong": "",
+      "answerNotes": "",
+      "recipeDetailsJson": ""
+    },
+    {
+      "reviewNumber": 1005,
+      "priority": "TECHNICAL_CHECK",
+      "videoId": "9tvLB9sf_ic",
+      "url": "https://www.youtube.com/watch?v=9tvLB9sf_ic",
+      "title": "HIIT Cardio Workout for fat loss - 20 Min No Equip No Repeats",
+      "category": "BEGINNER_STRENGTH",
+      "ownerApproval": "ALREADY_APPROVED",
+      "listedEquipment": null,
+      "resolvedEquipment": "NONE",
+      "level": "INTERMEDIATE",
+      "minutes": 21,
+      "blockers": [
+        {
+          "code": "TECHNICAL_AVAILABILITY",
+          "question": "Published 2024-10-30, older than 2 years (exercise); technical recheck required, no content reapproval."
         }
       ],
       "equipmentEvidence": [],
@@ -1658,32 +1408,6 @@
       "recipeDetailsJson": ""
     },
     {
-      "reviewNumber": 1270,
-      "priority": "ROUTING_REVIEW",
-      "videoId": "BbnsH1D-wXU",
-      "url": "https://www.youtube.com/watch?v=BbnsH1D-wXU",
-      "title": "20 min STANDING DUMBBELL WORKOUT | Full Body Sculpt | Pregnancy Friendly",
-      "category": "BEGINNER_STRENGTH",
-      "ownerApproval": "ALREADY_APPROVED",
-      "listedEquipment": "DUMBBELLS",
-      "resolvedEquipment": "DUMBBELLS",
-      "level": "INTERMEDIATE",
-      "minutes": 23,
-      "blockers": [
-        {
-          "code": "SPECIAL_AUDIENCE",
-          "question": "Is this intended for a specific condition or population? It needs matching audience support before automatic general recommendations."
-        }
-      ],
-      "equipmentEvidence": [],
-      "answerEquipment": "",
-      "answerCategory": "",
-      "answerLevel": "",
-      "answerGeneralFollowAlong": "",
-      "answerNotes": "",
-      "recipeDetailsJson": ""
-    },
-    {
       "reviewNumber": 1271,
       "priority": "ROUTING_REVIEW",
       "videoId": "0njBKqBlJO4",
@@ -1699,148 +1423,6 @@
         {
           "code": "FOLLOW_ALONG",
           "question": "Confirm whether this is a general follow-along session or an educational reference. If follow-along, set generalFollowAlong=true with a short note."
-        }
-      ],
-      "equipmentEvidence": [],
-      "answerEquipment": "",
-      "answerCategory": "",
-      "answerLevel": "",
-      "answerGeneralFollowAlong": "",
-      "answerNotes": "",
-      "recipeDetailsJson": ""
-    },
-    {
-      "reviewNumber": 1273,
-      "priority": "ROUTING_REVIEW",
-      "videoId": "fn8fQfyHENI",
-      "url": "https://www.youtube.com/watch?v=fn8fQfyHENI",
-      "title": "20 MIN Standing Strength Workout (No Equipment) | Pregnancy Friendly",
-      "category": "BEGINNER_STRENGTH",
-      "ownerApproval": "ALREADY_APPROVED",
-      "listedEquipment": "BODYWEIGHT",
-      "resolvedEquipment": "BODYWEIGHT",
-      "level": "INTERMEDIATE",
-      "minutes": 23,
-      "blockers": [
-        {
-          "code": "SPECIAL_AUDIENCE",
-          "question": "Is this intended for a specific condition or population? It needs matching audience support before automatic general recommendations."
-        }
-      ],
-      "equipmentEvidence": [
-        {
-          "equipment": "NONE",
-          "source": "OWNER_REVIEWED_TITLE",
-          "quote": "no equipment"
-        }
-      ],
-      "answerEquipment": "",
-      "answerCategory": "",
-      "answerLevel": "",
-      "answerGeneralFollowAlong": "",
-      "answerNotes": "",
-      "recipeDetailsJson": ""
-    },
-    {
-      "reviewNumber": 1274,
-      "priority": "ROUTING_REVIEW",
-      "videoId": "hXuDYMORye0",
-      "url": "https://www.youtube.com/watch?v=hXuDYMORye0",
-      "title": "30 Min Full Body Pregnancy Workout at Home | No Equipment | All Trimesters",
-      "category": "BEGINNER_STRENGTH",
-      "ownerApproval": "ALREADY_APPROVED",
-      "listedEquipment": "BODYWEIGHT",
-      "resolvedEquipment": "BODYWEIGHT",
-      "level": "INTERMEDIATE",
-      "minutes": 35,
-      "blockers": [
-        {
-          "code": "SPECIAL_AUDIENCE",
-          "question": "Is this intended for a specific condition or population? It needs matching audience support before automatic general recommendations."
-        }
-      ],
-      "equipmentEvidence": [
-        {
-          "equipment": "NONE",
-          "source": "OWNER_REVIEWED_TITLE",
-          "quote": "no equipment"
-        }
-      ],
-      "answerEquipment": "",
-      "answerCategory": "",
-      "answerLevel": "",
-      "answerGeneralFollowAlong": "",
-      "answerNotes": "",
-      "recipeDetailsJson": ""
-    },
-    {
-      "reviewNumber": 1275,
-      "priority": "ROUTING_REVIEW",
-      "videoId": "IB78T-8TCZM",
-      "url": "https://www.youtube.com/watch?v=IB78T-8TCZM",
-      "title": "20 MIN FULL BODY MOBILITY ROUTINE | Pregnancy Friendly Stretch & Mobility",
-      "category": "EXTENDED_MOBILITY",
-      "ownerApproval": "ALREADY_APPROVED",
-      "listedEquipment": null,
-      "resolvedEquipment": "NONE",
-      "level": "INTERMEDIATE",
-      "minutes": 23,
-      "blockers": [
-        {
-          "code": "SPECIAL_AUDIENCE",
-          "question": "Is this intended for a specific condition or population? It needs matching audience support before automatic general recommendations."
-        }
-      ],
-      "equipmentEvidence": [],
-      "answerEquipment": "",
-      "answerCategory": "",
-      "answerLevel": "",
-      "answerGeneralFollowAlong": "",
-      "answerNotes": "",
-      "recipeDetailsJson": ""
-    },
-    {
-      "reviewNumber": 1276,
-      "priority": "ROUTING_REVIEW",
-      "videoId": "oOgOlDe6Mhk",
-      "url": "https://www.youtube.com/watch?v=oOgOlDe6Mhk",
-      "title": "30 MIN THIRD TRIMESTER PREGNANCY WORKOUT | Full Body Exercises",
-      "category": "BEGINNER_STRENGTH",
-      "ownerApproval": "ALREADY_APPROVED",
-      "listedEquipment": null,
-      "resolvedEquipment": "NONE",
-      "level": "INTERMEDIATE",
-      "minutes": 33,
-      "blockers": [
-        {
-          "code": "SPECIAL_AUDIENCE",
-          "question": "Is this intended for a specific condition or population? It needs matching audience support before automatic general recommendations."
-        }
-      ],
-      "equipmentEvidence": [],
-      "answerEquipment": "",
-      "answerCategory": "",
-      "answerLevel": "",
-      "answerGeneralFollowAlong": "",
-      "answerNotes": "",
-      "recipeDetailsJson": ""
-    },
-    {
-      "reviewNumber": 1277,
-      "priority": "ROUTING_REVIEW",
-      "videoId": "QVXS0GS2oEM",
-      "url": "https://www.youtube.com/watch?v=QVXS0GS2oEM",
-      "title": "30 MIN Dumbbell Upper Body Workout | Strength at Home (Pregnancy Friendly)",
-      "category": "BEGINNER_STRENGTH",
-      "ownerApproval": "ALREADY_APPROVED",
-      "listedEquipment": "DUMBBELLS",
-      "resolvedEquipment": "DUMBBELLS",
-      "level": "INTERMEDIATE",
-      "minutes": 30,
-      "blockers": [
-        {
-          "code": "SPECIAL_AUDIENCE",
-          "question": "Is this intended for a specific condition or population? It needs matching audience support before automatic general recommendations."
         }
       ],
       "equipmentEvidence": [],
@@ -1878,136 +1460,6 @@
       "recipeDetailsJson": ""
     },
     {
-      "reviewNumber": 1316,
-      "priority": "ROUTING_REVIEW",
-      "videoId": "4koCkURG7T0",
-      "url": "https://www.youtube.com/watch?v=4koCkURG7T0",
-      "title": "30 min FULL BODY SCULPT & SWEAT WORKOUT | No Repeats | Pregnancy Friendly Modifications Provided",
-      "category": "STRENGTH_TRAINING",
-      "ownerApproval": "ALREADY_APPROVED",
-      "listedEquipment": null,
-      "resolvedEquipment": "NONE",
-      "level": "INTERMEDIATE",
-      "minutes": 36,
-      "blockers": [
-        {
-          "code": "SPECIAL_AUDIENCE",
-          "question": "Is this intended for a specific condition or population? It needs matching audience support before automatic general recommendations."
-        }
-      ],
-      "equipmentEvidence": [],
-      "answerEquipment": "",
-      "answerCategory": "",
-      "answerLevel": "",
-      "answerGeneralFollowAlong": "",
-      "answerNotes": "",
-      "recipeDetailsJson": ""
-    },
-    {
-      "reviewNumber": 1317,
-      "priority": "ROUTING_REVIEW",
-      "videoId": "4y3BHf1J5RU",
-      "url": "https://www.youtube.com/watch?v=4y3BHf1J5RU",
-      "title": "30 min STANDING FULL BODY WORKOUT | Strength + Cardio | Low Impact Options | Pregnancy Friendly",
-      "category": "STRENGTH_TRAINING",
-      "ownerApproval": "ALREADY_APPROVED",
-      "listedEquipment": null,
-      "resolvedEquipment": "NONE",
-      "level": "BEGINNER",
-      "minutes": 36,
-      "blockers": [
-        {
-          "code": "SPECIAL_AUDIENCE",
-          "question": "Is this intended for a specific condition or population? It needs matching audience support before automatic general recommendations."
-        }
-      ],
-      "equipmentEvidence": [],
-      "answerEquipment": "",
-      "answerCategory": "",
-      "answerLevel": "",
-      "answerGeneralFollowAlong": "",
-      "answerNotes": "",
-      "recipeDetailsJson": ""
-    },
-    {
-      "reviewNumber": 1318,
-      "priority": "ROUTING_REVIEW",
-      "videoId": "5rB4CbXu62Q",
-      "url": "https://www.youtube.com/watch?v=5rB4CbXu62Q",
-      "title": "12 min STANDING ABS AND ARMS WORKOUT | With Dumbbells | No Planks | No Pushups | Pregnancy Friendly",
-      "category": "STRENGTH_TRAINING",
-      "ownerApproval": "ALREADY_APPROVED",
-      "listedEquipment": "DUMBBELLS",
-      "resolvedEquipment": "DUMBBELLS",
-      "level": "INTERMEDIATE",
-      "minutes": 13,
-      "blockers": [
-        {
-          "code": "SPECIAL_AUDIENCE",
-          "question": "Is this intended for a specific condition or population? It needs matching audience support before automatic general recommendations."
-        }
-      ],
-      "equipmentEvidence": [],
-      "answerEquipment": "",
-      "answerCategory": "",
-      "answerLevel": "",
-      "answerGeneralFollowAlong": "",
-      "answerNotes": "",
-      "recipeDetailsJson": ""
-    },
-    {
-      "reviewNumber": 1319,
-      "priority": "ROUTING_REVIEW",
-      "videoId": "eRWcT5R81eI",
-      "url": "https://www.youtube.com/watch?v=eRWcT5R81eI",
-      "title": "30 min NO REPEAT DUMBBELL SCULPT WORKOUT | Full Body | With Bench (Optional) | Pregnancy Friendly",
-      "category": "STRENGTH_TRAINING",
-      "ownerApproval": "ALREADY_APPROVED",
-      "listedEquipment": "DUMBBELLS",
-      "resolvedEquipment": "DUMBBELLS",
-      "level": "INTERMEDIATE",
-      "minutes": 36,
-      "blockers": [
-        {
-          "code": "SPECIAL_AUDIENCE",
-          "question": "Is this intended for a specific condition or population? It needs matching audience support before automatic general recommendations."
-        }
-      ],
-      "equipmentEvidence": [],
-      "answerEquipment": "",
-      "answerCategory": "",
-      "answerLevel": "",
-      "answerGeneralFollowAlong": "",
-      "answerNotes": "",
-      "recipeDetailsJson": ""
-    },
-    {
-      "reviewNumber": 1320,
-      "priority": "ROUTING_REVIEW",
-      "videoId": "oEb-teS0FLU",
-      "url": "https://www.youtube.com/watch?v=oEb-teS0FLU",
-      "title": "30 min LOWER BODY WORKOUT | With Dumbbells | Warm Up + Cool Down Included | Pregnancy Friendly",
-      "category": "STRENGTH_TRAINING",
-      "ownerApproval": "ALREADY_APPROVED",
-      "listedEquipment": "DUMBBELLS",
-      "resolvedEquipment": "DUMBBELLS",
-      "level": "INTERMEDIATE",
-      "minutes": 38,
-      "blockers": [
-        {
-          "code": "SPECIAL_AUDIENCE",
-          "question": "Is this intended for a specific condition or population? It needs matching audience support before automatic general recommendations."
-        }
-      ],
-      "equipmentEvidence": [],
-      "answerEquipment": "",
-      "answerCategory": "",
-      "answerLevel": "",
-      "answerGeneralFollowAlong": "",
-      "answerNotes": "",
-      "recipeDetailsJson": ""
-    },
-    {
       "reviewNumber": 1321,
       "priority": "ROUTING_REVIEW",
       "videoId": "X3cX9FNCZqY",
@@ -2018,32 +1470,6 @@
       "listedEquipment": "DUMBBELLS",
       "resolvedEquipment": "DUMBBELLS",
       "level": "BEGINNER",
-      "minutes": 36,
-      "blockers": [
-        {
-          "code": "SPECIAL_AUDIENCE",
-          "question": "Is this intended for a specific condition or population? It needs matching audience support before automatic general recommendations."
-        }
-      ],
-      "equipmentEvidence": [],
-      "answerEquipment": "",
-      "answerCategory": "",
-      "answerLevel": "",
-      "answerGeneralFollowAlong": "",
-      "answerNotes": "",
-      "recipeDetailsJson": ""
-    },
-    {
-      "reviewNumber": 1322,
-      "priority": "ROUTING_REVIEW",
-      "videoId": "xSiXcq3YLQI",
-      "url": "https://www.youtube.com/watch?v=xSiXcq3YLQI",
-      "title": "30 min UPPER BODY WORKOUT | With Dumbbells (2 sets) | Arm Sculpt | Pregnancy Friendly",
-      "category": "STRENGTH_TRAINING",
-      "ownerApproval": "ALREADY_APPROVED",
-      "listedEquipment": "DUMBBELLS",
-      "resolvedEquipment": "DUMBBELLS",
-      "level": "INTERMEDIATE",
       "minutes": 36,
       "blockers": [
         {
@@ -2086,194 +1512,12 @@
       "recipeDetailsJson": ""
     },
     {
-      "reviewNumber": 1327,
-      "priority": "ROUTING_REVIEW",
-      "videoId": "-F-VvR5bi8I",
-      "url": "https://www.youtube.com/watch?v=-F-VvR5bi8I",
-      "title": "20 MIN BOOTY + CORE WORKOUT | At Home with Dumbbells (Pregnancy Friendly)",
-      "category": "STRENGTH_TRAINING",
-      "ownerApproval": "ALREADY_APPROVED",
-      "listedEquipment": "DUMBBELLS",
-      "resolvedEquipment": "DUMBBELLS",
-      "level": "INTERMEDIATE",
-      "minutes": 25,
-      "blockers": [
-        {
-          "code": "SPECIAL_AUDIENCE",
-          "question": "Is this intended for a specific condition or population? It needs matching audience support before automatic general recommendations."
-        }
-      ],
-      "equipmentEvidence": [],
-      "answerEquipment": "",
-      "answerCategory": "",
-      "answerLevel": "",
-      "answerGeneralFollowAlong": "",
-      "answerNotes": "",
-      "recipeDetailsJson": ""
-    },
-    {
-      "reviewNumber": 1328,
-      "priority": "ROUTING_REVIEW",
-      "videoId": "CbNLST7yyC0",
-      "url": "https://www.youtube.com/watch?v=CbNLST7yyC0",
-      "title": "10 MIN STANDING TONED ARMS WORKOUT - No Repeats, At Home | Pregnancy Friendly",
-      "category": "STRENGTH_TRAINING",
-      "ownerApproval": "ALREADY_APPROVED",
-      "listedEquipment": null,
-      "resolvedEquipment": "NONE",
-      "level": "INTERMEDIATE",
-      "minutes": 13,
-      "blockers": [
-        {
-          "code": "SPECIAL_AUDIENCE",
-          "question": "Is this intended for a specific condition or population? It needs matching audience support before automatic general recommendations."
-        }
-      ],
-      "equipmentEvidence": [],
-      "answerEquipment": "",
-      "answerCategory": "",
-      "answerLevel": "",
-      "answerGeneralFollowAlong": "",
-      "answerNotes": "",
-      "recipeDetailsJson": ""
-    },
-    {
-      "reviewNumber": 1330,
-      "priority": "ROUTING_REVIEW",
-      "videoId": "FoiLsAmbW6E",
-      "url": "https://www.youtube.com/watch?v=FoiLsAmbW6E",
-      "title": "15 MIN Full Body Strength Workout | Pregnancy Friendly",
-      "category": "STRENGTH_TRAINING",
-      "ownerApproval": "ALREADY_APPROVED",
-      "listedEquipment": null,
-      "resolvedEquipment": "NONE",
-      "level": "INTERMEDIATE",
-      "minutes": 18,
-      "blockers": [
-        {
-          "code": "SPECIAL_AUDIENCE",
-          "question": "Is this intended for a specific condition or population? It needs matching audience support before automatic general recommendations."
-        }
-      ],
-      "equipmentEvidence": [],
-      "answerEquipment": "",
-      "answerCategory": "",
-      "answerLevel": "",
-      "answerGeneralFollowAlong": "",
-      "answerNotes": "",
-      "recipeDetailsJson": ""
-    },
-    {
-      "reviewNumber": 1331,
-      "priority": "ROUTING_REVIEW",
-      "videoId": "gIu7ICxBpCA",
-      "url": "https://www.youtube.com/watch?v=gIu7ICxBpCA",
-      "title": "40 MIN LEG/BUTT/THIGH WORKOUT | Pregnancy Friendly (Dumbbells Only)",
-      "category": "STRENGTH_TRAINING",
-      "ownerApproval": "ALREADY_APPROVED",
-      "listedEquipment": "DUMBBELLS",
-      "resolvedEquipment": "DUMBBELLS",
-      "level": "INTERMEDIATE",
-      "minutes": 40,
-      "blockers": [
-        {
-          "code": "SPECIAL_AUDIENCE",
-          "question": "Is this intended for a specific condition or population? It needs matching audience support before automatic general recommendations."
-        }
-      ],
-      "equipmentEvidence": [],
-      "answerEquipment": "",
-      "answerCategory": "",
-      "answerLevel": "",
-      "answerGeneralFollowAlong": "",
-      "answerNotes": "",
-      "recipeDetailsJson": ""
-    },
-    {
-      "reviewNumber": 1332,
-      "priority": "ROUTING_REVIEW",
-      "videoId": "J1v3FLnP-T8",
-      "url": "https://www.youtube.com/watch?v=J1v3FLnP-T8",
-      "title": "10 MIN STANDING ARMS & ABS (No Repeats, No Crunches, No Planks) - Pregnancy Friendly",
-      "category": "STRENGTH_TRAINING",
-      "ownerApproval": "ALREADY_APPROVED",
-      "listedEquipment": null,
-      "resolvedEquipment": "NONE",
-      "level": "INTERMEDIATE",
-      "minutes": 13,
-      "blockers": [
-        {
-          "code": "SPECIAL_AUDIENCE",
-          "question": "Is this intended for a specific condition or population? It needs matching audience support before automatic general recommendations."
-        }
-      ],
-      "equipmentEvidence": [],
-      "answerEquipment": "",
-      "answerCategory": "",
-      "answerLevel": "",
-      "answerGeneralFollowAlong": "",
-      "answerNotes": "",
-      "recipeDetailsJson": ""
-    },
-    {
-      "reviewNumber": 1333,
-      "priority": "ROUTING_REVIEW",
-      "videoId": "JMGbkrMsLjU",
-      "url": "https://www.youtube.com/watch?v=JMGbkrMsLjU",
-      "title": "20 MIN PELVIC FLOOR + CORE WORKOUT | Connection & Coordination for Pregnancy",
-      "category": "STRENGTH_TRAINING",
-      "ownerApproval": "ALREADY_APPROVED",
-      "listedEquipment": null,
-      "resolvedEquipment": "NONE",
-      "level": "INTERMEDIATE",
-      "minutes": 23,
-      "blockers": [
-        {
-          "code": "SPECIAL_AUDIENCE",
-          "question": "Is this intended for a specific condition or population? It needs matching audience support before automatic general recommendations."
-        }
-      ],
-      "equipmentEvidence": [],
-      "answerEquipment": "",
-      "answerCategory": "",
-      "answerLevel": "",
-      "answerGeneralFollowAlong": "",
-      "answerNotes": "",
-      "recipeDetailsJson": ""
-    },
-    {
-      "reviewNumber": 1334,
-      "priority": "ROUTING_REVIEW",
-      "videoId": "Mzzn87e_u8A",
-      "url": "https://www.youtube.com/watch?v=Mzzn87e_u8A",
-      "title": "FIRST TRIMESTER PRENATAL WORKOUT | 30 Min Gentle Full Body Workout at Home",
-      "category": "STRENGTH_TRAINING",
-      "ownerApproval": "ALREADY_APPROVED",
-      "listedEquipment": null,
-      "resolvedEquipment": "NONE",
-      "level": "BEGINNER",
-      "minutes": 36,
-      "blockers": [
-        {
-          "code": "SPECIAL_AUDIENCE",
-          "question": "Is this intended for a specific condition or population? It needs matching audience support before automatic general recommendations."
-        }
-      ],
-      "equipmentEvidence": [],
-      "answerEquipment": "",
-      "answerCategory": "",
-      "answerLevel": "",
-      "answerGeneralFollowAlong": "",
-      "answerNotes": "",
-      "recipeDetailsJson": ""
-    },
-    {
       "reviewNumber": 1335,
       "priority": "ROUTING_REVIEW",
       "videoId": "OIpQ9jnUH1c",
       "url": "https://www.youtube.com/watch?v=OIpQ9jnUH1c",
       "title": "45 MIN FULL BODY STRENGTH + BALANCE WORKOUT (MadFit App Prenatal Program)",
-      "category": "STRENGTH_TRAINING",
+      "category": "PREGNANCY_EXERCISE",
       "ownerApproval": "ALREADY_APPROVED",
       "listedEquipment": null,
       "resolvedEquipment": "NONE",
@@ -2281,92 +1525,8 @@
       "minutes": 47,
       "blockers": [
         {
-          "code": "SPECIAL_AUDIENCE",
-          "question": "Is this intended for a specific condition or population? It needs matching audience support before automatic general recommendations."
-        }
-      ],
-      "equipmentEvidence": [],
-      "answerEquipment": "",
-      "answerCategory": "",
-      "answerLevel": "",
-      "answerGeneralFollowAlong": "",
-      "answerNotes": "",
-      "recipeDetailsJson": ""
-    },
-    {
-      "reviewNumber": 1336,
-      "priority": "ROUTING_REVIEW",
-      "videoId": "UDru-oeEPbE",
-      "url": "https://www.youtube.com/watch?v=UDru-oeEPbE",
-      "title": "15 Min Legs/Booty/Thighs Workout (No Equipment, Pregnancy Friendly)",
-      "category": "STRENGTH_TRAINING",
-      "ownerApproval": "ALREADY_APPROVED",
-      "listedEquipment": "BODYWEIGHT",
-      "resolvedEquipment": "BODYWEIGHT",
-      "level": "INTERMEDIATE",
-      "minutes": 19,
-      "blockers": [
-        {
-          "code": "SPECIAL_AUDIENCE",
-          "question": "Is this intended for a specific condition or population? It needs matching audience support before automatic general recommendations."
-        }
-      ],
-      "equipmentEvidence": [
-        {
-          "equipment": "NONE",
-          "source": "OWNER_REVIEWED_TITLE",
-          "quote": "no equipment"
-        }
-      ],
-      "answerEquipment": "",
-      "answerCategory": "",
-      "answerLevel": "",
-      "answerGeneralFollowAlong": "",
-      "answerNotes": "",
-      "recipeDetailsJson": ""
-    },
-    {
-      "reviewNumber": 1337,
-      "priority": "ROUTING_REVIEW",
-      "videoId": "uMJ_HdFusWs",
-      "url": "https://www.youtube.com/watch?v=uMJ_HdFusWs",
-      "title": "20 MIN CORE + BREATHING WORKOUT (MadFit App Prenatal Program)",
-      "category": "STRENGTH_TRAINING",
-      "ownerApproval": "ALREADY_APPROVED",
-      "listedEquipment": null,
-      "resolvedEquipment": "NONE",
-      "level": "INTERMEDIATE",
-      "minutes": 26,
-      "blockers": [
-        {
-          "code": "SPECIAL_AUDIENCE",
-          "question": "Is this intended for a specific condition or population? It needs matching audience support before automatic general recommendations."
-        }
-      ],
-      "equipmentEvidence": [],
-      "answerEquipment": "",
-      "answerCategory": "",
-      "answerLevel": "",
-      "answerGeneralFollowAlong": "",
-      "answerNotes": "",
-      "recipeDetailsJson": ""
-    },
-    {
-      "reviewNumber": 1338,
-      "priority": "ROUTING_REVIEW",
-      "videoId": "VDQrsW4ieXc",
-      "url": "https://www.youtube.com/watch?v=VDQrsW4ieXc",
-      "title": "10 Min Prenatal Core Workout | Build Core Strength During Pregnancy",
-      "category": "STRENGTH_TRAINING",
-      "ownerApproval": "ALREADY_APPROVED",
-      "listedEquipment": null,
-      "resolvedEquipment": "NONE",
-      "level": "INTERMEDIATE",
-      "minutes": 14,
-      "blockers": [
-        {
-          "code": "SPECIAL_AUDIENCE",
-          "question": "Is this intended for a specific condition or population? It needs matching audience support before automatic general recommendations."
+          "code": "DURATION",
+          "question": "The full runtime does not fit this action (5–45 minutes). Confirm the category or keep held; the planned workout must not silently shorten."
         }
       ],
       "equipmentEvidence": [],
@@ -3074,6 +2234,6 @@
       "recipeDetailsJson": ""
     }
   ],
-  "curatedReadyCount": 51,
-  "curatedHoldCount": 20
+  "curatedReadyCount": 71,
+  "curatedHoldCount": 0
 }

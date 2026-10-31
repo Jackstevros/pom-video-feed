@@ -1,6 +1,6 @@
 # POM approved videos
 
-Revision 46, published 2026-10-30, valid until 2026-11-06. These are the only videos the app can link to. The signed file the app reads is `approved-action-feed.signed.json`.
+Revision 47, published 2026-10-31, valid until 2026-11-07. These are the only videos the app can link to. The signed file the app reads is `approved-action-feed.signed.json`.
 
 ## Runner flexibility (239)
 
@@ -367,7 +367,7 @@ Revision 46, published 2026-10-30, valid until 2026-11-06. These are the only vi
 | [Relaxing yin yoga, no props](https://www.youtube.com/watch?v=QO8j6H6DrMA) | Yoga with Kassandra | 19 | 2025-12-22 | 2028-12-22 |
 | [Relaxing morning stretch](https://www.youtube.com/watch?v=hJ0Ol0mYLDI) | Yoga with Kassandra | 16 | 2025-12-15 | 2028-12-15 |
 
-## Beginner strength (387)
+## Beginner strength (385)
 
 | Video | Creator | Minutes | Published | Ages out |
 |---|---|---|---|---|
@@ -387,7 +387,6 @@ Revision 46, published 2026-10-30, valid until 2026-11-06. These are the only vi
 | [20-minute 20 Min Arms & Upper Body Workout - At Home with Dumbbells or Bodyweight](https://www.youtube.com/watch?v=wRR8HUMdh00) | Chloe Ting | 21 | 2026-02-24 | 2028-02-24 |
 | [25-minute 25 Min Full Body Workout - Fun & Intense Burn At Home | No Equipment](https://www.youtube.com/watch?v=yNlNOWUUPuo) | Chloe Ting | 25 | 2026-05-18 | 2028-05-18 |
 | [20-minute 20 Min Killer Full Body HIIT Workout - 2 Week Glow Up | Home Workout](https://www.youtube.com/watch?v=2_VXktb_2ag) | Chloe Ting | 22 | 2026-08-17 | 2028-08-17 |
-| [20-minute HIIT Cardio Workout for fat loss - 20 Min No Equip No Repeats](https://www.youtube.com/watch?v=9tvLB9sf_ic) | Chloe Ting | 21 | 2024-10-30 | 2026-10-30 |
 | [20-minute No Jumping HIIT Workout - 20 Min Cardio HIIT Beginner Friendly](https://www.youtube.com/watch?v=AyK5V75_B7Q) | Chloe Ting | 21 | 2025-02-19 | 2027-02-19 |
 | [30-minute This 30 Min HIIT Will Test You - Full Body Workout - No Equipment](https://www.youtube.com/watch?v=G26hKnhJBCQ) | Chloe Ting | 31 | 2026-01-12 | 2028-01-12 |
 | [20-minute 20 Min HIIT Cardio Workout to lose weight | Standing only, no equipment](https://www.youtube.com/watch?v=HIfQ6botXm4) | Chloe Ting | 22 | 2025-01-01 | 2027-01-01 |
@@ -747,7 +746,6 @@ Revision 46, published 2026-10-30, valid until 2026-11-06. These are the only vi
 | [20-minute 20 Min Calisthenics & Band Workout | Full Body | Follow Along](https://www.youtube.com/watch?v=GgWbUU-xEh0) | Tom Peto Training | 23 | 2025-10-20 | 2027-10-20 |
 | [20-minute 20 Min FULL BODY RESISTANCE BAND WORKOUT | No Repeat | Strength at Home](https://www.youtube.com/watch?v=II6EEUPp__w) | Tom Peto Training | 21 | 2026-04-13 | 2028-04-13 |
 | [30-minute 30 Min Full Body Landmine Workout | No Repeat](https://www.youtube.com/watch?v=K8HxR18X7-k) | Tom Peto Training | 30 | 2026-07-27 | 2028-07-27 |
-| [20-minute 20 Min Pull Up Bar Workout | Full Body Follow Along](https://www.youtube.com/watch?v=u7nSBY9yJKE) | Tom Peto Training | 22 | 2026-05-25 | 2028-05-25 |
 | [30-minute 30 Min FULL BODY CALISTHENICS WORKOUT | Day 1 | Cali 3.0](https://www.youtube.com/watch?v=UfrbHSQyvOI) | Tom Peto Training | 31 | 2026-04-06 | 2028-04-06 |
 | [20-minute 20 Min Bodyweight Strength & Mobility Workout | Follow Along](https://www.youtube.com/watch?v=dvoLVpaAhJA) | Tom Peto Training | 21 | 2026-01-12 | 2028-01-12 |
 | [20-minute 20 Min Core Strength Workout & Stretch | No Equipment | Follow Along](https://www.youtube.com/watch?v=OAgGNYUO0WE) | Tom Peto Training | 21 | 2025-12-15 | 2027-12-15 |
@@ -759,7 +757,7 @@ Revision 46, published 2026-10-30, valid until 2026-11-06. These are the only vi
 | [30-minute 30 Min Full Body Deep Stretch | Release Stress & Tension](https://www.youtube.com/watch?v=rXymddIGGew) | Travis Eliot | 33 | 2026-09-12 | 2028-09-12 |
 | [Yoga Pilates full-body strength](https://www.youtube.com/watch?v=2_Z8usjTflU) | Yoga with Kassandra | 32 | 2026-05-11 | 2028-05-11 |
 
-## Strength plan sessions (704)
+## Strength plan sessions (724)
 
 | Video | Creator | Minutes | Published | Ages out |
 |---|---|---|---|---|
@@ -821,6 +819,7 @@ Revision 46, published 2026-10-30, valid until 2026-11-06. These are the only vi
 | [30 Min Kettlebell Lower Body + Core Workout | Strength, Control & Muscular Endurance | FORGED Ep.1](https://www.youtube.com/watch?v=nnm0BwFk1FU) | DANIELPT FITNESS | 33 | 2026-04-16 | 2028-04-16 |
 | [40-Min Full Body Kettlebell Workout | Strength, Mobility & Control (Follow-Along)](https://www.youtube.com/watch?v=fr9IiN8cOFw) | DANIELPT FITNESS | 39 | 2026-03-26 | 2028-03-26 |
 | [35 Min Full Body Kettlebell Workout | Compact Strength & Conditioning | FORGED Ep. 6](https://www.youtube.com/watch?v=jaGlWe8570c) | DANIELPT FITNESS | 38 | 2026-05-21 | 2028-05-21 |
+| [CONTROLLED vs EXPLOSIVE | 42 MIN Leg Workout with Dumbbells & Kettlebells](https://www.youtube.com/watch?v=VFiYOSRt7Hc) | DANIELPT FITNESS | 44 | 2026-08-27 | 2028-08-27 |
 | [32-Min Kettlebell Power HIIT Workout | Full Body Strength & Conditioning](https://www.youtube.com/watch?v=7U9iwpIIHWM) | DANIELPT FITNESS | 34 | 2026-10-01 | 2028-10-01 |
 | [30 MIN Progressive Bodyweight HIIT Workout | No Equipment](https://www.youtube.com/watch?v=pRLh-z6x77I) | DANIELPT FITNESS | 33 | 2026-07-23 | 2028-07-23 |
 | [30-Min Kettlebell Complex Workout | Full Body Strength Under Fatigue](https://www.youtube.com/watch?v=DtoAOpr1aLw) | DANIELPT FITNESS | 33 | 2026-04-09 | 2028-04-09 |
@@ -847,6 +846,7 @@ Revision 46, published 2026-10-30, valid until 2026-11-06. These are the only vi
 | [40-Min Dumbbell Upper Body Workout | Chest, Back, Arms & Core (Follow Along)](https://www.youtube.com/watch?v=blNI9c1iYfk) | DANIELPT FITNESS | 43 | 2026-02-19 | 2028-02-19 |
 | [Explosive 30-Minute Kettlebell Conditioning | Not for Beginners, No Repeats](https://www.youtube.com/watch?v=PDuFAtZCavw) | DANIELPT FITNESS | 32 | 2026-01-22 | 2028-01-22 |
 | [ONE Kettlebell, NO Repeats | 30-Minute Full Body Follow-Along Workout](https://www.youtube.com/watch?v=96KuI0EuRDg) | DANIELPT FITNESS | 32 | 2026-01-08 | 2028-01-08 |
+| [30 Min Lower Body Workout | Dumbbells + Kettlebell Supersets](https://www.youtube.com/watch?v=hBcD3KvZAAY) | DANIELPT FITNESS | 36 | 2026-10-29 | 2028-10-29 |
 | [25 Min Upper Body Kettlebell Workout | 20 Min Upper Body + 5 Min Core Finisher](https://www.youtube.com/watch?v=l12oFBgpP1g) | DANIELPT FITNESS | 28 | 2026-10-15 | 2028-10-15 |
 | [25 Min No-Repeat Kettlebell Workout | Push–Pull Strength & Power](https://www.youtube.com/watch?v=gyJfhySX8tc) | DANIELPT FITNESS | 29 | 2026-02-12 | 2028-02-12 |
 | [20-Min EXPLOSIVE Dumbbell Power (Better Than Cardio)](https://www.youtube.com/watch?v=qbMAxO_NIbc) | DANIELPT FITNESS | 21 | 2026-02-05 | 2028-02-05 |
@@ -856,6 +856,7 @@ Revision 46, published 2026-10-30, valid until 2026-11-06. These are the only vi
 | [40 Minute Full Body Kettlebell Workout | Guided Follow-Along Strength, Control & Power](https://www.youtube.com/watch?v=4tZs7nLKpS8) | DANIELPT FITNESS | 45 | 2025-12-18 | 2027-12-18 |
 | [30 Minute Full Body Kettlebell HIIT Workout (No Repeats | Explosive, Dynamic + Advanced)](https://www.youtube.com/watch?v=tSWJpCmArSU) | DANIELPT FITNESS | 31 | 2025-12-11 | 2027-12-11 |
 | [35 MIN FULL BODY DUMBBELL WORKOUT • AMRAP Strength & Conditioning (Build Muscle + Burn Fat)](https://www.youtube.com/watch?v=RlLkN_2eQHo) | DANIELPT FITNESS | 39 | 2025-12-04 | 2027-12-04 |
+| [40 Minute Dumbbell UPPER BODY & ABS Workout | Resistance Bands | Controlled + Commentary](https://www.youtube.com/watch?v=7bvGGxErBIA) | DANIELPT FITNESS | 44 | 2025-11-27 | 2027-11-27 |
 | [40 Minute Dumbbell LEG & ABS Workout | Controlled Execution | Commentary Follow-Along](https://www.youtube.com/watch?v=FN0E0zKHjlc) | DANIELPT FITNESS | 43 | 2025-11-27 | 2027-11-27 |
 | [35-Min DEMANDING Kettlebell Workout | Strength, Explosive Power & Core | No Repeat Follow Along](https://www.youtube.com/watch?v=TXHKumZ8_6Q) | DANIELPT FITNESS | 39 | 2025-11-20 | 2027-11-20 |
 | [45-minute 45 Minute Full Body Flexibility Workout | Intermediate+ | No Talking!](https://www.youtube.com/watch?v=1zA5ez9AZ-8) | EDR Fitness | 47 | 2026-02-23 | 2028-02-23 |
@@ -1355,9 +1356,26 @@ Revision 46, published 2026-10-30, valid until 2026-11-06. These are the only vi
 | [10-minute 10 Minute ABS | Joe Wicks Workouts](https://www.youtube.com/watch?v=TaWZPTMo5yw) | The Body Coach TV by Joe Wicks | 12 | 2026-08-16 | 2028-08-16 |
 | [Dumbbell Strength for Beginners | Joe Wicks Workouts](https://www.youtube.com/watch?v=Vkg5yGP4Usw) | The Body Coach TV by Joe Wicks | 15 | 2026-10-25 | 2028-10-25 |
 | [15 Minute Bodyweight HIIT | Joe Wicks Workouts](https://www.youtube.com/watch?v=7HqGfx_C_po) | The Body Coach TV by Joe Wicks | 17 | 2026-09-20 | 2028-09-20 |
+| [15 Minute Beginner Cardio | Joe Wicks Workouts](https://www.youtube.com/watch?v=1Y57LGhSdag) | The Body Coach TV by Joe Wicks | 17 | 2026-09-06 | 2028-09-06 |
+| [7 Days of SWEAT - Day 7 | Joe Wicks Workouts](https://www.youtube.com/watch?v=LYFQ5gKLnVc) | The Body Coach TV by Joe Wicks | 14 | 2026-06-07 | 2028-06-07 |
+| [7 Days of SWEAT - Day 6 | Joe Wicks Workouts](https://www.youtube.com/watch?v=tf2QmpTmUFo) | The Body Coach TV by Joe Wicks | 14 | 2026-06-07 | 2028-06-07 |
+| [7 Days of SWEAT - Day 3 | Joe Wicks Workouts](https://www.youtube.com/watch?v=vL0ffRlH0wA) | The Body Coach TV by Joe Wicks | 14 | 2026-06-07 | 2028-06-07 |
+| [7 Days of SWEAT - Day 4 | Joe Wicks Workouts](https://www.youtube.com/watch?v=yMKbi1Jj-CA) | The Body Coach TV by Joe Wicks | 13 | 2026-06-07 | 2028-06-07 |
+| [7 Days of SWEAT - Day 2 | Joe Wicks Workouts](https://www.youtube.com/watch?v=-VK24t2Yisw) | The Body Coach TV by Joe Wicks | 13 | 2026-06-07 | 2028-06-07 |
+| [7 Days of SWEAT - Day 5 | Joe Wicks Workouts](https://www.youtube.com/watch?v=i12psM5Sb1E) | The Body Coach TV by Joe Wicks | 13 | 2026-06-07 | 2028-06-07 |
+| [7 Days of SWEAT 2026: Day 1 | Joe Wicks Workouts](https://www.youtube.com/watch?v=5gvto1CA7Po) | The Body Coach TV by Joe Wicks | 14 | 2026-06-06 | 2028-06-06 |
+| [25 Minute Lower Body Workout Challenge (300 REPs) | Joe Wicks Workouts](https://www.youtube.com/watch?v=yrlHlqIBNHU) | The Body Coach TV by Joe Wicks | 28 | 2026-05-31 | 2028-05-31 |
+| [7 Day Abs Challenge - Day 1 | Joe Wicks Workouts](https://www.youtube.com/watch?v=ZOan57_jokc) | The Body Coach TV by Joe Wicks | 12 | 2026-05-24 | 2028-05-24 |
+| [10 Minutes, 10 Moves - Cardio Workout | Joe Wicks Workouts](https://www.youtube.com/watch?v=G2ro7IH1adg) | The Body Coach TV by Joe Wicks | 11 | 2026-05-03 | 2028-05-03 |
+| [10 Minute LOW IMPACT Workout | Joe Wicks Workouts](https://www.youtube.com/watch?v=b5GNHS85ooI) | The Body Coach TV by Joe Wicks | 12 | 2026-04-26 | 2028-04-26 |
 | [Joe Wicks’ MOVEMENT HOUR 2026: 20-Minute Bodyweight Workout](https://www.youtube.com/watch?v=gDdrJtTUEBw) | The Body Coach TV by Joe Wicks | 22 | 2026-03-18 | 2028-03-18 |
+| [10 Minute ABS Workout | Joe Wicks Workouts](https://www.youtube.com/watch?v=mL2Cplc0W6w) | The Body Coach TV by Joe Wicks | 11 | 2026-03-15 | 2028-03-15 |
 | [SHORT & SNAPPY 10 Minute Bodyweight HIIT | Joe Wicks Workouts](https://www.youtube.com/watch?v=ixXVC5V8ScE) | The Body Coach TV by Joe Wicks | 12 | 2026-03-08 | 2028-03-08 |
+| [15 Minute LOW IMPACT Cardio Workout | Joe Wicks Workouts](https://www.youtube.com/watch?v=46UZ22o_dIM) | The Body Coach TV by Joe Wicks | 17 | 2026-02-08 | 2028-02-08 |
+| [Joe & Rosie's STRENGTH Challenge: Workout 1 | Joe Wicks Workouts](https://www.youtube.com/watch?v=GBiN--SuHfU) | The Body Coach TV by Joe Wicks | 32 | 2026-02-01 | 2028-02-01 |
 | [15 Minute Bodyweight HIIT | Joe Wicks Workouts](https://www.youtube.com/watch?v=mGoiP-L0azk) | The Body Coach TV by Joe Wicks | 17 | 2026-01-25 | 2028-01-25 |
+| [20 Minute FAT Burning Cardio HIIT | Joe Wicks Workouts](https://www.youtube.com/watch?v=utAlXNg4pUA) | The Body Coach TV by Joe Wicks | 22 | 2026-01-18 | 2028-01-18 |
+| [20 Minute Dumbbell & Kettlebell Workout | Joe Wicks Workouts](https://www.youtube.com/watch?v=sTErlTC4vNY) | The Body Coach TV by Joe Wicks | 22 | 2026-01-11 | 2028-01-11 |
 | [20-minute 20 Min Back & Biceps Workout for Toned Arms with Dumbbells](https://www.youtube.com/watch?v=MYd3YxUeN2A) | TIFF x DAN | 24 | 2026-03-15 | 2028-03-15 |
 | [40-minute 40 Min Full Body METCON Workout (Strength, Conditioning & Abs)](https://www.youtube.com/watch?v=43AyaPNZOOg) | TIFF x DAN | 40 | 2026-04-06 | 2028-04-06 |
 | [40-minute 40 MIN CARDIO HIIT WORKOUT - Full Body, No Equipment, No Repeats](https://www.youtube.com/watch?v=5gzQEW-Ip_Y) | TIFF x DAN | 42 | 2026-04-13 | 2028-04-13 |
@@ -1837,12 +1855,16 @@ Revision 46, published 2026-10-30, valid until 2026-11-06. These are the only vi
 | [15-minute full-body mat Pilates](https://www.youtube.com/watch?v=v5mOBrVzh8E) | Yoga with Kassandra | 18 | 2026-07-06 | 2028-07-06 |
 | [15-minute Pilates sculpt: core and glutes](https://www.youtube.com/watch?v=neL52b6VQoI) | Yoga with Kassandra | 18 | 2025-12-29 | 2027-12-29 |
 
-## Cook-along recipes (2)
+## Cook-along recipes (6)
 
 | Video | Creator | Minutes | Published | Ages out |
 |---|---|---|---|---|
 | [Lemon tahini chicken & grains — Jamie Oliver](https://www.youtube.com/watch?v=pKtweGSC2FU) | Jamie Oliver | 124 | 2026-06-24 | 2029-06-24 |
 | [Spring soup with ricotta toast - Jamie Oliver](https://www.youtube.com/watch?v=RER45NkD3dE) | Jamie Oliver | 19 | 2026-06-08 | 2029-06-08 |
+| [Jamie's Easy Prawn Curry! Perfect For Any Night Of The Week](https://www.youtube.com/watch?v=cyr4C8xPsxA) | Jamie Oliver | 9 | 2026-09-26 | 2029-09-26 |
+| [Epic Surf & Turf Gumbo Perfect Weekend Recipe | Jamie Oliver](https://www.youtube.com/watch?v=lkBf5CpMJPw) | Jamie Oliver | 6 | 2026-07-29 | 2029-07-29 |
+| [Jamie Oliver's Crispy Potato Rosti & Smoked Alaskan Sockeye Salmon](https://www.youtube.com/watch?v=LWokaHQPCUc) | Jamie Oliver | 7 | 2026-10-12 | 2029-10-12 |
+| [Comforting Korean Style Chicken Hotpot | Jamie Oliver](https://www.youtube.com/watch?v=nyYVQoooxD4) | Jamie Oliver | 6 | 2026-10-22 | 2029-10-22 |
 
 ## Running warm-ups (6)
 
@@ -1860,12 +1882,18 @@ Revision 46, published 2026-10-30, valid until 2026-11-06. These are the only vi
 | Video | Creator | Minutes | Published | Ages out |
 |---|---|---|---|---|
 
-## Something hurts (self-care by body area) (2)
+## Something hurts (self-care by body area) (8)
 
 | Video | Creator | Minutes | Published | Ages out |
 |---|---|---|---|---|
+| [10-minute lower back stretches](https://www.youtube.com/watch?v=r5HvNULtvbE) | HASfit | 12 | 2025-04-16 | 2027-04-16 |
 | [Gentle Achilles and calf exercises](https://www.youtube.com/watch?v=t68yZmxV7Dg) | Jeffrey Peng MD | 8 | 2025-02-01 | 2027-02-01 |
+| [10-minute lower back stretch](https://www.youtube.com/watch?v=35Z6hZgL2r0) | MIZI | 13 | 2026-05-20 | 2028-05-20 |
 | [Achilles strengthening exercises](https://www.youtube.com/watch?v=sScaA3DSnUA) | Tone and Tighten | 10 | 2026-05-28 | 2028-05-28 |
+| [8-minute evening stretches for a sore lower back](https://www.youtube.com/watch?v=mKgsmOVkIAg) | Tone and Tighten | 9 | 2026-08-27 | 2028-08-27 |
+| [7-minute neck stretches](https://www.youtube.com/watch?v=1HX7fkScdXo) | Tone and Tighten | 8 | 2026-10-15 | 2028-10-15 |
+| [10-minute lower back mobility](https://www.youtube.com/watch?v=5cRbDPWavhI) | Tone and Tighten | 11 | 2026-01-22 | 2028-01-22 |
+| [7-minute morning back stretches](https://www.youtube.com/watch?v=jbwg8Ya5q1o) | Tone and Tighten | 8 | 2025-10-30 | 2027-10-30 |
 
 ## Approved but not shown (8)
 
