@@ -1,6 +1,6 @@
 # POM approved videos
 
-Revision 51, published 2026-11-01, valid until 2026-11-08. These are the only videos the app can link to. The signed file the app reads is `approved-action-feed.signed.json`.
+Revision 52, published 2026-11-01, valid until 2026-11-08. These are the only videos the app can link to. The signed file the app reads is `approved-action-feed.signed.json`.
 
 ## Runner flexibility (239)
 
@@ -757,10 +757,11 @@ Revision 51, published 2026-11-01, valid until 2026-11-08. These are the only vi
 | [30-minute 30 Min Full Body Deep Stretch | Release Stress & Tension](https://www.youtube.com/watch?v=rXymddIGGew) | Travis Eliot | 33 | 2026-09-12 | 2028-09-12 |
 | [Yoga Pilates full-body strength](https://www.youtube.com/watch?v=2_Z8usjTflU) | Yoga with Kassandra | 32 | 2026-05-11 | 2028-05-11 |
 
-## Strength plan sessions (724)
+## Strength plan sessions (754)
 
 | Video | Creator | Minutes | Published | Ages out |
 |---|---|---|---|---|
+| [20 MINUTE FULL BODY KETTLEBELL WORKOUT | FOLLOW ALONG | BUSTOSTRAINING](https://www.youtube.com/watch?v=p-fj1ag0nVQ) | Andrew Bustos | 21 | 2026-07-06 | 2028-07-06 |
 | [20-minute 20 MINUTE UPPER BODY BLAST WORKOUT (NO EQUIPMENT) DAY 7](https://www.youtube.com/watch?v=AdpcIliF4t8) | BullyJuice | 22 | 2026-10-07 | 2028-10-07 |
 | [15-minute 15 MINUTES FULL BODY HIIT CARDIO WORKOUT(NO EQUIPMENT) DAY 5](https://www.youtube.com/watch?v=36PbDhh79i8) | BullyJuice | 17 | 2026-10-05 | 2028-10-05 |
 | [10-minute 10 MINUTE CORE HIIT CARDIO WORKOUT (NO EQUIPMENT) DAY 10](https://www.youtube.com/watch?v=qL4WRivni2o) | BullyJuice | 11 | 2026-10-09 | 2028-10-09 |
@@ -867,6 +868,9 @@ Revision 51, published 2026-11-01, valid until 2026-11-08. These are the only vi
 | [45-minute 45 Minute Full Body Stretch For People Who Are Not Flexible | Follow Along!](https://www.youtube.com/watch?v=FOIcLhZk5xU) | EDR Fitness | 49 | 2026-05-11 | 2028-05-11 |
 | [40-minute 40 Minute Full Body Mobility Workout | Strength + Mobility | All Levels, No Talking](https://www.youtube.com/watch?v=uvppsOSsTeo) | EDR Fitness | 41 | 2026-03-23 | 2028-03-23 |
 | [10-minute 10 Minute Abs: No Talking, Just Work (Follow Along)](https://www.youtube.com/watch?v=gHY_7TGrUQU) | EDR Fitness | 11 | 2026-05-21 | 2028-05-21 |
+| [30 Minute Bodyweight Strength Training Workout | Any Level | No Equipment, No Talking](https://www.youtube.com/watch?v=Taq9ePp5GXw) | EDR Fitness | 30 | 2025-11-20 | 2027-11-20 |
+| [30 Minute Core and Upper Body Workout | Bodyweight Training, Intermediate+ | No Talking](https://www.youtube.com/watch?v=q1mfdbtgvUA) | EDR Fitness | 30 | 2025-10-02 | 2027-10-02 |
+| [30 Minute Dumbbell Strength Workout | Full Body | Circuits | No Talking](https://www.youtube.com/watch?v=Hlw_ysz9Occ) | EDR Fitness | 35 | 2025-08-14 | 2027-08-14 |
 | [30-minute 30 Min BOOTY BUILDING WORKOUT + Weights |  Grow your Glutes | No Jumping, Warm Up + Cool Down](https://www.youtube.com/watch?v=avyhBrDwqGE) | Eleni Fit | 34 | 2025-12-29 | 2027-12-29 |
 | [Do This Every Day To Lose Weight & Tone Your Body🔥| 5000 Steps, optional: Small Weights, No Jumping](https://www.youtube.com/watch?v=eagtxYCXZMU) | Eleni Fit | 34 | 2026-04-06 | 2028-04-06 |
 | [20-minute 2 in 1 ABS & BOOTY Workout at Home | 20 Min Small Waist + Round Butt | No Equipment](https://www.youtube.com/watch?v=SQMa5MRymw0) | Eleni Fit | 23 | 2026-05-25 | 2028-05-25 |
@@ -1027,11 +1031,16 @@ Revision 51, published 2026-11-01, valid until 2026-11-08. These are the only vi
 | [45-minute 45MIN Total Body Strength Workout](https://www.youtube.com/watch?v=XpGGKnShbEc) | Heather Robertson | 45 | 2025-08-04 | 2027-08-04 |
 | [41-minute 41MIN Lower Body Strength (Glutes & Hamstrings) // Day 31: HR12WEEK 5.0](https://www.youtube.com/watch?v=xVS_olMWpJw) | Heather Robertson | 41 | 2025-02-16 | 2027-02-16 |
 | [45-minute 45 MIN Full Body Strength (At Home Dumbbell Workout)](https://www.youtube.com/watch?v=Yuf052OBeeM) | Heather Robertson | 47 | 2026-06-22 | 2028-06-22 |
+| [20 Min Full Body KETTLEBELL Workout | Follow Along | Strength | No Repeat | No Jumping 4K](https://www.youtube.com/watch?v=v5Pa4T0MRQs) | HIIT Grow | 24 | 2026-08-12 | 2028-08-12 |
+| [20 Min Full Body KETTLEBELL Workout | Follow Along | Strength | No Repeat | 4K](https://www.youtube.com/watch?v=6_w3IeIT1H4) | HIIT Grow | 24 | 2026-10-05 | 2028-10-05 |
+| [20 MIN FULL BODY KETTLEBELL WORKOUT | Fat Burn](https://www.youtube.com/watch?v=OjBX6sogDBQ) | Jackson Carey | 21 | 2026-07-26 | 2028-07-26 |
+| [20 MIN FAT BURN WORKOUT | Full Body | No Equipment](https://www.youtube.com/watch?v=EJl1rDgGoWY) | Jackson Carey | 21 | 2026-08-09 | 2028-08-09 |
 | [10-minute dumbbell workout](https://www.youtube.com/watch?v=1EPPqwe9cCE) | Jessica Valant | 14 | 2026-02-16 | 2028-02-16 |
 | [10-minute full-body workout, no equipment](https://www.youtube.com/watch?v=b7XKJsKn6OI) | Jessica Valant | 12 | 2026-01-19 | 2028-01-19 |
 | [10-minute PROLAPSE SAFE WORKOUT WITH DUMBBELLS - 10 Minute Prolapse Exercises at Home](https://www.youtube.com/watch?v=bfuOSgMLuQo) | Jessica Valant | 13 | 2026-03-23 | 2028-03-23 |
 | [10-minute 10 Minute GRIP STRENGTH WORKOUT - Improve Grip Strength At Home](https://www.youtube.com/watch?v=Q2plm_B2f9Y) | Jessica Valant | 13 | 2026-10-26 | 2028-10-26 |
 | [15-minute 15 Minute DUMBBELL WORKOUT FOR MIDLIFE](https://www.youtube.com/watch?v=syhEUESds-0) | Jessica Valant | 15 | 2026-10-01 | 2028-10-01 |
+| [20 Minute Full Body Workout With Weights!](https://www.youtube.com/watch?v=EjT1xAPKPmU) | Jessica Valant | 21 | 2025-07-07 | 2027-07-07 |
 | [20-minute 20 Minute of Pull Up & Burpee | Muscular Endurance](https://www.youtube.com/watch?v=nR6vK1h_LcY) | Jordan Yeoh Fitness | 29 | 2025-06-28 | 2027-06-28 |
 | [(Live) Simple Abs & Cardio at home](https://www.youtube.com/watch?v=7hWujloofBA) | Jordan Yeoh Fitness | 29 | 2026-07-20 | 2028-07-20 |
 | [10-minute 10 Minute Home Chest, Abs, Cardio - Beginner Friendly [Level 3]](https://www.youtube.com/watch?v=ZhDGlCKf3Eg) | Jordan Yeoh Fitness | 13 | 2025-09-16 | 2027-09-16 |
@@ -1052,6 +1061,11 @@ Revision 51, published 2026-11-01, valid until 2026-11-08. These are the only vi
 | [30-minute 30 Minute Dumbbell Strength Workout [Full Body Strength Training]](https://www.youtube.com/watch?v=NcX0YCz6WeI) | Juice & Toya | 38 | 2026-08-19 | 2028-08-19 |
 | [10-minute 10 Minute Full Body NO EXCUSE Workout [Dumbbell or Bodyweight Finisher]](https://www.youtube.com/watch?v=UafJzycbgus) | Juice & Toya | 12 | 2026-10-14 | 2028-10-14 |
 | [30-minute 30 Minute HEAVY Dumbbell Workout [Full Body Strength Training]](https://www.youtube.com/watch?v=UuOzGLf2-eY) | Juice & Toya | 37 | 2026-07-15 | 2028-07-15 |
+| [20 Minute Arms & Abs Dumbbell Strength Workout [NO REPEAT]](https://www.youtube.com/watch?v=70ZXlsrlwfc) | Juice & Toya | 22 | 2025-03-04 | 2027-03-04 |
+| [20 Minute Full Body Dumbbell Strength Workout + Cool Down Abs](https://www.youtube.com/watch?v=nm1Remqi_BY) | Juice & Toya | 31 | 2025-02-25 | 2027-02-25 |
+| [20 Minute Shoulders & Chest Dumbbell Workout (Upper Body Strength Training)](https://www.youtube.com/watch?v=4m_aYuPPobU) | Juice & Toya | 28 | 2025-04-15 | 2027-04-15 |
+| [30 Minute Full Body Dumbbell Workout [Strength CHALLENGE]](https://www.youtube.com/watch?v=Q33afQ25zGU) | Juice & Toya | 35 | 2025-01-14 | 2027-01-14 |
+| [30 Min. Runner's Workout w/ Weights: Strong Core, Bulletproof Legs](https://www.youtube.com/watch?v=3Y0pP6UJvbs) | Julia Reppel | 33 | 2025-10-09 | 2027-10-09 |
 | [10-minute DAY 6 | 10MIN EXPRESS FULL BODY WORKOUT](https://www.youtube.com/watch?v=KiZ0NtqMAE0) | Lidia Mera | 12 | 2026-08-19 | 2028-08-19 |
 | [10-minute 10MIN AB & CORE WORKOUT | toned stomach | no equipment](https://www.youtube.com/watch?v=lbhzt6COe5o) | Lidia Mera | 12 | 2026-10-11 | 2028-10-11 |
 | [🔥 LOW IMPACT FULL BODY CARDIO WORKOUT | Standing Only, No Jumping, Weight Loss Friendly 🔥](https://www.youtube.com/watch?v=7QD1TxnuAiE) | Lucy Wyndham-Read | 14 | 2026-06-18 | 2028-06-18 |
@@ -1114,6 +1128,7 @@ Revision 51, published 2026-11-01, valid until 2026-11-08. These are the only vi
 | [12-minute 12 MIN Dumbbell Shoulder Finisher | Front, Side & Rear Delts](https://www.youtube.com/watch?v=vFbl9BzLyvo) | Midas Movement | 14 | 2026-04-06 | 2028-04-06 |
 | [11-minute 11 MIN Standing Abs & Core Workout | No Floor Work](https://www.youtube.com/watch?v=XaNwPa0WMA8) | Midas Movement | 12 | 2026-04-22 | 2028-04-22 |
 | [10-minute 10 MIN Dumbbell Legs & Glutes Finisher](https://www.youtube.com/watch?v=yCXRmUsBkoM) | Midas Movement | 11 | 2026-08-30 | 2028-08-30 |
+| [20 MINUTE FULL  BODY WORKOUT (NO EQUIPMENT)](https://www.youtube.com/watch?v=vu-Nja5oqQc) | Milestone Strength | 21 | 2025-02-04 | 2027-02-04 |
 | [25-minute 25 Min Dumbbell Workout🔥 Get Toned Legs & Lift Booty in 14 Days](https://www.youtube.com/watch?v=5rFOQDwkgaE) | MIZI | 28 | 2026-09-16 | 2028-09-16 |
 | [20-minute 20 MIN TONED ARMS, BACK & ABS Workout (All Standing, Dumbbells)](https://www.youtube.com/watch?v=gHoZub7ABNw) | MIZI | 22 | 2026-07-15 | 2028-07-15 |
 | [25-minute 25 MIN Round Booty Workout 🍑 Lift & Grow Your Glutes at Home (No Equipment)](https://www.youtube.com/watch?v=h_ts5L5b3VQ) | MIZI | 27 | 2026-03-25 | 2028-03-25 |
@@ -1226,6 +1241,9 @@ Revision 51, published 2026-11-01, valid until 2026-11-08. These are the only vi
 | [12-minute 12 Minute Tricep Workout at Home with Dumbbells](https://www.youtube.com/watch?v=SRYUm74HtoQ) | Oliver Sjostrom | 12 | 2026-04-09 | 2028-04-09 |
 | [12-minute 12 Min Intense Six Pack Abs Workout (No Equipment)](https://www.youtube.com/watch?v=T4PCfh3yGWs) | Oliver Sjostrom | 13 | 2026-08-06 | 2028-08-06 |
 | [40-minute 40 Min Full Body Dumbbell Workout at Home to Build Muscle](https://www.youtube.com/watch?v=ymlMBXdBqgU) | Oliver Sjostrom | 44 | 2026-06-18 | 2028-06-18 |
+| [20 Min Full Body Workout - Cardio & Strength - No Jumping, No Equipment, No Repeat](https://www.youtube.com/watch?v=4jVAZJ3Xg_M) | Oliver Sjostrom | 21 | 2025-03-31 | 2027-03-31 |
+| [20 Min Full Body Workout - Build Strength & Burn Fat At Home (No Equipment + No Jumping)](https://www.youtube.com/watch?v=ADc8TaxAVMU) | Oliver Sjostrom | 22 | 2025-01-06 | 2027-01-06 |
+| [30 Minute Lower Body & Abs Workout With Dumbbells](https://www.youtube.com/watch?v=6FQBPWCVqI8) | Oliver Sjostrom | 34 | 2025-12-15 | 2027-12-15 |
 | [10-minute 10 MIN TOUCHDOWN CARDIO with Bijan Robinson - no jumping, quick feet, calorie burner I  Bonus: Abs](https://www.youtube.com/watch?v=-QU_3VLGyug) | Pamela Reif | 12 | 2025-02-26 | 2027-02-26 |
 | [10-minute 10 MIN HIIT THOSE ABS - 2in1 Cardio & Core I high intensity calorie burn](https://www.youtube.com/watch?v=CDntpk7UQHs) | Pamela Reif | 12 | 2025-06-11 | 2027-06-11 |
 | [15-minute 15 MIN STANDING ABS + FAT BURN - on the music, 100% standing core, HIIT I No Equipment](https://www.youtube.com/watch?v=HLTYHepZ1EA) | Pamela Reif | 16 | 2025-09-03 | 2027-09-03 |
@@ -1240,9 +1258,13 @@ Revision 51, published 2026-11-01, valid until 2026-11-08. These are the only vi
 | [10-minute 10 MIN STRONG CORE - AB WORKOUT + WEIGHT - floor only, fun & special exercises](https://www.youtube.com/watch?v=Qaytn3391Ao) | Pamela Reif | 11 | 2026-10-07 | 2028-10-07 |
 | [10-minute 10 MIN TONED ARMS - STANDING / burns like fire, for all levels (just switch size of bottle/weight)](https://www.youtube.com/watch?v=qpeIfg3kxpE) | Pamela Reif | 11 | 2025-04-23 | 2027-04-23 |
 | [10-minute 10 MIN STANDING ARMS + ABS - on music, fun, mood booster I ALL LEVELS I Bottles or Mini Weights](https://www.youtube.com/watch?v=UfKUDAoIYfU) | Pamela Reif | 12 | 2026-05-07 | 2028-05-07 |
+| [20 Minute Full Body Kettlebell Workout [Follow Along] Total Body Strength & Cardio Burn](https://www.youtube.com/watch?v=F8Wfm6QYTUU) | PressPlay Strength | 22 | 2026-05-07 | 2028-05-07 |
+| [20-Min Kettlebell Workout Follow Along - Full Body Strength (No Talking)](https://www.youtube.com/watch?v=hDAq7r_-208) | PressPlay Strength | 22 | 2026-04-26 | 2028-04-26 |
+| [20-Minute Full Body Kettlebell Workout - HIIT Fat Burner | No Repeats (No Talking) Follow Along](https://www.youtube.com/watch?v=4axOVqtEvjo) | PressPlay Strength | 22 | 2026-04-15 | 2028-04-15 |
 | [15-Minute Standing Cardio Core | Empowering Full Body Workout](https://www.youtube.com/watch?v=2lm70_Il4-Y) | PS Fit | 16 | 2026-04-07 | 2028-04-07 |
 | [10-Minute Deep Core Ab Reset](https://www.youtube.com/watch?v=FBJ0UW51J0Y) | PS Fit | 11 | 2026-08-24 | 2028-08-24 |
 | [15-Minute Strength Training For Summer with Natalie White](https://www.youtube.com/watch?v=i7afashZByU) | PS Fit | 16 | 2026-06-15 | 2028-06-15 |
+| [20 MIN TABATA FAT BURNING WORKOUT | No Equipment | Full Body Follow Along](https://www.youtube.com/watch?v=OtCWouZW75s) | Reggi_ee | 21 | 2026-10-06 | 2028-10-06 |
 | [30-minute 30 MIN Upper Body DUMBBELLS Workout | Rowan Row](https://www.youtube.com/watch?v=AgigCPwZry4) | Rowan Row | 33 | 2026-04-09 | 2028-04-09 |
 | [30-minute 30 MIN Lower Body DUMBBELLS Workout | Rowan Row](https://www.youtube.com/watch?v=BMJxGb4x25M) | Rowan Row | 33 | 2026-04-14 | 2028-04-14 |
 | [30-minute 30 Min 6 Pack ABS For BEGINNERS | No Equipment & No Repeat | Rowan Row](https://www.youtube.com/watch?v=JkyY3Z_Pqko) | Rowan Row | 34 | 2025-11-02 | 2027-11-02 |
@@ -1277,6 +1299,10 @@ Revision 51, published 2026-11-01, valid until 2026-11-08. These are the only vi
 | [45-minute 45 MIN ARMS + SHOULDERS | Dumbbells Only | Rowan Row](https://www.youtube.com/watch?v=wXAaCIuowko) | Rowan Row | 51 | 2026-09-29 | 2028-09-29 |
 | [10-minute 10 Min ABS | No Equipment | Rowan Row](https://www.youtube.com/watch?v=zCk68EFbFVc) | Rowan Row | 12 | 2026-08-31 | 2028-08-31 |
 | [30-minute 30 Min FULL BODY Workout | No Equipment | Rowan Row](https://www.youtube.com/watch?v=ZmQVUKCK9mM) | Rowan Row | 37 | 2026-08-24 | 2028-08-24 |
+| [20 Min Full Body TONE & SCULPT Workout | At Home - No Equipment | Rowan Row](https://www.youtube.com/watch?v=b9kD3t7bHcQ) | Rowan Row | 22 | 2025-06-25 | 2027-06-25 |
+| [20 Exercises. No Repeat. Full Body Kettlebell Workout](https://www.youtube.com/watch?v=zujwbz_HFis) | Samuel Jordan | 22 | 2026-04-09 | 2028-04-09 |
+| [Complete Full Body Strength Flow! | 30 Minute Bodyweight Workout](https://www.youtube.com/watch?v=4Q_vqIXYodY) | Sydney Cummings | 34 | 2026-01-19 | 2028-01-19 |
+| [Upper Body Push Pull Strength Workout | 30 Minute Dumbbell Circuits](https://www.youtube.com/watch?v=BgCbQJJddBY) | Sydney Cummings | 34 | 2026-03-06 | 2028-03-06 |
 | [30-minute Push & Pull: 30 Minute Heavy Dumbbell Upper Body Routine!](https://www.youtube.com/watch?v=7qut7RlM67E) | Sydney Cummings Houdyshell | 32 | 2026-09-08 | 2028-09-08 |
 | [30-minute 30 Minute Dumbbell Upper Body Workout | Build Explosive Power!](https://www.youtube.com/watch?v=cO4nVRvQ5lI) | Sydney Cummings Houdyshell | 34 | 2026-09-26 | 2028-09-26 |
 | [30-minute Target Your Glutes: 30 Minute Heavy Dumbbell Workout!](https://www.youtube.com/watch?v=s08La5CffkE) | Sydney Cummings Houdyshell | 33 | 2026-09-11 | 2028-09-11 |
@@ -1411,6 +1437,9 @@ Revision 51, published 2026-11-01, valid until 2026-11-08. These are the only vi
 | [30-minute 30 Min Dumbbell Workout - Leg Strength & Abs Combo | 4x5 Method](https://www.youtube.com/watch?v=WyQ9MBMokqU) | TIFF x DAN | 38 | 2025-09-18 | 2027-09-18 |
 | [40-minute 40 Min Arms & Shoulders Dumbbell Workout 🔥 Build Muscle & Definition at Home](https://www.youtube.com/watch?v=X1Ldv9_269c) | TIFF x DAN | 40 | 2025-12-17 | 2027-12-17 |
 | [50-minute 50 Minute Full Body Flexibility Routine! (FOLLOW ALONG)](https://www.youtube.com/watch?v=rCjKTy9NXM0) | Tom Merrick | 53 | 2024-12-25 | 2026-12-25 |
+| [20 Minute Beginner Calisthenics Workout + Stretch | Full Body Follow Along](https://www.youtube.com/watch?v=u6mQWV1Tp9o) | Tom Peto | 22 | 2025-09-29 | 2027-09-29 |
+| [20 Min FULL BODY KETTLEBELL HIIT WORKOUT | Follow Along](https://www.youtube.com/watch?v=dpByDvm1Aik) | Tom Peto | 23 | 2025-03-06 | 2027-03-06 |
+| [20 Min FULL BODY KETTLEBELL STRENGTH WORKOUT | Follow Along](https://www.youtube.com/watch?v=Elj9lZ1vu3A) | Tom Peto | 23 | 2025-03-03 | 2027-03-03 |
 | [20-minute 20 Min DUMBBELL BACK WORKOUT | 7 Day Split Series](https://www.youtube.com/watch?v=7qxcmg2U-EE) | Tom Peto Training | 22 | 2025-11-25 | 2027-11-25 |
 | [20-minute 20 Minute Dumbbell Shoulder Workout to Build Bigger, Stronger Shoulders](https://www.youtube.com/watch?v=E4cn8vh8mVw) | Tom Peto Training | 22 | 2025-11-27 | 2027-11-27 |
 | [30-minute 30 Min Upper Body Dumbbell Workout with Bench](https://www.youtube.com/watch?v=hu3-cb_aymU) | Tom Peto Training | 31 | 2026-07-06 | 2028-07-06 |
@@ -1484,6 +1513,7 @@ Revision 51, published 2026-11-01, valid until 2026-11-08. These are the only vi
 | [10-minute 10 MIN KILLER ABS + CORE - With Weights](https://www.youtube.com/watch?v=xLRg53sARB0) | TRAIN WITH GAINSBYBRAINS | 11 | 2026-05-26 | 2028-05-26 |
 | [10-minute 10 MIN BOOTY PUMP - Lower Body Workout without Equipment - No Repeat, Home Workout](https://www.youtube.com/watch?v=xXaPSlXb02s) | TRAIN WITH GAINSBYBRAINS | 11 | 2026-02-22 | 2028-02-22 |
 | [10-minute 10 MIN DAILY ABS](https://www.youtube.com/watch?v=Y9a99mkdYag) | TRAIN WITH GAINSBYBRAINS | 11 | 2026-04-06 | 2028-04-06 |
+| [20-Minute Kettlebell Workout | 30 sec Work/Rest | No Repeat](https://www.youtube.com/watch?v=yFhZiZvkits) | Vadim Kettlebell | 22 | 2025-08-22 | 2027-08-22 |
 | [Squat Workout For Bigger Butt and Stronger Legs!!!](https://www.youtube.com/watch?v=FOjEVQpnqH0) | Women's Workout Channel | 16 | 2025-01-29 | 2027-01-29 |
 
 ## Yoga (147)

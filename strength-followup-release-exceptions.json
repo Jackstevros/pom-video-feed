@@ -1,0 +1,16 @@
+{
+  "selected": 31,
+  "released": 30,
+  "held": 1,
+  "exceptions": [
+    {
+      "spreadsheetRow": 12,
+      "videoId": "UcEyY7LaKIM",
+      "url": "https://www.youtube.com/watch?v=UcEyY7LaKIM",
+      "creator": "Jae-ho",
+      "reason": "YOUTUBE_ACCESS_OR_EMBEDDING_RESTRICTION",
+      "ownerApproval": "ALREADY_APPROVED",
+      "published": false
+    }
+  ]
+}
