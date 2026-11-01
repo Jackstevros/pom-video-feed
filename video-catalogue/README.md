@@ -1,6 +1,6 @@
 # POM video catalogue classification
 
-Generated 2026-10-30T14:39:21.143Z from `resources/owner-bulk-video-approval-2026-10-30.json` (1737 owner-approved videos).
+Generated 2026-11-01T14:47:43.012Z from `resources/owner-bulk-video-approval-2026-10-30.json` (1737 owner-approved videos).
 YouTube descriptions fetched: **yes**.
 
 This public list tags each video with duration, instructor, equipment and a workout schedule
@@ -16,8 +16,8 @@ only need answering once, there; this list adds instructor, schedule and conflic
 
 | | Videos |
 |---|---:|
-| Fully classified | 165 |
-| Needs owner review | 1572 |
+| Fully classified | 264 |
+| Needs owner review | 1473 |
 | Schedule from YouTube chapters | 352 |
 | Schedule from description list | 59 |
 | No schedule | 1326 |
@@ -28,19 +28,20 @@ only need answering once, there; this list adds instructor, schedule and conflic
 |---|---:|
 | SCHEDULE_MISSING | 1326 |
 | EQUIPMENT_UNKNOWN | 604 |
-| INSTRUCTOR_UNKNOWN | 334 |
 | EQUIPMENT_CONFLICT | 20 |
 | DURATION_MISMATCH | 16 |
+| OWNER_DURATION_CONFLICT | 5 |
+| INSTRUCTOR_UNKNOWN | 1 |
 | IDENTITY_HOLD | 1 |
 
 ## Instructor
 
 | Instructor | Videos |
 |---|---:|
-| FEMALE | 850 |
-| UNKNOWN | 334 |
-| MALE | 304 |
-| MIXED | 249 |
+| FEMALE | 914 |
+| MALE | 458 |
+| MIXED | 364 |
+| UNKNOWN | 1 |
 
 ## Equipment (a video can use several)
 
@@ -53,19 +54,4 @@ only need answering once, there; this list adds instructor, schedule and conflic
 
 ## Channels needing an instructor decision
 
-- Nobadaddiction (78 videos): female, male or mixed?
-- EDR Fitness (69 videos): female, male or mixed?
-- Midas Movement (43 videos): female, male or mixed?
-- fitbymik (34 videos): female, male or mixed?
-- Pilates by Zola (23 videos): female, male or mixed?
-- Tone and Tighten (21 videos): female, male or mixed?
-- PS Fit (13 videos): female, male or mixed?
-- Headspace (13 videos): female, male or mixed?
-- Rehab Science (13 videos): female, male or mixed?
-- fitness__kaykay (13 videos): female, male or mixed?
-- Treat My Achilles (6 videos): female, male or mixed?
-- Breathe and Flow (2 videos): female, male or mixed?
-- Dansique Fitness (2 videos): female, male or mixed?
-- Spark Healthy Runner (2 videos): female, male or mixed?
-- Global Triathlon Network (1 videos): female, male or mixed?
 - Juice & Toya (1 videos): female, male or mixed?
