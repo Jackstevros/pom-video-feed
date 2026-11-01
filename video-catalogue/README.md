@@ -1,6 +1,6 @@
 # POM video catalogue classification
 
-Generated 2026-11-01T14:47:43.012Z from `resources/owner-bulk-video-approval-2026-10-30.json` (1737 owner-approved videos).
+Generated 2026-11-01T15:23:34.228Z from `resources/owner-bulk-video-approval-2026-10-30.json` (1737 owner-approved videos).
 YouTube descriptions fetched: **yes**.
 
 This public list tags each video with duration, instructor, equipment and a workout schedule
