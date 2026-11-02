@@ -1,6 +1,6 @@
 # POM approved videos
 
-Revision 52, published 2026-11-01, valid until 2026-11-08. These are the only videos the app can link to. The signed file the app reads is `approved-action-feed.signed.json`.
+Revision 53, published 2026-11-02, valid until 2026-11-09. These are the only videos the app can link to. The signed file the app reads is `approved-action-feed.signed.json`.
 
 ## Runner flexibility (239)
 
@@ -367,7 +367,7 @@ Revision 52, published 2026-11-01, valid until 2026-11-08. These are the only vi
 | [Relaxing yin yoga, no props](https://www.youtube.com/watch?v=QO8j6H6DrMA) | Yoga with Kassandra | 19 | 2025-12-22 | 2028-12-22 |
 | [Relaxing morning stretch](https://www.youtube.com/watch?v=hJ0Ol0mYLDI) | Yoga with Kassandra | 16 | 2025-12-15 | 2028-12-15 |
 
-## Beginner strength (385)
+## Beginner strength (384)
 
 | Video | Creator | Minutes | Published | Ages out |
 |---|---|---|---|---|
@@ -563,7 +563,6 @@ Revision 52, published 2026-11-01, valid until 2026-11-08. These are the only vi
 | [20-minute 20 minute Full Body Dumbbell Workout Routine for Muscle building, strength & tone](https://www.youtube.com/watch?v=GhHRiSx3958) | MrandMrsMuscle | 23 | 2025-04-07 | 2027-04-07 |
 | [20-minute 20 minute Full Body Strength & Tone Dumbbell Workout you can do Daily!](https://www.youtube.com/watch?v=Ij22z_--lg4) | MrandMrsMuscle | 23 | 2026-06-01 | 2028-06-01 |
 | [20-minute 20 min Dumbbell Full Body Strength Workout | Build Muscle at Home](https://www.youtube.com/watch?v=iLCoY80Kvwk) | MrandMrsMuscle | 23 | 2026-10-26 | 2028-10-26 |
-| [20-minute 20 minute Full Body Dumbbell Strength & Conditioning Workout](https://www.youtube.com/watch?v=jxFxShShOjI) | MrandMrsMuscle | 23 | 2024-11-01 | 2026-11-01 |
 | [20-minute 20 minute Arms, Back, Chest & Core Dumbbell Workout for Upper Body Strength 💪🏽](https://www.youtube.com/watch?v=kbMDdHgbjvM) | MrandMrsMuscle | 24 | 2026-09-07 | 2028-09-07 |
 | [20-minute 20 minute Full Body Dumbbell Strength & Tone Workout you can do DAILY!](https://www.youtube.com/watch?v=krs_R5biAOg) | MrandMrsMuscle | 23 | 2026-02-23 | 2028-02-23 |
 | [20-minute 20 minute Abs & Core Bodyweight Workout (Strength & Tone)](https://www.youtube.com/watch?v=kXiugRsdW8w) | MrandMrsMuscle | 24 | 2026-08-17 | 2028-08-17 |

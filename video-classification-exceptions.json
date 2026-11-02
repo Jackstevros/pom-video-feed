@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-01T20:07:14.501Z",
+  "generatedAt": "2026-11-02T19:50:32.315Z",
   "sourceCommit": "6e6f17e4ed094454cf1f2355cd2f873b8c225704",
   "ownerApprovalComplete": true,
   "allApprovedCount": 1737,
   "metadataMode": "LIVE_OFFICIAL_API",
-  "readyCount": 1663,
-  "exceptionCount": 74,
+  "readyCount": 1662,
+  "exceptionCount": 75,
   "byCategory": {
     "BEGINNER_STRENGTH": {
       "approved": 405,
-      "ready": 357,
-      "exceptions": 10
+      "ready": 356,
+      "exceptions": 11
     },
     "STRENGTH_TRAINING": {
       "approved": 696,
@@ -124,6 +124,32 @@
           "conflict": true
         }
       ],
+      "answerEquipment": "",
+      "answerCategory": "",
+      "answerLevel": "",
+      "answerGeneralFollowAlong": "",
+      "answerNotes": "",
+      "recipeDetailsJson": ""
+    },
+    {
+      "reviewNumber": 90,
+      "priority": "TECHNICAL_CHECK",
+      "videoId": "jxFxShShOjI",
+      "url": "https://www.youtube.com/watch?v=jxFxShShOjI",
+      "title": "20 minute Full Body Dumbbell Strength & Conditioning Workout",
+      "category": "BEGINNER_STRENGTH",
+      "ownerApproval": "ALREADY_APPROVED",
+      "listedEquipment": "DUMBBELLS",
+      "resolvedEquipment": "DUMBBELLS",
+      "level": "INTERMEDIATE",
+      "minutes": 23,
+      "blockers": [
+        {
+          "code": "TECHNICAL_AVAILABILITY",
+          "question": "Published 2024-11-01, older than 2 years (exercise); technical recheck required, no content reapproval."
+        }
+      ],
+      "equipmentEvidence": [],
       "answerEquipment": "",
       "answerCategory": "",
       "answerLevel": "",

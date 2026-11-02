@@ -2,15 +2,15 @@
 
 **All 1737 videos are already owner-approved. No video reapproval is requested.**
 
-- Ready for automatic daily recommendations, subject to publication checks: **1663**
-- Videos with specific unresolved facts or routing conflicts: **74**
+- Ready for automatic daily recommendations, subject to publication checks: **1662**
+- Videos with specific unresolved facts or routing conflicts: **75**
 - Metadata mode: LIVE_OFFICIAL_API
 
 Download [the editable exception CSV](video-classification-exceptions.csv). Start with QUICK_FACT_FIX rows: each needs just one equipment or level answer. Fill the answer columns and a short factual note. Leave unknown facts blank. You can also reply with the review numbers and answers. TECHNICAL_CHECK rows need automated availability/identity work rather than another owner approval. Equipment choices: NONE, MAT, BODYWEIGHT, DUMBBELLS, KETTLEBELLS, BANDS. Record multiple required items in notes; current single-equipment routing cannot safely collapse them into one.
 
 | Category | Approved | Ready | Exceptions |
 |---|---:|---:|---:|
-| BEGINNER_STRENGTH | 405 | 357 | 10 |
+| BEGINNER_STRENGTH | 405 | 356 | 11 |
 | STRENGTH_TRAINING | 696 | 637 | 29 |
 | PILATES | 204 | 198 | 3 |
 | COOK_ALONG_RECIPE | 20 | 4 | 16 |
@@ -35,6 +35,12 @@ Download [the editable exception CSV](video-classification-exceptions.csv). Star
 [Open this exact video](https://www.youtube.com/watch?v=pZ1Xzrh_els) · BEGINNER_STRENGTH · Already approved
 
 - **EQUIPMENT_CONFLICT**: The listed equipment conflicts with the creator description, or several items are required. Record all required equipment; do not choose a single item if several are necessary.
+
+### 90. 20 minute Full Body Dumbbell Strength & Conditioning Workout
+
+[Open this exact video](https://www.youtube.com/watch?v=jxFxShShOjI) · BEGINNER_STRENGTH · Already approved
+
+- **TECHNICAL_AVAILABILITY**: Published 2024-11-01, older than 2 years (exercise); technical recheck required, no content reapproval.
 
 ### 172. 35 MIN Lower-Body Dumbbell Workout (Glutes, Quads & Hamstrings)
 
@@ -318,12 +324,6 @@ Download [the editable exception CSV](video-classification-exceptions.csv). Star
 ### 1271. Why You Actually Lose Strength as You Age
 
 [Open this exact video](https://www.youtube.com/watch?v=0njBKqBlJO4) · BEGINNER_STRENGTH · Already approved
-
-- **FOLLOW_ALONG**: Confirm whether this is a general follow-along session or an educational reference. If follow-along, set generalFollowAlong=true with a short note.
-
-### 1300. Disney Marathon Training Plan: The Strength Work Most Runners Skip
-
-[Open this exact video](https://www.youtube.com/watch?v=qxfqVrzdOC0) · BEGINNER_STRENGTH · Already approved
 
 - **FOLLOW_ALONG**: Confirm whether this is a general follow-along session or an educational reference. If follow-along, set generalFollowAlong=true with a short note.
 
