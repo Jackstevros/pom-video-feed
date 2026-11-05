@@ -1,5 +1,5 @@
 {
-  "version": "2026.11.05.2",
+  "version": "2026.11.05.3",
   "sourceMaxAgeDays": 365,
   "sources": [
     {
@@ -155,12 +155,12 @@
       "lastReviewed": "2026-10-20"
     },
     {
-      "id": "racgp_sch_2022",
+      "id": "nice_ng145",
       "kind": "guideline",
-      "citation": "Royal Australian College of General Practitioners. Management of subclinical hypothyroidism (First Do No Harm), revised 2022, citing NICE NG145 (2019).",
-      "url": "https://www.racgp.org.au/clinical-resources/clinical-guidelines/first-do-no-harm/gp-resources/management-of-subclinical-hypothyroidism",
-      "claim": "Advises re-testing a mildly raised TSH (4–10 mIU/L) with normal free T4 after 2–3 months, with thyroid antibodies, and delaying testing during an acute illness (citing NICE NG145).",
-      "lastReviewed": "2026-10-20"
+      "citation": "National Institute for Health and Care Excellence. Thyroid disease: assessment and management. NICE guideline NG145 (2019, updated 2023). Recommendations 1.2.6, 1.2.8, 1.2.11, 1.5.1, 1.5.3–1.5.4.",
+      "url": "https://www.nice.org.uk/guidance/ng145/chapter/Recommendations",
+      "claim": "Advises not testing thyroid function during an acute illness (1.2.6), measuring FT4 when TSH is above the reference range (1.2.8), asking about biotin supplements because they can make results falsely high or low (1.2.11), considering a one-time TPO antibody test (1.5.1), and basing decisions on TSH on 2 occasions 3 months apart (1.5.3–1.5.4).",
+      "lastReviewed": "2026-11-05"
     },
     {
       "id": "tft_fasting_2026",
@@ -686,11 +686,11 @@
       "scope": "MARKER",
       "group": "Thyroid",
       "when": "TSH is high.",
-      "question": "My TSH was [your result]. Should it be repeated in 2–3 months with a free T4, not during an illness and in the same fasting state as this test, to see whether it persists?",
+      "question": "My TSH was [your result]. Should it be repeated in about 3 months with a free T4 (not during an illness, and in the same fasting state as this test)? Would a one-time thyroid antibody (TPO) test help, and could any biotin supplements have affected the result?",
       "sources": [
         {
-          "id": "racgp_sch_2022",
-          "claim": "Advises re-testing a mildly raised TSH (4–10 mIU/L) with normal free T4 after 2–3 months, with thyroid antibodies, and delaying testing during an acute illness (citing NICE NG145)."
+          "id": "nice_ng145",
+          "claim": "Advises not testing thyroid function during an acute illness (1.2.6), measuring FT4 when TSH is above the reference range (1.2.8), asking about biotin supplements because they can make results falsely high or low (1.2.11), considering a one-time TPO antibody test (1.5.1), and basing decisions on TSH on 2 occasions 3 months apart (1.5.3–1.5.4)."
         },
         {
           "id": "tft_fasting_2026",

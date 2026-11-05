@@ -8,7 +8,7 @@ study or reference behind it, with the exact claim POM takes from each source.
 - A source not re-reviewed within 365 days is withheld in the app until it is.
 - New publications are checked monthly; changes are made only after review.
 
-Rules version **2026.11.05.2** · 34 questions · 33 sources · machine-readable: [sources.json](sources.json)
+Rules version **2026.11.05.3** · 34 questions · 33 sources · machine-readable: [sources.json](sources.json)
 
 _Not medical advice. Discuss any result with your clinician._
 
@@ -209,11 +209,11 @@ _Not medical advice. Discuss any result with your clinician._
 
 ## Thyroid
 
-### My TSH was [your result]. Should it be repeated in 2–3 months with a free T4, not during an illness and in the same fasting state as this test, to see whether it persists?
+### My TSH was [your result]. Should it be repeated in about 3 months with a free T4 (not during an illness, and in the same fasting state as this test)? Would a one-time thyroid antibody (TPO) test help, and could any biotin supplements have affected the result?
 
 - **Asked when:** TSH is high.
 - **Rule:** `thyroid.tsh.high`
-- **Why:** Advises re-testing a mildly raised TSH (4–10 mIU/L) with normal free T4 after 2–3 months, with thyroid antibodies, and delaying testing during an acute illness (citing NICE NG145). — [Royal Australian College of General Practitioners. Management of subclinical hypothyroidism (First Do No Harm), revised 2022, citing NICE NG145 (2019).](https://www.racgp.org.au/clinical-resources/clinical-guidelines/first-do-no-harm/gp-resources/management-of-subclinical-hypothyroidism)
+- **Why:** Advises not testing thyroid function during an acute illness (1.2.6), measuring FT4 when TSH is above the reference range (1.2.8), asking about biotin supplements because they can make results falsely high or low (1.2.11), considering a one-time TPO antibody test (1.5.1), and basing decisions on TSH on 2 occasions 3 months apart (1.5.3–1.5.4). — [National Institute for Health and Care Excellence. Thyroid disease: assessment and management. NICE guideline NG145 (2019, updated 2023). Recommendations 1.2.6, 1.2.8, 1.2.11, 1.5.1, 1.5.3–1.5.4.](https://www.nice.org.uk/guidance/ng145/chapter/Recommendations)
 - **Why:** Across 14 studies, TSH measured after eating was lower than fasting TSH (by about 0.8 mIU/L on average, low-certainty evidence), while free T4 did not differ; the authors suggest standardising and recording fasting status when interpreting borderline results. — [Effect of fasting and postprandial states on thyroid function test parameters and diagnostic interpretation: a systematic review and meta-analysis. Endocrine. 2026;91(1):351. doi:10.1007/s12020-026-04834-x](https://doi.org/10.1007/s12020-026-04834-x)
 
 ## Vitamin D
@@ -358,7 +358,7 @@ Shown at the top of an appointment's questions. POM compares the last 2 weeks of
 | [Hew-Butler T, Rosner MH, Fowkes-Godek S, et al. Statement of the 3rd International Exercise-Associated Hyponatremia Consensus Development Conference, Carlsbad, California, 2015. Br J Sports Med. 2015;49(22):1432.](https://bjsm.bmj.com/content/49/22/1432) | consensus | 2026-10-20 |
 | [Erroneous potassium results: preanalytical causes, detection, and corrective actions. Crit Rev Clin Lab Sci. 2023. doi:10.1080/10408363.2023.2195936](https://doi.org/10.1080/10408363.2023.2195936) | study | 2026-11-05 |
 | [Acute Care Testing (Radiometer). Pseudohyperkalemia (review, citing Don BR et al., N Engl J Med 1990;322:1290-1292).](https://acutecaretesting.org/en/articles/pseudohyperkalemia) | reference | 2026-10-20 |
-| [Royal Australian College of General Practitioners. Management of subclinical hypothyroidism (First Do No Harm), revised 2022, citing NICE NG145 (2019).](https://www.racgp.org.au/clinical-resources/clinical-guidelines/first-do-no-harm/gp-resources/management-of-subclinical-hypothyroidism) | guideline | 2026-10-20 |
+| [National Institute for Health and Care Excellence. Thyroid disease: assessment and management. NICE guideline NG145 (2019, updated 2023). Recommendations 1.2.6, 1.2.8, 1.2.11, 1.5.1, 1.5.3–1.5.4.](https://www.nice.org.uk/guidance/ng145/chapter/Recommendations) | guideline | 2026-11-05 |
 | [Effect of fasting and postprandial states on thyroid function test parameters and diagnostic interpretation: a systematic review and meta-analysis. Endocrine. 2026;91(1):351. doi:10.1007/s12020-026-04834-x](https://doi.org/10.1007/s12020-026-04834-x) | study | 2026-11-05 |
 | [Interference of iron deficiency in glycated hemoglobin testing and its clinical implications: a systematic review and meta-analysis. Biochem Med (Zagreb). 2026. doi:10.11613/BM.2026.030503](https://doi.org/10.11613/BM.2026.030503) | study | 2026-11-05 |
 | [Demay MB, Pittas AG, Bikle DD, et al. Vitamin D for the Prevention of Disease: An Endocrine Society Clinical Practice Guideline. J Clin Endocrinol Metab. 2024. doi:10.1210/clinem/dgae290](https://doi.org/10.1210/clinem/dgae290) | guideline | 2026-10-20 |
