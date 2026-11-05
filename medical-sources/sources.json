@@ -1,5 +1,5 @@
 {
-  "version": "2026.10.21.1",
+  "version": "2026.11.05.1",
   "sourceMaxAgeDays": 365,
   "sources": [
     {
@@ -153,6 +153,22 @@
       "url": "https://www.racgp.org.au/clinical-resources/clinical-guidelines/first-do-no-harm/gp-resources/management-of-subclinical-hypothyroidism",
       "claim": "Advises re-testing a mildly raised TSH (4–10 mIU/L) with normal free T4 after 2–3 months, with thyroid antibodies, and delaying testing during an acute illness (citing NICE NG145).",
       "lastReviewed": "2026-10-20"
+    },
+    {
+      "id": "tft_fasting_2026",
+      "kind": "study",
+      "citation": "Effect of fasting and postprandial states on thyroid function test parameters and diagnostic interpretation: a systematic review and meta-analysis. Endocrine. 2026;91(1):351. doi:10.1007/s12020-026-04834-x",
+      "url": "https://doi.org/10.1007/s12020-026-04834-x",
+      "claim": "Across 14 studies, TSH measured after eating was lower than fasting TSH (by about 0.8 mIU/L on average, low-certainty evidence), while free T4 did not differ; the authors suggest standardising and recording fasting status when interpreting borderline results.",
+      "lastReviewed": "2026-11-05"
+    },
+    {
+      "id": "ida_a1c_2026",
+      "kind": "study",
+      "citation": "Interference of iron deficiency in glycated hemoglobin testing and its clinical implications: a systematic review and meta-analysis. Biochem Med (Zagreb). 2026. doi:10.11613/BM.2026.030503",
+      "url": "https://doi.org/10.11613/BM.2026.030503",
+      "claim": "Iron deficiency anemia falsely raises HbA1c, and iron deficiency without anemia may also raise it, likely because red blood cells live longer when iron is low.",
+      "lastReviewed": "2026-11-05"
     },
     {
       "id": "endo_vitd_2024",
@@ -460,11 +476,15 @@
       "scope": "PANEL",
       "group": "Blood sugar",
       "when": "A1c is flagged (asked once).",
-      "question": "Could anything make my A1c less accurate for me, such as anemia, recent blood loss or a hemoglobin variant?",
+      "question": "Could anything make my A1c less accurate for me, such as low iron (even without anemia), anemia, recent blood loss or a hemoglobin variant?",
       "sources": [
         {
           "id": "ada_2026",
           "claim": "Notes that A1C may be unreliable with some hemoglobin variants, altered red-cell turnover (for example anemia or blood loss) or certain therapies."
+        },
+        {
+          "id": "ida_a1c_2026",
+          "claim": "Iron deficiency anemia falsely raises HbA1c, and iron deficiency without anemia may also raise it, likely because red blood cells live longer when iron is low."
         }
       ]
     },
@@ -646,11 +666,15 @@
       "scope": "MARKER",
       "group": "Thyroid",
       "when": "TSH is high.",
-      "question": "My TSH was [your result]. Should it be repeated in 2–3 months with a free T4, and not during an illness, to see whether it persists?",
+      "question": "My TSH was [your result]. Should it be repeated in 2–3 months with a free T4, not during an illness and in the same fasting state as this test, to see whether it persists?",
       "sources": [
         {
           "id": "racgp_sch_2022",
           "claim": "Advises re-testing a mildly raised TSH (4–10 mIU/L) with normal free T4 after 2–3 months, with thyroid antibodies, and delaying testing during an acute illness (citing NICE NG145)."
+        },
+        {
+          "id": "tft_fasting_2026",
+          "claim": "Across 14 studies, TSH measured after eating was lower than fasting TSH (by about 0.8 mIU/L on average, low-certainty evidence), while free T4 did not differ; the authors suggest standardising and recording fasting status when interpreting borderline results."
         }
       ]
     },

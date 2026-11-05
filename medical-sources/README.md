@@ -8,7 +8,7 @@ study or reference behind it, with the exact claim POM takes from each source.
 - A source not re-reviewed within 365 days is withheld in the app until it is.
 - New publications are checked monthly; changes are made only after review.
 
-Rules version **2026.10.21.1** · 34 questions · 29 sources · machine-readable: [sources.json](sources.json)
+Rules version **2026.11.05.1** · 34 questions · 31 sources · machine-readable: [sources.json](sources.json)
 
 _Not medical advice. Discuss any result with your clinician._
 
@@ -112,11 +112,12 @@ _Not medical advice. Discuss any result with your clinician._
 - **Why:** Says people with prediabetes should be offered or referred to effective preventive interventions, such as lifestyle programs focused on diet and physical activity. — [US Preventive Services Task Force. Screening for Prediabetes and Type 2 Diabetes: US Preventive Services Task Force Recommendation Statement. JAMA. 2021. doi:10.1001/jama.2021.12531](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/screening-for-prediabetes-and-type-2-diabetes)
 - **Why:** In adults at high risk, a structured lifestyle program reduced new cases of type 2 diabetes by 58% compared with placebo. — [Diabetes Prevention Program Research Group. Reduction in the incidence of type 2 diabetes with lifestyle intervention or metformin. N Engl J Med. 2002;346(6):393-403. doi:10.1056/NEJMoa012512](https://doi.org/10.1056/NEJMoa012512)
 
-### Could anything make my A1c less accurate for me, such as anemia, recent blood loss or a hemoglobin variant?
+### Could anything make my A1c less accurate for me, such as low iron (even without anemia), anemia, recent blood loss or a hemoglobin variant?
 
 - **Asked when:** A1c is flagged (asked once).
 - **Rule:** `glucose.panel.a1c_accuracy`
 - **Why:** Notes that A1C may be unreliable with some hemoglobin variants, altered red-cell turnover (for example anemia or blood loss) or certain therapies. — [American Diabetes Association Professional Practice Committee. 2. Diagnosis and Classification of Diabetes: Standards of Care in Diabetes—2026. Diabetes Care. 2026;49(Suppl 1):S27. doi:10.2337/dc26-S002](https://doi.org/10.2337/dc26-s002)
+- **Why:** Iron deficiency anemia falsely raises HbA1c, and iron deficiency without anemia may also raise it, likely because red blood cells live longer when iron is low. — [Interference of iron deficiency in glycated hemoglobin testing and its clinical implications: a systematic review and meta-analysis. Biochem Med (Zagreb). 2026. doi:10.11613/BM.2026.030503](https://doi.org/10.11613/BM.2026.030503)
 
 ## Kidney
 
@@ -207,11 +208,12 @@ _Not medical advice. Discuss any result with your clinician._
 
 ## Thyroid
 
-### My TSH was [your result]. Should it be repeated in 2–3 months with a free T4, and not during an illness, to see whether it persists?
+### My TSH was [your result]. Should it be repeated in 2–3 months with a free T4, not during an illness and in the same fasting state as this test, to see whether it persists?
 
 - **Asked when:** TSH is high.
 - **Rule:** `thyroid.tsh.high`
 - **Why:** Advises re-testing a mildly raised TSH (4–10 mIU/L) with normal free T4 after 2–3 months, with thyroid antibodies, and delaying testing during an acute illness (citing NICE NG145). — [Royal Australian College of General Practitioners. Management of subclinical hypothyroidism (First Do No Harm), revised 2022, citing NICE NG145 (2019).](https://www.racgp.org.au/clinical-resources/clinical-guidelines/first-do-no-harm/gp-resources/management-of-subclinical-hypothyroidism)
+- **Why:** Across 14 studies, TSH measured after eating was lower than fasting TSH (by about 0.8 mIU/L on average, low-certainty evidence), while free T4 did not differ; the authors suggest standardising and recording fasting status when interpreting borderline results. — [Effect of fasting and postprandial states on thyroid function test parameters and diagnostic interpretation: a systematic review and meta-analysis. Endocrine. 2026;91(1):351. doi:10.1007/s12020-026-04834-x](https://doi.org/10.1007/s12020-026-04834-x)
 
 ## Vitamin D
 
@@ -354,6 +356,8 @@ Shown at the top of an appointment's questions. POM compares the last 2 weeks of
 | [Hew-Butler T, Rosner MH, Fowkes-Godek S, et al. Statement of the 3rd International Exercise-Associated Hyponatremia Consensus Development Conference, Carlsbad, California, 2015. Br J Sports Med. 2015;49(22):1432.](https://bjsm.bmj.com/content/49/22/1432) | consensus | 2026-10-20 |
 | [Acute Care Testing (Radiometer). Pseudohyperkalemia (review, citing Don BR et al., N Engl J Med 1990;322:1290-1292).](https://acutecaretesting.org/en/articles/pseudohyperkalemia) | reference | 2026-10-20 |
 | [Royal Australian College of General Practitioners. Management of subclinical hypothyroidism (First Do No Harm), revised 2022, citing NICE NG145 (2019).](https://www.racgp.org.au/clinical-resources/clinical-guidelines/first-do-no-harm/gp-resources/management-of-subclinical-hypothyroidism) | guideline | 2026-10-20 |
+| [Effect of fasting and postprandial states on thyroid function test parameters and diagnostic interpretation: a systematic review and meta-analysis. Endocrine. 2026;91(1):351. doi:10.1007/s12020-026-04834-x](https://doi.org/10.1007/s12020-026-04834-x) | study | 2026-11-05 |
+| [Interference of iron deficiency in glycated hemoglobin testing and its clinical implications: a systematic review and meta-analysis. Biochem Med (Zagreb). 2026. doi:10.11613/BM.2026.030503](https://doi.org/10.11613/BM.2026.030503) | study | 2026-11-05 |
 | [Demay MB, Pittas AG, Bikle DD, et al. Vitamin D for the Prevention of Disease: An Endocrine Society Clinical Practice Guideline. J Clin Endocrinol Metab. 2024. doi:10.1210/clinem/dgae290](https://doi.org/10.1210/clinem/dgae290) | guideline | 2026-10-20 |
 | [Gabbett TJ. The training-injury prevention paradox: should athletes be training smarter and harder? Br J Sports Med. 2016;50(5):273-280. doi:10.1136/bjsports-2015-095788](https://doi.org/10.1136/bjsports-2015-095788) | study | 2026-10-21 |
 | [Watson NF, Badr MS, Belenky G, et al. Recommended amount of sleep for a healthy adult: a joint consensus statement of the American Academy of Sleep Medicine and Sleep Research Society. Sleep. 2015;38(6):843-844. doi:10.5665/sleep.4716](https://doi.org/10.5665/sleep.4716) | consensus | 2026-10-21 |
