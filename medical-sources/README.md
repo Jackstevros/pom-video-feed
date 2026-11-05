@@ -8,7 +8,7 @@ study or reference behind it, with the exact claim POM takes from each source.
 - A source not re-reviewed within 365 days is withheld in the app until it is.
 - New publications are checked monthly; changes are made only after review.
 
-Rules version **2026.11.05.3** · 34 questions · 33 sources · machine-readable: [sources.json](sources.json)
+Rules version **2026.11.05.5** · 34 questions · 33 sources · machine-readable: [sources.json](sources.json)
 
 _Not medical advice. Discuss any result with your clinician._
 
@@ -16,13 +16,13 @@ _Not medical advice. Discuss any result with your clinician._
 
 ### My LDL-C was [your result], at or above 190 mg/dL. Should we check for secondary causes or familial hypercholesterolemia, and does this need a specialist?
 
-- **Asked when:** LDL-C is 190 mg/dL or higher.
+- **Asked when:** LDL-C is 190 mg/dL (4.9 mmol/L) or higher.
 - **Rule:** `lipids.ldl.190`
 - **Why:** Treats LDL-C of 190 mg/dL or higher as severe hypercholesterolemia, with evaluation for secondary causes and familial hypercholesterolemia. — [Blumenthal RS, Morris PB, Gaudino M, et al. 2026 ACC/AHA/AACVPR/ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/PCNA Guideline on the Management of Dyslipidemia. Circulation. 2026. doi:10.1161/CIR.0000000000001423](https://doi.org/10.1161/CIR.0000000000001423)
 
 ### My LDL-C was [your result]. Is it persistently 160 mg/dL or higher, and should we recheck it to confirm?
 
-- **Asked when:** LDL-C is 160–189 mg/dL.
+- **Asked when:** LDL-C is 160–189 mg/dL (4.1–4.9 mmol/L).
 - **Rule:** `lipids.ldl.160.persistent`
 - **Why:** Lists persistently elevated LDL-C of 160 mg/dL or higher as a risk-enhancing factor; one result does not show persistence. — [Blumenthal RS, Morris PB, Gaudino M, et al. 2026 ACC/AHA/AACVPR/ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/PCNA Guideline on the Management of Dyslipidemia. Circulation. 2026. doi:10.1161/CIR.0000000000001423](https://doi.org/10.1161/CIR.0000000000001423)
 
@@ -34,13 +34,13 @@ _Not medical advice. Discuss any result with your clinician._
 
 ### My triglycerides were [your result], at or above 500 mg/dL. Does this need prompt follow-up, and was it a fasting sample?
 
-- **Asked when:** Triglycerides are 500 mg/dL or higher.
+- **Asked when:** Triglycerides are 500 mg/dL (5.6 mmol/L) or higher.
 - **Rule:** `lipids.tg.500`
 - **Why:** Treats fasting triglycerides of 500 mg/dL or higher as a marked elevation that needs evaluation. — [Blumenthal RS, Morris PB, Gaudino M, et al. 2026 ACC/AHA/AACVPR/ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/PCNA Guideline on the Management of Dyslipidemia. Circulation. 2026. doi:10.1161/CIR.0000000000001423](https://doi.org/10.1161/CIR.0000000000001423)
 
 ### My triglycerides were [your result]. Was this a fasting sample, and should it be repeated fasting to confirm?
 
-- **Asked when:** Triglycerides are 150–499 mg/dL.
+- **Asked when:** Triglycerides are 150–499 mg/dL (1.7–5.6 mmol/L).
 - **Rule:** `lipids.tg.fasting`
 - **Why:** Lists persistently elevated fasting triglycerides of 150 mg/dL or higher as a risk-enhancing factor; non-fasting results are interpreted differently. — [Blumenthal RS, Morris PB, Gaudino M, et al. 2026 ACC/AHA/AACVPR/ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/PCNA Guideline on the Management of Dyslipidemia. Circulation. 2026. doi:10.1161/CIR.0000000000001423](https://doi.org/10.1161/CIR.0000000000001423)
 
@@ -76,26 +76,26 @@ _Not medical advice. Discuss any result with your clinician._
 
 ### My A1c was [your result], in the range the ADA uses for diabetes. Should it be confirmed with a repeat test?
 
-- **Asked when:** A1c is 6.5% or higher.
+- **Asked when:** A1c is 6.5% (48 mmol/mol) or higher.
 - **Rule:** `glucose.a1c.diabetes`
 - **Why:** Treats an A1C of 6.5% or higher as meeting a diabetes criterion; without clear symptoms it usually needs confirming with a second test. — [American Diabetes Association Professional Practice Committee. 2. Diagnosis and Classification of Diabetes: Standards of Care in Diabetes—2026. Diabetes Care. 2026;49(Suppl 1):S27. doi:10.2337/dc26-S002](https://doi.org/10.2337/dc26-s002)
 
 ### My A1c was [your result], in the range the ADA calls prediabetes. Should we recheck it, and how often should I be tested?
 
-- **Asked when:** A1c is 5.7–6.4%.
+- **Asked when:** A1c is 5.7–6.4% (39–47 mmol/mol).
 - **Rule:** `glucose.a1c.prediabetes`
 - **Why:** Treats an A1C of 5.7–6.4% as the prediabetes range; one result is not a diagnosis. — [American Diabetes Association Professional Practice Committee. 2. Diagnosis and Classification of Diabetes: Standards of Care in Diabetes—2026. Diabetes Care. 2026;49(Suppl 1):S27. doi:10.2337/dc26-S002](https://doi.org/10.2337/dc26-s002)
 - **Why:** Recommends screening adults 35 to 70 with overweight or obesity, and suggests every 3 years may be reasonable when results are normal. — [US Preventive Services Task Force. Screening for Prediabetes and Type 2 Diabetes: US Preventive Services Task Force Recommendation Statement. JAMA. 2021. doi:10.1001/jama.2021.12531](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/screening-for-prediabetes-and-type-2-diabetes)
 
 ### My fasting glucose was [your result], in the range the ADA uses for diabetes. Should it be confirmed with a repeat test?
 
-- **Asked when:** Glucose is 126 mg/dL or higher and the sample is documented as fasting.
+- **Asked when:** Glucose is 126 mg/dL (7.0 mmol/L) or higher and the sample is documented as fasting.
 - **Rule:** `glucose.fasting.diabetes`
 - **Why:** Uses fasting plasma glucose of 126 mg/dL or higher, after at least 8 hours without calories, as a diabetes criterion that usually needs confirming. — [American Diabetes Association Professional Practice Committee. 2. Diagnosis and Classification of Diabetes: Standards of Care in Diabetes—2026. Diabetes Care. 2026;49(Suppl 1):S27. doi:10.2337/dc26-S002](https://doi.org/10.2337/dc26-s002)
 
 ### My fasting glucose was [your result], in the range the ADA calls prediabetes. Should we recheck it?
 
-- **Asked when:** Glucose is 100–125 mg/dL and the sample is documented as fasting.
+- **Asked when:** Glucose is 100–125 mg/dL (5.6–6.9 mmol/L) and the sample is documented as fasting.
 - **Rule:** `glucose.fasting.prediabetes`
 - **Why:** Uses fasting plasma glucose of 100–125 mg/dL, after at least 8 hours without calories, as the prediabetes range. — [American Diabetes Association Professional Practice Committee. 2. Diagnosis and Classification of Diabetes: Standards of Care in Diabetes—2026. Diabetes Care. 2026;49(Suppl 1):S27. doi:10.2337/dc26-S002](https://doi.org/10.2337/dc26-s002)
 
@@ -117,7 +117,7 @@ _Not medical advice. Discuss any result with your clinician._
 - **Asked when:** A1c is flagged (asked once).
 - **Rule:** `glucose.panel.a1c_accuracy`
 - **Why:** Notes that A1C may be unreliable with some hemoglobin variants, altered red-cell turnover (for example anemia or blood loss) or certain therapies. — [American Diabetes Association Professional Practice Committee. 2. Diagnosis and Classification of Diabetes: Standards of Care in Diabetes—2026. Diabetes Care. 2026;49(Suppl 1):S27. doi:10.2337/dc26-S002](https://doi.org/10.2337/dc26-s002)
-- **Why:** Iron deficiency anemia falsely raises HbA1c, and iron deficiency without anemia may also raise it, likely because red blood cells live longer when iron is low. — [Interference of iron deficiency in glycated hemoglobin testing and its clinical implications: a systematic review and meta-analysis. Biochem Med (Zagreb). 2026. doi:10.11613/BM.2026.030503](https://doi.org/10.11613/BM.2026.030503)
+- **Why:** Iron deficiency anemia falsely raises HbA1c, and iron deficiency without anemia may also raise it, likely because red blood cells live longer when iron is low. (Abstract, Conclusions; full text, Discussion) — [Interference of iron deficiency in glycated hemoglobin testing and its clinical implications: a systematic review and meta-analysis. Biochem Med (Zagreb). 2026. doi:10.11613/BM.2026.030503](https://doi.org/10.11613/BM.2026.030503)
 
 ## Kidney
 
@@ -198,7 +198,7 @@ _Not medical advice. Discuss any result with your clinician._
 
 - **Asked when:** Potassium is high.
 - **Rule:** `lytes.potassium.high`
-- **Why:** Reviews how potassium results can be falsely raised before analysis: high platelet, white-cell or red-cell counts, the sample type, the blood-collection procedure (including patient preparation and contamination), and tube transport and storage; hemolysis is one of the most frequent causes. — [Erroneous potassium results: preanalytical causes, detection, and corrective actions. Crit Rev Clin Lab Sci. 2023. doi:10.1080/10408363.2023.2195936](https://doi.org/10.1080/10408363.2023.2195936)
+- **Why:** Reviews how potassium results can be falsely raised before analysis: high platelet, white-cell or red-cell counts, the sample type, the blood-collection procedure (including patient preparation and contamination), and tube transport and storage; hemolysis is one of the most frequent causes. (Abstract) — [Erroneous potassium results: preanalytical causes, detection, and corrective actions. Crit Rev Clin Lab Sci. 2023. doi:10.1080/10408363.2023.2195936](https://doi.org/10.1080/10408363.2023.2195936)
 - **Why:** Explains that blood-draw factors such as hemolysis, fist clenching, a prolonged tourniquet, delayed processing or very high platelet or white cell counts can falsely raise potassium. — [Acute Care Testing (Radiometer). Pseudohyperkalemia (review, citing Don BR et al., N Engl J Med 1990;322:1290-1292).](https://acutecaretesting.org/en/articles/pseudohyperkalemia)
 
 ### My sodium was [your result]. Could drinking more fluid than I lost around long training sessions have lowered it, and should it be rechecked?
@@ -213,8 +213,8 @@ _Not medical advice. Discuss any result with your clinician._
 
 - **Asked when:** TSH is high.
 - **Rule:** `thyroid.tsh.high`
-- **Why:** Advises not testing thyroid function during an acute illness (1.2.6), measuring FT4 when TSH is above the reference range (1.2.8), asking about biotin supplements because they can make results falsely high or low (1.2.11), considering a one-time TPO antibody test (1.5.1), and basing decisions on TSH on 2 occasions 3 months apart (1.5.3–1.5.4). — [National Institute for Health and Care Excellence. Thyroid disease: assessment and management. NICE guideline NG145 (2019, updated 2023). Recommendations 1.2.6, 1.2.8, 1.2.11, 1.5.1, 1.5.3–1.5.4.](https://www.nice.org.uk/guidance/ng145/chapter/Recommendations)
-- **Why:** Across 14 studies, TSH measured after eating was lower than fasting TSH (by about 0.8 mIU/L on average, low-certainty evidence), while free T4 did not differ; the authors suggest standardising and recording fasting status when interpreting borderline results. — [Effect of fasting and postprandial states on thyroid function test parameters and diagnostic interpretation: a systematic review and meta-analysis. Endocrine. 2026;91(1):351. doi:10.1007/s12020-026-04834-x](https://doi.org/10.1007/s12020-026-04834-x)
+- **Why:** Advises not testing thyroid function during an acute illness (1.2.6), measuring FT4 when TSH is above the reference range (1.2.8), asking about biotin supplements because they can make results falsely high or low (1.2.11), considering a one-time TPO antibody test (1.5.1), and basing decisions on TSH on 2 occasions 3 months apart (1.5.3–1.5.4). (Recommendations 1.2.6, 1.2.8, 1.2.11, 1.5.1, 1.5.3–1.5.4) — [National Institute for Health and Care Excellence. Thyroid disease: assessment and management. NICE guideline NG145 (2019, updated 2023). Recommendations 1.2.6, 1.2.8, 1.2.11, 1.5.1, 1.5.3–1.5.4.](https://www.nice.org.uk/guidance/ng145/chapter/Recommendations)
+- **Why:** Across 14 studies, TSH measured after eating was lower than fasting TSH (by about 0.8 mIU/L on average, low-certainty evidence), while free T4 did not differ; the authors suggest standardising and recording fasting status when interpreting borderline results. (Abstract, Conclusion) — [Effect of fasting and postprandial states on thyroid function test parameters and diagnostic interpretation: a systematic review and meta-analysis. Endocrine. 2026;91(1):351. doi:10.1007/s12020-026-04834-x](https://doi.org/10.1007/s12020-026-04834-x)
 
 ## Vitamin D
 
@@ -285,7 +285,7 @@ Shown at the top of an appointment's questions. POM compares the last 2 weeks of
 - **Flagged when:** A big recent jump in training: the last 7 days are more than 1.5 times the average of the 21 days before (acute:chronic ratio; this threshold is disputed)
 - **Rule:** `summary.training_load`
 - **Why:** Reported that injury risk rose sharply when the acute:chronic workload ratio went above about 1.5. — [Gabbett TJ. The training-injury prevention paradox: should athletes be training smarter and harder? Br J Sports Med. 2016;50(5):273-280. doi:10.1136/bjsports-2015-095788](https://doi.org/10.1136/bjsports-2015-095788)
-- **Why:** Argues that training-load studies have conceptual and methodologic pitfalls that make them unsuitable for deciding how to use acute load, chronic load or their ratio to reduce injury risk, so ratio thresholds such as 1.5 are disputed. — [Training load and its role in injury prevention, part 2: conceptual and methodologic pitfalls. J Athl Train. 2020. doi:10.4085/1062-6050-501-19](https://doi.org/10.4085/1062-6050-501-19)
+- **Why:** Argues that training-load studies have conceptual and methodologic pitfalls that make them unsuitable for deciding how to use acute load, chronic load or their ratio to reduce injury risk, so ratio thresholds such as 1.5 are disputed. (Abstract) — [Training load and its role in injury prevention, part 2: conceptual and methodologic pitfalls. J Athl Train. 2020. doi:10.4085/1062-6050-501-19](https://doi.org/10.4085/1062-6050-501-19)
 
 ### Short sleep
 

@@ -1,5 +1,5 @@
 {
-  "version": "2026.11.05.3",
+  "version": "2026.11.05.5",
   "sourceMaxAgeDays": 365,
   "sources": [
     {
@@ -272,12 +272,13 @@
       "id": "lipids.ldl.190",
       "scope": "MARKER",
       "group": "Cholesterol",
-      "when": "LDL-C is 190 mg/dL or higher.",
+      "when": "LDL-C is 190 mg/dL (4.9 mmol/L) or higher.",
       "question": "My LDL-C was [your result], at or above 190 mg/dL. Should we check for secondary causes or familial hypercholesterolemia, and does this need a specialist?",
       "sources": [
         {
           "id": "acc_aha_2026",
-          "claim": "Treats LDL-C of 190 mg/dL or higher as severe hypercholesterolemia, with evaluation for secondary causes and familial hypercholesterolemia."
+          "claim": "Treats LDL-C of 190 mg/dL or higher as severe hypercholesterolemia, with evaluation for secondary causes and familial hypercholesterolemia.",
+          "locator": null
         }
       ]
     },
@@ -285,12 +286,13 @@
       "id": "lipids.ldl.160.persistent",
       "scope": "MARKER",
       "group": "Cholesterol",
-      "when": "LDL-C is 160–189 mg/dL.",
+      "when": "LDL-C is 160–189 mg/dL (4.1–4.9 mmol/L).",
       "question": "My LDL-C was [your result]. Is it persistently 160 mg/dL or higher, and should we recheck it to confirm?",
       "sources": [
         {
           "id": "acc_aha_2026",
-          "claim": "Lists persistently elevated LDL-C of 160 mg/dL or higher as a risk-enhancing factor; one result does not show persistence."
+          "claim": "Lists persistently elevated LDL-C of 160 mg/dL or higher as a risk-enhancing factor; one result does not show persistence.",
+          "locator": null
         }
       ]
     },
@@ -303,7 +305,8 @@
       "sources": [
         {
           "id": "acc_aha_2026",
-          "claim": "Sets treatment goals for both LDL-C and non-HDL-C, with lower goals for higher-risk groups."
+          "claim": "Sets treatment goals for both LDL-C and non-HDL-C, with lower goals for higher-risk groups.",
+          "locator": null
         }
       ]
     },
@@ -311,12 +314,13 @@
       "id": "lipids.tg.500",
       "scope": "MARKER",
       "group": "Cholesterol",
-      "when": "Triglycerides are 500 mg/dL or higher.",
+      "when": "Triglycerides are 500 mg/dL (5.6 mmol/L) or higher.",
       "question": "My triglycerides were [your result], at or above 500 mg/dL. Does this need prompt follow-up, and was it a fasting sample?",
       "sources": [
         {
           "id": "acc_aha_2026",
-          "claim": "Treats fasting triglycerides of 500 mg/dL or higher as a marked elevation that needs evaluation."
+          "claim": "Treats fasting triglycerides of 500 mg/dL or higher as a marked elevation that needs evaluation.",
+          "locator": null
         }
       ]
     },
@@ -324,12 +328,13 @@
       "id": "lipids.tg.fasting",
       "scope": "MARKER",
       "group": "Cholesterol",
-      "when": "Triglycerides are 150–499 mg/dL.",
+      "when": "Triglycerides are 150–499 mg/dL (1.7–5.6 mmol/L).",
       "question": "My triglycerides were [your result]. Was this a fasting sample, and should it be repeated fasting to confirm?",
       "sources": [
         {
           "id": "acc_aha_2026",
-          "claim": "Lists persistently elevated fasting triglycerides of 150 mg/dL or higher as a risk-enhancing factor; non-fasting results are interpreted differently."
+          "claim": "Lists persistently elevated fasting triglycerides of 150 mg/dL or higher as a risk-enhancing factor; non-fasting results are interpreted differently.",
+          "locator": null
         }
       ]
     },
@@ -342,11 +347,13 @@
       "sources": [
         {
           "id": "acc_aha_2026",
-          "claim": "Uses estimated 10-year risk (PREVENT) to place adults in risk groups such as borderline or intermediate, which guide next steps."
+          "claim": "Uses estimated 10-year risk (PREVENT) to place adults in risk groups such as borderline or intermediate, which guide next steps.",
+          "locator": null
         },
         {
           "id": "prevent_2024",
-          "claim": "PREVENT estimates 10-year cardiovascular risk from factors including cholesterol, HDL cholesterol, blood pressure, diabetes, smoking and kidney function."
+          "claim": "PREVENT estimates 10-year cardiovascular risk from factors including cholesterol, HDL cholesterol, blood pressure, diabetes, smoking and kidney function.",
+          "locator": null
         }
       ]
     },
@@ -359,11 +366,13 @@
       "sources": [
         {
           "id": "acc_aha_2026",
-          "claim": "Recommends measuring Lp(a) at least once in adulthood (Class 1)."
+          "claim": "Recommends measuring Lp(a) at least once in adulthood (Class 1).",
+          "locator": null
         },
         {
           "id": "eas_lpa_2022",
-          "claim": "Recommends that every adult has Lp(a) measured at least once."
+          "claim": "Recommends that every adult has Lp(a) measured at least once.",
+          "locator": null
         }
       ]
     },
@@ -376,11 +385,13 @@
       "sources": [
         {
           "id": "acc_aha_2026",
-          "claim": "Supports selective ApoB measurement to assess residual risk, for example with high triglycerides, metabolic syndrome or diabetes."
+          "claim": "Supports selective ApoB measurement to assess residual risk, for example with high triglycerides, metabolic syndrome or diabetes.",
+          "locator": null
         },
         {
           "id": "sniderman_apob_2019",
-          "claim": "Reviews evidence that ApoB, a count of atherogenic particles, can capture risk that LDL-C alone misses."
+          "claim": "Reviews evidence that ApoB, a count of atherogenic particles, can capture risk that LDL-C alone misses.",
+          "locator": null
         }
       ]
     },
@@ -393,11 +404,13 @@
       "sources": [
         {
           "id": "acc_aha_2026",
-          "claim": "Supports considering CAC scoring to reclassify risk in adults at borderline or intermediate risk when the decision is uncertain."
+          "claim": "Supports considering CAC scoring to reclassify risk in adults at borderline or intermediate risk when the decision is uncertain.",
+          "locator": null
         },
         {
           "id": "mesa_cac_2018",
-          "claim": "In MESA, CAC was strongly and gradedly associated with 10-year ASCVD events, independent of standard risk factors."
+          "claim": "In MESA, CAC was strongly and gradedly associated with 10-year ASCVD events, independent of standard risk factors.",
+          "locator": null
         }
       ]
     },
@@ -405,12 +418,13 @@
       "id": "glucose.a1c.diabetes",
       "scope": "MARKER",
       "group": "Blood sugar",
-      "when": "A1c is 6.5% or higher.",
+      "when": "A1c is 6.5% (48 mmol/mol) or higher.",
       "question": "My A1c was [your result], in the range the ADA uses for diabetes. Should it be confirmed with a repeat test?",
       "sources": [
         {
           "id": "ada_2026",
-          "claim": "Treats an A1C of 6.5% or higher as meeting a diabetes criterion; without clear symptoms it usually needs confirming with a second test."
+          "claim": "Treats an A1C of 6.5% or higher as meeting a diabetes criterion; without clear symptoms it usually needs confirming with a second test.",
+          "locator": null
         }
       ]
     },
@@ -418,16 +432,18 @@
       "id": "glucose.a1c.prediabetes",
       "scope": "MARKER",
       "group": "Blood sugar",
-      "when": "A1c is 5.7–6.4%.",
+      "when": "A1c is 5.7–6.4% (39–47 mmol/mol).",
       "question": "My A1c was [your result], in the range the ADA calls prediabetes. Should we recheck it, and how often should I be tested?",
       "sources": [
         {
           "id": "ada_2026",
-          "claim": "Treats an A1C of 5.7–6.4% as the prediabetes range; one result is not a diagnosis."
+          "claim": "Treats an A1C of 5.7–6.4% as the prediabetes range; one result is not a diagnosis.",
+          "locator": null
         },
         {
           "id": "uspstf_diabetes_2021",
-          "claim": "Recommends screening adults 35 to 70 with overweight or obesity, and suggests every 3 years may be reasonable when results are normal."
+          "claim": "Recommends screening adults 35 to 70 with overweight or obesity, and suggests every 3 years may be reasonable when results are normal.",
+          "locator": null
         }
       ]
     },
@@ -435,12 +451,13 @@
       "id": "glucose.fasting.diabetes",
       "scope": "MARKER",
       "group": "Blood sugar",
-      "when": "Glucose is 126 mg/dL or higher and the sample is documented as fasting.",
+      "when": "Glucose is 126 mg/dL (7.0 mmol/L) or higher and the sample is documented as fasting.",
       "question": "My fasting glucose was [your result], in the range the ADA uses for diabetes. Should it be confirmed with a repeat test?",
       "sources": [
         {
           "id": "ada_2026",
-          "claim": "Uses fasting plasma glucose of 126 mg/dL or higher, after at least 8 hours without calories, as a diabetes criterion that usually needs confirming."
+          "claim": "Uses fasting plasma glucose of 126 mg/dL or higher, after at least 8 hours without calories, as a diabetes criterion that usually needs confirming.",
+          "locator": null
         }
       ]
     },
@@ -448,12 +465,13 @@
       "id": "glucose.fasting.prediabetes",
       "scope": "MARKER",
       "group": "Blood sugar",
-      "when": "Glucose is 100–125 mg/dL and the sample is documented as fasting.",
+      "when": "Glucose is 100–125 mg/dL (5.6–6.9 mmol/L) and the sample is documented as fasting.",
       "question": "My fasting glucose was [your result], in the range the ADA calls prediabetes. Should we recheck it?",
       "sources": [
         {
           "id": "ada_2026",
-          "claim": "Uses fasting plasma glucose of 100–125 mg/dL, after at least 8 hours without calories, as the prediabetes range."
+          "claim": "Uses fasting plasma glucose of 100–125 mg/dL, after at least 8 hours without calories, as the prediabetes range.",
+          "locator": null
         }
       ]
     },
@@ -466,7 +484,8 @@
       "sources": [
         {
           "id": "ada_2026",
-          "claim": "Applies its fasting glucose thresholds only after at least 8 hours without calories; other glucose tests are interpreted differently."
+          "claim": "Applies its fasting glucose thresholds only after at least 8 hours without calories; other glucose tests are interpreted differently.",
+          "locator": null
         }
       ]
     },
@@ -479,11 +498,13 @@
       "sources": [
         {
           "id": "uspstf_diabetes_2021",
-          "claim": "Says people with prediabetes should be offered or referred to effective preventive interventions, such as lifestyle programs focused on diet and physical activity."
+          "claim": "Says people with prediabetes should be offered or referred to effective preventive interventions, such as lifestyle programs focused on diet and physical activity.",
+          "locator": null
         },
         {
           "id": "dpp_2002",
-          "claim": "In adults at high risk, a structured lifestyle program reduced new cases of type 2 diabetes by 58% compared with placebo."
+          "claim": "In adults at high risk, a structured lifestyle program reduced new cases of type 2 diabetes by 58% compared with placebo.",
+          "locator": null
         }
       ]
     },
@@ -496,11 +517,13 @@
       "sources": [
         {
           "id": "ada_2026",
-          "claim": "Notes that A1C may be unreliable with some hemoglobin variants, altered red-cell turnover (for example anemia or blood loss) or certain therapies."
+          "claim": "Notes that A1C may be unreliable with some hemoglobin variants, altered red-cell turnover (for example anemia or blood loss) or certain therapies.",
+          "locator": null
         },
         {
           "id": "ida_a1c_2026",
-          "claim": "Iron deficiency anemia falsely raises HbA1c, and iron deficiency without anemia may also raise it, likely because red blood cells live longer when iron is low."
+          "claim": "Iron deficiency anemia falsely raises HbA1c, and iron deficiency without anemia may also raise it, likely because red blood cells live longer when iron is low.",
+          "locator": "Abstract, Conclusions; full text, Discussion"
         }
       ]
     },
@@ -513,7 +536,8 @@
       "sources": [
         {
           "id": "kdigo_ckd_2024",
-          "claim": "Advises repeating tests after an unexpected abnormal result and not assuming kidney disease from a single eGFR or albumin value; chronic kidney disease needs at least 3 months, and an eGFR below 60 is flagged as low."
+          "claim": "Advises repeating tests after an unexpected abnormal result and not assuming kidney disease from a single eGFR or albumin value; chronic kidney disease needs at least 3 months, and an eGFR below 60 is flagged as low.",
+          "locator": null
         }
       ]
     },
@@ -526,7 +550,8 @@
       "sources": [
         {
           "id": "kdigo_ckd_2024",
-          "claim": "Recommends testing both urine albumin and estimated GFR in people at risk for, or with, chronic kidney disease."
+          "claim": "Recommends testing both urine albumin and estimated GFR in people at risk for, or with, chronic kidney disease.",
+          "locator": null
         }
       ]
     },
@@ -539,7 +564,8 @@
       "sources": [
         {
           "id": "kdigo_ckd_2024",
-          "claim": "Notes creatinine is affected by muscle mass, exercise and diet, and recommends adding cystatin C (eGFRcr-cys) when the creatinine estimate is less accurate and the result matters for decisions."
+          "claim": "Notes creatinine is affected by muscle mass, exercise and diet, and recommends adding cystatin C (eGFRcr-cys) when the creatinine estimate is less accurate and the result matters for decisions.",
+          "locator": null
         }
       ]
     },
@@ -552,7 +578,8 @@
       "sources": [
         {
           "id": "kwo_acg_liver",
-          "claim": "Recommends repeating the liver panel or doing a clarifying test to confirm an abnormal result before further evaluation."
+          "claim": "Recommends repeating the liver panel or doing a clarifying test to confirm an abnormal result before further evaluation.",
+          "locator": null
         }
       ]
     },
@@ -565,11 +592,13 @@
       "sources": [
         {
           "id": "pettersson_exercise_2008",
-          "claim": "After one hour of weightlifting, AST and ALT rose significantly in healthy men and stayed raised for at least 7 days."
+          "claim": "After one hour of weightlifting, AST and ALT rose significantly in healthy men and stayed raised for at least 7 days.",
+          "locator": null
         },
         {
           "id": "kwo_acg_liver",
-          "claim": "Lists strenuous exercise and muscle injury as non-liver causes of raised AST/ALT, with creatine kinase as the first check for a muscle source."
+          "claim": "Lists strenuous exercise and muscle injury as non-liver causes of raised AST/ALT, with creatine kinase as the first check for a muscle source.",
+          "locator": null
         }
       ]
     },
@@ -582,7 +611,8 @@
       "sources": [
         {
           "id": "aasld_masld_2023",
-          "claim": "Recommends a first risk assessment with the FIB-4 score for people with suspected fatty liver or metabolic risk factors; FIB-4 below 1.3 indicates low risk."
+          "claim": "Recommends a first risk assessment with the FIB-4 score for people with suspected fatty liver or metabolic risk factors; FIB-4 below 1.3 indicates low risk.",
+          "locator": null
         }
       ]
     },
@@ -595,7 +625,8 @@
       "sources": [
         {
           "id": "kwo_acg_liver",
-          "claim": "Recommends confirming a raised alkaline phosphatase with GGT (or ALP fractionation) to show whether it comes from the liver."
+          "claim": "Recommends confirming a raised alkaline phosphatase with GGT (or ALP fractionation) to show whether it comes from the liver.",
+          "locator": null
         }
       ]
     },
@@ -608,7 +639,8 @@
       "sources": [
         {
           "id": "kwo_acg_liver",
-          "claim": "Recommends fractionating raised total bilirubin, and says mild unconjugated bilirubin with normal liver enzymes in a healthy person usually suggests Gilbert syndrome."
+          "claim": "Recommends fractionating raised total bilirubin, and says mild unconjugated bilirubin with normal liver enzymes in a healthy person usually suggests Gilbert syndrome.",
+          "locator": null
         }
       ]
     },
@@ -621,7 +653,8 @@
       "sources": [
         {
           "id": "mairbaurl_rbc_2013",
-          "claim": "Endurance-trained athletes often have a slightly lower hematocrit (\"sports anemia\") because training expands plasma volume, while their total red-cell mass is higher."
+          "claim": "Endurance-trained athletes often have a slightly lower hematocrit (\"sports anemia\") because training expands plasma volume, while their total red-cell mass is higher.",
+          "locator": null
         }
       ]
     },
@@ -634,7 +667,8 @@
       "sources": [
         {
           "id": "aga_ida_2020",
-          "claim": "Recommends defining iron deficiency by a ferritin below 45 ng/mL (rather than 15 ng/mL) in people with anemia."
+          "claim": "Recommends defining iron deficiency by a ferritin below 45 ng/mL (rather than 15 ng/mL) in people with anemia.",
+          "locator": null
         }
       ]
     },
@@ -647,7 +681,8 @@
       "sources": [
         {
           "id": "aga_ida_2020",
-          "claim": "Recommends defining iron deficiency by a ferritin below 45 ng/mL (rather than 15 ng/mL) in people with anemia."
+          "claim": "Recommends defining iron deficiency by a ferritin below 45 ng/mL (rather than 15 ng/mL) in people with anemia.",
+          "locator": null
         }
       ]
     },
@@ -660,11 +695,13 @@
       "sources": [
         {
           "id": "potassium_preanalytical_2023",
-          "claim": "Reviews how potassium results can be falsely raised before analysis: high platelet, white-cell or red-cell counts, the sample type, the blood-collection procedure (including patient preparation and contamination), and tube transport and storage; hemolysis is one of the most frequent causes."
+          "claim": "Reviews how potassium results can be falsely raised before analysis: high platelet, white-cell or red-cell counts, the sample type, the blood-collection procedure (including patient preparation and contamination), and tube transport and storage; hemolysis is one of the most frequent causes.",
+          "locator": "Abstract"
         },
         {
           "id": "pseudohyperkalemia_review",
-          "claim": "Explains that blood-draw factors such as hemolysis, fist clenching, a prolonged tourniquet, delayed processing or very high platelet or white cell counts can falsely raise potassium."
+          "claim": "Explains that blood-draw factors such as hemolysis, fist clenching, a prolonged tourniquet, delayed processing or very high platelet or white cell counts can falsely raise potassium.",
+          "locator": null
         }
       ]
     },
@@ -677,7 +714,8 @@
       "sources": [
         {
           "id": "eah_consensus_2015",
-          "claim": "Defines exercise-associated hyponatremia as low sodium during or up to 24 hours after activity, mainly from drinking more fluid than is lost."
+          "claim": "Defines exercise-associated hyponatremia as low sodium during or up to 24 hours after activity, mainly from drinking more fluid than is lost.",
+          "locator": null
         }
       ]
     },
@@ -690,11 +728,13 @@
       "sources": [
         {
           "id": "nice_ng145",
-          "claim": "Advises not testing thyroid function during an acute illness (1.2.6), measuring FT4 when TSH is above the reference range (1.2.8), asking about biotin supplements because they can make results falsely high or low (1.2.11), considering a one-time TPO antibody test (1.5.1), and basing decisions on TSH on 2 occasions 3 months apart (1.5.3–1.5.4)."
+          "claim": "Advises not testing thyroid function during an acute illness (1.2.6), measuring FT4 when TSH is above the reference range (1.2.8), asking about biotin supplements because they can make results falsely high or low (1.2.11), considering a one-time TPO antibody test (1.5.1), and basing decisions on TSH on 2 occasions 3 months apart (1.5.3–1.5.4).",
+          "locator": "Recommendations 1.2.6, 1.2.8, 1.2.11, 1.5.1, 1.5.3–1.5.4"
         },
         {
           "id": "tft_fasting_2026",
-          "claim": "Across 14 studies, TSH measured after eating was lower than fasting TSH (by about 0.8 mIU/L on average, low-certainty evidence), while free T4 did not differ; the authors suggest standardising and recording fasting status when interpreting borderline results."
+          "claim": "Across 14 studies, TSH measured after eating was lower than fasting TSH (by about 0.8 mIU/L on average, low-certainty evidence), while free T4 did not differ; the authors suggest standardising and recording fasting status when interpreting borderline results.",
+          "locator": "Abstract, Conclusion"
         }
       ]
     },
@@ -707,7 +747,8 @@
       "sources": [
         {
           "id": "endo_vitd_2024",
-          "claim": "Suggests against routine vitamin D (25(OH)D) testing in healthy adults, and notes that levels giving specific health benefits have not been established in trials."
+          "claim": "Suggests against routine vitamin D (25(OH)D) testing in healthy adults, and notes that levels giving specific health benefits have not been established in trials.",
+          "locator": null
         }
       ]
     },
@@ -720,7 +761,8 @@
       "sources": [
         {
           "id": "medlineplus_results",
-          "claim": "Lists foods and drinks, medicines or supplements, and hard exercise before a test among the things that can affect results."
+          "claim": "Lists foods and drinks, medicines or supplements, and hard exercise before a test among the things that can affect results.",
+          "locator": null
         }
       ]
     },
@@ -733,11 +775,13 @@
       "sources": [
         {
           "id": "medlineplus_results",
-          "claim": "Says a result that may be inaccurate or is uncertain is often tested again."
+          "claim": "Says a result that may be inaccurate or is uncertain is often tested again.",
+          "locator": null
         },
         {
           "id": "ozarda_ri_2016",
-          "claim": "Reference intervals cover the central 95% of healthy people, so about 5% of healthy results fall outside them and are flagged."
+          "claim": "Reference intervals cover the central 95% of healthy people, so about 5% of healthy results fall outside them and are flagged.",
+          "locator": null
         }
       ]
     },
@@ -750,7 +794,8 @@
       "sources": [
         {
           "id": "medlineplus_results",
-          "claim": "Advises using the same lab when looking at trends, because results from different labs can't be directly compared."
+          "claim": "Advises using the same lab when looking at trends, because results from different labs can't be directly compared.",
+          "locator": null
         }
       ]
     }
@@ -852,11 +897,13 @@
       "sources": [
         {
           "id": "gabbett_acwr_2016",
-          "claim": "Reported that injury risk rose sharply when the acute:chronic workload ratio went above about 1.5."
+          "claim": "Reported that injury risk rose sharply when the acute:chronic workload ratio went above about 1.5.",
+          "locator": null
         },
         {
           "id": "load_pitfalls_2020",
-          "claim": "Argues that training-load studies have conceptual and methodologic pitfalls that make them unsuitable for deciding how to use acute load, chronic load or their ratio to reduce injury risk, so ratio thresholds such as 1.5 are disputed."
+          "claim": "Argues that training-load studies have conceptual and methodologic pitfalls that make them unsuitable for deciding how to use acute load, chronic load or their ratio to reduce injury risk, so ratio thresholds such as 1.5 are disputed.",
+          "locator": "Abstract"
         }
       ]
     },
@@ -868,7 +915,8 @@
       "sources": [
         {
           "id": "aasm_srs_sleep_2015",
-          "claim": "Adults should sleep 7 or more hours a night on a regular basis for optimal health."
+          "claim": "Adults should sleep 7 or more hours a night on a regular basis for optimal health.",
+          "locator": null
         }
       ]
     },
@@ -880,7 +928,8 @@
       "sources": [
         {
           "id": "who_activity_2020",
-          "claim": "Adults should do at least 150–300 minutes of moderate, or 75–150 minutes of vigorous, aerobic activity a week."
+          "claim": "Adults should do at least 150–300 minutes of moderate, or 75–150 minutes of vigorous, aerobic activity a week.",
+          "locator": null
         }
       ]
     },
@@ -892,7 +941,8 @@
       "sources": [
         {
           "id": "aha_acc_bp_2025",
-          "claim": "Defines high blood pressure as 130/80 mmHg or higher, based on the average of 2 or more readings on 2 or more occasions."
+          "claim": "Defines high blood pressure as 130/80 mmHg or higher, based on the average of 2 or more readings on 2 or more occasions.",
+          "locator": null
         }
       ]
     },
@@ -904,7 +954,8 @@
       "sources": [
         {
           "id": "perez_apple_heart_2019",
-          "claim": "In the Apple Heart Study, 34% of people notified of an irregular pulse who returned an ECG patch had atrial fibrillation."
+          "claim": "In the Apple Heart Study, 34% of people notified of an irregular pulse who returned an ECG patch had atrial fibrillation.",
+          "locator": null
         }
       ]
     },
@@ -916,7 +967,8 @@
       "sources": [
         {
           "id": "plews_hrv_2013",
-          "claim": "In endurance athletes, sustained changes in HRV against their own baseline tracked fatigue and how well they adapted to training."
+          "claim": "In endurance athletes, sustained changes in HRV against their own baseline tracked fatigue and how well they adapted to training.",
+          "locator": null
         }
       ]
     },
@@ -928,7 +980,8 @@
       "sources": [
         {
           "id": "radin_wearables_2020",
-          "claim": "Resting heart rate above a person's usual level, measured by wearables, tracked influenza-like illness."
+          "claim": "Resting heart rate above a person's usual level, measured by wearables, tracked influenza-like illness.",
+          "locator": null
         }
       ]
     },
@@ -940,7 +993,8 @@
       "sources": [
         {
           "id": "miller_resp_rate_2020",
-          "claim": "Night-time respiratory rate rose above personal baseline in people with COVID-19, often before symptoms began."
+          "claim": "Night-time respiratory rate rose above personal baseline in people with COVID-19, often before symptoms began.",
+          "locator": null
         }
       ]
     },
@@ -952,7 +1006,8 @@
       "sources": [
         {
           "id": "mason_tempredict_2022",
-          "claim": "Rises in wearable-measured temperature above personal baseline helped detect the onset of COVID-19."
+          "claim": "Rises in wearable-measured temperature above personal baseline helped detect the onset of COVID-19.",
+          "locator": null
         }
       ]
     }
