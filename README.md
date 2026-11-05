@@ -1,6 +1,6 @@
 # POM approved videos
 
-Revision 53, published 2026-11-02, valid until 2026-11-09. These are the only videos the app can link to. The signed file the app reads is `approved-action-feed.signed.json`.
+Revision 54, published 2026-11-05, valid until 2026-11-12. These are the only videos the app can link to. The signed file the app reads is `approved-action-feed.signed.json`.
 
 ## Runner flexibility (239)
 
@@ -367,7 +367,7 @@ Revision 53, published 2026-11-02, valid until 2026-11-09. These are the only vi
 | [Relaxing yin yoga, no props](https://www.youtube.com/watch?v=QO8j6H6DrMA) | Yoga with Kassandra | 19 | 2025-12-22 | 2028-12-22 |
 | [Relaxing morning stretch](https://www.youtube.com/watch?v=hJ0Ol0mYLDI) | Yoga with Kassandra | 16 | 2025-12-15 | 2028-12-15 |
 
-## Beginner strength (384)
+## Beginner strength (383)
 
 | Video | Creator | Minutes | Published | Ages out |
 |---|---|---|---|---|
@@ -574,7 +574,6 @@ Revision 53, published 2026-11-02, valid until 2026-11-09. These are the only vi
 | [20-minute 20min ALL STANDING Abs & Upper Body Dumbbell Workout | Muscle, Strength & Tone 🔥](https://www.youtube.com/watch?v=otGWQCz7bEU) | MrandMrsMuscle | 24 | 2026-03-16 | 2028-03-16 |
 | [20-minute 20 minute Full Body Dumbbell Workout (Standing Only) | Low Impact Burn + Build Muscle](https://www.youtube.com/watch?v=PrjgSaz_buM) | MrandMrsMuscle | 24 | 2026-01-26 | 2028-01-26 |
 | [20-minute 20 Minute Full Body No Equipment Workout to Lose Weight, Burn Fat and Build Muscle](https://www.youtube.com/watch?v=pRo2nn_uKZE) | MrandMrsMuscle | 23 | 2025-03-10 | 2027-03-10 |
-| [20-minute 20 minute Arms, Back, Chest & Shoulders DUMBBELL routine for Strength and Toning 💪🏽](https://www.youtube.com/watch?v=QfkdB1jsrFI) | MrandMrsMuscle | 23 | 2024-11-04 | 2026-11-04 |
 | [20-minute 20 minute Bodyweight Full Body Workout Routine you can do DAILY](https://www.youtube.com/watch?v=qnNts8oqETQ) | MrandMrsMuscle | 23 | 2025-04-28 | 2027-04-28 |
 | [20-minute 20 minute Full Body Training | Dumbbell Routine for building muscle, strength & shape 🔥](https://www.youtube.com/watch?v=RAriMq8vL6U) | MrandMrsMuscle | 23 | 2025-01-06 | 2027-01-06 |
 | [20-minute 20 minute Full Body Strength and Muscle Toning Workout using Dumbbells](https://www.youtube.com/watch?v=rcPSusRDybM) | MrandMrsMuscle | 23 | 2025-04-14 | 2027-04-14 |
@@ -1515,7 +1514,7 @@ Revision 53, published 2026-11-02, valid until 2026-11-09. These are the only vi
 | [20-Minute Kettlebell Workout | 30 sec Work/Rest | No Repeat](https://www.youtube.com/watch?v=yFhZiZvkits) | Vadim Kettlebell | 22 | 2025-08-22 | 2027-08-22 |
 | [Squat Workout For Bigger Butt and Stronger Legs!!!](https://www.youtube.com/watch?v=FOjEVQpnqH0) | Women's Workout Channel | 16 | 2025-01-29 | 2027-01-29 |
 
-## Yoga (147)
+## Yoga (146)
 
 | Video | Creator | Minutes | Published | Ages out |
 |---|---|---|---|---|
@@ -1562,7 +1561,6 @@ Revision 53, published 2026-11-02, valid until 2026-11-09. These are the only vi
 | [40-minute full-body vinyasa flow](https://www.youtube.com/watch?v=7SU59GxGqbo) | Move With Nicole | 42 | 2025-11-20 | 2027-11-20 |
 | [30-minute 30 MIN DAILY YOGA FLOW || Yoga Flow To Stretch & Feel Good](https://www.youtube.com/watch?v=2eC7TlC2NLs) | Move With Nicole | 34 | 2025-01-23 | 2027-01-23 |
 | [30-minute 30 MIN DAILY YOGA FLOW || Full Body Flow To Feel Good](https://www.youtube.com/watch?v=5TzqqPJFHeQ) | Move With Nicole | 35 | 2025-04-17 | 2027-04-17 |
-| [15-minute 15 MIN MORNING YOGA FLOW || Feel Good Yoga Flow](https://www.youtube.com/watch?v=8URMcK7_PjY) | Move With Nicole | 19 | 2024-11-03 | 2026-11-03 |
 | [15-minute 15 MIN MORNING YOGA FLOW || Wake Up & Feel Energised](https://www.youtube.com/watch?v=9KrMFsQBOJs) | Move With Nicole | 18 | 2025-08-05 | 2027-08-05 |
 | [20-Minute Yoga Sculpt at Home | Full Body, Light Weights](https://www.youtube.com/watch?v=JTM3HsnQDmo) | nourishmovelove | 25 | 2026-10-05 | 2028-10-05 |
 | [10-minute 10 min Yoga Nidra for Beginners | Easy Non-Sleep Deep Rest (NSDR)](https://www.youtube.com/watch?v=EXXnEJ87z1Q) | SarahBethYoga | 11 | 2026-10-12 | 2028-10-12 |

@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T19:50:32.315Z",
+  "generatedAt": "2026-11-05T17:41:14.242Z",
   "sourceCommit": "6e6f17e4ed094454cf1f2355cd2f873b8c225704",
   "ownerApprovalComplete": true,
   "allApprovedCount": 1737,
   "metadataMode": "LIVE_OFFICIAL_API",
-  "readyCount": 1662,
-  "exceptionCount": 75,
+  "readyCount": 1660,
+  "exceptionCount": 77,
   "byCategory": {
     "BEGINNER_STRENGTH": {
       "approved": 405,
-      "ready": 356,
-      "exceptions": 11
+      "ready": 355,
+      "exceptions": 12
     },
     "STRENGTH_TRAINING": {
       "approved": 696,
@@ -50,8 +50,8 @@
     },
     "YOGA": {
       "approved": 138,
-      "ready": 139,
-      "exceptions": 0
+      "ready": 138,
+      "exceptions": 1
     },
     "INJURY_CARE": {
       "approved": 0,
@@ -147,6 +147,32 @@
         {
           "code": "TECHNICAL_AVAILABILITY",
           "question": "Published 2024-11-01, older than 2 years (exercise); technical recheck required, no content reapproval."
+        }
+      ],
+      "equipmentEvidence": [],
+      "answerEquipment": "",
+      "answerCategory": "",
+      "answerLevel": "",
+      "answerGeneralFollowAlong": "",
+      "answerNotes": "",
+      "recipeDetailsJson": ""
+    },
+    {
+      "reviewNumber": 102,
+      "priority": "TECHNICAL_CHECK",
+      "videoId": "QfkdB1jsrFI",
+      "url": "https://www.youtube.com/watch?v=QfkdB1jsrFI",
+      "title": "20 minute Arms, Back, Chest & Shoulders DUMBBELL routine for Strength and Toning 💪🏽",
+      "category": "BEGINNER_STRENGTH",
+      "ownerApproval": "ALREADY_APPROVED",
+      "listedEquipment": "DUMBBELLS",
+      "resolvedEquipment": "DUMBBELLS",
+      "level": "INTERMEDIATE",
+      "minutes": 23,
+      "blockers": [
+        {
+          "code": "TECHNICAL_AVAILABILITY",
+          "question": "Published 2024-11-04, older than 2 years (exercise); technical recheck required, no content reapproval."
         }
       ],
       "equipmentEvidence": [],
@@ -1234,6 +1260,32 @@
         {
           "code": "SPECIAL_AUDIENCE",
           "question": "Is this intended for a specific condition or population? It needs matching audience support before automatic general recommendations."
+        }
+      ],
+      "equipmentEvidence": [],
+      "answerEquipment": "",
+      "answerCategory": "",
+      "answerLevel": "",
+      "answerGeneralFollowAlong": "",
+      "answerNotes": "",
+      "recipeDetailsJson": ""
+    },
+    {
+      "reviewNumber": 893,
+      "priority": "TECHNICAL_CHECK",
+      "videoId": "8URMcK7_PjY",
+      "url": "https://www.youtube.com/watch?v=8URMcK7_PjY",
+      "title": "15 MIN MORNING YOGA FLOW || Feel Good Yoga Flow",
+      "category": "YOGA",
+      "ownerApproval": "ALREADY_APPROVED",
+      "listedEquipment": null,
+      "resolvedEquipment": "NONE",
+      "level": "INTERMEDIATE",
+      "minutes": 19,
+      "blockers": [
+        {
+          "code": "TECHNICAL_AVAILABILITY",
+          "question": "Published 2024-11-03, older than 2 years (exercise); technical recheck required, no content reapproval."
         }
       ],
       "equipmentEvidence": [],

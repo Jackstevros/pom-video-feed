@@ -2,15 +2,15 @@
 
 **All 1737 videos are already owner-approved. No video reapproval is requested.**
 
-- Ready for automatic daily recommendations, subject to publication checks: **1662**
-- Videos with specific unresolved facts or routing conflicts: **75**
+- Ready for automatic daily recommendations, subject to publication checks: **1660**
+- Videos with specific unresolved facts or routing conflicts: **77**
 - Metadata mode: LIVE_OFFICIAL_API
 
 Download [the editable exception CSV](video-classification-exceptions.csv). Start with QUICK_FACT_FIX rows: each needs just one equipment or level answer. Fill the answer columns and a short factual note. Leave unknown facts blank. You can also reply with the review numbers and answers. TECHNICAL_CHECK rows need automated availability/identity work rather than another owner approval. Equipment choices: NONE, MAT, BODYWEIGHT, DUMBBELLS, KETTLEBELLS, BANDS. Record multiple required items in notes; current single-equipment routing cannot safely collapse them into one.
 
 | Category | Approved | Ready | Exceptions |
 |---|---:|---:|---:|
-| BEGINNER_STRENGTH | 405 | 356 | 11 |
+| BEGINNER_STRENGTH | 405 | 355 | 12 |
 | STRENGTH_TRAINING | 696 | 637 | 29 |
 | PILATES | 204 | 198 | 3 |
 | COOK_ALONG_RECIPE | 20 | 4 | 16 |
@@ -18,7 +18,7 @@ Download [the editable exception CSV](video-classification-exceptions.csv). Star
 | GUIDED_RECOVERY | 28 | 20 | 0 |
 | RUNNER_FLEXIBILITY | 226 | 214 | 15 |
 | RUNNING_WARMUP | 4 | 4 | 0 |
-| YOGA | 138 | 139 | 0 |
+| YOGA | 138 | 138 | 1 |
 | INJURY_CARE | 0 | 6 | 0 |
 | PREGNANCY_EXERCISE | 0 | 24 | 1 |
 
@@ -41,6 +41,12 @@ Download [the editable exception CSV](video-classification-exceptions.csv). Star
 [Open this exact video](https://www.youtube.com/watch?v=jxFxShShOjI) · BEGINNER_STRENGTH · Already approved
 
 - **TECHNICAL_AVAILABILITY**: Published 2024-11-01, older than 2 years (exercise); technical recheck required, no content reapproval.
+
+### 102. 20 minute Arms, Back, Chest & Shoulders DUMBBELL routine for Strength and Toning 💪🏽
+
+[Open this exact video](https://www.youtube.com/watch?v=QfkdB1jsrFI) · BEGINNER_STRENGTH · Already approved
+
+- **TECHNICAL_AVAILABILITY**: Published 2024-11-04, older than 2 years (exercise); technical recheck required, no content reapproval.
 
 ### 172. 35 MIN Lower-Body Dumbbell Workout (Glutes, Quads & Hamstrings)
 
@@ -285,6 +291,12 @@ Download [the editable exception CSV](video-classification-exceptions.csv). Star
 
 - **SPECIAL_AUDIENCE**: Is this intended for a specific condition or population? It needs matching audience support before automatic general recommendations.
 
+### 893. 15 MIN MORNING YOGA FLOW || Feel Good Yoga Flow
+
+[Open this exact video](https://www.youtube.com/watch?v=8URMcK7_PjY) · YOGA · Already approved
+
+- **TECHNICAL_AVAILABILITY**: Published 2024-11-03, older than 2 years (exercise); technical recheck required, no content reapproval.
+
 ### 1005. HIIT Cardio Workout for fat loss - 20 Min No Equip No Repeats
 
 [Open this exact video](https://www.youtube.com/watch?v=9tvLB9sf_ic) · BEGINNER_STRENGTH · Already approved
@@ -314,17 +326,5 @@ Download [the editable exception CSV](video-classification-exceptions.csv). Star
 [Open this exact video](https://www.youtube.com/watch?v=gUar9a1vk7g) · STRENGTH_TRAINING · Already approved
 
 - **EQUIPMENT_CONFLICT**: The listed equipment conflicts with the creator description, or several items are required. Record all required equipment; do not choose a single item if several are necessary.
-
-### 1269. 20 min EPIC HIIT CARDIO BLAST WORKOUT | High Impact + Low Impact (Pregnancy Friendly) Options
-
-[Open this exact video](https://www.youtube.com/watch?v=8M8Ri0SAeAo) · BEGINNER_STRENGTH · Already approved
-
-- **SPECIAL_AUDIENCE**: Is this intended for a specific condition or population? It needs matching audience support before automatic general recommendations.
-
-### 1271. Why You Actually Lose Strength as You Age
-
-[Open this exact video](https://www.youtube.com/watch?v=0njBKqBlJO4) · BEGINNER_STRENGTH · Already approved
-
-- **FOLLOW_ALONG**: Confirm whether this is a general follow-along session or an educational reference. If follow-along, set generalFollowAlong=true with a short note.
 
 The CSV and JSON contain every exception; this page previews the first 50.
