@@ -8,7 +8,7 @@ study or reference behind it, with the exact claim POM takes from each source.
 - A source not re-reviewed within 365 days is withheld in the app until it is.
 - New publications are checked monthly; changes are made only after review.
 
-Rules version **2026.11.05.1** · 34 questions · 31 sources · machine-readable: [sources.json](sources.json)
+Rules version **2026.11.05.2** · 34 questions · 33 sources · machine-readable: [sources.json](sources.json)
 
 _Not medical advice. Discuss any result with your clinician._
 
@@ -198,6 +198,7 @@ _Not medical advice. Discuss any result with your clinician._
 
 - **Asked when:** Potassium is high.
 - **Rule:** `lytes.potassium.high`
+- **Why:** Reviews how potassium results can be falsely raised before analysis: high platelet, white-cell or red-cell counts, the sample type, the blood-collection procedure (including patient preparation and contamination), and tube transport and storage; hemolysis is one of the most frequent causes. — [Erroneous potassium results: preanalytical causes, detection, and corrective actions. Crit Rev Clin Lab Sci. 2023. doi:10.1080/10408363.2023.2195936](https://doi.org/10.1080/10408363.2023.2195936)
 - **Why:** Explains that blood-draw factors such as hemolysis, fist clenching, a prolonged tourniquet, delayed processing or very high platelet or white cell counts can falsely raise potassium. — [Acute Care Testing (Radiometer). Pseudohyperkalemia (review, citing Don BR et al., N Engl J Med 1990;322:1290-1292).](https://acutecaretesting.org/en/articles/pseudohyperkalemia)
 
 ### My sodium was [your result]. Could drinking more fluid than I lost around long training sessions have lowered it, and should it be rechecked?
@@ -279,11 +280,12 @@ Shown with the formula, every input and the source; context for your clinician, 
 
 Shown at the top of an appointment's questions. POM compares the last 2 weeks of wearable data with the previous 26 weeks and flags only these rules.
 
-### Training load spike
+### Big recent jump in training
 
-- **Flagged when:** Training load in the last 7 days is more than 1.5 times the average of the 21 days before (acute:chronic ratio)
+- **Flagged when:** A big recent jump in training: the last 7 days are more than 1.5 times the average of the 21 days before (acute:chronic ratio; this threshold is disputed)
 - **Rule:** `summary.training_load`
-- **Why:** Reviews evidence that injury risk rises sharply when the acute:chronic workload ratio goes above about 1.5. — [Gabbett TJ. The training-injury prevention paradox: should athletes be training smarter and harder? Br J Sports Med. 2016;50(5):273-280. doi:10.1136/bjsports-2015-095788](https://doi.org/10.1136/bjsports-2015-095788)
+- **Why:** Reported that injury risk rose sharply when the acute:chronic workload ratio went above about 1.5. — [Gabbett TJ. The training-injury prevention paradox: should athletes be training smarter and harder? Br J Sports Med. 2016;50(5):273-280. doi:10.1136/bjsports-2015-095788](https://doi.org/10.1136/bjsports-2015-095788)
+- **Why:** Argues that training-load studies have conceptual and methodologic pitfalls that make them unsuitable for deciding how to use acute load, chronic load or their ratio to reduce injury risk, so ratio thresholds such as 1.5 are disputed. — [Training load and its role in injury prevention, part 2: conceptual and methodologic pitfalls. J Athl Train. 2020. doi:10.4085/1062-6050-501-19](https://doi.org/10.4085/1062-6050-501-19)
 
 ### Short sleep
 
@@ -354,12 +356,14 @@ Shown at the top of an appointment's questions. POM compares the last 2 weeks of
 | [Mairbäurl H. Red blood cells in sports: effects of exercise and training on oxygen supply by red blood cells. Front Physiol. 2013;4:332. doi:10.3389/fphys.2013.00332](https://doi.org/10.3389/fphys.2013.00332) | study | 2026-10-20 |
 | [Ko CW, Siddique SM, Patel A, et al. AGA Clinical Practice Guidelines on the Gastrointestinal Evaluation of Iron Deficiency Anemia. Gastroenterology. 2020. doi:10.1053/j.gastro.2020.06.046](https://doi.org/10.1053/j.gastro.2020.06.046) | guideline | 2026-10-20 |
 | [Hew-Butler T, Rosner MH, Fowkes-Godek S, et al. Statement of the 3rd International Exercise-Associated Hyponatremia Consensus Development Conference, Carlsbad, California, 2015. Br J Sports Med. 2015;49(22):1432.](https://bjsm.bmj.com/content/49/22/1432) | consensus | 2026-10-20 |
+| [Erroneous potassium results: preanalytical causes, detection, and corrective actions. Crit Rev Clin Lab Sci. 2023. doi:10.1080/10408363.2023.2195936](https://doi.org/10.1080/10408363.2023.2195936) | study | 2026-11-05 |
 | [Acute Care Testing (Radiometer). Pseudohyperkalemia (review, citing Don BR et al., N Engl J Med 1990;322:1290-1292).](https://acutecaretesting.org/en/articles/pseudohyperkalemia) | reference | 2026-10-20 |
 | [Royal Australian College of General Practitioners. Management of subclinical hypothyroidism (First Do No Harm), revised 2022, citing NICE NG145 (2019).](https://www.racgp.org.au/clinical-resources/clinical-guidelines/first-do-no-harm/gp-resources/management-of-subclinical-hypothyroidism) | guideline | 2026-10-20 |
 | [Effect of fasting and postprandial states on thyroid function test parameters and diagnostic interpretation: a systematic review and meta-analysis. Endocrine. 2026;91(1):351. doi:10.1007/s12020-026-04834-x](https://doi.org/10.1007/s12020-026-04834-x) | study | 2026-11-05 |
 | [Interference of iron deficiency in glycated hemoglobin testing and its clinical implications: a systematic review and meta-analysis. Biochem Med (Zagreb). 2026. doi:10.11613/BM.2026.030503](https://doi.org/10.11613/BM.2026.030503) | study | 2026-11-05 |
 | [Demay MB, Pittas AG, Bikle DD, et al. Vitamin D for the Prevention of Disease: An Endocrine Society Clinical Practice Guideline. J Clin Endocrinol Metab. 2024. doi:10.1210/clinem/dgae290](https://doi.org/10.1210/clinem/dgae290) | guideline | 2026-10-20 |
 | [Gabbett TJ. The training-injury prevention paradox: should athletes be training smarter and harder? Br J Sports Med. 2016;50(5):273-280. doi:10.1136/bjsports-2015-095788](https://doi.org/10.1136/bjsports-2015-095788) | study | 2026-10-21 |
+| [Training load and its role in injury prevention, part 2: conceptual and methodologic pitfalls. J Athl Train. 2020. doi:10.4085/1062-6050-501-19](https://doi.org/10.4085/1062-6050-501-19) | study | 2026-11-05 |
 | [Watson NF, Badr MS, Belenky G, et al. Recommended amount of sleep for a healthy adult: a joint consensus statement of the American Academy of Sleep Medicine and Sleep Research Society. Sleep. 2015;38(6):843-844. doi:10.5665/sleep.4716](https://doi.org/10.5665/sleep.4716) | consensus | 2026-10-21 |
 | [Bull FC, Al-Ansari SS, Biddle S, et al. World Health Organization 2020 guidelines on physical activity and sedentary behaviour. Br J Sports Med. 2020;54(24):1451-1462. doi:10.1136/bjsports-2020-102955](https://doi.org/10.1136/bjsports-2020-102955) | guideline | 2026-10-21 |
 | [2025 AHA/ACC/AANP/AAPA/ABC/ACCP/ACPM/AGS/AMA/ASPC/NMA/PCNA/SGIM Guideline for the Prevention, Detection, Evaluation and Management of High Blood Pressure in Adults. Hypertension. 2025;82(10):e212-e316. doi:10.1161/HYP.0000000000000249](https://doi.org/10.1161/HYP.0000000000000249) | guideline | 2026-10-21 |

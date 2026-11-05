@@ -1,5 +1,5 @@
 {
-  "version": "2026.11.05.1",
+  "version": "2026.11.05.2",
   "sourceMaxAgeDays": 365,
   "sources": [
     {
@@ -139,6 +139,14 @@
       "lastReviewed": "2026-10-20"
     },
     {
+      "id": "potassium_preanalytical_2023",
+      "kind": "study",
+      "citation": "Erroneous potassium results: preanalytical causes, detection, and corrective actions. Crit Rev Clin Lab Sci. 2023. doi:10.1080/10408363.2023.2195936",
+      "url": "https://doi.org/10.1080/10408363.2023.2195936",
+      "claim": "Reviews how potassium results can be falsely raised before analysis: high platelet, white-cell or red-cell counts, the sample type, the blood-collection procedure (including patient preparation and contamination), and tube transport and storage; hemolysis is one of the most frequent causes.",
+      "lastReviewed": "2026-11-05"
+    },
+    {
       "id": "pseudohyperkalemia_review",
       "kind": "reference",
       "citation": "Acute Care Testing (Radiometer). Pseudohyperkalemia (review, citing Don BR et al., N Engl J Med 1990;322:1290-1292).",
@@ -185,6 +193,14 @@
       "url": "https://doi.org/10.1136/bjsports-2015-095788",
       "claim": "",
       "lastReviewed": "2026-10-21"
+    },
+    {
+      "id": "load_pitfalls_2020",
+      "kind": "study",
+      "citation": "Training load and its role in injury prevention, part 2: conceptual and methodologic pitfalls. J Athl Train. 2020. doi:10.4085/1062-6050-501-19",
+      "url": "https://doi.org/10.4085/1062-6050-501-19",
+      "claim": "",
+      "lastReviewed": "2026-11-05"
     },
     {
       "id": "aasm_srs_sleep_2015",
@@ -643,6 +659,10 @@
       "question": "My potassium was [your result]. Could the blood draw itself (fist clenching, a tight tourniquet or a delayed sample) have raised it, and should it be repeated?",
       "sources": [
         {
+          "id": "potassium_preanalytical_2023",
+          "claim": "Reviews how potassium results can be falsely raised before analysis: high platelet, white-cell or red-cell counts, the sample type, the blood-collection procedure (including patient preparation and contamination), and tube transport and storage; hemolysis is one of the most frequent causes."
+        },
+        {
           "id": "pseudohyperkalemia_review",
           "claim": "Explains that blood-draw factors such as hemolysis, fist clenching, a prolonged tourniquet, delayed processing or very high platelet or white cell counts can falsely raise potassium."
         }
@@ -826,13 +846,17 @@
   "healthSummaryFlags": [
     {
       "id": "summary.training_load",
-      "title": "Training load spike",
+      "title": "Big recent jump in training",
       "kind": "CLINICAL",
-      "when": "Training load in the last 7 days is more than 1.5 times the average of the 21 days before (acute:chronic ratio)",
+      "when": "A big recent jump in training: the last 7 days are more than 1.5 times the average of the 21 days before (acute:chronic ratio; this threshold is disputed)",
       "sources": [
         {
           "id": "gabbett_acwr_2016",
-          "claim": "Reviews evidence that injury risk rises sharply when the acute:chronic workload ratio goes above about 1.5."
+          "claim": "Reported that injury risk rose sharply when the acute:chronic workload ratio went above about 1.5."
+        },
+        {
+          "id": "load_pitfalls_2020",
+          "claim": "Argues that training-load studies have conceptual and methodologic pitfalls that make them unsuitable for deciding how to use acute load, chronic load or their ratio to reduce injury risk, so ratio thresholds such as 1.5 are disputed."
         }
       ]
     },
