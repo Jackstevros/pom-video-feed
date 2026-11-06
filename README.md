@@ -1,6 +1,6 @@
 # POM approved videos
 
-Revision 56, published 2026-11-06, valid until 2026-11-13. These are the only videos the app can link to. The signed file the app reads is `approved-action-feed.signed.json`.
+Revision 57, published 2026-11-06, valid until 2026-11-13. These are the only videos the app can link to. The signed file the app reads is `approved-action-feed.signed.json`.
 
 ## Runner flexibility (239)
 
@@ -1886,12 +1886,12 @@ Revision 56, published 2026-11-06, valid until 2026-11-13. These are the only vi
 
 | Video | Creator | Minutes | Published | Ages out |
 |---|---|---|---|---|
-| [Lemon tahini chicken & grains — Jamie Oliver](https://www.youtube.com/watch?v=pKtweGSC2FU) | Jamie Oliver | 124 | 2026-06-24 | 2029-06-24 |
-| [Spring soup with ricotta toast - Jamie Oliver](https://www.youtube.com/watch?v=RER45NkD3dE) | Jamie Oliver | 19 | 2026-06-08 | 2029-06-08 |
-| [Jamie's Easy Prawn Curry! Perfect For Any Night Of The Week](https://www.youtube.com/watch?v=cyr4C8xPsxA) | Jamie Oliver | 9 | 2026-09-26 | 2029-09-26 |
-| [Epic Surf & Turf Gumbo Perfect Weekend Recipe | Jamie Oliver](https://www.youtube.com/watch?v=lkBf5CpMJPw) | Jamie Oliver | 6 | 2026-07-29 | 2029-07-29 |
-| [Jamie Oliver's Crispy Potato Rosti & Smoked Alaskan Sockeye Salmon](https://www.youtube.com/watch?v=LWokaHQPCUc) | Jamie Oliver | 7 | 2026-10-12 | 2029-10-12 |
-| [Comforting Korean Style Chicken Hotpot | Jamie Oliver](https://www.youtube.com/watch?v=nyYVQoooxD4) | Jamie Oliver | 6 | 2026-10-22 | 2029-10-22 |
+| [Lemon tahini chicken & grains — Jamie Oliver](https://www.youtube.com/watch?v=pKtweGSC2FU) | Jamie Oliver | 124 | 2026-06-24 | 2032-06-24 |
+| [Spring soup with ricotta toast - Jamie Oliver](https://www.youtube.com/watch?v=RER45NkD3dE) | Jamie Oliver | 19 | 2026-06-08 | 2032-06-08 |
+| [Jamie's Easy Prawn Curry! Perfect For Any Night Of The Week](https://www.youtube.com/watch?v=cyr4C8xPsxA) | Jamie Oliver | 9 | 2026-09-26 | 2032-09-26 |
+| [Epic Surf & Turf Gumbo Perfect Weekend Recipe | Jamie Oliver](https://www.youtube.com/watch?v=lkBf5CpMJPw) | Jamie Oliver | 6 | 2026-07-29 | 2032-07-29 |
+| [Jamie Oliver's Crispy Potato Rosti & Smoked Alaskan Sockeye Salmon](https://www.youtube.com/watch?v=LWokaHQPCUc) | Jamie Oliver | 7 | 2026-10-12 | 2032-10-12 |
+| [Comforting Korean Style Chicken Hotpot | Jamie Oliver](https://www.youtube.com/watch?v=nyYVQoooxD4) | Jamie Oliver | 6 | 2026-10-22 | 2032-10-22 |
 
 ## Running warm-ups (6)
 
