@@ -1,6 +1,6 @@
 # POM approved videos
 
-Revision 62, published 2026-11-06, valid until 2026-11-13. These are the only videos the app can link to. The signed file the app reads is `approved-action-feed.signed.json`.
+Revision 63, published 2026-11-07, valid until 2026-11-14. These are the only videos the app can link to. The signed file the app reads is `approved-action-feed.signed.json`.
 
 ## Runner flexibility (239)
 
@@ -1924,11 +1924,11 @@ Revision 62, published 2026-11-06, valid until 2026-11-13. These are the only vi
 
 ## Approved but not shown (8)
 
-- tom-merrick-runners-flexibility-19: Published 2019-08-11, older than 2 years (exercise)
-- yoga-with-adriene-runners-7: Published 2017-02-15, older than 2 years (exercise)
-- headspace-five-minute-eve: Published 2023-07-04, older than 3 years (other)
-- fitnessblender-beginner-total-body-strength: Published 2014-02-10, older than 2 years (exercise)
-- hasfit-beginner-bodyweight-20: Published 2014-08-26, older than 2 years (exercise)
-- yoga-with-adriene-abdominal-strength: Published 2024-04-01, older than 2 years (exercise)
-- gmb-integral-strength-bodyweight: Published 2023-07-01, older than 2 years (exercise)
 - rehab-science-achilles-tendon-strengthening-8: Published 2022-05-15, older than 2 years (exercise)
+- tom-merrick-runners-flexibility-19: Human review older than 14 days: tom-merrick-runners-flexibility-19
+- yoga-with-adriene-runners-7: Human review older than 14 days: yoga-with-adriene-runners-7
+- headspace-five-minute-eve: Human review older than 14 days: headspace-five-minute-eve
+- fitnessblender-beginner-total-body-strength: Human review older than 14 days: fitnessblender-beginner-total-body-strength
+- hasfit-beginner-bodyweight-20: Human review older than 14 days: hasfit-beginner-bodyweight-20
+- yoga-with-adriene-abdominal-strength: Human review older than 14 days: yoga-with-adriene-abdominal-strength
+- gmb-integral-strength-bodyweight: Human review older than 14 days: gmb-integral-strength-bodyweight
