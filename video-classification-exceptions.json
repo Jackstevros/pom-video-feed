@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-08T23:09:31.316Z",
+  "generatedAt": "2026-11-09T20:11:21.121Z",
   "sourceCommit": "6e6f17e4ed094454cf1f2355cd2f873b8c225704",
   "ownerApprovalComplete": true,
   "allApprovedCount": 1737,
   "metadataMode": "LIVE_OFFICIAL_API",
-  "readyCount": 1660,
-  "exceptionCount": 77,
+  "readyCount": 1659,
+  "exceptionCount": 78,
   "byCategory": {
     "BEGINNER_STRENGTH": {
       "approved": 405,
@@ -40,8 +40,8 @@
     },
     "RUNNER_FLEXIBILITY": {
       "approved": 226,
-      "ready": 214,
-      "exceptions": 15
+      "ready": 213,
+      "exceptions": 16
     },
     "RUNNING_WARMUP": {
       "approved": 4,
@@ -996,6 +996,32 @@
         {
           "code": "CATEGORY_CONFLICT",
           "question": "This describes HIIT/cardio. Confirm the actual category; it cannot serve as gentle mobility, yoga, Pilates or recovery."
+        }
+      ],
+      "equipmentEvidence": [],
+      "answerEquipment": "",
+      "answerCategory": "",
+      "answerLevel": "",
+      "answerGeneralFollowAlong": "",
+      "answerNotes": "",
+      "recipeDetailsJson": ""
+    },
+    {
+      "reviewNumber": 634,
+      "priority": "TECHNICAL_CHECK",
+      "videoId": "8aiGnpe1HbI",
+      "url": "https://www.youtube.com/watch?v=8aiGnpe1HbI",
+      "title": "HAMSTRING STRETCHES to Loose Your Tight Hamstrings | Stretches for The Inflexible | Resistance Band",
+      "category": "RUNNER_FLEXIBILITY",
+      "ownerApproval": "ALREADY_APPROVED",
+      "listedEquipment": null,
+      "resolvedEquipment": "BANDS",
+      "level": "INTERMEDIATE",
+      "minutes": 15,
+      "blockers": [
+        {
+          "code": "TECHNICAL_AVAILABILITY",
+          "question": "Published 2024-11-08, older than 2 years (exercise); technical recheck required, no content reapproval."
         }
       ],
       "equipmentEvidence": [],

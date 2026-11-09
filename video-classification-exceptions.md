@@ -2,8 +2,8 @@
 
 **All 1737 videos are already owner-approved. No video reapproval is requested.**
 
-- Ready for automatic daily recommendations, subject to publication checks: **1660**
-- Videos with specific unresolved facts or routing conflicts: **77**
+- Ready for automatic daily recommendations, subject to publication checks: **1659**
+- Videos with specific unresolved facts or routing conflicts: **78**
 - Metadata mode: LIVE_OFFICIAL_API
 
 Download [the editable exception CSV](video-classification-exceptions.csv). Start with QUICK_FACT_FIX rows: each needs just one equipment or level answer. Fill the answer columns and a short factual note. Leave unknown facts blank. You can also reply with the review numbers and answers. TECHNICAL_CHECK rows need automated availability/identity work rather than another owner approval. Equipment choices: NONE, MAT, BODYWEIGHT, DUMBBELLS, KETTLEBELLS, BANDS. Record multiple required items in notes; current single-equipment routing cannot safely collapse them into one.
@@ -16,7 +16,7 @@ Download [the editable exception CSV](video-classification-exceptions.csv). Star
 | COOK_ALONG_RECIPE | 20 | 4 | 16 |
 | EXTENDED_MOBILITY | 16 | 60 | 0 |
 | GUIDED_RECOVERY | 28 | 20 | 0 |
-| RUNNER_FLEXIBILITY | 226 | 214 | 15 |
+| RUNNER_FLEXIBILITY | 226 | 213 | 16 |
 | RUNNING_WARMUP | 4 | 4 | 0 |
 | YOGA | 138 | 138 | 1 |
 | INJURY_CARE | 0 | 6 | 0 |
@@ -230,6 +230,12 @@ Download [the editable exception CSV](video-classification-exceptions.csv). Star
 
 - **CATEGORY_CONFLICT**: This describes HIIT/cardio. Confirm the actual category; it cannot serve as gentle mobility, yoga, Pilates or recovery.
 
+### 634. HAMSTRING STRETCHES to Loose Your Tight Hamstrings | Stretches for The Inflexible | Resistance Band
+
+[Open this exact video](https://www.youtube.com/watch?v=8aiGnpe1HbI) · RUNNER_FLEXIBILITY · Already approved
+
+- **TECHNICAL_AVAILABILITY**: Published 2024-11-08, older than 2 years (exercise); technical recheck required, no content reapproval.
+
 ### 646. PERIOD AND PMS Pain Relief Stretches to Stop Cramps Fast! 2 WEEKS
 
 [Open this exact video](https://www.youtube.com/watch?v=S6SNgM30X2E) · RUNNER_FLEXIBILITY · Already approved
@@ -318,12 +324,6 @@ Download [the editable exception CSV](video-classification-exceptions.csv). Star
 ### 1138. 30 MIN FULL BODY DUMBBELL WORKOUT | Strength + Metcon, No Repeats
 
 [Open this exact video](https://www.youtube.com/watch?v=HfPQRflbME8) · BEGINNER_STRENGTH · Already approved
-
-- **EQUIPMENT_CONFLICT**: The listed equipment conflicts with the creator description, or several items are required. Record all required equipment; do not choose a single item if several are necessary.
-
-### 1240. 35 Min Full Body Standing Workout with Dumbbells | Cardio + Strength
-
-[Open this exact video](https://www.youtube.com/watch?v=gUar9a1vk7g) · STRENGTH_TRAINING · Already approved
 
 - **EQUIPMENT_CONFLICT**: The listed equipment conflicts with the creator description, or several items are required. Record all required equipment; do not choose a single item if several are necessary.
 

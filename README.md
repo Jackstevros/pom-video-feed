@@ -1,8 +1,8 @@
 # POM approved videos
 
-Revision 64, published 2026-11-08, valid until 2026-11-15. These are the only videos the app can link to. The signed file the app reads is `approved-action-feed.signed.json`.
+Revision 65, published 2026-11-09, valid until 2026-11-16. These are the only videos the app can link to. The signed file the app reads is `approved-action-feed.signed.json`.
 
-## Runner flexibility (239)
+## Runner flexibility (238)
 
 | Video | Creator | Minutes | Published | Ages out |
 |---|---|---|---|---|
@@ -18,7 +18,6 @@ Revision 64, published 2026-11-08, valid until 2026-11-15. These are the only vi
 | [15-minute Everyday Stretch & Mobility Routine - 15 Min](https://www.youtube.com/watch?v=oQpUN1bjXaU) | Chloe Ting | 16 | 2025-07-01 | 2027-07-01 |
 | [GET FLEXIBLE FAST with this Morning Stretch on The Beach for Beginners](https://www.youtube.com/watch?v=3J6eTq3x-Ys) | Daniela Suarez | 12 | 2025-10-12 | 2027-10-12 |
 | [7-minute 7 MIN UPPER BODY AND POSTURE STRETCH | OCEAN RELAXATION TO RESET YOUR BODY | Take a Break From Work](https://www.youtube.com/watch?v=7Wip-QVpwyE) | Daniela Suarez | 8 | 2026-08-25 | 2028-08-25 |
-| [HAMSTRING STRETCHES to Loose Your Tight Hamstrings | Stretches for The Inflexible | Resistance Band](https://www.youtube.com/watch?v=8aiGnpe1HbI) | Daniela Suarez | 15 | 2024-11-08 | 2026-11-08 |
 | [The Best Stretch Routine for DESK WORKERS to Fix Posture, Relieve Pain & Improve Flexibility](https://www.youtube.com/watch?v=8Ajt84jeWmE) | Daniela Suarez | 11 | 2025-02-26 | 2027-02-26 |
 | [FULL BODY COZY STRETCH AT HOME | Everyday Relaxing Stretching Routine](https://www.youtube.com/watch?v=A5jERtgDGP0) | Daniela Suarez | 16 | 2025-12-05 | 2027-12-05 |
 | [10-minute 10 MIN FULL BODY STRETCH | STRESS RELIEF MEDITATION STRETCH | Reset Your Nervous System](https://www.youtube.com/watch?v=BBLfPlm7XBw) | Daniela Suarez | 11 | 2026-07-13 | 2028-07-13 |
