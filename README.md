@@ -1,6 +1,6 @@
 # POM approved videos
 
-Revision 66, published 2026-11-11, valid until 2026-11-18. These are the only videos the app can link to. The signed file the app reads is `approved-action-feed.signed.json`.
+Revision 67, published 2026-11-11, valid until 2026-11-18. These are the only videos the app can link to. The signed file the app reads is `approved-action-feed.signed.json`.
 
 ## Runner flexibility (238)
 
@@ -319,12 +319,14 @@ Revision 66, published 2026-11-11, valid until 2026-11-18. These are the only vi
 |---|---|---|---|---|
 | [20-minute intermediate kettlebell mobility + strength](https://www.youtube.com/watch?v=7wNrGs3EO70) | mobility by julia reppel | 24 | 2026-04-13 | 2028-04-13 |
 
-## Guided recovery (42)
+## Guided recovery (46)
 
 | Video | Creator | Minutes | Published | Ages out |
 |---|---|---|---|---|
+| [Relaxing bedtime stretch in bed](https://www.youtube.com/watch?v=oQXtZS58uzI) | amy dot | 15 | 2026-10-16 | 2029-10-16 |
 | [8-minute Give Me 8 Minutes and I Make You Feel Loose, Calm, and Better in Your Body](https://www.youtube.com/watch?v=VB-9GH5mhkM) | Breathe and Flow | 10 | 2026-07-27 | 2029-07-27 |
 | [REDUCE STRESS & CONTROL YOUR EMOTIONS WITH THIS BREATHING TECHNIQUE](https://www.youtube.com/watch?v=ZVO-sJw6Uzg) | Daniela Suarez | 17 | 2025-01-27 | 2028-01-27 |
+| [Somatic breathing to fall asleep](https://www.youtube.com/watch?v=w7nmRwhOT7k) | Feldenkrais with Jakob | 19 | 2026-09-06 | 2029-09-06 |
 | [Five-minute mindful break](https://www.youtube.com/watch?v=JNoxSnkC_EM) | Headspace | 5 | 2025-05-05 | 2028-05-05 |
 | [Deep-breathing meditation](https://www.youtube.com/watch?v=ixYpRsG3hWQ) | Headspace | 6 | 2026-03-12 | 2029-03-12 |
 | [Five-minute guided meditation](https://www.youtube.com/watch?v=ASx2_YUlUVk) | Headspace | 5 | 2026-09-15 | 2029-09-15 |
@@ -353,11 +355,13 @@ Revision 66, published 2026-11-11, valid until 2026-11-18. These are the only vi
 | [10-Minute Guided Meditation to Boost Motivation with Andy](https://www.youtube.com/watch?v=zdGohYQ8scs) | Headspace | 11 | 2026-06-15 | 2029-06-15 |
 | [10-minute breathing exercises for relaxation](https://www.youtube.com/watch?v=o9VMMzc5Ouo) | Jessica Valant | 12 | 2026-03-30 | 2029-03-30 |
 | [10-minute relaxation exercises](https://www.youtube.com/watch?v=XgavixklVw0) | Jessica Valant | 12 | 2025-10-27 | 2028-10-27 |
+| [Body scan meditation to prepare for sleep (UCLA)](https://www.youtube.com/watch?v=NZu4ASV_hsQ) | Mindful | 15 | 2025-08-08 | 2028-08-08 |
 | [Gentle wind-down before sleep](https://www.youtube.com/watch?v=gXGB5iAVaUA) | mobility by julia reppel | 13 | 2026-08-13 | 2029-08-13 |
 | [12-minute 12 MIN ABS + BOOTY 2in1 - slow, calm, no hectic, no sweat - Medium to Intense](https://www.youtube.com/watch?v=pldMKviRN14) | Pamela Reif | 14 | 2025-02-07 | 2028-02-07 |
 | [6-minute 6 MIN MORNING MAGIC - do this every day for: Lymph Activation, reduce Puffiness, Breathing & Health](https://www.youtube.com/watch?v=vjTjfds99-4) | Pamela Reif | 7 | 2026-02-19 | 2029-02-19 |
 | [10-Minute Mindfulness Yoga Flow | De-Stress & Energize](https://www.youtube.com/watch?v=UqhxqFBNNb8) | PS Fit | 12 | 2026-05-04 | 2029-05-04 |
 | [Shoulder Pain When Sleeping on Your Side (Rotator Cuff Pain)](https://www.youtube.com/watch?v=LeWJmvz-nxU) | Rehab Science | 9 | 2025-10-28 | 2028-10-28 |
+| [10-minute NSDR yoga nidra for deep rest](https://www.youtube.com/watch?v=_fb7fMqE3qQ) | Sarovara Yoga (Ally Boothroyd) | 12 | 2026-09-09 | 2029-09-09 |
 | [Grounding body scan meditation](https://www.youtube.com/watch?v=3X-_qx9Txto) | Yoga With Adriene | 14 | 2025-12-09 | 2028-12-09 |
 | [Gentle bedtime yoga flow](https://www.youtube.com/watch?v=3OsBElyha7Y) | Yoga With Adriene | 11 | 2026-06-23 | 2029-06-23 |
 | [Legs up the wall relaxation](https://www.youtube.com/watch?v=q8N8jkmJP6o) | Yoga With Adriene | 8 | 2026-07-21 | 2029-07-21 |
@@ -1903,10 +1907,13 @@ Revision 66, published 2026-11-11, valid until 2026-11-18. These are the only vi
 | [12-minute 12 MIN CREATIVE BOOTY - magic Glute Activation I knee friendly, no fire hydrants, no squats](https://www.youtube.com/watch?v=-RF9eqIZBew) | Pamela Reif | 14 | 2024-11-19 | 2026-11-19 |
 | [Standing pre-run mobility warm-up with balance support](https://www.youtube.com/watch?v=SfCguQSYiwk) | Yoga With Tim | 6 | 2026-03-01 | 2028-03-01 |
 
-## Sleep guidance (0)
+## Sleep guidance (3)
 
 | Video | Creator | Minutes | Published | Ages out |
 |---|---|---|---|---|
+| [CBT-I explained: behavioural steps for insomnia](https://www.youtube.com/watch?v=1aQPRybcq08) | Cleveland Clinic | 3 | 2026-07-10 | 2029-07-10 |
+| [How caffeine affects your sleep, with Matthew Walker](https://www.youtube.com/watch?v=TsWQK4uUYXw) | MasterClass | 7 | 2026-06-05 | 2029-06-05 |
+| [Coffee and sleep: an Oxford sleep expert on timing](https://www.youtube.com/watch?v=7Hmmibft3u4) | University of Oxford | 1 | 2026-05-09 | 2029-05-09 |
 
 ## Something hurts (self-care by body area) (8)
 
