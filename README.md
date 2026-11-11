@@ -1,6 +1,6 @@
 # POM approved videos
 
-Revision 65, published 2026-11-09, valid until 2026-11-16. These are the only videos the app can link to. The signed file the app reads is `approved-action-feed.signed.json`.
+Revision 66, published 2026-11-11, valid until 2026-11-18. These are the only videos the app can link to. The signed file the app reads is `approved-action-feed.signed.json`.
 
 ## Runner flexibility (238)
 
@@ -1923,7 +1923,6 @@ Revision 65, published 2026-11-09, valid until 2026-11-16. These are the only vi
 
 ## Approved but not shown (8)
 
-- rehab-science-achilles-tendon-strengthening-8: Published 2022-05-15, older than 2 years (exercise)
 - tom-merrick-runners-flexibility-19: Human review older than 14 days: tom-merrick-runners-flexibility-19
 - yoga-with-adriene-runners-7: Human review older than 14 days: yoga-with-adriene-runners-7
 - headspace-five-minute-eve: Human review older than 14 days: headspace-five-minute-eve
@@ -1931,3 +1930,4 @@ Revision 65, published 2026-11-09, valid until 2026-11-16. These are the only vi
 - hasfit-beginner-bodyweight-20: Human review older than 14 days: hasfit-beginner-bodyweight-20
 - yoga-with-adriene-abdominal-strength: Human review older than 14 days: yoga-with-adriene-abdominal-strength
 - gmb-integral-strength-bodyweight: Human review older than 14 days: gmb-integral-strength-bodyweight
+- rehab-science-achilles-tendon-strengthening-8: Human review older than 14 days: rehab-science-achilles-tendon-strengthening-8
