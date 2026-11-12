@@ -2,15 +2,15 @@
 
 **All 1737 videos are already owner-approved. No video reapproval is requested.**
 
-- Ready for automatic daily recommendations, subject to publication checks: **1659**
-- Videos with specific unresolved facts or routing conflicts: **78**
+- Ready for automatic daily recommendations, subject to publication checks: **1658**
+- Videos with specific unresolved facts or routing conflicts: **79**
 - Metadata mode: LIVE_OFFICIAL_API
 
 Download [the editable exception CSV](video-classification-exceptions.csv). Start with QUICK_FACT_FIX rows: each needs just one equipment or level answer. Fill the answer columns and a short factual note. Leave unknown facts blank. You can also reply with the review numbers and answers. TECHNICAL_CHECK rows need automated availability/identity work rather than another owner approval. Equipment choices: NONE, MAT, BODYWEIGHT, DUMBBELLS, KETTLEBELLS, BANDS. Record multiple required items in notes; current single-equipment routing cannot safely collapse them into one.
 
 | Category | Approved | Ready | Exceptions |
 |---|---:|---:|---:|
-| BEGINNER_STRENGTH | 405 | 355 | 12 |
+| BEGINNER_STRENGTH | 405 | 354 | 13 |
 | STRENGTH_TRAINING | 696 | 637 | 29 |
 | PILATES | 204 | 198 | 3 |
 | COOK_ALONG_RECIPE | 20 | 4 | 16 |
@@ -309,6 +309,12 @@ Download [the editable exception CSV](video-classification-exceptions.csv). Star
 
 - **TECHNICAL_AVAILABILITY**: Published 2024-10-30, older than 2 years (exercise); technical recheck required, no content reapproval.
 
+### 1053. 20 minute Cardio + Abs Bodyweight Workout for Weight Loss & Fat Burn 🔥
+
+[Open this exact video](https://www.youtube.com/watch?v=AX0petlge70) · BEGINNER_STRENGTH · Already approved
+
+- **TECHNICAL_AVAILABILITY**: Published 2024-11-11, older than 2 years (exercise); technical recheck required, no content reapproval.
+
 ### 1134. 20 MIN CARDIO HIIT WORKOUT | No Equipment, Full Body
 
 [Open this exact video](https://www.youtube.com/watch?v=aB85Y6GA5NA) · BEGINNER_STRENGTH · Already approved
@@ -318,12 +324,6 @@ Download [the editable exception CSV](video-classification-exceptions.csv). Star
 ### 1136. 30 Minute Full Body Dumbbell METCON for Strength & Fat Burn
 
 [Open this exact video](https://www.youtube.com/watch?v=gxPrSTTNvfY) · BEGINNER_STRENGTH · Already approved
-
-- **EQUIPMENT_CONFLICT**: The listed equipment conflicts with the creator description, or several items are required. Record all required equipment; do not choose a single item if several are necessary.
-
-### 1138. 30 MIN FULL BODY DUMBBELL WORKOUT | Strength + Metcon, No Repeats
-
-[Open this exact video](https://www.youtube.com/watch?v=HfPQRflbME8) · BEGINNER_STRENGTH · Already approved
 
 - **EQUIPMENT_CONFLICT**: The listed equipment conflicts with the creator description, or several items are required. Record all required equipment; do not choose a single item if several are necessary.
 

@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-11T13:22:19.360Z",
+  "generatedAt": "2026-11-12T17:45:56.667Z",
   "sourceCommit": "6e6f17e4ed094454cf1f2355cd2f873b8c225704",
   "ownerApprovalComplete": true,
   "allApprovedCount": 1737,
   "metadataMode": "LIVE_OFFICIAL_API",
-  "readyCount": 1659,
-  "exceptionCount": 78,
+  "readyCount": 1658,
+  "exceptionCount": 79,
   "byCategory": {
     "BEGINNER_STRENGTH": {
       "approved": 405,
-      "ready": 355,
-      "exceptions": 12
+      "ready": 354,
+      "exceptions": 13
     },
     "STRENGTH_TRAINING": {
       "approved": 696,
@@ -1338,6 +1338,32 @@
         {
           "code": "TECHNICAL_AVAILABILITY",
           "question": "Published 2024-10-30, older than 2 years (exercise); technical recheck required, no content reapproval."
+        }
+      ],
+      "equipmentEvidence": [],
+      "answerEquipment": "",
+      "answerCategory": "",
+      "answerLevel": "",
+      "answerGeneralFollowAlong": "",
+      "answerNotes": "",
+      "recipeDetailsJson": ""
+    },
+    {
+      "reviewNumber": 1053,
+      "priority": "TECHNICAL_CHECK",
+      "videoId": "AX0petlge70",
+      "url": "https://www.youtube.com/watch?v=AX0petlge70",
+      "title": "20 minute Cardio + Abs Bodyweight Workout for Weight Loss & Fat Burn 🔥",
+      "category": "BEGINNER_STRENGTH",
+      "ownerApproval": "ALREADY_APPROVED",
+      "listedEquipment": "DUMBBELLS",
+      "resolvedEquipment": "NONE",
+      "level": "INTERMEDIATE",
+      "minutes": 23,
+      "blockers": [
+        {
+          "code": "TECHNICAL_AVAILABILITY",
+          "question": "Published 2024-11-11, older than 2 years (exercise); technical recheck required, no content reapproval."
         }
       ],
       "equipmentEvidence": [],

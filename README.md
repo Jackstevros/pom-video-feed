@@ -1,6 +1,6 @@
 # POM approved videos
 
-Revision 67, published 2026-11-11, valid until 2026-11-18. These are the only videos the app can link to. The signed file the app reads is `approved-action-feed.signed.json`.
+Revision 68, published 2026-11-12, valid until 2026-11-19. These are the only videos the app can link to. The signed file the app reads is `approved-action-feed.signed.json`.
 
 ## Runner flexibility (238)
 
@@ -370,7 +370,7 @@ Revision 67, published 2026-11-11, valid until 2026-11-18. These are the only vi
 | [Relaxing yin yoga, no props](https://www.youtube.com/watch?v=QO8j6H6DrMA) | Yoga with Kassandra | 19 | 2025-12-22 | 2028-12-22 |
 | [Relaxing morning stretch](https://www.youtube.com/watch?v=hJ0Ol0mYLDI) | Yoga with Kassandra | 16 | 2025-12-15 | 2028-12-15 |
 
-## Beginner strength (383)
+## Beginner strength (382)
 
 | Video | Creator | Minutes | Published | Ages out |
 |---|---|---|---|---|
@@ -591,7 +591,6 @@ Revision 67, published 2026-11-11, valid until 2026-11-18. These are the only vi
 | [20-minute 20 minute Full Body DUMBBELL Workout | STANDING EXERCISES for Muscle, Strength & Toning 🔥](https://www.youtube.com/watch?v=YtM4Gtq5EJ0) | MrandMrsMuscle | 23 | 2025-02-17 | 2027-02-17 |
 | [20-minute 20 minute Core and Upper Body Dumbell Workout for Toning & Strength 💪🏽](https://www.youtube.com/watch?v=MGf_9jvKKdU) | MrandMrsMuscle | 23 | 2025-03-24 | 2027-03-24 |
 | [20-minute 20 minute Cardio and Core Bodyweight Workout | NO JUMPING!! - FAT BURNER 🔥](https://www.youtube.com/watch?v=7zo4GTxLTMY) | MrandMrsMuscle | 23 | 2026-10-12 | 2028-10-12 |
-| [20-minute 20 minute Cardio + Abs Bodyweight Workout for Weight Loss & Fat Burn 🔥](https://www.youtube.com/watch?v=AX0petlge70) | MrandMrsMuscle | 23 | 2024-11-11 | 2026-11-11 |
 | [20-minute 20 minute Full Body BODYWEIGHT Muscle, Strength and Fat Burn Workout](https://www.youtube.com/watch?v=bM2ueLV0A4I) | MrandMrsMuscle | 23 | 2026-01-15 | 2028-01-15 |
 | [20-minute 20 Minute Full Body Strength Workout | BODYWEIGHT Fat Burn & Weight Loss 🔥](https://www.youtube.com/watch?v=cMSu5Q2lA08) | MrandMrsMuscle | 23 | 2025-02-03 | 2027-02-03 |
 | [20-minute 20 Minute Full Body Bodyweight Session for Building Muscle, Weight Loss & Fat Burn 🔥](https://www.youtube.com/watch?v=fImefqAWo5I) | MrandMrsMuscle | 23 | 2024-12-30 | 2026-12-30 |
