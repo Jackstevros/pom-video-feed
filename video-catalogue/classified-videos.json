@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-11-09T20:51:28.314Z",
+ "generatedAt": "2026-11-16T20:35:06.986Z",
  "source": "resources/owner-bulk-video-approval-2026-10-30.json",
  "youtubeDetailsFetched": true,
  "note": "Public classification list. Not signed; not loaded by the app.",
@@ -3924,7 +3924,7 @@
   {
    "videoId": "9wAYnol3RB8",
    "url": "https://www.youtube.com/watch?v=9wAYnol3RB8",
-   "title": "30 Min FULL BODY Dumbbell Strength Workout at Home - Build Muscle",
+   "title": "30 Min FULL BODY Workout With Dumbbells at Home - Strength Training",
    "channel": "Oliver Sjostrom",
    "channelId": "UCJItL3dzLhLG1FGV1wZRS2w",
    "category": "BEGINNER_STRENGTH",
@@ -3942,12 +3942,41 @@
     "DUMBBELLS"
    ],
    "publishedAt": "2026-10-08T11:15:00Z",
-   "workoutSchedule": null,
-   "scheduleSource": "MISSING",
-   "status": "NEEDS_OWNER_REVIEW",
-   "exceptions": [
-    "SCHEDULE_MISSING: creator gives no chapters or exercise list; needs a watched breakdown"
-   ]
+   "workoutSchedule": [
+    {
+     "name": "Warm Up",
+     "start": "0:15",
+     "seconds": 211
+    },
+    {
+     "name": "Circuit 1",
+     "start": "3:46",
+     "seconds": 376
+    },
+    {
+     "name": "Circuit 2",
+     "start": "10:02",
+     "seconds": 383
+    },
+    {
+     "name": "Circuit 3",
+     "start": "16:25",
+     "seconds": 371
+    },
+    {
+     "name": "Circuit 4",
+     "start": "22:36",
+     "seconds": 360
+    },
+    {
+     "name": "Finisher",
+     "start": "28:36",
+     "seconds": 139
+    }
+   ],
+   "scheduleSource": "YOUTUBE_CHAPTERS",
+   "status": "CLASSIFIED",
+   "exceptions": []
   },
   {
    "videoId": "bLtzpPrNOW0",
@@ -7913,7 +7942,7 @@
   {
    "videoId": "ROsY15GSNGQ",
    "url": "https://www.youtube.com/watch?v=ROsY15GSNGQ",
-   "title": "30 Min TOTAL LOWER BODY Dumbbell Workout - Muscle Building",
+   "title": "30 Min TOTAL LOWER BODY Dumbbell Workout at Home - Muscle Building",
    "channel": "Oliver Sjostrom",
    "channelId": "UCJItL3dzLhLG1FGV1wZRS2w",
    "category": "STRENGTH_TRAINING",
@@ -7931,12 +7960,41 @@
     "DUMBBELLS"
    ],
    "publishedAt": "2026-09-24T09:00:11Z",
-   "workoutSchedule": null,
-   "scheduleSource": "MISSING",
-   "status": "NEEDS_OWNER_REVIEW",
-   "exceptions": [
-    "SCHEDULE_MISSING: creator gives no chapters or exercise list; needs a watched breakdown"
-   ]
+   "workoutSchedule": [
+    {
+     "name": "Warm Up",
+     "start": "0:17",
+     "seconds": 194
+    },
+    {
+     "name": "Circuit 1",
+     "start": "3:31",
+     "seconds": 375
+    },
+    {
+     "name": "Circuit 2",
+     "start": "9:46",
+     "seconds": 397
+    },
+    {
+     "name": "Circuit 3",
+     "start": "16:23",
+     "seconds": 367
+    },
+    {
+     "name": "Circuit 4",
+     "start": "22:30",
+     "seconds": 358
+    },
+    {
+     "name": "Finisher",
+     "start": "28:28",
+     "seconds": 145
+    }
+   ],
+   "scheduleSource": "YOUTUBE_CHAPTERS",
+   "status": "CLASSIFIED",
+   "exceptions": []
   },
   {
    "videoId": "TaLGsdZNptI",
@@ -38135,7 +38193,7 @@
   {
    "videoId": "61gFzBy_Ig8",
    "url": "https://www.youtube.com/watch?v=61gFzBy_Ig8",
-   "title": "20 Min Full Body HIIT | Burn 300 Calories (No Repeat, No Equipment)",
+   "title": "20 Min Full Body Fat Burning Workout - BURN 300 CALORIES (Cardio HIIT, No Repeat)",
    "channel": "Nobadaddiction",
    "channelId": "UCcaWyZrrxMaTKtVDkexK9Ow",
    "category": "BEGINNER_STRENGTH",
@@ -38153,12 +38211,36 @@
     "NONE"
    ],
    "publishedAt": "2026-08-18T10:00:19Z",
-   "workoutSchedule": null,
-   "scheduleSource": "MISSING",
-   "status": "NEEDS_OWNER_REVIEW",
-   "exceptions": [
-    "SCHEDULE_MISSING: creator gives no chapters or exercise list; needs a watched breakdown"
-   ]
+   "workoutSchedule": [
+    {
+     "name": "Warm Up",
+     "start": "0:22",
+     "seconds": 189
+    },
+    {
+     "name": "Standing Cardio",
+     "start": "3:31",
+     "seconds": 618
+    },
+    {
+     "name": "Mat Work",
+     "start": "13:49",
+     "seconds": 355
+    },
+    {
+     "name": "Standing Finisher",
+     "start": "19:44",
+     "seconds": 181
+    },
+    {
+     "name": "Workout Complete",
+     "start": "22:45",
+     "seconds": 63
+    }
+   ],
+   "scheduleSource": "YOUTUBE_CHAPTERS",
+   "status": "CLASSIFIED",
+   "exceptions": []
   },
   {
    "videoId": "7YNnpzTBeGU",
@@ -38753,7 +38835,7 @@
   {
    "videoId": "TNI2fR3FyVQ",
    "url": "https://www.youtube.com/watch?v=TNI2fR3FyVQ",
-   "title": "30 Min Standing Cardio HIIT | Fat Burn (No Equipment)",
+   "title": "30 Min Standing FAT LOSS Workout at Home - Sweaty Cardio HIIT (No Equipment)",
    "channel": "Nobadaddiction",
    "channelId": "UCcaWyZrrxMaTKtVDkexK9Ow",
    "category": "BEGINNER_STRENGTH",
@@ -38771,12 +38853,41 @@
     "NONE"
    ],
    "publishedAt": "2026-08-20T10:00:08Z",
-   "workoutSchedule": null,
-   "scheduleSource": "MISSING",
-   "status": "NEEDS_OWNER_REVIEW",
-   "exceptions": [
-    "SCHEDULE_MISSING: creator gives no chapters or exercise list; needs a watched breakdown"
-   ]
+   "workoutSchedule": [
+    {
+     "name": "Circuit 1",
+     "start": "0:20",
+     "seconds": 372
+    },
+    {
+     "name": "Circuit 2",
+     "start": "6:32",
+     "seconds": 384
+    },
+    {
+     "name": "Circuit 3",
+     "start": "12:56",
+     "seconds": 362
+    },
+    {
+     "name": "Circuit 4",
+     "start": "18:58",
+     "seconds": 360
+    },
+    {
+     "name": "Circuit 5",
+     "start": "24:58",
+     "seconds": 230
+    },
+    {
+     "name": "Finisher",
+     "start": "28:48",
+     "seconds": 64
+    }
+   ],
+   "scheduleSource": "YOUTUBE_CHAPTERS",
+   "status": "CLASSIFIED",
+   "exceptions": []
   },
   {
    "videoId": "vHgrZ2NvtwA",
@@ -38809,7 +38920,7 @@
   {
    "videoId": "WXj6uHA5GsU",
    "url": "https://www.youtube.com/watch?v=WXj6uHA5GsU",
-   "title": "20 Min Full Body HIIT - Burn 300 Calories (No Repeat, No Jumping)",
+   "title": "20 Min No Jumping HIIT Workout for Fat Burn - Full Body Cardio (No Repeat)",
    "channel": "Nobadaddiction",
    "channelId": "UCcaWyZrrxMaTKtVDkexK9Ow",
    "category": "BEGINNER_STRENGTH",
@@ -38827,12 +38938,36 @@
     "NONE"
    ],
    "publishedAt": "2026-08-27T10:00:33Z",
-   "workoutSchedule": null,
-   "scheduleSource": "MISSING",
-   "status": "NEEDS_OWNER_REVIEW",
-   "exceptions": [
-    "SCHEDULE_MISSING: creator gives no chapters or exercise list; needs a watched breakdown"
-   ]
+   "workoutSchedule": [
+    {
+     "name": "Warm Up",
+     "start": "0:25",
+     "seconds": 147
+    },
+    {
+     "name": "Round 1",
+     "start": "2:52",
+     "seconds": 525
+    },
+    {
+     "name": "Break",
+     "start": "11:37",
+     "seconds": 43
+    },
+    {
+     "name": "Round 2",
+     "start": "12:20",
+     "seconds": 530
+    },
+    {
+     "name": "Workout Complete",
+     "start": "21:10",
+     "seconds": 56
+    }
+   ],
+   "scheduleSource": "YOUTUBE_CHAPTERS",
+   "status": "CLASSIFIED",
+   "exceptions": []
   },
   {
    "videoId": "wY-bppwAnnE",
@@ -41505,6 +41640,11 @@
      "name": "Cool-down",
      "start": "18:08",
      "seconds": 143
+    },
+    {
+     "name": "Workout Complete",
+     "start": "20:31",
+     "seconds": 29
     }
    ],
    "scheduleSource": "YOUTUBE_CHAPTERS",
