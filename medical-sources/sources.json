@@ -883,7 +883,7 @@
         {
           "citation": "Mayer MG. preventr: An implementation of the PREVENT and Pooled Cohort Equations (R package, CRAN).",
           "url": "https://cran.r-project.org/web/packages/preventr/",
-          "claim": "Open-source implementation POM's coefficients and variable transformations were taken from and tested against."
+          "claim": "Open-source implementation KORD's coefficients and variable transformations were taken from and tested against."
         }
       ]
     }

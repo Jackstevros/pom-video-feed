@@ -274,7 +274,7 @@ Shown with the formula, every input and the source; context for your clinician, 
 - **Reading:** Shown against the 2026 ACC/AHA PREVENT-ASCVD categories: <3%, 3% to <5% borderline, 5% to <10% intermediate, ≥10%.
 - **Source:** PREVENT estimates 10-year cardiovascular risk for adults aged 30–79 from age, sex, cholesterol, HDL, blood pressure, diabetes, smoking, kidney function and blood pressure and statin treatment. — [Khan SS, Matsushita K, Sang Y, et al. Development and validation of the American Heart Association's PREVENT equations. Circulation. 2024;149:430-449. doi:10.1161/CIRCULATIONAHA.123.067626](https://doi.org/10.1161/CIRCULATIONAHA.123.067626)
 - **Source:** Uses 10-year PREVENT-ASCVD risk categories: borderline 3% to <5%, intermediate 5% to <10%. — [Blumenthal RS, Morris PB, Gaudino M, et al. 2026 ACC/AHA Guideline on the Management of Dyslipidemia. Circulation. 2026. doi:10.1161/CIR.0000000000001423](https://doi.org/10.1161/CIR.0000000000001423)
-- **Source:** Open-source implementation POM's coefficients and variable transformations were taken from and tested against. — [Mayer MG. preventr: An implementation of the PREVENT and Pooled Cohort Equations (R package, CRAN).](https://cran.r-project.org/web/packages/preventr/)
+- **Source:** Open-source implementation KORD's coefficients and variable transformations were taken from and tested against. — [Mayer MG. preventr: An implementation of the PREVENT and Pooled Cohort Equations (R package, CRAN).](https://cran.r-project.org/web/packages/preventr/)
 
 ## Health summary flags
 
