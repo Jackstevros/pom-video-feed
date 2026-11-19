@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T19:52:55.091Z",
+  "generatedAt": "2026-11-19T01:13:28.237Z",
   "sourceCommit": "6e6f17e4ed094454cf1f2355cd2f873b8c225704",
   "ownerApprovalComplete": true,
   "allApprovedCount": 1737,
   "metadataMode": "LIVE_OFFICIAL_API",
-  "readyCount": 1658,
-  "exceptionCount": 79,
+  "readyCount": 1657,
+  "exceptionCount": 80,
   "byCategory": {
     "BEGINNER_STRENGTH": {
       "approved": 405,
@@ -40,8 +40,8 @@
     },
     "RUNNER_FLEXIBILITY": {
       "approved": 226,
-      "ready": 213,
-      "exceptions": 16
+      "ready": 212,
+      "exceptions": 17
     },
     "RUNNING_WARMUP": {
       "approved": 4,
@@ -1048,6 +1048,32 @@
         {
           "code": "SPECIAL_AUDIENCE",
           "question": "Is this intended for a specific condition or population? It needs matching audience support before automatic general recommendations."
+        }
+      ],
+      "equipmentEvidence": [],
+      "answerEquipment": "",
+      "answerCategory": "",
+      "answerLevel": "",
+      "answerGeneralFollowAlong": "",
+      "answerNotes": "",
+      "recipeDetailsJson": ""
+    },
+    {
+      "reviewNumber": 749,
+      "priority": "TECHNICAL_CHECK",
+      "videoId": "XQzqWAhiCJc",
+      "url": "https://www.youtube.com/watch?v=XQzqWAhiCJc",
+      "title": "7 Minute Daily Stretching - FULL BODY Mobility, Stress Relief & Active Recovery!",
+      "category": "RUNNER_FLEXIBILITY",
+      "ownerApproval": "ALREADY_APPROVED",
+      "listedEquipment": null,
+      "resolvedEquipment": "NONE",
+      "level": "INTERMEDIATE",
+      "minutes": 8,
+      "blockers": [
+        {
+          "code": "TECHNICAL_AVAILABILITY",
+          "question": "Published 2024-11-18, older than 2 years (exercise); technical recheck required, no content reapproval."
         }
       ],
       "equipmentEvidence": [],

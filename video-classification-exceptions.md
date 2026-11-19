@@ -2,8 +2,8 @@
 
 **All 1737 videos are already owner-approved. No video reapproval is requested.**
 
-- Ready for automatic daily recommendations, subject to publication checks: **1658**
-- Videos with specific unresolved facts or routing conflicts: **79**
+- Ready for automatic daily recommendations, subject to publication checks: **1657**
+- Videos with specific unresolved facts or routing conflicts: **80**
 - Metadata mode: LIVE_OFFICIAL_API
 
 Download [the editable exception CSV](video-classification-exceptions.csv). Start with QUICK_FACT_FIX rows: each needs just one equipment or level answer. Fill the answer columns and a short factual note. Leave unknown facts blank. You can also reply with the review numbers and answers. TECHNICAL_CHECK rows need automated availability/identity work rather than another owner approval. Equipment choices: NONE, MAT, BODYWEIGHT, DUMBBELLS, KETTLEBELLS, BANDS. Record multiple required items in notes; current single-equipment routing cannot safely collapse them into one.
@@ -16,7 +16,7 @@ Download [the editable exception CSV](video-classification-exceptions.csv). Star
 | COOK_ALONG_RECIPE | 20 | 4 | 16 |
 | EXTENDED_MOBILITY | 16 | 60 | 0 |
 | GUIDED_RECOVERY | 28 | 20 | 0 |
-| RUNNER_FLEXIBILITY | 226 | 213 | 16 |
+| RUNNER_FLEXIBILITY | 226 | 212 | 17 |
 | RUNNING_WARMUP | 4 | 4 | 0 |
 | YOGA | 138 | 138 | 1 |
 | INJURY_CARE | 0 | 6 | 0 |
@@ -242,6 +242,12 @@ Download [the editable exception CSV](video-classification-exceptions.csv). Star
 
 - **SPECIAL_AUDIENCE**: Is this intended for a specific condition or population? It needs matching audience support before automatic general recommendations.
 
+### 749. 7 Minute Daily Stretching - FULL BODY Mobility, Stress Relief & Active Recovery!
+
+[Open this exact video](https://www.youtube.com/watch?v=XQzqWAhiCJc) · RUNNER_FLEXIBILITY · Already approved
+
+- **TECHNICAL_AVAILABILITY**: Published 2024-11-18, older than 2 years (exercise); technical recheck required, no content reapproval.
+
 ### 762. Costochondritis Rehab Exercises: Physical Therapy Stretches & Mobility for Chest Pain Relief
 
 [Open this exact video](https://www.youtube.com/watch?v=cUI53tysUeA) · RUNNER_FLEXIBILITY · Already approved
@@ -318,12 +324,6 @@ Download [the editable exception CSV](video-classification-exceptions.csv). Star
 ### 1134. 20 MIN CARDIO HIIT WORKOUT | No Equipment, Full Body
 
 [Open this exact video](https://www.youtube.com/watch?v=aB85Y6GA5NA) · BEGINNER_STRENGTH · Already approved
-
-- **EQUIPMENT_CONFLICT**: The listed equipment conflicts with the creator description, or several items are required. Record all required equipment; do not choose a single item if several are necessary.
-
-### 1136. 30 Minute Full Body Dumbbell METCON for Strength & Fat Burn
-
-[Open this exact video](https://www.youtube.com/watch?v=gxPrSTTNvfY) · BEGINNER_STRENGTH · Already approved
 
 - **EQUIPMENT_CONFLICT**: The listed equipment conflicts with the creator description, or several items are required. Record all required equipment; do not choose a single item if several are necessary.
 

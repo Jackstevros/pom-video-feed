@@ -1,8 +1,8 @@
 # POM approved videos
 
-Revision 71, published 2026-11-18, valid until 2026-11-25. These are the only videos the app can link to. The signed file the app reads is `approved-action-feed.signed.json`.
+Revision 72, published 2026-11-19, valid until 2026-11-26. These are the only videos the app can link to. The signed file the app reads is `approved-action-feed.signed.json`.
 
-## Runner flexibility (236)
+## Runner flexibility (235)
 
 | Video | Creator | Minutes | Published | Ages out |
 |---|---|---|---|---|
@@ -147,7 +147,6 @@ Revision 71, published 2026-11-18, valid until 2026-11-25. These are the only vi
 | [15-minute 15 Min. Deep Mobility for Upper & Mid Back](https://www.youtube.com/watch?v=zFHTgsYCm7c) | mobility by julia reppel | 18 | 2026-08-24 | 2028-08-24 |
 | [8-minute 8 Minute Dynamic Warm Up & Mobility (Joint preparation Routine)](https://www.youtube.com/watch?v=2hEOItvQQ5A) | MrandMrsMuscle | 9 | 2026-01-19 | 2028-01-19 |
 | [Calm Post-Workout Stretch | Full Body Cool Down for Faster Muscle Recovery & Flexibility](https://www.youtube.com/watch?v=SpVYmwzA1I8) | MrandMrsMuscle | 7 | 2026-07-27 | 2028-07-27 |
-| [7-minute 7 Minute Daily Stretching - FULL BODY Mobility, Stress Relief & Active Recovery!](https://www.youtube.com/watch?v=XQzqWAhiCJc) | MrandMrsMuscle | 8 | 2024-11-18 | 2026-11-18 |
 | [5-minute 5 Min Full Body Cool Down Stretches - Do After Every Workout](https://www.youtube.com/watch?v=g7SapsXwc-Y) | Nobadaddiction | 9 | 2026-03-26 | 2028-03-26 |
 | [7-Minute Hip Mobility Routine | Loosen Tight Hips (No Equipment)](https://www.youtube.com/watch?v=2m2zKwgEVWU) | nourishmovelove | 10 | 2026-08-05 | 2028-08-05 |
 | [Fix Weak Hips Fast! Top 7 Exercises for Strength & Stability (No More Hip Pain)](https://www.youtube.com/watch?v=GuLYktQ9gv8) | nourishmovelove | 11 | 2026-09-17 | 2028-09-17 |
