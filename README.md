@@ -1,6 +1,6 @@
 # POM approved videos
 
-Revision 73, published 2026-11-19, valid until 2026-11-26. These are the only videos the app can link to. The signed file the app reads is `approved-action-feed.signed.json`.
+Revision 74, published 2026-11-20, valid until 2026-11-27. These are the only videos the app can link to. The signed file the app reads is `approved-action-feed.signed.json`.
 
 ## Runner flexibility (235)
 
@@ -1839,7 +1839,7 @@ Revision 73, published 2026-11-19, valid until 2026-11-26. These are the only vi
 | [Jamie Oliver's Crispy Potato Rosti & Smoked Alaskan Sockeye Salmon](https://www.youtube.com/watch?v=LWokaHQPCUc) | Jamie Oliver | 7 | 2026-10-12 | 2032-10-12 |
 | [Comforting Korean Style Chicken Hotpot | Jamie Oliver](https://www.youtube.com/watch?v=nyYVQoooxD4) | Jamie Oliver | 6 | 2026-10-22 | 2032-10-22 |
 
-## Running warm-ups (6)
+## Running warm-ups (5)
 
 | Video | Creator | Minutes | Published | Ages out |
 |---|---|---|---|---|
@@ -1847,7 +1847,6 @@ Revision 73, published 2026-11-19, valid until 2026-11-26. These are the only vi
 | [10-minute 10 Min Glute Activation Workout with Lilly Sabri | No Equipment](https://www.youtube.com/watch?v=hT1RnnTYehI) | Lilly Sabri | 12 | 2026-10-07 | 2028-10-07 |
 | [Standing dynamic pre-run warm-up with drill alternative](https://www.youtube.com/watch?v=0CfnEwagJYA) | mobility by julia reppel | 5 | 2025-05-15 | 2027-05-15 |
 | [5-minute The 5 Minute Running Warm Up You'll Actually Do (All Standing)](https://www.youtube.com/watch?v=sQUjqODk0V0) | mobility by julia reppel | 6 | 2026-07-23 | 2028-07-23 |
-| [12-minute 12 MIN CREATIVE BOOTY - magic Glute Activation I knee friendly, no fire hydrants, no squats](https://www.youtube.com/watch?v=-RF9eqIZBew) | Pamela Reif | 14 | 2024-11-19 | 2026-11-19 |
 | [Standing pre-run mobility warm-up with balance support](https://www.youtube.com/watch?v=SfCguQSYiwk) | Yoga With Tim | 6 | 2026-03-01 | 2028-03-01 |
 
 ## Sleep guidance (3)

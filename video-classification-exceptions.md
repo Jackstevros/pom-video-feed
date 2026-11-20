@@ -2,8 +2,8 @@
 
 **All 1737 videos are already owner-approved. No video reapproval is requested.**
 
-- Ready for automatic daily recommendations, subject to publication checks: **1657**
-- Videos with specific unresolved facts or routing conflicts: **80**
+- Ready for automatic daily recommendations, subject to publication checks: **1656**
+- Videos with specific unresolved facts or routing conflicts: **81**
 - Metadata mode: LIVE_OFFICIAL_API
 
 Download [the editable exception CSV](video-classification-exceptions.csv). Start with QUICK_FACT_FIX rows: each needs just one equipment or level answer. Fill the answer columns and a short factual note. Leave unknown facts blank. You can also reply with the review numbers and answers. TECHNICAL_CHECK rows need automated availability/identity work rather than another owner approval. Equipment choices: NONE, MAT, BODYWEIGHT, DUMBBELLS, KETTLEBELLS, BANDS. Record multiple required items in notes; current single-equipment routing cannot safely collapse them into one.
@@ -17,7 +17,7 @@ Download [the editable exception CSV](video-classification-exceptions.csv). Star
 | EXTENDED_MOBILITY | 16 | 60 | 0 |
 | GUIDED_RECOVERY | 28 | 20 | 0 |
 | RUNNER_FLEXIBILITY | 226 | 212 | 17 |
-| RUNNING_WARMUP | 4 | 4 | 0 |
+| RUNNING_WARMUP | 4 | 3 | 1 |
 | YOGA | 138 | 138 | 1 |
 | INJURY_CARE | 0 | 6 | 0 |
 | PREGNANCY_EXERCISE | 0 | 24 | 1 |
@@ -303,6 +303,12 @@ Download [the editable exception CSV](video-classification-exceptions.csv). Star
 
 - **SPECIAL_AUDIENCE**: Is this intended for a specific condition or population? It needs matching audience support before automatic general recommendations.
 
+### 851. 12 MIN CREATIVE BOOTY - magic Glute Activation I knee friendly, no fire hydrants, no squats
+
+[Open this exact video](https://www.youtube.com/watch?v=-RF9eqIZBew) · RUNNING_WARMUP · Already approved
+
+- **TECHNICAL_AVAILABILITY**: Published 2024-11-19, older than 2 years (exercise); technical recheck required, no content reapproval.
+
 ### 893. 15 MIN MORNING YOGA FLOW || Feel Good Yoga Flow
 
 [Open this exact video](https://www.youtube.com/watch?v=8URMcK7_PjY) · YOGA · Already approved
@@ -320,11 +326,5 @@ Download [the editable exception CSV](video-classification-exceptions.csv). Star
 [Open this exact video](https://www.youtube.com/watch?v=AX0petlge70) · BEGINNER_STRENGTH · Already approved
 
 - **TECHNICAL_AVAILABILITY**: Published 2024-11-11, older than 2 years (exercise); technical recheck required, no content reapproval.
-
-### 1134. 20 MIN CARDIO HIIT WORKOUT | No Equipment, Full Body
-
-[Open this exact video](https://www.youtube.com/watch?v=aB85Y6GA5NA) · BEGINNER_STRENGTH · Already approved
-
-- **EQUIPMENT_CONFLICT**: The listed equipment conflicts with the creator description, or several items are required. Record all required equipment; do not choose a single item if several are necessary.
 
 The CSV and JSON contain every exception; this page previews the first 50.
