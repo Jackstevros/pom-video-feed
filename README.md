@@ -1,6 +1,6 @@
 # POM approved videos
 
-Revision 74, published 2026-11-20, valid until 2026-11-27. These are the only videos the app can link to. The signed file the app reads is `approved-action-feed.signed.json`.
+Revision 75, published 2026-11-22, valid until 2026-11-29. These are the only videos the app can link to. The signed file the app reads is `approved-action-feed.signed.json`.
 
 ## Runner flexibility (235)
 
@@ -1870,7 +1870,7 @@ Revision 74, published 2026-11-20, valid until 2026-11-27. These are the only vi
 | [10-minute lower back mobility](https://www.youtube.com/watch?v=5cRbDPWavhI) | Tone and Tighten | 11 | 2026-01-22 | 2028-01-22 |
 | [7-minute morning back stretches](https://www.youtube.com/watch?v=jbwg8Ya5q1o) | Tone and Tighten | 8 | 2025-10-30 | 2027-10-30 |
 
-## Approved but not shown (63)
+## Approved but not shown (64)
 
 - tom-merrick-runners-flexibility-19: Human review older than 14 days: tom-merrick-runners-flexibility-19
 - yoga-with-adriene-runners-7: Human review older than 14 days: yoga-with-adriene-runners-7
@@ -1935,3 +1935,4 @@ Revision 74, published 2026-11-20, valid until 2026-11-27. These are the only vi
 - owner-bulk-504575324c777057767951: Human review older than 14 days: owner-bulk-504575324c777057767951
 - owner-bulk-4a544d3348736e51446d6f: Human review older than 14 days: owner-bulk-4a544d3348736e51446d6f
 - owner-bulk-394c747839414850484459: Human review older than 14 days: owner-bulk-394c747839414850484459
+- owner-followup-uceyy7lakim: Human review older than 14 days: owner-followup-uceyy7lakim

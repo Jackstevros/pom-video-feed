@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T23:25:09.662Z",
+  "generatedAt": "2026-11-22T23:33:45.260Z",
   "sourceCommit": "6e6f17e4ed094454cf1f2355cd2f873b8c225704",
   "ownerApprovalComplete": true,
   "allApprovedCount": 1737,
@@ -2418,19 +2418,13 @@
   ],
   "strengthFollowup": {
     "selected": 31,
-    "released": 30,
-    "held": 1,
-    "exceptions": [
-      {
-        "spreadsheetRow": 12,
-        "videoId": "UcEyY7LaKIM",
-        "url": "https://www.youtube.com/watch?v=UcEyY7LaKIM",
-        "creator": "Jae-ho",
-        "reason": "YOUTUBE_ACCESS_OR_EMBEDDING_RESTRICTION",
-        "ownerApproval": "ALREADY_APPROVED",
-        "published": false
-      }
-    ]
+    "released": 31,
+    "held": 0,
+    "intakeRequested": 30,
+    "intakeReleased": 30,
+    "intakeHeld": 0,
+    "additionalPreviouslyApprovedReleased": 1,
+    "exceptions": []
   },
   "curatedReadyCount": 71,
   "curatedHoldCount": 0
