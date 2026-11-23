@@ -1,6 +1,6 @@
 # POM approved videos
 
-Revision 75, published 2026-11-22, valid until 2026-11-29. These are the only videos the app can link to. The signed file the app reads is `approved-action-feed.signed.json`.
+Revision 76, published 2026-11-23, valid until 2026-11-30. These are the only videos the app can link to. The signed file the app reads is `approved-action-feed.signed.json`.
 
 ## Runner flexibility (235)
 
@@ -747,7 +747,7 @@ Revision 75, published 2026-11-22, valid until 2026-11-29. These are the only vi
 | [30-minute 30 Min Full Body Deep Stretch | Release Stress & Tension](https://www.youtube.com/watch?v=rXymddIGGew) | Travis Eliot | 33 | 2026-09-12 | 2028-09-12 |
 | [Yoga Pilates full-body strength](https://www.youtube.com/watch?v=2_Z8usjTflU) | Yoga with Kassandra | 32 | 2026-05-11 | 2028-05-11 |
 
-## Strength plan sessions (754)
+## Strength plan sessions (753)
 
 | Video | Creator | Minutes | Published | Ages out |
 |---|---|---|---|---|
@@ -797,7 +797,6 @@ Revision 75, published 2026-11-22, valid until 2026-11-29. These are the only vi
 | [10-minute 10 Min Intense Abs Workout - No Equipment No Repeats](https://www.youtube.com/watch?v=XkPTWfH5h70) | Chloe Ting | 11 | 2025-01-02 | 2027-01-02 |
 | [15-minute 15 MIN HIIT WORKOUT | Fat Burn + Core Sculpt | No Equipment](https://www.youtube.com/watch?v=Dkf31xOJ1Uw) | Daniela Suarez | 15 | 2025-10-18 | 2027-10-18 |
 | [Full Body Low Impact Cardio | Home Workout, No Jumps, Zero Equipment | COZY CARDIO](https://www.youtube.com/watch?v=IqhwNYM3V04) | Daniela Suarez | 18 | 2026-01-17 | 2028-01-17 |
-| [10-minute 10 Minute Abs Workout at Home: Lose Belly Fat & Get a Flat Stomach FAST! (No Equipment Needed)](https://www.youtube.com/watch?v=FLj97P-OKno) | Daniela Suarez | 11 | 2024-11-22 | 2026-11-22 |
 | [SLIM ARMS IN 20 DAYS | Best Upper Body Workout!](https://www.youtube.com/watch?v=gfKwAhZo_R0) | Daniela Suarez | 11 | 2025-09-30 | 2027-09-30 |
 | [GET TONED FEMININE ARMS & ABS IN 20 DAYS WITH THIS UPPER BODY WORKOUT](https://www.youtube.com/watch?v=mS3BoaWgCmg) | Daniela Suarez | 16 | 2025-08-01 | 2027-08-01 |
 | [30-Min Full Body Dumbbell Workout | 9 Giant Sets + AMRAP Finisher](https://www.youtube.com/watch?v=GStF808Keo0) | DANIELPT FITNESS | 34 | 2026-10-22 | 2028-10-22 |

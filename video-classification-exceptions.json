@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T23:33:45.260Z",
+  "generatedAt": "2026-11-23T02:00:33.836Z",
   "sourceCommit": "6e6f17e4ed094454cf1f2355cd2f873b8c225704",
   "ownerApprovalComplete": true,
   "allApprovedCount": 1737,
   "metadataMode": "LIVE_OFFICIAL_API",
-  "readyCount": 1656,
-  "exceptionCount": 81,
+  "readyCount": 1655,
+  "exceptionCount": 82,
   "byCategory": {
     "BEGINNER_STRENGTH": {
       "approved": 405,
@@ -15,8 +15,8 @@
     },
     "STRENGTH_TRAINING": {
       "approved": 696,
-      "ready": 637,
-      "exceptions": 29
+      "ready": 636,
+      "exceptions": 30
     },
     "PILATES": {
       "approved": 204,
@@ -1769,6 +1769,43 @@
           "source": "CREATOR_DESCRIPTION",
           "quote": "• Equipment: Dumbbells (or barbell/kettlebell), chair/bench (for staggered RDLs), mat",
           "conflict": true
+        }
+      ],
+      "answerEquipment": "",
+      "answerCategory": "",
+      "answerLevel": "",
+      "answerGeneralFollowAlong": "",
+      "answerNotes": "",
+      "recipeDetailsJson": ""
+    },
+    {
+      "reviewNumber": 1375,
+      "priority": "TECHNICAL_CHECK",
+      "videoId": "FLj97P-OKno",
+      "url": "https://www.youtube.com/watch?v=FLj97P-OKno",
+      "title": "10 Minute Abs Workout at Home: Lose Belly Fat & Get a Flat Stomach FAST! (No Equipment Needed)",
+      "category": "STRENGTH_TRAINING",
+      "ownerApproval": "ALREADY_APPROVED",
+      "listedEquipment": "BODYWEIGHT",
+      "resolvedEquipment": "BODYWEIGHT",
+      "level": "INTERMEDIATE",
+      "minutes": 11,
+      "blockers": [
+        {
+          "code": "TECHNICAL_AVAILABILITY",
+          "question": "Published 2024-11-22, older than 2 years (exercise); technical recheck required, no content reapproval."
+        }
+      ],
+      "equipmentEvidence": [
+        {
+          "equipment": "NONE",
+          "source": "OWNER_REVIEWED_TITLE",
+          "quote": "no equipment"
+        },
+        {
+          "equipment": "NONE",
+          "source": "CREATOR_DESCRIPTION",
+          "quote": "* No equipment home ab exercises"
         }
       ],
       "answerEquipment": "",
