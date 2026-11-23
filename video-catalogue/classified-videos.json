@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-11-16T20:35:06.986Z",
+ "generatedAt": "2026-11-23T22:06:13.093Z",
  "source": "resources/owner-bulk-video-approval-2026-10-30.json",
  "youtubeDetailsFetched": true,
  "note": "Public classification list. Not signed; not loaded by the app.",
@@ -3746,7 +3746,7 @@
   {
    "videoId": "XPnCQDOyMbk",
    "url": "https://www.youtube.com/watch?v=XPnCQDOyMbk",
-   "title": "30 Min Full Body Workout | Build Strength & Burn Fat (No Equipment)",
+   "title": "30 Min Fat Loss Workout at Home - Full Body for TOTAL BEGINNERS (Easy to Follow)",
    "channel": "Nobadaddiction",
    "channelId": "UCcaWyZrrxMaTKtVDkexK9Ow",
    "category": "BEGINNER_STRENGTH",
@@ -3764,12 +3764,41 @@
     "NONE"
    ],
    "publishedAt": "2026-07-21T10:00:12Z",
-   "workoutSchedule": null,
-   "scheduleSource": "MISSING",
-   "status": "NEEDS_OWNER_REVIEW",
-   "exceptions": [
-    "SCHEDULE_MISSING: creator gives no chapters or exercise list; needs a watched breakdown"
-   ]
+   "workoutSchedule": [
+    {
+     "name": "Warm Up",
+     "start": "0:22",
+     "seconds": 192
+    },
+    {
+     "name": "Full Body Sculpt",
+     "start": "3:34",
+     "seconds": 370
+    },
+    {
+     "name": "Tempo Flow",
+     "start": "9:44",
+     "seconds": 406
+    },
+    {
+     "name": "Full Body Burn",
+     "start": "16:30",
+     "seconds": 364
+    },
+    {
+     "name": "Core & Control",
+     "start": "22:34",
+     "seconds": 376
+    },
+    {
+     "name": "Finisher",
+     "start": "28:50",
+     "seconds": 202.00000000000023
+    }
+   ],
+   "scheduleSource": "YOUTUBE_CHAPTERS",
+   "status": "CLASSIFIED",
+   "exceptions": []
   },
   {
    "videoId": "5NgiwJxmBs4",
@@ -38165,7 +38194,7 @@
   {
    "videoId": "5nulzE_d3Po",
    "url": "https://www.youtube.com/watch?v=5nulzE_d3Po",
-   "title": "20 MIN CARDIO HIIT WORKOUT - ALL STANDING - Full Body, No Equipment, No Repeats",
+   "title": "20 Min Cardio HIIT Workout at Home - SWEAT & BURN FAT (All Standing, No Equipment, No Repeat)",
    "channel": "Nobadaddiction",
    "channelId": "UCcaWyZrrxMaTKtVDkexK9Ow",
    "category": "BEGINNER_STRENGTH",
@@ -38183,12 +38212,31 @@
     "NONE"
    ],
    "publishedAt": "2026-04-28T10:00:09Z",
-   "workoutSchedule": null,
-   "scheduleSource": "MISSING",
-   "status": "NEEDS_OWNER_REVIEW",
-   "exceptions": [
-    "SCHEDULE_MISSING: creator gives no chapters or exercise list; needs a watched breakdown"
-   ]
+   "workoutSchedule": [
+    {
+     "name": "Round 1",
+     "start": "0:24",
+     "seconds": 596
+    },
+    {
+     "name": "Halfway Break",
+     "start": "10:20",
+     "seconds": 60
+    },
+    {
+     "name": "Round 2",
+     "start": "11:20",
+     "seconds": 596
+    },
+    {
+     "name": "Workout Complete",
+     "start": "21:16",
+     "seconds": 38
+    }
+   ],
+   "scheduleSource": "YOUTUBE_CHAPTERS",
+   "status": "CLASSIFIED",
+   "exceptions": []
   },
   {
    "videoId": "61gFzBy_Ig8",
@@ -38245,7 +38293,7 @@
   {
    "videoId": "7YNnpzTBeGU",
    "url": "https://www.youtube.com/watch?v=7YNnpzTBeGU",
-   "title": "30 Min Full Body HIIT | Fat Burn (No Jumping, No Equipment)",
+   "title": "30 Min Workout to BURN FAT at Home - Full Body HIIT (No Jumping, No Equipment)",
    "channel": "Nobadaddiction",
    "channelId": "UCcaWyZrrxMaTKtVDkexK9Ow",
    "category": "BEGINNER_STRENGTH",
@@ -38263,17 +38311,51 @@
     "NONE"
    ],
    "publishedAt": "2026-08-04T10:00:07Z",
-   "workoutSchedule": null,
-   "scheduleSource": "MISSING",
-   "status": "NEEDS_OWNER_REVIEW",
-   "exceptions": [
-    "SCHEDULE_MISSING: creator gives no chapters or exercise list; needs a watched breakdown"
-   ]
+   "workoutSchedule": [
+    {
+     "name": "Warm Up",
+     "start": "0:28",
+     "seconds": 134
+    },
+    {
+     "name": "Set 1",
+     "start": "2:42",
+     "seconds": 362
+    },
+    {
+     "name": "Set 2",
+     "start": "8:44",
+     "seconds": 358
+    },
+    {
+     "name": "Set 3",
+     "start": "14:42",
+     "seconds": 362
+    },
+    {
+     "name": "Set 4",
+     "start": "20:44",
+     "seconds": 388
+    },
+    {
+     "name": "Set 5",
+     "start": "27:12",
+     "seconds": 360
+    },
+    {
+     "name": "Workout Complete",
+     "start": "33:12",
+     "seconds": 48
+    }
+   ],
+   "scheduleSource": "YOUTUBE_CHAPTERS",
+   "status": "CLASSIFIED",
+   "exceptions": []
   },
   {
    "videoId": "9-uOmIiMqD8",
    "url": "https://www.youtube.com/watch?v=9-uOmIiMqD8",
-   "title": "BURN 500 CALORIES with this 30 Minute ALL STANDING Cardio HIIT Workout",
+   "title": "30 Min Cardio Workout at Home - BURN 500 CALORIES (All Standing HIIT, No Equipment)",
    "channel": "Nobadaddiction",
    "channelId": "UCcaWyZrrxMaTKtVDkexK9Ow",
    "category": "BEGINNER_STRENGTH",
@@ -38291,12 +38373,46 @@
     "NONE"
    ],
    "publishedAt": "2026-05-12T10:00:10Z",
-   "workoutSchedule": null,
-   "scheduleSource": "MISSING",
-   "status": "NEEDS_OWNER_REVIEW",
-   "exceptions": [
-    "SCHEDULE_MISSING: creator gives no chapters or exercise list; needs a watched breakdown"
-   ]
+   "workoutSchedule": [
+    {
+     "name": "Circuit 1",
+     "start": "0:14",
+     "seconds": 357
+    },
+    {
+     "name": "Circuit 2",
+     "start": "6:11",
+     "seconds": 360
+    },
+    {
+     "name": "Halfway Break",
+     "start": "12:11",
+     "seconds": 60
+    },
+    {
+     "name": "Circuit 3",
+     "start": "13:11",
+     "seconds": 360
+    },
+    {
+     "name": "Circuit 4",
+     "start": "19:11",
+     "seconds": 360
+    },
+    {
+     "name": "Circuit 5",
+     "start": "25:11",
+     "seconds": 360
+    },
+    {
+     "name": "Workout Complete",
+     "start": "31:11",
+     "seconds": 31
+    }
+   ],
+   "scheduleSource": "YOUTUBE_CHAPTERS",
+   "status": "CLASSIFIED",
+   "exceptions": []
   },
   {
    "videoId": "9nk9CF3uRsU",
@@ -38357,7 +38473,7 @@
   {
    "videoId": "bh70dCfmjz8",
    "url": "https://www.youtube.com/watch?v=bh70dCfmjz8",
-   "title": "20 MIN CARDIO HIIT WORKOUT - ALL STANDING - Full Body, No Equipment, No Repeats",
+   "title": "20 Min Weight Loss Workout at Home - MELT FAT With All Standing Cardio HIIT (No Repeat)",
    "channel": "Nobadaddiction",
    "channelId": "UCcaWyZrrxMaTKtVDkexK9Ow",
    "category": "BEGINNER_STRENGTH",
@@ -38375,17 +38491,36 @@
     "NONE"
    ],
    "publishedAt": "2026-03-03T10:00:58Z",
-   "workoutSchedule": null,
-   "scheduleSource": "MISSING",
-   "status": "NEEDS_OWNER_REVIEW",
-   "exceptions": [
-    "SCHEDULE_MISSING: creator gives no chapters or exercise list; needs a watched breakdown"
-   ]
+   "workoutSchedule": [
+    {
+     "name": "Round 1",
+     "start": "0:28",
+     "seconds": 596
+    },
+    {
+     "name": "Halfway Break",
+     "start": "10:24",
+     "seconds": 60
+    },
+    {
+     "name": "Round 2",
+     "start": "11:24",
+     "seconds": 596
+    },
+    {
+     "name": "Workout Complete",
+     "start": "21:20",
+     "seconds": 34
+    }
+   ],
+   "scheduleSource": "YOUTUBE_CHAPTERS",
+   "status": "CLASSIFIED",
+   "exceptions": []
   },
   {
    "videoId": "f19xoleMx1k",
    "url": "https://www.youtube.com/watch?v=f19xoleMx1k",
-   "title": "20 MIN CARDIO HIIT WORKOUT - ALL STANDING - Full Body Fat Burn (No Equipment, No Repeat)",
+   "title": "20 Min Cardio HIIT Workout for Fat Loss at Home - SUPER SWEATY (All Standing, No Repeat)",
    "channel": "Nobadaddiction",
    "channelId": "UCcaWyZrrxMaTKtVDkexK9Ow",
    "category": "BEGINNER_STRENGTH",
@@ -38403,12 +38538,31 @@
     "NONE"
    ],
    "publishedAt": "2026-07-14T10:00:17Z",
-   "workoutSchedule": null,
-   "scheduleSource": "MISSING",
-   "status": "NEEDS_OWNER_REVIEW",
-   "exceptions": [
-    "SCHEDULE_MISSING: creator gives no chapters or exercise list; needs a watched breakdown"
-   ]
+   "workoutSchedule": [
+    {
+     "name": "Round 1",
+     "start": "0:27",
+     "seconds": 595
+    },
+    {
+     "name": "Break",
+     "start": "10:22",
+     "seconds": 30
+    },
+    {
+     "name": "Round 2",
+     "start": "10:52",
+     "seconds": 600
+    },
+    {
+     "name": "Workout Complete",
+     "start": "20:52",
+     "seconds": 44
+    }
+   ],
+   "scheduleSource": "YOUTUBE_CHAPTERS",
+   "status": "CLASSIFIED",
+   "exceptions": []
   },
   {
    "videoId": "fleFCoQmF6I",
@@ -38469,7 +38623,7 @@
   {
    "videoId": "GQEkceIJbBg",
    "url": "https://www.youtube.com/watch?v=GQEkceIJbBg",
-   "title": "30 MIN CALORIE KILLER HIIT WORKOUT - ALL STANDING - Full Body, No Equipment, No Repeats",
+   "title": "30 Min HIIT Workout at Home - TORCH CALORIES With All Standing Cardio (No Equipment, No Repeat)",
    "channel": "Nobadaddiction",
    "channelId": "UCcaWyZrrxMaTKtVDkexK9Ow",
    "category": "BEGINNER_STRENGTH",
@@ -38487,12 +38641,31 @@
     "NONE"
    ],
    "publishedAt": "2026-01-27T10:00:22Z",
-   "workoutSchedule": null,
-   "scheduleSource": "MISSING",
-   "status": "NEEDS_OWNER_REVIEW",
-   "exceptions": [
-    "SCHEDULE_MISSING: creator gives no chapters or exercise list; needs a watched breakdown"
-   ]
+   "workoutSchedule": [
+    {
+     "name": "Round 1",
+     "start": "0:14",
+     "seconds": 897
+    },
+    {
+     "name": "Halfway Break",
+     "start": "15:11",
+     "seconds": 59
+    },
+    {
+     "name": "Round 2",
+     "start": "16:10",
+     "seconds": 901
+    },
+    {
+     "name": "Workout Complete",
+     "start": "31:11",
+     "seconds": 31
+    }
+   ],
+   "scheduleSource": "YOUTUBE_CHAPTERS",
+   "status": "CLASSIFIED",
+   "exceptions": []
   },
   {
    "videoId": "jD-IUh81GG4",
@@ -38666,7 +38839,7 @@
   {
    "videoId": "O2ntwvo6Oic",
    "url": "https://www.youtube.com/watch?v=O2ntwvo6Oic",
-   "title": "20 Min Standing Cardio HIIT | Burn 300 Calories (No Repeat, No Equipment)",
+   "title": "20 Min Fat Burning Cardio Workout at Home - ALL STANDING HIIT (No Repeat)",
    "channel": "Nobadaddiction",
    "channelId": "UCcaWyZrrxMaTKtVDkexK9Ow",
    "category": "BEGINNER_STRENGTH",
@@ -38684,12 +38857,26 @@
     "NONE"
    ],
    "publishedAt": "2026-07-30T10:00:03Z",
-   "workoutSchedule": null,
-   "scheduleSource": "MISSING",
-   "status": "NEEDS_OWNER_REVIEW",
-   "exceptions": [
-    "SCHEDULE_MISSING: creator gives no chapters or exercise list; needs a watched breakdown"
-   ]
+   "workoutSchedule": [
+    {
+     "name": "Round 1",
+     "start": "0:22",
+     "seconds": 600
+    },
+    {
+     "name": "Round 2",
+     "start": "10:22",
+     "seconds": 564
+    },
+    {
+     "name": "Workout Complete",
+     "start": "19:46",
+     "seconds": 32
+    }
+   ],
+   "scheduleSource": "YOUTUBE_CHAPTERS",
+   "status": "CLASSIFIED",
+   "exceptions": []
   },
   {
    "videoId": "Qgvqe6ToTBE",
@@ -38972,7 +39159,7 @@
   {
    "videoId": "wY-bppwAnnE",
    "url": "https://www.youtube.com/watch?v=wY-bppwAnnE",
-   "title": "30 Min Standing Cardio HIIT | Burn 400 Calories (No Equipment)",
+   "title": "30 Min HIIT Workout to Lose Fat at Home - ALL STANDING Cardio (No Equipment)",
    "channel": "Nobadaddiction",
    "channelId": "UCcaWyZrrxMaTKtVDkexK9Ow",
    "category": "BEGINNER_STRENGTH",
@@ -38990,12 +39177,46 @@
     "NONE"
    ],
    "publishedAt": "2026-08-11T10:00:01Z",
-   "workoutSchedule": null,
-   "scheduleSource": "MISSING",
-   "status": "NEEDS_OWNER_REVIEW",
-   "exceptions": [
-    "SCHEDULE_MISSING: creator gives no chapters or exercise list; needs a watched breakdown"
-   ]
+   "workoutSchedule": [
+    {
+     "name": "Warm Up",
+     "start": "0:22",
+     "seconds": 192
+    },
+    {
+     "name": "Set 1",
+     "start": "3:34",
+     "seconds": 360
+    },
+    {
+     "name": "Set 2",
+     "start": "9:34",
+     "seconds": 360
+    },
+    {
+     "name": "Set 3",
+     "start": "15:34",
+     "seconds": 384
+    },
+    {
+     "name": "Set 4",
+     "start": "21:58",
+     "seconds": 360
+    },
+    {
+     "name": "Finisher",
+     "start": "27:58",
+     "seconds": 252
+    },
+    {
+     "name": "Workout Complete",
+     "start": "32:10",
+     "seconds": 32.00000000000023
+    }
+   ],
+   "scheduleSource": "YOUTUBE_CHAPTERS",
+   "status": "CLASSIFIED",
+   "exceptions": []
   },
   {
    "videoId": "X4XOLX8N-UQ",
@@ -42794,7 +43015,7 @@
   {
    "videoId": "GW01hwwmn3E",
    "url": "https://www.youtube.com/watch?v=GW01hwwmn3E",
-   "title": "15 MIN CARDIO HIIT WORKOUT - ALL STANDING - Full Body, No Equipment, No Repeats",
+   "title": "15 Min Cardio HIIT to Lose Fat - INTENSE All Standing Workout (No Equipment, No Repeat)",
    "channel": "Nobadaddiction",
    "channelId": "UCcaWyZrrxMaTKtVDkexK9Ow",
    "category": "STRENGTH_TRAINING",
@@ -42822,7 +43043,7 @@
   {
    "videoId": "hWkKV1clcdI",
    "url": "https://www.youtube.com/watch?v=hWkKV1clcdI",
-   "title": "30 MIN CARDIO HIIT WORKOUT - ALL STANDING - Full Body, No Equipment",
+   "title": "30 Min Workout for Weight Loss - CARDIO HIIT at Home (All Standing, No Equipment)",
    "channel": "Nobadaddiction",
    "channelId": "UCcaWyZrrxMaTKtVDkexK9Ow",
    "category": "STRENGTH_TRAINING",
@@ -42840,12 +43061,31 @@
     "NONE"
    ],
    "publishedAt": "2026-02-17T10:01:04Z",
-   "workoutSchedule": null,
-   "scheduleSource": "MISSING",
-   "status": "NEEDS_OWNER_REVIEW",
-   "exceptions": [
-    "SCHEDULE_MISSING: creator gives no chapters or exercise list; needs a watched breakdown"
-   ]
+   "workoutSchedule": [
+    {
+     "name": "Round 1",
+     "start": "0:24",
+     "seconds": 1015
+    },
+    {
+     "name": "Halfway Break",
+     "start": "17:19",
+     "seconds": 60
+    },
+    {
+     "name": "Round 2",
+     "start": "18:19",
+     "seconds": 1018
+    },
+    {
+     "name": "Workout Complete",
+     "start": "35:17",
+     "seconds": 37
+    }
+   ],
+   "scheduleSource": "YOUTUBE_CHAPTERS",
+   "status": "CLASSIFIED",
+   "exceptions": []
   },
   {
    "videoId": "iw67wvYWZ1k",
@@ -42906,7 +43146,7 @@
   {
    "videoId": "mE6v37i5yJY",
    "url": "https://www.youtube.com/watch?v=mE6v37i5yJY",
-   "title": "30 MIN CARDIO HIIT WORKOUT - ALL STANDING - Full Body, No Equipment",
+   "title": "30 Min Cardio Workout at Home - ALL STANDING HIIT to Burn Fat (No Equipment)",
    "channel": "Nobadaddiction",
    "channelId": "UCcaWyZrrxMaTKtVDkexK9Ow",
    "category": "STRENGTH_TRAINING",
@@ -42924,17 +43164,61 @@
     "NONE"
    ],
    "publishedAt": "2026-01-13T10:01:23Z",
-   "workoutSchedule": null,
-   "scheduleSource": "MISSING",
-   "status": "NEEDS_OWNER_REVIEW",
-   "exceptions": [
-    "SCHEDULE_MISSING: creator gives no chapters or exercise list; needs a watched breakdown"
-   ]
+   "workoutSchedule": [
+    {
+     "name": "Warm Up",
+     "start": "0:16",
+     "seconds": 130
+    },
+    {
+     "name": "Circuit 1",
+     "start": "2:26",
+     "seconds": 364
+    },
+    {
+     "name": "Circuit 2",
+     "start": "8:30",
+     "seconds": 360
+    },
+    {
+     "name": "Circuit 3",
+     "start": "14:30",
+     "seconds": 360
+    },
+    {
+     "name": "Halfway Break",
+     "start": "20:30",
+     "seconds": 60
+    },
+    {
+     "name": "Circuit 4",
+     "start": "21:30",
+     "seconds": 360
+    },
+    {
+     "name": "Circuit 5",
+     "start": "27:30",
+     "seconds": 360
+    },
+    {
+     "name": "Cool Down",
+     "start": "33:30",
+     "seconds": 170
+    },
+    {
+     "name": "Workout Complete",
+     "start": "36:20",
+     "seconds": 40
+    }
+   ],
+   "scheduleSource": "YOUTUBE_CHAPTERS",
+   "status": "CLASSIFIED",
+   "exceptions": []
   },
   {
    "videoId": "oXdX0CrltLU",
    "url": "https://www.youtube.com/watch?v=oXdX0CrltLU",
-   "title": "30 Min All Standing Full Body Workout - Strength & Fat Burn at Home (No Equipment)",
+   "title": "30 Min Full Body Workout for Beginners - FAT BURN at Home (All Standing, Low Impact)",
    "channel": "Nobadaddiction",
    "channelId": "UCcaWyZrrxMaTKtVDkexK9Ow",
    "category": "STRENGTH_TRAINING",
@@ -42952,12 +43236,56 @@
     "NONE"
    ],
    "publishedAt": "2026-06-30T10:00:01Z",
-   "workoutSchedule": null,
-   "scheduleSource": "MISSING",
-   "status": "NEEDS_OWNER_REVIEW",
-   "exceptions": [
-    "SCHEDULE_MISSING: creator gives no chapters or exercise list; needs a watched breakdown"
-   ]
+   "workoutSchedule": [
+    {
+     "name": "Warm Up",
+     "start": "0:32",
+     "seconds": 136
+    },
+    {
+     "name": "Round 1",
+     "start": "2:48",
+     "seconds": 356
+    },
+    {
+     "name": "Round 2",
+     "start": "8:44",
+     "seconds": 359
+    },
+    {
+     "name": "Break",
+     "start": "14:43",
+     "seconds": 61
+    },
+    {
+     "name": "Round 3",
+     "start": "15:44",
+     "seconds": 360
+    },
+    {
+     "name": "Round 4",
+     "start": "21:44",
+     "seconds": 480
+    },
+    {
+     "name": "Round 5",
+     "start": "29:44",
+     "seconds": 358
+    },
+    {
+     "name": "Cool Down",
+     "start": "35:42",
+     "seconds": 136
+    },
+    {
+     "name": "Workout Complete",
+     "start": "37:58",
+     "seconds": 38
+    }
+   ],
+   "scheduleSource": "YOUTUBE_CHAPTERS",
+   "status": "CLASSIFIED",
+   "exceptions": []
   },
   {
    "videoId": "Q-z-TayxFug",
@@ -43074,7 +43402,7 @@
   {
    "videoId": "uL7DTmk8U9A",
    "url": "https://www.youtube.com/watch?v=uL7DTmk8U9A",
-   "title": "15 MIN CARDIO HIIT WORKOUT - ALL STANDING - Full Body, No Equipment, at Home",
+   "title": "15 Min SWEATY HIIT Workout For Fat Loss & Cardio (All Standing, At Home)",
    "channel": "Nobadaddiction",
    "channelId": "UCcaWyZrrxMaTKtVDkexK9Ow",
    "category": "STRENGTH_TRAINING",
@@ -43092,12 +43420,26 @@
     "NONE"
    ],
    "publishedAt": "2026-04-21T10:01:26Z",
-   "workoutSchedule": null,
-   "scheduleSource": "MISSING",
-   "status": "NEEDS_OWNER_REVIEW",
-   "exceptions": [
-    "SCHEDULE_MISSING: creator gives no chapters or exercise list; needs a watched breakdown"
-   ]
+   "workoutSchedule": [
+    {
+     "name": "Circuit 1",
+     "start": "0:16",
+     "seconds": 356
+    },
+    {
+     "name": "Circuit 2",
+     "start": "6:12",
+     "seconds": 358
+    },
+    {
+     "name": "Finisher",
+     "start": "12:10",
+     "seconds": 178
+    }
+   ],
+   "scheduleSource": "YOUTUBE_CHAPTERS",
+   "status": "CLASSIFIED",
+   "exceptions": []
   },
   {
    "videoId": "w_51dfr0W7E",
@@ -59448,7 +59790,7 @@
   {
    "videoId": "lDoQQO7pX3w",
    "url": "https://www.youtube.com/watch?v=lDoQQO7pX3w",
-   "title": "30 Min Full Body Workout at Home (No Equipment)",
+   "title": "30 Min NO JUMPING HIIT Workout for Fat Loss - Full Body Burn at Home (Warm Up + Cool Down)",
    "channel": "Nobadaddiction",
    "channelId": "UCcaWyZrrxMaTKtVDkexK9Ow",
    "category": "STRENGTH_TRAINING",
@@ -59466,12 +59808,46 @@
     "NONE"
    ],
    "publishedAt": "2026-05-28T11:00:23Z",
-   "workoutSchedule": null,
-   "scheduleSource": "MISSING",
-   "status": "NEEDS_OWNER_REVIEW",
-   "exceptions": [
-    "SCHEDULE_MISSING: creator gives no chapters or exercise list; needs a watched breakdown"
-   ]
+   "workoutSchedule": [
+    {
+     "name": "Warm Up",
+     "start": "0:30",
+     "seconds": 134
+    },
+    {
+     "name": "Circuit 1 · Legs",
+     "start": "2:44",
+     "seconds": 476
+    },
+    {
+     "name": "Circuit 2 · Upper Body & Core",
+     "start": "10:40",
+     "seconds": 418
+    },
+    {
+     "name": "Circuit 3 · Glutes",
+     "start": "17:38",
+     "seconds": 360
+    },
+    {
+     "name": "Circuit 4 · Core",
+     "start": "23:38",
+     "seconds": 360
+    },
+    {
+     "name": "Circuit 5 · Posterior Chain",
+     "start": "29:38",
+     "seconds": 360
+    },
+    {
+     "name": "Cool Down",
+     "start": "35:38",
+     "seconds": 232
+    }
+   ],
+   "scheduleSource": "YOUTUBE_CHAPTERS",
+   "status": "CLASSIFIED",
+   "exceptions": []
   },
   {
    "videoId": "S2llSEdBXJE",

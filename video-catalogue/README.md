@@ -1,6 +1,6 @@
 # POM video catalogue classification
 
-Generated 2026-11-16T20:35:06.986Z from `resources/owner-bulk-video-approval-2026-10-30.json` (1737 owner-approved videos).
+Generated 2026-11-23T22:06:13.093Z from `resources/owner-bulk-video-approval-2026-10-30.json` (1737 owner-approved videos).
 YouTube descriptions fetched: **yes**.
 
 This public list tags each video with duration, instructor, equipment and a workout schedule
@@ -16,17 +16,17 @@ only need answering once, there; this list adds instructor, schedule and conflic
 
 | | Videos |
 |---|---:|
-| Fully classified | 269 |
-| Needs owner review | 1468 |
-| Schedule from YouTube chapters | 357 |
+| Fully classified | 283 |
+| Needs owner review | 1454 |
+| Schedule from YouTube chapters | 371 |
 | Schedule from description list | 59 |
-| No schedule | 1321 |
+| No schedule | 1307 |
 
 ## Exceptions by reason
 
 | Reason | Videos |
 |---|---:|
-| SCHEDULE_MISSING | 1321 |
+| SCHEDULE_MISSING | 1307 |
 | EQUIPMENT_UNKNOWN | 604 |
 | EQUIPMENT_CONFLICT | 20 |
 | DURATION_MISMATCH | 16 |
