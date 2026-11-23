@@ -1,6 +1,6 @@
 # POM approved videos
 
-Revision 77, published 2026-11-23, valid until 2026-11-30. These are the only videos the app can link to. The signed file the app reads is `approved-action-feed.signed.json`.
+Revision 78, published 2026-11-23, valid until 2026-11-30. These are the only videos the app can link to. The signed file the app reads is `approved-action-feed.signed.json`.
 
 ## Runner flexibility (235)
 
@@ -747,7 +747,7 @@ Revision 77, published 2026-11-23, valid until 2026-11-30. These are the only vi
 | [30-minute 30 Min Full Body Deep Stretch | Release Stress & Tension](https://www.youtube.com/watch?v=rXymddIGGew) | Travis Eliot | 33 | 2026-09-12 | 2028-09-12 |
 | [Yoga Pilates full-body strength](https://www.youtube.com/watch?v=2_Z8usjTflU) | Yoga with Kassandra | 32 | 2026-05-11 | 2028-05-11 |
 
-## Strength plan sessions (753)
+## Strength plan sessions (754)
 
 | Video | Creator | Minutes | Published | Ages out |
 |---|---|---|---|---|
@@ -1024,6 +1024,7 @@ Revision 77, published 2026-11-23, valid until 2026-11-30. These are the only vi
 | [20 Min Full Body KETTLEBELL Workout | Follow Along | Strength | No Repeat | 4K](https://www.youtube.com/watch?v=6_w3IeIT1H4) | HIIT Grow | 24 | 2026-10-05 | 2028-10-05 |
 | [20 MIN FULL BODY KETTLEBELL WORKOUT | Fat Burn](https://www.youtube.com/watch?v=OjBX6sogDBQ) | Jackson Carey | 21 | 2026-07-26 | 2028-07-26 |
 | [20 MIN FAT BURN WORKOUT | Full Body | No Equipment](https://www.youtube.com/watch?v=EJl1rDgGoWY) | Jackson Carey | 21 | 2026-08-09 | 2028-08-09 |
+| [20 MIN FULL BODY WORKOUT (No Equipment  & No Repeat) 20분 전신 운동 (장비 없음 & 반복 없음)](https://www.youtube.com/watch?v=UcEyY7LaKIM) | Jae-ho | 21 | 2026-06-25 | 2028-06-25 |
 | [10-minute dumbbell workout](https://www.youtube.com/watch?v=1EPPqwe9cCE) | Jessica Valant | 14 | 2026-02-16 | 2028-02-16 |
 | [10-minute full-body workout, no equipment](https://www.youtube.com/watch?v=b7XKJsKn6OI) | Jessica Valant | 12 | 2026-01-19 | 2028-01-19 |
 | [10-minute PROLAPSE SAFE WORKOUT WITH DUMBBELLS - 10 Minute Prolapse Exercises at Home](https://www.youtube.com/watch?v=bfuOSgMLuQo) | Jessica Valant | 13 | 2026-03-23 | 2028-03-23 |
@@ -1869,7 +1870,7 @@ Revision 77, published 2026-11-23, valid until 2026-11-30. These are the only vi
 | [10-minute lower back mobility](https://www.youtube.com/watch?v=5cRbDPWavhI) | Tone and Tighten | 11 | 2026-01-22 | 2028-01-22 |
 | [7-minute morning back stretches](https://www.youtube.com/watch?v=jbwg8Ya5q1o) | Tone and Tighten | 8 | 2025-10-30 | 2027-10-30 |
 
-## Approved but not shown (64)
+## Approved but not shown (63)
 
 - tom-merrick-runners-flexibility-19: Human review older than 14 days: tom-merrick-runners-flexibility-19
 - yoga-with-adriene-runners-7: Human review older than 14 days: yoga-with-adriene-runners-7
@@ -1934,4 +1935,3 @@ Revision 77, published 2026-11-23, valid until 2026-11-30. These are the only vi
 - owner-bulk-504575324c777057767951: Human review older than 14 days: owner-bulk-504575324c777057767951
 - owner-bulk-4a544d3348736e51446d6f: Human review older than 14 days: owner-bulk-4a544d3348736e51446d6f
 - owner-bulk-394c747839414850484459: Human review older than 14 days: owner-bulk-394c747839414850484459
-- owner-followup-uceyy7lakim: Human review older than 14 days: owner-followup-uceyy7lakim
