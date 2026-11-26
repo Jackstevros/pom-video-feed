@@ -2,15 +2,15 @@
 
 **All 1737 videos are already owner-approved. No video reapproval is requested.**
 
-- Ready for automatic daily recommendations, subject to publication checks: **1655**
-- Videos with specific unresolved facts or routing conflicts: **82**
+- Ready for automatic daily recommendations, subject to publication checks: **1656**
+- Videos with specific unresolved facts or routing conflicts: **85**
 - Metadata mode: LIVE_OFFICIAL_API
 
 Download [the editable exception CSV](video-classification-exceptions.csv). Start with QUICK_FACT_FIX rows: each needs just one equipment or level answer. Fill the answer columns and a short factual note. Leave unknown facts blank. You can also reply with the review numbers and answers. TECHNICAL_CHECK rows need automated availability/identity work rather than another owner approval. Equipment choices: NONE, MAT, BODYWEIGHT, DUMBBELLS, KETTLEBELLS, BANDS. Record multiple required items in notes; current single-equipment routing cannot safely collapse them into one.
 
 | Category | Approved | Ready | Exceptions |
 |---|---:|---:|---:|
-| BEGINNER_STRENGTH | 405 | 354 | 13 |
+| BEGINNER_STRENGTH | 405 | 353 | 14 |
 | STRENGTH_TRAINING | 696 | 636 | 30 |
 | PILATES | 204 | 198 | 3 |
 | COOK_ALONG_RECIPE | 20 | 4 | 16 |
@@ -18,7 +18,7 @@ Download [the editable exception CSV](video-classification-exceptions.csv). Star
 | GUIDED_RECOVERY | 28 | 20 | 0 |
 | RUNNER_FLEXIBILITY | 226 | 212 | 17 |
 | RUNNING_WARMUP | 4 | 3 | 1 |
-| YOGA | 138 | 138 | 1 |
+| YOGA | 138 | 137 | 2 |
 | INJURY_CARE | 0 | 6 | 0 |
 | PREGNANCY_EXERCISE | 0 | 24 | 1 |
 
@@ -35,6 +35,12 @@ Download [the editable exception CSV](video-classification-exceptions.csv). Star
 [Open this exact video](https://www.youtube.com/watch?v=pZ1Xzrh_els) · BEGINNER_STRENGTH · Already approved
 
 - **EQUIPMENT_CONFLICT**: The listed equipment conflicts with the creator description, or several items are required. Record all required equipment; do not choose a single item if several are necessary.
+
+### 83. 20 minute Lower Body Dumbbell LEGS & GLUTES Workout | Strength, Muscle & Tone 🔥
+
+[Open this exact video](https://www.youtube.com/watch?v=BQQ-fRCyUU8) · BEGINNER_STRENGTH · Already approved
+
+- **TECHNICAL_AVAILABILITY**: Published 2024-11-25, older than 2 years (exercise); technical recheck required, no content reapproval.
 
 ### 90. 20 minute Full Body Dumbbell Strength & Conditioning Workout
 
@@ -315,16 +321,10 @@ Download [the editable exception CSV](video-classification-exceptions.csv). Star
 
 - **TECHNICAL_AVAILABILITY**: Published 2024-11-03, older than 2 years (exercise); technical recheck required, no content reapproval.
 
-### 1005. HIIT Cardio Workout for fat loss - 20 Min No Equip No Repeats
+### 920. Restorative Yoga | Gratitude
 
-[Open this exact video](https://www.youtube.com/watch?v=9tvLB9sf_ic) · BEGINNER_STRENGTH · Already approved
+[Open this exact video](https://www.youtube.com/watch?v=iwK23fk8B1I) · YOGA · Already approved
 
-- **TECHNICAL_AVAILABILITY**: Published 2024-10-30, older than 2 years (exercise); technical recheck required, no content reapproval.
-
-### 1053. 20 minute Cardio + Abs Bodyweight Workout for Weight Loss & Fat Burn 🔥
-
-[Open this exact video](https://www.youtube.com/watch?v=AX0petlge70) · BEGINNER_STRENGTH · Already approved
-
-- **TECHNICAL_AVAILABILITY**: Published 2024-11-11, older than 2 years (exercise); technical recheck required, no content reapproval.
+- **TECHNICAL_AVAILABILITY**: Published 2024-11-23, older than 2 years (exercise); technical recheck required, no content reapproval.
 
 The CSV and JSON contain every exception; this page previews the first 50.

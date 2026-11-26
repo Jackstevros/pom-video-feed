@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T23:37:17.584Z",
+  "generatedAt": "2026-11-26T15:40:31.204Z",
   "sourceCommit": "6e6f17e4ed094454cf1f2355cd2f873b8c225704",
   "ownerApprovalComplete": true,
   "allApprovedCount": 1737,
   "metadataMode": "LIVE_OFFICIAL_API",
-  "readyCount": 1655,
-  "exceptionCount": 82,
+  "readyCount": 1656,
+  "exceptionCount": 85,
   "byCategory": {
     "BEGINNER_STRENGTH": {
       "approved": 405,
-      "ready": 354,
-      "exceptions": 13
+      "ready": 353,
+      "exceptions": 14
     },
     "STRENGTH_TRAINING": {
       "approved": 696,
@@ -50,8 +50,8 @@
     },
     "YOGA": {
       "approved": 138,
-      "ready": 138,
-      "exceptions": 1
+      "ready": 137,
+      "exceptions": 2
     },
     "INJURY_CARE": {
       "approved": 0,
@@ -124,6 +124,32 @@
           "conflict": true
         }
       ],
+      "answerEquipment": "",
+      "answerCategory": "",
+      "answerLevel": "",
+      "answerGeneralFollowAlong": "",
+      "answerNotes": "",
+      "recipeDetailsJson": ""
+    },
+    {
+      "reviewNumber": 83,
+      "priority": "TECHNICAL_CHECK",
+      "videoId": "BQQ-fRCyUU8",
+      "url": "https://www.youtube.com/watch?v=BQQ-fRCyUU8",
+      "title": "20 minute Lower Body Dumbbell LEGS & GLUTES Workout | Strength, Muscle & Tone 🔥",
+      "category": "BEGINNER_STRENGTH",
+      "ownerApproval": "ALREADY_APPROVED",
+      "listedEquipment": "DUMBBELLS",
+      "resolvedEquipment": "DUMBBELLS",
+      "level": "INTERMEDIATE",
+      "minutes": 23,
+      "blockers": [
+        {
+          "code": "TECHNICAL_AVAILABILITY",
+          "question": "Published 2024-11-25, older than 2 years (exercise); technical recheck required, no content reapproval."
+        }
+      ],
+      "equipmentEvidence": [],
       "answerEquipment": "",
       "answerCategory": "",
       "answerLevel": "",
@@ -1375,6 +1401,32 @@
       "recipeDetailsJson": ""
     },
     {
+      "reviewNumber": 920,
+      "priority": "TECHNICAL_CHECK",
+      "videoId": "iwK23fk8B1I",
+      "url": "https://www.youtube.com/watch?v=iwK23fk8B1I",
+      "title": "Restorative Yoga | Gratitude",
+      "category": "YOGA",
+      "ownerApproval": "ALREADY_APPROVED",
+      "listedEquipment": null,
+      "resolvedEquipment": "NONE",
+      "level": "INTERMEDIATE",
+      "minutes": 34,
+      "blockers": [
+        {
+          "code": "TECHNICAL_AVAILABILITY",
+          "question": "Published 2024-11-23, older than 2 years (exercise); technical recheck required, no content reapproval."
+        }
+      ],
+      "equipmentEvidence": [],
+      "answerEquipment": "",
+      "answerCategory": "",
+      "answerLevel": "",
+      "answerGeneralFollowAlong": "",
+      "answerNotes": "",
+      "recipeDetailsJson": ""
+    },
+    {
       "reviewNumber": 1005,
       "priority": "TECHNICAL_CHECK",
       "videoId": "9tvLB9sf_ic",
@@ -2451,6 +2503,41 @@
       "answerGeneralFollowAlong": "",
       "answerNotes": "",
       "recipeDetailsJson": ""
+    },
+    {
+      "reviewNumber": 4,
+      "priority": "QUICK_FACT_FIX",
+      "videoId": "C91QWqi8yGc",
+      "url": "https://www.youtube.com/watch?v=C91QWqi8yGc",
+      "title": "Intermediate Reformer with Resistance Band | 30 Mins",
+      "category": "BEGINNER_STRENGTH",
+      "ownerApproval": "ALREADY_APPROVED",
+      "listedEquipment": null,
+      "resolvedEquipment": null,
+      "level": "INTERMEDIATE",
+      "minutes": 34,
+      "blockers": [
+        {
+          "code": "EQUIPMENT",
+          "question": "What equipment is required: NONE, MAT, BODYWEIGHT, DUMBBELLS, KETTLEBELLS or BANDS? If multiple items or other equipment are required, record them in notes and keep held."
+        }
+      ],
+      "equipmentEvidence": [],
+      "answerEquipment": "",
+      "answerCategory": "",
+      "answerLevel": "",
+      "answerGeneralFollowAlong": "",
+      "answerNotes": "",
+      "recipeDetailsJson": "",
+      "ownerApprovalRef": "owner-bulk-video-approval-2026-11-23"
+    }
+  ],
+  "additionalApprovals": [
+    {
+      "ref": "owner-bulk-video-approval-2026-11-23",
+      "approved": 4,
+      "ready": 3,
+      "held": 1
     }
   ],
   "strengthFollowup": {

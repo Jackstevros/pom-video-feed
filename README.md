@@ -1,6 +1,6 @@
 # POM approved videos
 
-Revision 81, published 2026-11-23, valid until 2026-11-30. These are the only videos the app can link to. The signed file the app reads is `approved-action-feed.signed.json`.
+Revision 82, published 2026-11-26, valid until 2026-12-03. These are the only videos the app can link to. The signed file the app reads is `approved-action-feed.signed.json`.
 
 ## Runner flexibility (235)
 
@@ -363,7 +363,7 @@ Revision 81, published 2026-11-23, valid until 2026-11-30. These are the only vi
 | [Relaxing yin yoga, no props](https://www.youtube.com/watch?v=QO8j6H6DrMA) | Yoga with Kassandra | 19 | 2025-12-22 | 2028-12-22 |
 | [Relaxing morning stretch](https://www.youtube.com/watch?v=hJ0Ol0mYLDI) | Yoga with Kassandra | 16 | 2025-12-15 | 2028-12-15 |
 
-## Beginner strength (379)
+## Beginner strength (380)
 
 | Video | Creator | Minutes | Published | Ages out |
 |---|---|---|---|---|
@@ -497,6 +497,7 @@ Revision 81, published 2026-11-23, valid until 2026-11-30. These are the only vi
 | [30-minute 30MIN Lower Body Strength & Power! 💥](https://www.youtube.com/watch?v=UpWTwUUO7w4) | Heather Robertson | 31 | 2025-06-22 | 2027-06-22 |
 | [30-minute 30MIN Full Body MetCon / Metabolic Conditioning Workout with Dumbbells](https://www.youtube.com/watch?v=IRt1Aadbe1A) | Heather Robertson | 31 | 2025-05-19 | 2027-05-19 |
 | [30-minute 30 MIN Full Body HIIT Workout (No Equipment)](https://www.youtube.com/watch?v=zBTz636KeMA) | Heather Robertson | 33 | 2026-07-13 | 2028-07-13 |
+| [30-minute 30 MIN Full Body Strength // Dumbbells Only Push Workout 💪🏻](https://www.youtube.com/watch?v=2NbL_byl370) | Heather Robertson | 34 | 2026-11-09 | 2028-11-09 |
 | [20-minute beginner full-body dumbbell workout](https://www.youtube.com/watch?v=zRayn_kDjZw) | Jessica Valant | 21 | 2026-01-05 | 2028-01-05 |
 | [25-minute 25 Minutes Strength & Endurance Bodyweight Combo | Level 4-5](https://www.youtube.com/watch?v=IdKRlPDRP1c) | Jordan Yeoh Fitness | 25 | 2026-06-27 | 2028-06-27 |
 | [25-minute 25 Minute No Intro Home Full Body Bodyweight Fartlek Intensity [Level 4]](https://www.youtube.com/watch?v=sotEYDlY7o8) | Jordan Yeoh Fitness | 25 | 2025-09-30 | 2027-09-30 |
@@ -551,7 +552,6 @@ Revision 81, published 2026-11-23, valid until 2026-11-30. These are the only vi
 | [20-minute 20 Minute Full Body No Equipment Workout to help you Lose Weight & Build Muscle 🔥](https://www.youtube.com/watch?v=7S-9GJ5q-Ic) | MrandMrsMuscle | 23 | 2024-12-02 | 2026-12-02 |
 | [20-minute 20 minute Full Body Dumbbell Strength Workout | Build Muscle & Tone 🔥](https://www.youtube.com/watch?v=86zP49itZ1o) | MrandMrsMuscle | 24 | 2026-08-24 | 2028-08-24 |
 | [20-minute 20 minute Upper Body & Abs Dumbbell Workout to Build, Strengthen & Tone Muscle](https://www.youtube.com/watch?v=AWG6Vj3OfmE) | MrandMrsMuscle | 23 | 2025-04-22 | 2027-04-22 |
-| [20-minute 20 minute Lower Body Dumbbell LEGS & GLUTES Workout | Strength, Muscle & Tone 🔥](https://www.youtube.com/watch?v=BQQ-fRCyUU8) | MrandMrsMuscle | 23 | 2024-11-25 | 2026-11-25 |
 | [20-minute 20 minute Upper Body & Abs Dumbbell Workout | Muscle, Strength & Toning 💪🏽](https://www.youtube.com/watch?v=CDv9Rt4yHFY) | MrandMrsMuscle | 23 | 2026-02-16 | 2028-02-16 |
 | [20-minute 20 minute Full Body ALL STANDING Workout to Build Muscle & Strength | NO EQUIPMENT!](https://www.youtube.com/watch?v=elGql7kQTeE) | MrandMrsMuscle | 23 | 2026-02-09 | 2028-02-09 |
 | [20-minute 20 minute Upper Body and Core Dumbbell Workout for Strength and Muscle Tone 💪🏽](https://www.youtube.com/watch?v=EpUx3MTjZR4) | MrandMrsMuscle | 23 | 2025-02-10 | 2027-02-10 |
@@ -719,6 +719,7 @@ Revision 81, published 2026-11-23, valid until 2026-11-30. These are the only vi
 | [25-minute 25 Minute STRENGTH & SWEAT Workout | Joe Wicks Workouts](https://www.youtube.com/watch?v=gJglVvymNNM) | The Body Coach TV by Joe Wicks | 25 | 2026-10-18 | 2028-10-18 |
 | [20-minute 20 Minute Strength & Cardio | Joe Wicks Workouts](https://www.youtube.com/watch?v=hWGKj8jbzmg) | The Body Coach TV by Joe Wicks | 22 | 2026-07-26 | 2028-07-26 |
 | [20-minute 20 Minute FAT BURNING HIIT | Joe Wicks Workouts](https://www.youtube.com/watch?v=jG1EpMLceao) | The Body Coach TV by Joe Wicks | 22 | 2026-07-05 | 2028-07-05 |
+| [20-minute 20 minutes Strength Training for Runners (No Equipment)](https://www.youtube.com/watch?v=AQafli6lQTk) | The Running Dutchman | 23 | 2025-12-13 | 2027-12-13 |
 | [20-minute 20 Minute Full Body Dumbbell Workout (Supersets)](https://www.youtube.com/watch?v=cV-G5nB9j_s) | TIFF x DAN | 24 | 2026-07-06 | 2028-07-06 |
 | [30-minute 30 Min Full Body Strength Training at Home with Dumbbells](https://www.youtube.com/watch?v=gsPbQYLP9_4) | TIFF x DAN | 34 | 2025-12-26 | 2027-12-26 |
 | [30-minute 30 Min Full Body Strength & Abs – Dumbbell Workout at Home | 4x5 Method](https://www.youtube.com/watch?v=tTY5QlwqtQc) | TIFF x DAN | 35 | 2025-10-06 | 2027-10-06 |
@@ -747,7 +748,7 @@ Revision 81, published 2026-11-23, valid until 2026-11-30. These are the only vi
 | [30-minute 30 Min Full Body Deep Stretch | Release Stress & Tension](https://www.youtube.com/watch?v=rXymddIGGew) | Travis Eliot | 33 | 2026-09-12 | 2028-09-12 |
 | [Yoga Pilates full-body strength](https://www.youtube.com/watch?v=2_Z8usjTflU) | Yoga with Kassandra | 32 | 2026-05-11 | 2028-05-11 |
 
-## Strength plan sessions (754)
+## Strength plan sessions (755)
 
 | Video | Creator | Minutes | Published | Ages out |
 |---|---|---|---|---|
@@ -1231,6 +1232,7 @@ Revision 81, published 2026-11-23, valid until 2026-11-30. These are the only vi
 | [12-minute 12 Minute Tricep Workout at Home with Dumbbells](https://www.youtube.com/watch?v=SRYUm74HtoQ) | Oliver Sjostrom | 12 | 2026-04-09 | 2028-04-09 |
 | [12-minute 12 Min Intense Six Pack Abs Workout (No Equipment)](https://www.youtube.com/watch?v=T4PCfh3yGWs) | Oliver Sjostrom | 13 | 2026-08-06 | 2028-08-06 |
 | [40-minute 40 Min Full Body Dumbbell Workout at Home to Build Muscle](https://www.youtube.com/watch?v=ymlMBXdBqgU) | Oliver Sjostrom | 44 | 2026-06-18 | 2028-06-18 |
+| [20-minute 20 Min COMPLETE UPPER BODY Workout With Dumbbells - Chest, Shoulders, Arms & Back (Build Muscle)](https://www.youtube.com/watch?v=QJ9lptZWRDE) | Oliver Sjostrom | 23 | 2026-11-04 | 2028-11-04 |
 | [20 Min Full Body Workout - Cardio & Strength - No Jumping, No Equipment, No Repeat](https://www.youtube.com/watch?v=4jVAZJ3Xg_M) | Oliver Sjostrom | 21 | 2025-03-31 | 2027-03-31 |
 | [20 Min Full Body Workout - Build Strength & Burn Fat At Home (No Equipment + No Jumping)](https://www.youtube.com/watch?v=ADc8TaxAVMU) | Oliver Sjostrom | 22 | 2025-01-06 | 2027-01-06 |
 | [30 Minute Lower Body & Abs Workout With Dumbbells](https://www.youtube.com/watch?v=6FQBPWCVqI8) | Oliver Sjostrom | 34 | 2025-12-15 | 2027-12-15 |
@@ -1506,7 +1508,7 @@ Revision 81, published 2026-11-23, valid until 2026-11-30. These are the only vi
 | [20-Minute Kettlebell Workout | 30 sec Work/Rest | No Repeat](https://www.youtube.com/watch?v=yFhZiZvkits) | Vadim Kettlebell | 22 | 2025-08-22 | 2027-08-22 |
 | [Squat Workout For Bigger Butt and Stronger Legs!!!](https://www.youtube.com/watch?v=FOjEVQpnqH0) | Women's Workout Channel | 16 | 2025-01-29 | 2027-01-29 |
 
-## Yoga (144)
+## Yoga (143)
 
 | Video | Creator | Minutes | Published | Ages out |
 |---|---|---|---|---|
@@ -1582,7 +1584,6 @@ Revision 81, published 2026-11-23, valid until 2026-11-30. These are the only vi
 | [10-minute Wake Up  | Gentle 10 Minute Morning Yoga](https://www.youtube.com/watch?v=g6DdOHaAmSQ) | Yoga With Adriene | 11 | 2026-05-19 | 2028-05-19 |
 | [Yoga For When You Are Spiraling](https://www.youtube.com/watch?v=HVITxjrNlts) | Yoga With Adriene | 26 | 2025-04-08 | 2027-04-08 |
 | [Yoga for Your Core | Hands Free](https://www.youtube.com/watch?v=hXyGoxWgZK0) | Yoga With Adriene | 16 | 2025-02-22 | 2027-02-22 |
-| [Restorative Yoga | Gratitude](https://www.youtube.com/watch?v=iwK23fk8B1I) | Yoga With Adriene | 34 | 2024-11-23 | 2026-11-23 |
 | [20-minute Early Morning Yoga and Meditation - 20 Minute Yoga Practice](https://www.youtube.com/watch?v=mMSsHji8LDA) | Yoga With Adriene | 21 | 2025-11-11 | 2027-11-11 |
 | [Yoga for Neck Hump | Upper Spine Posture](https://www.youtube.com/watch?v=n1E8aTKJmVg) | Yoga With Adriene | 28 | 2026-03-10 | 2028-03-10 |
 | [30-minute Flow Into Stillness | 30 Minute Yoga Practice](https://www.youtube.com/watch?v=PeWuJY7J2Gs) | Yoga With Adriene | 31 | 2025-05-20 | 2027-05-20 |
