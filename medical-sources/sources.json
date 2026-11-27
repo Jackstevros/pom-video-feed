@@ -1015,49 +1015,49 @@
   "trainingInjuryProjection": [
     {
       "id": "videbaek2015",
-      "citation": "Videbæk et al. 2015 · Running injuries per 1,000 h (meta-analysis)",
+      "citation": "Videbæk et al. 2015 · Sports Medicine · running injuries per 1,000 h",
       "url": "https://doi.org/10.1007/s40279-015-0333-8",
       "claim": "Recreational runners: 7.7 running-related injuries per 1,000 h of running (95% CI 6.9–8.7). Used as the running base rate."
     },
     {
       "id": "frandsen2025",
-      "citation": "Frandsen et al. 2025 · Single-run distance spikes, 5,200 runners (BJSM)",
+      "citation": "Frandsen et al. 2025 · BJSM · single-run spikes, 5,200 runners",
       "url": "https://doi.org/10.1136/bjsports-2024-109380",
       "claim": "A run >10–30%, >30–100% or >100% longer than the longest run of the previous 30 days had injury-rate ratios of 1.64, 1.52 and 2.28."
     },
     {
       "id": "nielsen2014",
-      "citation": "Nielsen et al. 2014 · Weekly running-distance progression (JOSPT)",
+      "citation": "Nielsen et al. 2014 · JOSPT · weekly distance progression",
       "url": "https://vbn.aau.dk/da/publications/excessive-progression-in-weekly-running-distance-and-risk-of-runn",
       "claim": "Weekly distance up >30%: hazard ratio 1.59 (95% CI 0.96–2.66), not statistically significant. Used as weaker evidence."
     },
     {
       "id": "ramskov2018",
-      "citation": "Ramskov et al. 2018 · Run Clever: intensity vs volume progression",
+      "citation": "Ramskov et al. 2018 · Run Clever · intensity vs volume progression",
       "url": "https://doi.org/10.1136/bmjsem-2017-000333",
       "claim": "Progressing running intensity did not injure more runners than progressing volume, so pace and intensity are flagged but not counted."
     },
     {
       "id": "fallon2025",
-      "citation": "Fallon et al. 2025 · Injury in professional cycling, per 1,000 h",
+      "citation": "Fallon et al. 2025 · Sports · injury in professional cycling",
       "url": "https://doi.org/10.3390/sports13010020",
       "claim": "Professional road cyclists, training: 1.23 injuries per 1,000 h (95% CI 0.8–1.7). Used as the cycling base rate."
     },
     {
       "id": "serafim2023",
-      "citation": "Serafim et al. 2023 · Injury incidence in resistance training (systematic review)",
+      "citation": "Serafim et al. 2023 · injury incidence in resistance training",
       "url": "https://doi.org/10.1186/s13018-023-03781-x",
       "claim": "Resistance-training injury incidence ranged from 0.21 to 18.9 per 1,000 h; traditional strength training was the safest form. KORD uses 1 per 1,000 h."
     },
     {
       "id": "lauersen2018",
-      "citation": "Lauersen et al. 2018 · Strength training and injury prevention (meta-analysis)",
+      "citation": "Lauersen et al. 2018 · BJSM · strength training to prevent injuries",
       "url": "https://doi.org/10.1136/bjsports-2018-099078",
       "claim": "More strength-training volume was linked to fewer sports injuries, so more strength training does not raise the projection."
     },
     {
       "id": "sein2010",
-      "citation": "Sein et al. 2010 · Swim volume and shoulder tendinopathy (BJSM)",
+      "citation": "Sein et al. 2010 · BJSM · swim volume and shoulder tendinopathy",
       "url": "https://doi.org/10.1136/bjsm.2008.047282",
       "claim": "Hours and distance swum per week correlated with supraspinatus tendinopathy in elite swimmers. No per-hour injury rate, so swimming shows load flags only."
     }

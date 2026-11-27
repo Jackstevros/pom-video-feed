@@ -339,14 +339,14 @@ Shown at the top of an appointment's questions. POM compares the last 2 weeks of
 
 The chance of an overuse injury over the next 28 days on the Training plan screen: 1 − exp(−rate × hours), with a run's hours multiplied by the published ratio when it is more than 10% longer than the longest run of the previous 30 days, or its week's mileage rises over 30%. A population average, not a personal prediction.
 
-- Recreational runners: 7.7 running-related injuries per 1,000 h of running (95% CI 6.9–8.7). Used as the running base rate. — [Videbæk et al. 2015 · Running injuries per 1,000 h (meta-analysis)](https://doi.org/10.1007/s40279-015-0333-8)
-- A run >10–30%, >30–100% or >100% longer than the longest run of the previous 30 days had injury-rate ratios of 1.64, 1.52 and 2.28. — [Frandsen et al. 2025 · Single-run distance spikes, 5,200 runners (BJSM)](https://doi.org/10.1136/bjsports-2024-109380)
-- Weekly distance up >30%: hazard ratio 1.59 (95% CI 0.96–2.66), not statistically significant. Used as weaker evidence. — [Nielsen et al. 2014 · Weekly running-distance progression (JOSPT)](https://vbn.aau.dk/da/publications/excessive-progression-in-weekly-running-distance-and-risk-of-runn)
-- Progressing running intensity did not injure more runners than progressing volume, so pace and intensity are flagged but not counted. — [Ramskov et al. 2018 · Run Clever: intensity vs volume progression](https://doi.org/10.1136/bmjsem-2017-000333)
-- Professional road cyclists, training: 1.23 injuries per 1,000 h (95% CI 0.8–1.7). Used as the cycling base rate. — [Fallon et al. 2025 · Injury in professional cycling, per 1,000 h](https://doi.org/10.3390/sports13010020)
-- Resistance-training injury incidence ranged from 0.21 to 18.9 per 1,000 h; traditional strength training was the safest form. KORD uses 1 per 1,000 h. — [Serafim et al. 2023 · Injury incidence in resistance training (systematic review)](https://doi.org/10.1186/s13018-023-03781-x)
-- More strength-training volume was linked to fewer sports injuries, so more strength training does not raise the projection. — [Lauersen et al. 2018 · Strength training and injury prevention (meta-analysis)](https://doi.org/10.1136/bjsports-2018-099078)
-- Hours and distance swum per week correlated with supraspinatus tendinopathy in elite swimmers. No per-hour injury rate, so swimming shows load flags only. — [Sein et al. 2010 · Swim volume and shoulder tendinopathy (BJSM)](https://doi.org/10.1136/bjsm.2008.047282)
+- Recreational runners: 7.7 running-related injuries per 1,000 h of running (95% CI 6.9–8.7). Used as the running base rate. — [Videbæk et al. 2015 · Sports Medicine · running injuries per 1,000 h](https://doi.org/10.1007/s40279-015-0333-8)
+- A run >10–30%, >30–100% or >100% longer than the longest run of the previous 30 days had injury-rate ratios of 1.64, 1.52 and 2.28. — [Frandsen et al. 2025 · BJSM · single-run spikes, 5,200 runners](https://doi.org/10.1136/bjsports-2024-109380)
+- Weekly distance up >30%: hazard ratio 1.59 (95% CI 0.96–2.66), not statistically significant. Used as weaker evidence. — [Nielsen et al. 2014 · JOSPT · weekly distance progression](https://vbn.aau.dk/da/publications/excessive-progression-in-weekly-running-distance-and-risk-of-runn)
+- Progressing running intensity did not injure more runners than progressing volume, so pace and intensity are flagged but not counted. — [Ramskov et al. 2018 · Run Clever · intensity vs volume progression](https://doi.org/10.1136/bmjsem-2017-000333)
+- Professional road cyclists, training: 1.23 injuries per 1,000 h (95% CI 0.8–1.7). Used as the cycling base rate. — [Fallon et al. 2025 · Sports · injury in professional cycling](https://doi.org/10.3390/sports13010020)
+- Resistance-training injury incidence ranged from 0.21 to 18.9 per 1,000 h; traditional strength training was the safest form. KORD uses 1 per 1,000 h. — [Serafim et al. 2023 · injury incidence in resistance training](https://doi.org/10.1186/s13018-023-03781-x)
+- More strength-training volume was linked to fewer sports injuries, so more strength training does not raise the projection. — [Lauersen et al. 2018 · BJSM · strength training to prevent injuries](https://doi.org/10.1136/bjsports-2018-099078)
+- Hours and distance swum per week correlated with supraspinatus tendinopathy in elite swimmers. No per-hour injury rate, so swimming shows load flags only. — [Sein et al. 2010 · BJSM · swim volume and shoulder tendinopathy](https://doi.org/10.1136/bjsm.2008.047282)
 
 ## All sources
 
