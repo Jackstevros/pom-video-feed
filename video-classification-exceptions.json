@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-26T19:18:19.027Z",
+  "generatedAt": "2026-11-27T16:53:59.120Z",
   "sourceCommit": "6e6f17e4ed094454cf1f2355cd2f873b8c225704",
   "ownerApprovalComplete": true,
   "allApprovedCount": 1737,
@@ -1190,7 +1190,7 @@
     },
     {
       "reviewNumber": 780,
-      "priority": "ROUTING_REVIEW",
+      "priority": "TECHNICAL_CHECK",
       "videoId": "BlE9pJqMbMk",
       "url": "https://www.youtube.com/watch?v=BlE9pJqMbMk",
       "title": "How to Instantly Improve Your Flexibility!",
@@ -1204,6 +1204,10 @@
         {
           "code": "FOLLOW_ALONG",
           "question": "Confirm whether this is a general follow-along session or an educational reference. If follow-along, set generalFollowAlong=true with a short note."
+        },
+        {
+          "code": "TECHNICAL_AVAILABILITY",
+          "question": "Published 2024-11-26, older than 2 years (exercise); technical recheck required, no content reapproval."
         }
       ],
       "equipmentEvidence": [],

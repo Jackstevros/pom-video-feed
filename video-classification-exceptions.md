@@ -277,6 +277,7 @@ Download [the editable exception CSV](video-classification-exceptions.csv). Star
 [Open this exact video](https://www.youtube.com/watch?v=BlE9pJqMbMk) · RUNNER_FLEXIBILITY · Already approved
 
 - **FOLLOW_ALONG**: Confirm whether this is a general follow-along session or an educational reference. If follow-along, set generalFollowAlong=true with a short note.
+- **TECHNICAL_AVAILABILITY**: Published 2024-11-26, older than 2 years (exercise); technical recheck required, no content reapproval.
 
 ### 795. Fix Your Ankle Pain! [Ankle Pain Relief Exercises At Home]
 
